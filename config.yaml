@@ -1,0 +1,90 @@
+# ==============================================================================
+# CONFIGURACIÓN DEL BUSCADOR DE PROPIEDADES - MENDOZA
+# ==============================================================================
+
+search:
+  # ----------------------------------------------------------------------------
+  # CATEGORÍA A: CRITERIOS EXCLUYENTES (Filtro estricto)
+  # Si no cumple con esto, se descarta automáticamente sin costo de IA.
+  # ----------------------------------------------------------------------------
+  locations:
+    primary:
+      - "Mendoza"       # Ciudad / Capital
+    secondary:
+      - "Godoy Cruz"
+      - "Guaymallen"
+      - "Las Heras"
+
+  property_types:
+    - "departamento"
+    - "casa"
+
+  budget:
+    total_available_usd: 120000
+    # Margen de contraoferta (10%): propiedades hasta $132.000 se evalúan
+    # para analizar si por antigüedad o urgencia se puede negociar a $120.000
+    negotiation_margin_pct: 10
+    max_search_price_usd: 132000
+
+  # ----------------------------------------------------------------------------
+  # CATEGORÍA B: VALORES DESEADOS CON TOLERANCIA
+  # No excluyen, pero otorgan mayor o menor puntaje base.
+  # ----------------------------------------------------------------------------
+  surface:
+    target_m2: 50
+    min_m2_acceptable: 40  # Margen de tolerancia (ej: 45m2 califica con penalización leve)
+
+  # ----------------------------------------------------------------------------
+  # CATEGORÍA C: CARACTERÍSTICAS MUY DESEABLES (Puntos extra en el Score 0-100)
+  # La IA analiza el texto y ficha técnica buscando estas condiciones.
+  # ----------------------------------------------------------------------------
+  features:
+    security_gated_community:
+      name: "Seguridad / Barrio Privado"
+      weight: 20
+      description: "En caso de casa: barrio privado, cerrado o seguridad 24hs"
+    gas_network:
+      name: "Red de Gas Natural"
+      weight: 20
+      description: "Conexión a gas natural de red (clave en Mendoza)"
+    parking:
+      name: "Cochera"
+      weight: 20
+      description: "Cochera cubierta o descubierta propia"
+    two_bathrooms:
+      name: "Dos o más baños"
+      weight: 15
+      description: "Al menos 2 baños completos o baño + toilette"
+    top_floor:
+      name: "Último piso (Dpto)"
+      weight: 15
+      description: "Último piso en caso de departamentos"
+
+# ------------------------------------------------------------------------------
+# PORTALES A MONITOREAR
+# ------------------------------------------------------------------------------
+portals:
+  mercadolibre:
+    enabled: true
+    label: "Mercado Libre Inmuebles"
+  inmoclick:
+    enabled: true
+    label: "Inmoclick Mendoza (Portal #1 local en Cuyo)"
+  zonaprop:
+    enabled: true
+    label: "Zonaprop"
+  argenprop:
+    enabled: true
+    label: "Argenprop"
+
+# ------------------------------------------------------------------------------
+# NOTIFICACIONES POR EMAIL
+# ------------------------------------------------------------------------------
+notifications:
+  email:
+    enabled: false              # Cambiar a true cuando se configuren las credenciales
+    smtp_server: "smtp.gmail.com"
+    smtp_port: 587
+    sender_email: ""            # Tu correo Gmail remitente
+    sender_app_password: ""     # Contraseña de aplicación de Google (16 letras)
+    recipient_email: ""         # Correo donde quieres recibir el reporte diario

@@ -1,0 +1,15 @@
+# Entornos virtuales
+.venv/
+env/
+venv/
+
+# Secretos y credenciales
+.env
+
+# Archivos de Python compilados
+__pycache__/
+*.pyc
+
+# Temporales del sistema
+.DS_Store
+Thumbs.db
