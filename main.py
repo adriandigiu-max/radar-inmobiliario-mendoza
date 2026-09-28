@@ -179,8 +179,14 @@ def run_pipeline():
         logger.warning(f"No se pudo generar Excel: {e}")
 
     # Generar y guardar vista previa HTML del reporte
-    top_opportunities = evaluated_opportunities[:15]  # Top 15 mejores
-    html_report = generate_email_html(top_opportunities, search_cfg)
+    email_cfg = config.get("notifications", {}).get("email", {})
+    app_url = email_cfg.get("app_url", "https://radar-inmobiliario-mendoza.streamlit.app")
+    html_report = generate_email_html(
+        opportunities=evaluated_opportunities,
+        search_summary=search_cfg,
+        app_url=app_url,
+        total_found=len(evaluated_opportunities)
+    )
     html_path = data_dir / "latest_report.html"
     with open(html_path, "w", encoding="utf-8") as f:
         f.write(html_report)

@@ -82,9 +82,10 @@ portals:
 # ------------------------------------------------------------------------------
 notifications:
   email:
-    enabled: false
+    enabled: true
     smtp_server: "smtp.gmail.com"
     smtp_port: 587
-    sender_email: ""
-    sender_app_password: ""
-    recipient_email: ""
+    sender_email: "adriandigiu@gmail.com"
+    sender_app_password: ""  # Se carga desde .env o variable de entorno SMTP_APP_PASSWORD
+    recipient_email: "flordigiu@gmail.com"
+    app_url: "https://radar-inmobiliario-mendoza.streamlit.app"
