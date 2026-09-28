@@ -90,7 +90,29 @@ def run_pipeline():
 
     logger.info(f"Propiedades que superaron Categoría A: {len(valid_properties)} (Descartadas: {discarded_count})")
 
-    # 3. Categoría B (Scoring de tolerancia) y Categoría C (Evaluación IA)
+    # 2b. Verificación Geográfica por GPS (Nominatim / OpenStreetMap)
+    # Confirma que las coordenadas GPS del aviso corresponden realmente a la zona permitida.
+    logger.info("Verificando coordenadas GPS de cada propiedad (Nominatim)...")
+    geo_verified = []
+    geo_rejected = 0
+    from analyzer.geo_verifier import verify_zone_by_coordinates
+    for prop in valid_properties:
+        geo_result = verify_zone_by_coordinates(prop)
+        if geo_result["is_valid_zone"]:
+            prop["geo_verification"] = geo_result
+            geo_verified.append(prop)
+        else:
+            geo_rejected += 1
+            safe_title = prop.get('title', '')[:60].encode('ascii', 'replace').decode('ascii')
+            safe_reason = geo_result['rejection_reason'].encode('ascii', 'replace').decode('ascii')
+            logger.info(
+                f"  Descartado GPS: [{prop.get('location_zone')}] {safe_title} -> {safe_reason}"
+            )
+
+    logger.info(f"Verificación GPS: {len(geo_verified)} válidas, {geo_rejected} descartadas por zona incorrecta.")
+    valid_properties = geo_verified
+
+
     logger.info("Evaluando oportunidades (Categoría B y Categoría C con IA)...")
     evaluated_opportunities = []
     api_key = config.get("gemini_api_key")

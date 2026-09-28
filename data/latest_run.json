@@ -18,6 +18,13 @@
       "lat": "-32.8820692",
       "lng": "-68.834876"
     },
+    "geo_verification": {
+      "is_valid_zone": true,
+      "real_city": "Ciudad De Mendoza",
+      "real_neighborhood": null,
+      "rejection_reason": null,
+      "geocode_verified": true
+    },
     "category_b_metrics": {
       "price_score": 98.9,
       "price_status": "DENTRO_PRESUPUESTO",
@@ -53,33 +60,40 @@
     }
   },
   {
-    "id": "inmoclick_299080_432",
+    "id": "inmoclick_17515_19363",
     "portal": "Inmoclick",
-    "title": "Metropolitano, ofrece a la venta, hermosa casa en planta baja, ubicada sobre calle Allayme, dentro del Complejo cerrado Valle Grande (portón con control remoto) . APTA CREDITO HIPOTECARIO",
+    "title": "VENTA CASA 5 AMBIENTES ALTO DORREGO MENDOZA",
     "property_type": "casa",
-    "price_usd": 75000.0,
-    "surface_m2": 150.0,
-    "surface_total_m2": 217.0,
-    "surface_covered_m2": 150.0,
+    "price_usd": 135000.0,
+    "surface_m2": 170.0,
+    "surface_total_m2": 240.0,
+    "surface_covered_m2": 170.0,
     "bathrooms": 2,
     "has_parking_attribute": true,
     "location_zone": "Mendoza",
-    "url": "https://www.inmoclick.com.ar/299080-re-max-metropolitano/inmuebles/432/ficha/casa-en-venta-en-allayme-2900",
+    "url": "https://www.inmoclick.com.ar/17515-remax-solutions/inmuebles/19363/ficha/casa-en-venta-en-zeballos-500",
     "image_url": "https://www.inmoclick.com.ar/bundles/inmoclick/images/v14.6/empty-photo-box.jpg",
-    "description": "Metropolitano, ofrece a la venta, hermosa casa en planta baja, ubicada sobre calle Allayme, dentro del Complejo cerrado Valle Grande (portón con control remoto) . APTA CREDITO HIPOTECARIO\n\nCasa en Barrio Cerrado, descripción\n\nCasa ubicada en un barrio cerrado tranquilo y seguro sobre calle Allayme, ideal para familia que busca confort, comodidad y calidad de vida.\n\nCuenta con 3 dormitorios:\n\n2 de ellos son amplios y luminosos, ambos con placares (uno de ellos tiene un espacio extra para escritorio)\nDormitorio matrimonial, en suite con hidromasaje, vestidor amplio, para mayor privacidad y espacio de guardado. \n\n\nEl corazón de la casa es la cocina comedor amplia e integrada, perfecta para el día a día y para recibir visitas. Desde ahí se accede directamente al patio con pileta y churrasquera, un espacio pensado para disfrutar al aire libre todo el año.\nTambién dispone de un amplio living comedor, independiente a la cocina comedor.\n\nAdemás tiene cochera techada y cerrada, para resguardar tu vehículo con seguridad dentro del barrio y espacio de guardado, que ayuda el orden de tu hogar.\n\nUn hogar listo para habitar, que combina funcionalidad, comodidad y el plus de vivir en un barrio cerrado.\nLa casa consta de 3 AA, 1 estufa a gas y 4 paneles eléctricos para calefaccionar.-\n\nEscribime y la visitamos.\n\n---",
+    "description": "VENTA CASA 5 AMBIENTES ALTO DORREGO MENDOZA\n\nPropiedad ubicada en zona estratégica de Alto Dorrego, sobre calle Zeballos, con una superficie total de 240 m² y 170m2 cubiertos que combinan espacios cubiertos e integrados. Construcción sólida del año 1993, diseñada con estilo clásico y terminaciones de alta calidad que incluyen ladrillo visto, madera de roble y tejas. Dato importante: Garita de seguridad comunitaria en la esquina.\n\nDistribución funcional con 5 ambientes que comprenden 3 habitaciones amplias, 2 baños completos, living comedor y cocina independiente. Destaca una habitación en suite con baño privado y placares empotrados de buenas dimensiones. Los espacios interiores se caracterizan por ser luminosos, ventilados y con conexión directa a sectores exteriores. Buenas acústica y silenciosa.\n\nEl jardín parquizado ofrece una Galería techada, parrilla, cochera pasante para 2 vehículos. La propiedad cuenta con servicios completos de agua, electricidad, gas, internet y desagüe cloacal. Clasificación apta para uso profesional, con estado de conservación muy bueno.\n\nCaracterísticas adicionales incluyen calefacción, cocina y lavadero integrados. Ubicación privilegiada con fácil acceso a servicios y conexiones hacia Ciudad, Godoy Cruz y Luján de Cuyo.\n\nConsulte por visitas y condiciones de venta.",
     "coordinates": {
-      "lat": "-32.8723856",
-      "lng": "-68.8033269"
+      "lat": "-32.9227724",
+      "lng": "-68.8357364"
+    },
+    "geo_verification": {
+      "is_valid_zone": true,
+      "real_city": "Departamento Guaymallén",
+      "real_neighborhood": "Distrito Dorrego",
+      "rejection_reason": null,
+      "geocode_verified": true
     },
     "category_b_metrics": {
-      "price_score": 100.0,
+      "price_score": 90.9,
       "price_status": "DENTRO_PRESUPUESTO",
       "surface_score": 100.0,
-      "surface_notes": "150 m2 (Cumple objetivo de 80 m2)",
-      "price_per_m2": 500.0
+      "surface_notes": "170 m2 (Cumple objetivo de 80 m2)",
+      "price_per_m2": 794.1
     },
     "analysis": {
-      "opportunity_score": 89.4,
+      "opportunity_score": 86.7,
       "evaluation_source": "heurística",
       "category_c": {
         "has_security": true,
@@ -94,537 +108,14 @@
         "summary": "Precio estándar de mercado."
       },
       "pros": [
-        "Dentro del presupuesto (USD 75,000)",
+        "Dentro del presupuesto (USD 135,000)",
         "🛡️ Cuenta con seguridad 24 hs / barrio privado",
         "🚗 Cuenta con cochera"
       ],
       "cons": [
         "Consultar conexión a red de gas natural"
       ],
-      "ai_summary": "Propiedad en Mendoza (casa) de 150.0 m2 a USD 75,000. Score: 89.4/100 (Con seguridad 24hs)."
-    }
-  },
-  {
-    "id": "inmoclick_274909_2082",
-    "portal": "Inmoclick",
-    "title": "El equipo de Re/max Follow a cargo del corredor inmobiliario Gustavo Silva CCPMI 1947, ofrece a la venta esta propiedad ubicada en el barrio privado \"Quinta Montaña\", lotes 5 y 6.",
-    "property_type": "casa",
-    "price_usd": 63000.0,
-    "surface_m2": 240.0,
-    "surface_total_m2": 1000.0,
-    "surface_covered_m2": 240.0,
-    "bathrooms": 2,
-    "has_parking_attribute": false,
-    "location_zone": "Mendoza",
-    "url": "https://www.inmoclick.com.ar/274909-remax-follow/inmuebles/2082/ficha/casa-en-venta-en-calle-lillo-0",
-    "image_url": "https://www.inmoclick.com.ar/bundles/inmoclick/images/v14.6/empty-photo-box.jpg",
-    "description": "El equipo de Re/max Follow a cargo del corredor inmobiliario Gustavo Silva CCPMI 1947, ofrece a la venta esta propiedad ubicada en el barrio privado \"Quinta Montaña\", lotes 5 y 6.\nEl barrio se ubica calle Lillo S/N, entre calles Buenos Vecinos y Milagros, del distrito Corralitos, departamento de Guaymallén, provincia de Mendoza.\n\nLa propiedad es ideal para inversión, es un espacio versátil que combina amplitud y confort.\nCompuesta por un salón con cocina integrada y dos privados, que ofrece múltiples posibilidades de uso, ya sea como vivienda o lugar de descanso de fin de semana, dos baños. \nCierre perimetral competo con portón corredizo.\nSe complementa con un entorno parquizado que invita a disfrutar del aire libre y una piscina ideal para relajarse o compartir momentos con familia o amigos.\nLos baños se encuentran en el exterior, lo que aporta practicidad para reuniones.\nUn espacio creativo para vivir y proyectar, pensado para quienes buscan funcionalidad, naturaleza y disfrute en un mismo espacio.\nPiscina de 7x 11 con veredín de atérmicos, equipo de filtrado completo, automatizado.\nPozo de agua a 30 metros de profundidad, bomba de agua 1hp, biodigestor, sistema de aguas grises.\nHermoso parquizado de gran variedad y churrasquera doble, total de 4 metros.\nServicios disponibles: Energía eléctrica incluida en las expensas, red de agua de pozo.\nEl barrio cuenta con seguridad las 24 horas del día, portería de ingreso, cámaras de vigilancia y rondines\n\nSuperficie total del terreno: 1.000 m2 aprox.\nPrecio de publicación de la propiedad: U$D 63.000 -\nExpensas por mes: $ 220.000 (dos terrenos)- \nPermuta por departamento en alguna zona de Villa Nueva, San José.\nAbiertos a escuchar de ofertas de compra!!\n\nBeneficio exclusivo a clientes Re/max:\nSi te falta hasta un 30% del valor de esta propiedad, te ofrecemos solicitar un préstamo \"Lendar\". Servicios disponibles para nuestros clientes.\nHace la simulación, copiando y pegando el link:",
-    "coordinates": {
-      "lat": "-32.86617895248",
-      "lng": "-68.710856437683"
-    },
-    "category_b_metrics": {
-      "price_score": 100.0,
-      "price_status": "DENTRO_PRESUPUESTO",
-      "surface_score": 100.0,
-      "surface_notes": "240 m2 (Cumple objetivo de 80 m2)",
-      "price_per_m2": 262.5
-    },
-    "analysis": {
-      "opportunity_score": 89.4,
-      "evaluation_source": "heurística",
-      "category_c": {
-        "has_security": true,
-        "has_gas_network": false,
-        "has_parking": true,
-        "has_elevator": false,
-        "two_bathrooms": true
-      },
-      "negotiation_analysis": {
-        "potential": "Alta",
-        "signals_detected": true,
-        "summary": "Señales de negociación/permuta detectadas en la publicación."
-      },
-      "pros": [
-        "Dentro del presupuesto (USD 63,000)",
-        "🛡️ Cuenta con seguridad 24 hs / barrio privado",
-        "🚗 Cuenta con cochera",
-        "💡 Publicación indica apertura a ofertas o permutas"
-      ],
-      "cons": [
-        "Consultar conexión a red de gas natural"
-      ],
-      "ai_summary": "Propiedad en Mendoza (casa) de 240.0 m2 a USD 63,000. Score: 89.4/100 (Con seguridad 24hs)."
-    }
-  },
-  {
-    "id": "inmoclick_1626_18658",
-    "portal": "Inmoclick",
-    "title": "CASA EN VENTA 4 AMBIENTES BARRIO PRIVADO VISTA OLIVA - MAIPU MENDOZA",
-    "property_type": "casa",
-    "price_usd": 89000.0,
-    "surface_m2": 110.0,
-    "surface_total_m2": 300.0,
-    "surface_covered_m2": 110.0,
-    "bathrooms": 2,
-    "has_parking_attribute": true,
-    "location_zone": "Godoy Cruz",
-    "url": "https://www.inmoclick.com.ar/1626-remax-excelencia/inmuebles/18658/ficha/casa-en-venta-en-tropero-sosa-1800",
-    "image_url": "https://www.inmoclick.com.ar/bundles/inmoclick/images/v14.6/empty-photo-box.jpg",
-    "description": "CASA EN VENTA 4 AMBIENTES BARRIO PRIVADO VISTA OLIVA - MAIPU MENDOZA\n\n Excelencia ofrece a la venta propiedad moderna de 125 m² ubicada en zona estratégica de Maipú, Mendoza. Construcción en seco del año 2023 con diseño contemporáneo y distribución funcional, ideal para familias que valoran espacios eficientes y confortables.\n\nLa vivienda desarrolla 110 m² cubiertos y 15 m² semicubiertos, emplazada en un terreno de 300 m² que permite amplias áreas verdes y potencial de expansión. Cuenta con dos habitaciones, una con vestidor, un baño completo y lavandería independiente con baño.\n\nCaracterísticas destacadas incluyen orientación sur, placard incorporado y excelente estado general. El living-comedor integrado genera una atmósfera luminosa y espaciosa, conectándose naturalmente con el jardín exterior.\n\nLa propiedad dispone de infraestructura de primer nivel: servicios de agua, electricidad, gas y cloacas, sistema de calefacción tradicional, seguridad perimetral y portal de ingreso con vigilancia las 24 hs. Incluye cochera techada, elemento diferencial para resguardo vehicular.\n\nZona con óptima conectividad, cercana a principales servicios urbanos. Inversión inmobiliaria con potencial de revalorización y excelente relación calidad-precio para el mercado mendocino actual.\n\nUbicación: Lote 30 de la manzana G.\n\n¡NO APTA PARA CREDITO HIPOTECARIO!\n\nNo dudes en contactarme para mayor información o coordinar una visita.",
-    "coordinates": {
-      "lat": "-32.996204946971",
-      "lng": "-68.724116691641"
-    },
-    "category_b_metrics": {
-      "price_score": 99.1,
-      "price_status": "DENTRO_PRESUPUESTO",
-      "surface_score": 99.0,
-      "surface_notes": "110 m2 (Cumple objetivo de 80 m2)",
-      "price_per_m2": 809.1
-    },
-    "analysis": {
-      "opportunity_score": 88.9,
-      "evaluation_source": "heurística",
-      "category_c": {
-        "has_security": true,
-        "has_gas_network": false,
-        "has_parking": true,
-        "has_elevator": false,
-        "two_bathrooms": true
-      },
-      "negotiation_analysis": {
-        "potential": "Estándar",
-        "signals_detected": false,
-        "summary": "Precio estándar de mercado."
-      },
-      "pros": [
-        "Dentro del presupuesto (USD 89,000)",
-        "🛡️ Cuenta con seguridad 24 hs / barrio privado",
-        "🚗 Cuenta con cochera"
-      ],
-      "cons": [
-        "Consultar conexión a red de gas natural"
-      ],
-      "ai_summary": "Propiedad en Godoy Cruz (casa) de 110.0 m2 a USD 89,000. Score: 88.9/100 (Con seguridad 24hs)."
-    }
-  },
-  {
-    "id": "inmoclick_237399_2",
-    "portal": "Inmoclick",
-    "title": "Dueño vende o permuta casona rústica en Barrio Santa Oliva, ideal para quien busca un refugio con carácter y amplios espacios al aire libre. La propiedad combina el encanto de los materiales tradicionales con comodidades prácticas: un gran living comedor con chimenea que invita a reuniones cálidas, cocina comedor con mesada de mármol y cocina industrial perfecta para cocinar a gusto, y ambientes funcionales como lavandería y depósito.",
-    "property_type": "casa",
-    "price_usd": 120000.0,
-    "surface_m2": 246.0,
-    "surface_total_m2": 1000.0,
-    "surface_covered_m2": 246.0,
-    "bathrooms": 2,
-    "has_parking_attribute": true,
-    "location_zone": "Godoy Cruz",
-    "url": "https://www.inmoclick.com.ar/237399-ignacio-roccato/inmuebles/2/ficha/casa-en-venta-en-ruta-82",
-    "image_url": "https://www.inmoclick.com.ar/bundles/inmoclick/images/v14.6/empty-photo-box.jpg",
-    "description": "Dueño vende o permuta casona rústica en Barrio Santa Oliva, ideal para quien busca un refugio con carácter y amplios espacios al aire libre. La propiedad combina el encanto de los materiales tradicionales con comodidades prácticas: un gran living comedor con chimenea que invita a reuniones cálidas, cocina comedor con mesada de mármol y cocina industrial perfecta para cocinar a gusto, y ambientes funcionales como lavandería y depósito.\n\nCaracterísticas principales:\n- 🛏️ 2 dormitorios\n- 🛁 2 baños (uno junto a cada dormitorio)\n- 🧭 246 m² cubiertos\n- 🌳 750 m² parquizados con diversos árboles\n- 🏊‍♂️ Pileta 3 x 6 m\n- 🌞 Gran galería para disfrutar al aire libre\n- 🔥 Churrasquera regulable\n- 🛡️ Seguridad 24 hs\n- ⚽ Plaza con juegos y cancha de fútbol dentro del barrio\n\nEl amplio parque arbolado y la pileta hacen de esta casa un escenario perfecto para actividades familiares y encuentros sociales; la galería y la churrasquera ofrecen un espacio exterior privilegiado todo el año. La distribución práctica —con baños junto a cada dormitorio— y la cocina equipada con mesada de mármol e instalación industrial aportan comodidad y funcionalidad.\n\nSe reciben casas en zona de Godoy Cruz por menor valor como parte de permuta. Para más información:",
-    "coordinates": {
-      "lat": "-33.031821769998345",
-      "lng": "-68.9666250938408"
-    },
-    "category_b_metrics": {
-      "price_score": 93.6,
-      "price_status": "DENTRO_PRESUPUESTO",
-      "surface_score": 100.0,
-      "surface_notes": "246 m2 (Cumple objetivo de 80 m2)",
-      "price_per_m2": 487.8
-    },
-    "analysis": {
-      "opportunity_score": 87.5,
-      "evaluation_source": "heurística",
-      "category_c": {
-        "has_security": true,
-        "has_gas_network": false,
-        "has_parking": true,
-        "has_elevator": false,
-        "two_bathrooms": true
-      },
-      "negotiation_analysis": {
-        "potential": "Alta",
-        "signals_detected": true,
-        "summary": "Señales de negociación/permuta detectadas en la publicación."
-      },
-      "pros": [
-        "Dentro del presupuesto (USD 120,000)",
-        "🛡️ Cuenta con seguridad 24 hs / barrio privado",
-        "🚗 Cuenta con cochera",
-        "💡 Publicación indica apertura a ofertas o permutas"
-      ],
-      "cons": [
-        "Consultar conexión a red de gas natural"
-      ],
-      "ai_summary": "Propiedad en Godoy Cruz (casa) de 246.0 m2 a USD 120,000. Score: 87.5/100 (Con seguridad 24hs)."
-    }
-  },
-  {
-    "id": "inmoclick_17515_20146",
-    "portal": "Inmoclick",
-    "title": "Casa de 3 dormitorios en un solo nivel, dentro del barrio privado Vista Oliva, sobre calle Tropero Sosa. Con 3 años de antigüedad y en excelente estado.",
-    "property_type": "casa",
-    "price_usd": 126000.0,
-    "surface_m2": 132.0,
-    "surface_total_m2": 307.0,
-    "surface_covered_m2": 132.0,
-    "bathrooms": 2,
-    "has_parking_attribute": true,
-    "location_zone": "Godoy Cruz",
-    "url": "https://www.inmoclick.com.ar/17515-remax-solutions/inmuebles/20146/ficha/casa-en-venta-en-barrio-vista-oliva-0",
-    "image_url": "https://www.inmoclick.com.ar/bundles/inmoclick/images/v14.6/empty-photo-box.jpg",
-    "description": "Casa de 3 dormitorios en un solo nivel, dentro del barrio privado Vista Oliva, sobre calle Tropero Sosa. Con 3 años de antigüedad y en excelente estado.\n\nLa propiedad se distribuye en living-comedor integrado a la cocina, dormitorio principal en suite con espacio para vestidor, dos dormitorios secundarios y baño completo. Hacia el patio, una galería con pérgola metálica conecta el interior con el exterior, donde se destaca la pileta de fibra de vidrio.\n\n**Características principales:**\n- 131,6 m² cubiertos sobre lote de 307,7 m²\n- 4 ambientes · 3 dormitorios · 2 baños\n- Dormitorio principal en suite con vestidor\n- Lavanderia\n- Pileta de fibra de vidrio \n- Galería con pérgola metálica\n- Patio de 160,3 m² con parrilla\n- Cochera para vehículo\n- Instalación 100% eléctrica\n- Dentro de barrio privado, con seguridad\n-Lote en manzana central\n\nIdeal para quienes buscan una casa terminada, con pileta propia y la tranquilidad de un barrio privado.\n**Consulta coordinamos una visita:**",
-    "coordinates": {
-      "lat": "-32.9899171",
-      "lng": "-68.7680635"
-    },
-    "category_b_metrics": {
-      "price_score": 92.5,
-      "price_status": "DENTRO_PRESUPUESTO",
-      "surface_score": 100.0,
-      "surface_notes": "132 m2 (Cumple objetivo de 80 m2)",
-      "price_per_m2": 954.5
-    },
-    "analysis": {
-      "opportunity_score": 87.2,
-      "evaluation_source": "heurística",
-      "category_c": {
-        "has_security": true,
-        "has_gas_network": false,
-        "has_parking": true,
-        "has_elevator": false,
-        "two_bathrooms": true
-      },
-      "negotiation_analysis": {
-        "potential": "Estándar",
-        "signals_detected": false,
-        "summary": "Precio estándar de mercado."
-      },
-      "pros": [
-        "Dentro del presupuesto (USD 126,000)",
-        "🛡️ Cuenta con seguridad 24 hs / barrio privado",
-        "🚗 Cuenta con cochera"
-      ],
-      "cons": [
-        "Consultar conexión a red de gas natural"
-      ],
-      "ai_summary": "Propiedad en Godoy Cruz (casa) de 132.0 m2 a USD 126,000. Score: 87.2/100 (Con seguridad 24hs)."
-    }
-  },
-  {
-    "id": "inmoclick_299080_463",
-    "portal": "Inmoclick",
-    "title": "Exclusiva vivienda en el prestigioso barrio privado Rincón de Mitre, en Maipú. Una propiedad moderna, funcional y con excelentes espacios de confort, ubicada en una zona de crecimiento sostenido y gran accesibilidad.",
-    "property_type": "casa",
-    "price_usd": 149000.0,
-    "surface_m2": 109.0,
-    "surface_total_m2": 371.0,
-    "surface_covered_m2": 109.0,
-    "bathrooms": 2,
-    "has_parking_attribute": true,
-    "location_zone": "Mendoza",
-    "url": "https://www.inmoclick.com.ar/299080-re-max-metropolitano/inmuebles/463/ficha/casa-en-venta-en-presidente-bartolome-mitre-1300",
-    "image_url": "https://www.inmoclick.com.ar/bundles/inmoclick/images/v14.6/empty-photo-box.jpg",
-    "description": "Exclusiva vivienda en el prestigioso barrio privado Rincón de Mitre, en Maipú. Una propiedad moderna, funcional y con excelentes espacios de confort, ubicada en una zona de crecimiento sostenido y gran accesibilidad.\n\nUbicación estratégica\nRincón de Mitre se encuentra rodeado de servicios esenciales y puntos clave de Maipú, con rápidas conexiones hacia Mendoza Capital. A pocos minutos se accede a:\n\nÁrea comercial y gastronómica de Maipú.\nCentros de salud y colegios de primer nivel.\nSupermercados, farmacias y servicios diarios.\nAccesos directos a Avenida Maza, Avenida Mitre y principales vías que conectan con Mendoza, facilitando traslados ágiles.\nCercanía a zonas turísticas típicas del departamento, como bodegas y espacios recreativos.\n\nDistribución de la vivienda\n\nPlanta baja\n\nCocina–comedor amplia, luminosa y de diseño funcional, con salida directa al patio.\nBaño de visitas.\nPatio con jardín, pileta y churrasquera, ideal para disfrutar encuentros al aire libre.\nCochera doble techada.\n\nPlanta alta\n\nDos dormitorios amplios y muy luminosos, ambos con placard.\nUno de ellos con espacio adicional para vestidor y/o escritorio.\nBaño principal de excelente diseño, amplio y con terminaciones de calidad.\n\nUna oportunidad única para vivir en un entorno seguro, privado y perfectamente ubicado, combinando comodidad, tranquilidad y cercanía a todo lo necesario.",
-    "coordinates": {
-      "lat": "-32.97574",
-      "lng": "-68.7580014"
-    },
-    "category_b_metrics": {
-      "price_score": 62.5,
-      "price_status": "REQUIERE_CONTRAOFERTA",
-      "surface_score": 98.7,
-      "surface_notes": "109 m2 (Cumple objetivo de 80 m2)",
-      "price_per_m2": 1367.0
-    },
-    "analysis": {
-      "opportunity_score": 77.8,
-      "evaluation_source": "heurística",
-      "category_c": {
-        "has_security": true,
-        "has_gas_network": false,
-        "has_parking": true,
-        "has_elevator": false,
-        "two_bathrooms": true
-      },
-      "negotiation_analysis": {
-        "potential": "Moderada",
-        "signals_detected": false,
-        "summary": "Precio estándar de mercado."
-      },
-      "pros": [
-        "🛡️ Cuenta con seguridad 24 hs / barrio privado",
-        "🚗 Cuenta con cochera"
-      ],
-      "cons": [
-        "Publicado en USD 149,000 (Requiere contraoferta del 6.4%)",
-        "Consultar conexión a red de gas natural"
-      ],
-      "ai_summary": "Propiedad en Mendoza (casa) de 109.0 m2 a USD 149,000. Score: 77.8/100 (Con seguridad 24hs)."
-    }
-  },
-  {
-    "id": "inmoclick_299080_469",
-    "portal": "Inmoclick",
-    "title": "CASA EN VENTA DE 6 AMBIENTES EN GENERAL GUTIERREZ, MENDOZA",
-    "property_type": "casa",
-    "price_usd": 52000.0,
-    "surface_m2": 351.0,
-    "surface_total_m2": 574.0,
-    "surface_covered_m2": 351.0,
-    "bathrooms": 2,
-    "has_parking_attribute": true,
-    "location_zone": "Mendoza",
-    "url": "https://www.inmoclick.com.ar/299080-re-max-metropolitano/inmuebles/469/ficha/casa-en-venta-en-adolfo-calle-200",
-    "image_url": "https://www.inmoclick.com.ar/bundles/inmoclick/images/v14.6/empty-photo-box.jpg",
-    "description": "CASA EN VENTA DE 6 AMBIENTES EN GENERAL GUTIERREZ, MENDOZA\n\nPropiedad de gran envergadura ubicada en zona estratégica de General Gutierrez, sobre calle Adolfo Calle. Construcción en crudo con distribución funcional que combina espacios amplios y versátiles para uso familiar o potencial inversión.\n\nDiseño arquitectónico desarrollado en 14 ambientes totales, con 351 m² sobre un terreno de 573.54 m². La propiedad cuenta con 6 habitaciones y 2 baños completos, garantizando comodidad y privacidad para núcleo familiar extenso.\n\nConstruida en 1980, la casa se encuentra en estado general bueno, con posibilidades de actualización y mejora. Destaca su distribución interior que incluye dormitorios, comedor, living, cocina, patio, lavadero, quincho y espacios de uso múltiple.\n\nServicios completos: agua corriente, electricidad, gas natural, internet y conexión a red cloacal. Incluye cochera para vehículo, agregando valor funcional a la propiedad.\n\nOportunidad de inversión inmobiliaria con potencial de desarrollo en una zona de crecimiento sostenido en Mendoza. Ideal para familias grandes, emprendimientos inmobiliarios o proyectos de ampliación.",
-    "coordinates": {
-      "lat": "-32.9649119",
-      "lng": "-68.7807051"
-    },
-    "category_b_metrics": {
-      "price_score": 100.0,
-      "price_status": "DENTRO_PRESUPUESTO",
-      "surface_score": 100.0,
-      "surface_notes": "351 m2 (Cumple objetivo de 80 m2)",
-      "price_per_m2": 148.1
-    },
-    "analysis": {
-      "opportunity_score": 61.5,
-      "evaluation_source": "heurística",
-      "category_c": {
-        "has_security": false,
-        "has_gas_network": true,
-        "has_parking": true,
-        "has_elevator": false,
-        "two_bathrooms": true
-      },
-      "negotiation_analysis": {
-        "potential": "Estándar",
-        "signals_detected": false,
-        "summary": "Precio estándar de mercado."
-      },
-      "pros": [
-        "Dentro del presupuesto (USD 52,000)",
-        "🔥 Red de gas natural confirmada",
-        "🚗 Cuenta con cochera"
-      ],
-      "cons": [
-        "⚠️ Sin seguridad 24 hs ni barrio privado (penalizado en puntaje)"
-      ],
-      "ai_summary": "Propiedad en Mendoza (casa) de 351.0 m2 a USD 52,000. Score: 61.5/100 (Penalizado por falta de seguridad 24hs)."
-    }
-  },
-  {
-    "id": "inmoclick_39165_137",
-    "portal": "Inmoclick",
-    "title": "Oportunidad Única en El Sauce: Tu Hogar Ideal Te Espera",
-    "property_type": "casa",
-    "price_usd": 85000.0,
-    "surface_m2": 265.0,
-    "surface_total_m2": 1008.0,
-    "surface_covered_m2": 265.0,
-    "bathrooms": 2,
-    "has_parking_attribute": true,
-    "location_zone": "Mendoza",
-    "url": "https://www.inmoclick.com.ar/39165-inmobiliaria-vilches/inmuebles/137/ficha/casa-en-venta-en-vargas-4950",
-    "image_url": "https://www.inmoclick.com.ar/bundles/inmoclick/images/v14.6/empty-photo-box.jpg",
-    "description": "Oportunidad Única en El Sauce: Tu Hogar Ideal Te Espera\n\nImagina vivir en un espacio que combina comodidad y funcionalidad, donde cada rincón está diseñado para brindarte felicidad y tranquilidad. Esta encantadora propiedad en Callejón Vargas es tu oportunidad de formar parte de un vecindario acogedor en Guaymallén. Con 265 m² de superficie total, esta casa de 19 años de antigüedad ha sido pensada para satisfacer todas tus necesidades.\n\nCon 5 ambientes, incluyendo 3 dormitorios y 2 baños, la distribución es perfecta para familias o profesionales que buscan un hogar donde cada día se sienta especial. El sector que anteriormente se utilizó como caballerizas ofrece un toque único y versatilidad, permitiendo que tu creatividad se desarrolle. Además, cuenta con una cocina equipada, un acogedor living y un comedor ideal para compartir momentos inolvidables con tus seres queridos.\n\nEl exterior no se queda atrás. Disfruta de un hermoso jardín y un patio donde las mascotas son bienvenidas. La propiedad también incluye 2 cocheras semicubiertas y un salón de usos múltiples, perfecto para reuniones y celebraciones. Su orientación este asegura que cada mañana sea iluminada por el sol, llenando tu hogar de energía positiva.\n\nCon servicios como agua corriente, gas natural, internet y calefacción, vivir aquí es sinónimo de confort y conectividad. Además, su ubicación en un barrio abierto con acceso a áreas verdes y una comunidad amigable te brindará la seguridad y pertenencia que siempre has deseado.\n\nNo dejes pasar esta oportunidad de adquirir un inmueble apto para crédito, con un precio de solo U$D85.000. La demanda es alta y las propiedades como esta son escasas. Contáctanos hoy mismo para programar tu visita y comenzar el camino hacia tu nuevo hogar. ¡El futuro que siempre soñaste está a solo una llamada de distancia!",
-    "coordinates": {
-      "lat": "-32.867748889052",
-      "lng": "-68.74183201734"
-    },
-    "category_b_metrics": {
-      "price_score": 99.8,
-      "price_status": "DENTRO_PRESUPUESTO",
-      "surface_score": 100.0,
-      "surface_notes": "265 m2 (Cumple objetivo de 80 m2)",
-      "price_per_m2": 320.8
-    },
-    "analysis": {
-      "opportunity_score": 61.4,
-      "evaluation_source": "heurística",
-      "category_c": {
-        "has_security": false,
-        "has_gas_network": true,
-        "has_parking": true,
-        "has_elevator": false,
-        "two_bathrooms": true
-      },
-      "negotiation_analysis": {
-        "potential": "Estándar",
-        "signals_detected": false,
-        "summary": "Precio estándar de mercado."
-      },
-      "pros": [
-        "Dentro del presupuesto (USD 85,000)",
-        "🔥 Red de gas natural confirmada",
-        "🚗 Cuenta con cochera"
-      ],
-      "cons": [
-        "⚠️ Sin seguridad 24 hs ni barrio privado (penalizado en puntaje)"
-      ],
-      "ai_summary": "Propiedad en Mendoza (casa) de 265.0 m2 a USD 85,000. Score: 61.4/100 (Penalizado por falta de seguridad 24hs)."
-    }
-  },
-  {
-    "id": "inmoclick_308921_34",
-    "portal": "Inmoclick",
-    "title": "FEMMESTATE ofrece duplex amplio y luminoso en Barrio Quintas de Gabrieli, excelente ubicación! Ingreso al barrio sobre calle Manuel A.Saenz.",
-    "property_type": "departamento",
-    "price_usd": 95000.0,
-    "surface_m2": 110.0,
-    "surface_total_m2": 110.0,
-    "surface_covered_m2": 110.0,
-    "bathrooms": 2,
-    "has_parking_attribute": true,
-    "location_zone": "Mendoza",
-    "url": "https://www.inmoclick.com.ar/308921-femmestate/inmuebles/34/ficha/departamento-en-venta-en-quintas-de-gabrielli-manuel-a-saenz-y-juan-jose-paso",
-    "image_url": "https://www.inmoclick.com.ar/bundles/inmoclick/images/v14.6/empty-photo-box.jpg",
-    "description": "FEMMESTATE ofrece duplex amplio y luminoso en Barrio Quintas de Gabrieli, excelente ubicación! Ingreso al barrio sobre calle Manuel A.Saenz.\nEntre calles Juan José paso y acceso sur.\nLa propiedad cuenta con tres dormitorios uno en planta baja y dos en la planta alta, uno de ellos con vestidor y el otro con salida a balcón, los tres se entregan con placares, dos baños completos, espacio de guardado debajo de la escalera, cocina semi integrada, living comedor, patio con churrasquera y cochera para un vehículo, complejo cerrado!\nSe entrega con aberturas de aluminio, pisos de cerámico de primera, pre instalación para calefacción por radiadores.\nEntrega a 60 días! Agosto 2026\n_Operación a cargo de la Corredora Pública Inmobiliaria Antonella Aloisio, Mat. N° 1.900 — Los agentes/gestores no ejercen el corretaje. Precios, expensas y descripciones son orientativos y sujetos a variación sin previo aviso. Consulte al corredor responsable para información actualizada_",
-    "coordinates": {
-      "lat": "-32.9543257",
-      "lng": "-68.8336719"
-    },
-    "category_b_metrics": {
-      "price_score": 98.0,
-      "price_status": "DENTRO_PRESUPUESTO",
-      "surface_score": 99.0,
-      "surface_notes": "110 m2 (Cumple objetivo de 80 m2)",
-      "price_per_m2": 863.6
-    },
-    "analysis": {
-      "opportunity_score": 60.6,
-      "evaluation_source": "heurística",
-      "category_c": {
-        "has_security": false,
-        "has_gas_network": true,
-        "has_parking": true,
-        "has_elevator": false,
-        "two_bathrooms": true
-      },
-      "negotiation_analysis": {
-        "potential": "Estándar",
-        "signals_detected": false,
-        "summary": "Precio estándar de mercado."
-      },
-      "pros": [
-        "Dentro del presupuesto (USD 95,000)",
-        "🔥 Red de gas natural confirmada",
-        "🚗 Cuenta con cochera"
-      ],
-      "cons": [
-        "⚠️ Sin seguridad 24 hs ni barrio privado (penalizado en puntaje)"
-      ],
-      "ai_summary": "Propiedad en Mendoza (departamento) de 110.0 m2 a USD 95,000. Score: 60.6/100 (Penalizado por falta de seguridad 24hs)."
-    }
-  },
-  {
-    "id": "inmoclick_18045_4",
-    "portal": "Inmoclick",
-    "title": "Dueña Vende Casa en Obra",
-    "property_type": "casa",
-    "price_usd": 125000.0,
-    "surface_m2": 120.0,
-    "surface_total_m2": 303.0,
-    "surface_covered_m2": 120.0,
-    "bathrooms": 2,
-    "has_parking_attribute": true,
-    "location_zone": "Godoy Cruz",
-    "url": "https://www.inmoclick.com.ar/18045-ana-garzon-roge/inmuebles/4/ficha/casa-en-venta-en-terrada-s-n",
-    "image_url": "https://www.inmoclick.com.ar/bundles/inmoclick/images/v14.6/empty-photo-box.jpg",
-    "description": "Dueña Vende Casa en Obra \r\n\r\n- 📍 Barrio: Lar de Terrada \r\n- 📐 Lote: 303 m² \r\n- 🏠 Superficie cubierta: 120 m² \r\n- 🌿 Galería techada: 20 m² \r\n- 🚗 Cochera (superficie): 30 m² — espacio para 2 autos (con pérgola) \r\n- 🛏️ Dormitorios: 3 (1 en suite con vestidor) \r\n- 🚿 Baños: 2 (ambos con antebaño) \r\n- 🛋️ Ambientes: living comedor, cocina, lavadero, patio de servicio y sala de máquinas \r\n- ♨️ Calefacción: por radiadores (presupuesto de colocación y caldera disponible) \r\n- 💧 Servicios y obras: tanque cisterna enterrado, agua, cloaca, pluviales, pozo de infiltración terminado \r\n- ⚡ Electricidad: instalación completa (sin cableado) \r\n- 🔧 Terminaciones exteriores e instalaciones: rallado exterior listo para pintar, revoques interiores terminados, goteros galvanizados colocados, membrana en cubierta, contrapisos interiores, veredines perimetrales, puentes vehicular y peatonal terminados, recuadre de aberturas \r\n- 🛠️ Gas: factibilidad de gas e inspecciones de gas y cañería realizadas \r\n- 📦 Extras disponibles: detalle y presupuesto de carpinterías, puertas interiores, mobiliario de cocina y placares\r\n\r\nDescripción:\r\nViva en una casa pensada para disfrutar el día a día con comodidad y posibilidades de personalización. La planta ofrece un living comedor luminoso conectado a una cocina funcional y a una galería techada de 20 m² ideal para reuniones y asados. La suite principal con vestidor brinda privacidad y confort; los dos baños con antebaño facilitan la vida familiar y de invitados. La cochera cubierta para dos autos, con pérgola —se entregan caños para perfilar según conveniencia— suma practicidad y estilo.\r\n\r\nLa propiedad llega con la estructura y las instalaciones principales resueltas: tanque enterrado, drenajes y pozos de infiltración, membrana de cubierta y todos los revoques listos, lo que reduce tiempos de obra. La factibilidad e inspecciones de gas están aprobadas y la instalación eléctrica está prevista (instalación completa sin cableado). Además dispone de presupuestos para carpinterías, muebles de cocina, placares y la instalación de radiadores y caldera, facilitando una puesta en marcha rápida y a medida.\r\n\r\nPrecio: U$D 125.000. Una oportunidad para comprar una casa con bases sólidas y terminarla acorde a su estilo.",
-    "coordinates": {
-      "lat": "-32.972913076252745",
-      "lng": "-68.83411472148218"
-    },
-    "category_b_metrics": {
-      "price_score": 92.7,
-      "price_status": "DENTRO_PRESUPUESTO",
-      "surface_score": 100.0,
-      "surface_notes": "120 m2 (Cumple objetivo de 80 m2)",
-      "price_per_m2": 1041.7
-    },
-    "analysis": {
-      "opportunity_score": 59.3,
-      "evaluation_source": "heurística",
-      "category_c": {
-        "has_security": false,
-        "has_gas_network": true,
-        "has_parking": true,
-        "has_elevator": false,
-        "two_bathrooms": true
-      },
-      "negotiation_analysis": {
-        "potential": "Estándar",
-        "signals_detected": false,
-        "summary": "Precio estándar de mercado."
-      },
-      "pros": [
-        "Dentro del presupuesto (USD 125,000)",
-        "🔥 Red de gas natural confirmada",
-        "🚗 Cuenta con cochera"
-      ],
-      "cons": [
-        "⚠️ Sin seguridad 24 hs ni barrio privado (penalizado en puntaje)"
-      ],
-      "ai_summary": "Propiedad en Godoy Cruz (casa) de 120.0 m2 a USD 125,000. Score: 59.3/100 (Penalizado por falta de seguridad 24hs)."
-    }
-  },
-  {
-    "id": "inmoclick_17515_18744",
-    "portal": "Inmoclick",
-    "title": "Vende propiedad ubicada en Calle Cordón del Plata y Acif N°2, Jesús Nazareno , Guaymallen.",
-    "property_type": "casa",
-    "price_usd": 44000.0,
-    "surface_m2": 80.0,
-    "surface_total_m2": 192.0,
-    "surface_covered_m2": 80.0,
-    "bathrooms": 2,
-    "has_parking_attribute": true,
-    "location_zone": "Mendoza",
-    "url": "https://www.inmoclick.com.ar/17515-remax-solutions/inmuebles/18744/ficha/casa-en-venta-en-cordon-del-plata-0",
-    "image_url": "https://www.inmoclick.com.ar/bundles/inmoclick/images/v14.6/empty-photo-box.jpg",
-    "description": "Vende propiedad ubicada en Calle Cordón del Plata y Acif N°2, Jesús Nazareno , Guaymallen.\nCasa esquina formada por cocina comedor, Lavandería, dos dormitorios ( el principal con baño en suite) mas una habitación tipo escritorio, dos baños completos, dos cocheras independientes con ingreso con portón por ambas calles, patio con galería.\nExcelente ubicación a 300 mts aproximados a calle 9 de julio y cercana a Elpidio González y Rodríguez Peña lo que permite rápida salida a la ciudad de Mendoza.\nTerreno 192,48 mts\nSuperficie construida 80mts\nAntigüedad 4 años \n Características\nAmplio mueble de cocina con mesada de granito alacena y bajo mesada\nPisos de cerámica\nDos baños completos \nAmplio patio\nTecho de losa lo que permite construir en la parte superior.\n\nLa casa posee ingreso por portón en las dos calles, Cordón del Plata y Acif N°2, x lo cual posee espacio para guardar varios vehículos o también poder hacer una construcción independiente en la parte superior con ingreso independiente.\nLa propiedad solo necesita pintura interna y externa y se entrega con 2 ventiladores de techo, 2 estufas tiro balanceado y termotanque.\nSe reciben ofertas con permuta de un departamento .\n\nEsperamos tu consulta o coordinar una visita.",
-    "coordinates": {
-      "lat": "-32.928069963388",
-      "lng": "-68.785221450453"
-    },
-    "category_b_metrics": {
-      "price_score": 100.0,
-      "price_status": "DENTRO_PRESUPUESTO",
-      "surface_score": 90.0,
-      "surface_notes": "80 m2 (Cumple objetivo de 80 m2)",
-      "price_per_m2": 550.0
-    },
-    "analysis": {
-      "opportunity_score": 59.0,
-      "evaluation_source": "heurística",
-      "category_c": {
-        "has_security": false,
-        "has_gas_network": true,
-        "has_parking": true,
-        "has_elevator": false,
-        "two_bathrooms": true
-      },
-      "negotiation_analysis": {
-        "potential": "Alta",
-        "signals_detected": true,
-        "summary": "Señales de negociación/permuta detectadas en la publicación."
-      },
-      "pros": [
-        "Dentro del presupuesto (USD 44,000)",
-        "🔥 Red de gas natural confirmada",
-        "🚗 Cuenta con cochera",
-        "💡 Publicación indica apertura a ofertas o permutas"
-      ],
-      "cons": [
-        "⚠️ Sin seguridad 24 hs ni barrio privado (penalizado en puntaje)"
-      ],
-      "ai_summary": "Propiedad en Mendoza (casa) de 80.0 m2 a USD 44,000. Score: 59.0/100 (Penalizado por falta de seguridad 24hs)."
+      "ai_summary": "Propiedad en Mendoza (casa) de 170.0 m2 a USD 135,000. Score: 86.7/100 (Con seguridad 24hs)."
     }
   },
   {
@@ -645,6 +136,13 @@
     "coordinates": {
       "lat": "-32.88744121953435",
       "lng": "-68.83488048260118"
+    },
+    "geo_verification": {
+      "is_valid_zone": true,
+      "real_city": "Ciudad De Mendoza",
+      "real_neighborhood": null,
+      "rejection_reason": null,
+      "geocode_verified": true
     },
     "category_b_metrics": {
       "price_score": 100.0,
@@ -699,6 +197,13 @@
       "lat": "-32.922184965481",
       "lng": "-68.847855090899"
     },
+    "geo_verification": {
+      "is_valid_zone": true,
+      "real_city": "Distrito Ciudad De Godoy Cruz",
+      "real_neighborhood": "Barrio Ypf",
+      "rejection_reason": null,
+      "geocode_verified": true
+    },
     "category_b_metrics": {
       "price_score": 98.0,
       "price_status": "DENTRO_PRESUPUESTO",
@@ -734,527 +239,6 @@
     }
   },
   {
-    "id": "inmoclick_17515_18716",
-    "portal": "Inmoclick",
-    "title": "CASA EN VENTA 4 AMBIENTES EL CHALLAO MENDOZA",
-    "property_type": "casa",
-    "price_usd": 143000.0,
-    "surface_m2": 160.0,
-    "surface_total_m2": 318.0,
-    "surface_covered_m2": 160.0,
-    "bathrooms": 2,
-    "has_parking_attribute": true,
-    "location_zone": "Mendoza",
-    "url": "https://www.inmoclick.com.ar/17515-remax-solutions/inmuebles/18716/ficha/casa-en-venta-en-circuito-el-challao-s-n-0",
-    "image_url": "https://www.inmoclick.com.ar/bundles/inmoclick/images/v14.6/empty-photo-box.jpg",
-    "description": "CASA EN VENTA 4 AMBIENTES EL CHALLAO MENDOZA\n\nDescubre tu refugio de montaña en El Challao, un oasis de tranquilidad a solo 10 minutos de la ciudad de Mendoza. Esta moderna casa de 180 m² construidos en 2018 combina diseño funcional con el encanto natural de la zona.\n\nDISTRIBUCIÓN ESPACIOSA\n\nPlanta Baja\n• Cocina moderna y amplia\n• Living con conexión al exterior\n• Dos habitaciones \n• Baño completo\n\nPlanta Alta\n• Gran habitación con baño privado\n• Terraza con impresionante vista panorámica\n• Versatilidad para usar como dormitorio principal, escritorio o playroom\n\n\nENTORNO PRIVILEGIADO\n\nEl Barrio La Yaya ofrece una propuesta única en la zona:\n• Pozo de agua propio\n• Calles completamente asfaltadas\n• Seguridad las 24 horas\n• Plaza infantil\n• Ambiente tranquilo de montaña\n\nSERVICIOS\n\n• Agua corriente\n• Electricidad\n• Gas natural\n• Jardín\n• Lavadero\n• Terraza\n\nVive la experiencia de habitar un espacio diseñado para disfrutar la paz de la montaña con todas las comodidades modernas. Una oportunidad única para quienes buscan un hogar con personalidad.\n\nLa información es orientativa y sujeta a verificación. los datos consignados pueden contener errores y no son contractuales\nLa propiedad se encuentra a cargo del profesional matriculado de la oficina, la intermediación y la conclusión de la operación serán llevadas exclusivamente por él. VICTOR E. MONTIVERO CCPIM 783\"E.",
-    "coordinates": {
-      "lat": "-32.859789570853",
-      "lng": "-68.912572862137"
-    },
-    "category_b_metrics": {
-      "price_score": 77.5,
-      "price_status": "REQUIERE_CONTRAOFERTA",
-      "surface_score": 100.0,
-      "surface_notes": "160 m2 (Cumple objetivo de 80 m2)",
-      "price_per_m2": 893.8
-    },
-    "analysis": {
-      "opportunity_score": 54.7,
-      "evaluation_source": "heurística",
-      "category_c": {
-        "has_security": false,
-        "has_gas_network": true,
-        "has_parking": true,
-        "has_elevator": false,
-        "two_bathrooms": true
-      },
-      "negotiation_analysis": {
-        "potential": "Moderada",
-        "signals_detected": false,
-        "summary": "Precio estándar de mercado."
-      },
-      "pros": [
-        "🔥 Red de gas natural confirmada",
-        "🚗 Cuenta con cochera"
-      ],
-      "cons": [
-        "Publicado en USD 143,000 (Requiere contraoferta del 2.1%)",
-        "⚠️ Sin seguridad 24 hs ni barrio privado (penalizado en puntaje)"
-      ],
-      "ai_summary": "Propiedad en Mendoza (casa) de 160.0 m2 a USD 143,000. Score: 54.7/100 (Penalizado por falta de seguridad 24hs)."
-    }
-  },
-  {
-    "id": "inmoclick_268429_2384",
-    "portal": "Inmoclick",
-    "title": "CASA A ESTRENAR EN UNA SOLA PLANTA, B° COVIART 1 (PRIVADO SE PAGAN EXPENSAS.)",
-    "property_type": "casa",
-    "price_usd": 105000.0,
-    "surface_m2": 73.0,
-    "surface_total_m2": 153.0,
-    "surface_covered_m2": 73.0,
-    "bathrooms": 1,
-    "has_parking_attribute": true,
-    "location_zone": "Mendoza",
-    "url": "https://www.inmoclick.com.ar/268429-re-max-vendimia/inmuebles/2384/ficha/casa-en-venta-en-ozamis-sur-0",
-    "image_url": "https://www.inmoclick.com.ar/bundles/inmoclick/images/v14.6/empty-photo-box.jpg",
-    "description": "CASA A ESTRENAR EN UNA SOLA PLANTA, B° COVIART 1 (PRIVADO SE PAGAN EXPENSAS.)\n\nLA PROPIEDAD CUENTA CON DOS DORMITORIOS (CON PLACARES)\nTOILETTE \nBAÑO COMPLETO\nCOCINA INTEGRADA \nLAVANDERÍA\nPATIO CON CHURRASQUERA\nCALEFACCIÓN CENTRAL POR RADIADORES\nCOCHERA CON PÉRGOLA\n\n\nEXCELENTE UBICACIÓN, SOBRE OZAMIS SUR, CERCA DE IL MERCATO, RUTA 60\nCOLEGIOS \nPARADAS DE COLECTIVOS",
-    "coordinates": {
-      "lat": "-33.0086903",
-      "lng": "-68.7974217"
-    },
-    "category_b_metrics": {
-      "price_score": 96.2,
-      "price_status": "DENTRO_PRESUPUESTO",
-      "surface_score": 73.7,
-      "surface_notes": "73 m2 (En tolerancia, cercano al target de 80 m2)",
-      "price_per_m2": 1438.4
-    },
-    "analysis": {
-      "opportunity_score": 53.8,
-      "evaluation_source": "heurística",
-      "category_c": {
-        "has_security": false,
-        "has_gas_network": true,
-        "has_parking": true,
-        "has_elevator": false,
-        "two_bathrooms": true
-      },
-      "negotiation_analysis": {
-        "potential": "Estándar",
-        "signals_detected": false,
-        "summary": "Precio estándar de mercado."
-      },
-      "pros": [
-        "Dentro del presupuesto (USD 105,000)",
-        "🔥 Red de gas natural confirmada",
-        "🚗 Cuenta con cochera"
-      ],
-      "cons": [
-        "⚠️ Sin seguridad 24 hs ni barrio privado (penalizado en puntaje)"
-      ],
-      "ai_summary": "Propiedad en Mendoza (casa) de 73.0 m2 a USD 105,000. Score: 53.8/100 (Penalizado por falta de seguridad 24hs)."
-    }
-  },
-  {
-    "id": "inmoclick_274909_2418",
-    "portal": "Inmoclick",
-    "title": "FOLLOW ofrece a la venta",
-    "property_type": "casa",
-    "price_usd": 63000.0,
-    "surface_m2": 232.0,
-    "surface_total_m2": 413.0,
-    "surface_covered_m2": 232.0,
-    "bathrooms": 3,
-    "has_parking_attribute": true,
-    "location_zone": "Mendoza",
-    "url": "https://www.inmoclick.com.ar/274909-remax-follow/inmuebles/2418/ficha/casa-en-venta-en-olavarria-2400",
-    "image_url": "https://www.inmoclick.com.ar/bundles/inmoclick/images/v14.6/empty-photo-box.jpg",
-    "description": "FOLLOW ofrece a la venta\nCasa con 2 departamentos independientes, ubicada en una calle tranquila con fácil acceso Elpidio Gonzáles y calle Urquiza.\n Características de la Propiedad\n- 3 unidades independientes, cada una con:\n- 2 habitaciones con baños completos\n- Cocina comedor\n_ Cochera pasante para 3 vehículos.\n- Ubicación privilegiada, con fácil acceso al acceso este y calle Urquiza\n- Calle tranquila y residencial\n DETALLE DE LA PRPIEDAD:\nCasa 1\n_Livig amplio\n_Cocina Comedor\n_2 Habitaciones\n_1 Baño Completo\n_ Lavadero\n_ Patio Interno Cerrado\nDepartamento 1\n_ Cocina comedor\n_2 habitaciones\n_ 1 Baño completo\nDepartamento 2\n_Living amplio\n_ Cocina comedor\n_2 habitaciones ( 1 con vestidor)\n_1 Baño Completo\n_ Espacio de Guardado\n_ Patio\nVentajas de la Ubicación\n- Fácil acceso a calle Urquiza\n- Calle tranquila y residencial, ideal para familias o personas que buscan un lugar pacífico\n- Cercanía a servicios y comercios\nOportunidad de Inversión:\nNo te pierdas esta oportunidad de invertir en una propiedad con gran potencial de rentabilidad. Las 3 propiedades independientes ofrecen una excelente oportunidad para alquilar.\nNo dudes en Consultame y agendar una visita!\nEl precio, distancias y medidas indicadas, son de referencia, sujeto a modificaciones sin previo aviso. - Los datos consignados en esta web, pueden contener errores y no son contractuales; verifique los mismos previamente con nuestro asesor. Argentina S.R.L. no ejerce el corretaje inmobiliario. El presente sitio web es una plataforma en donde cada oficina inmobiliaria independiente que contrata los servicios RE/MAX puede publicar las propiedades a su cargo. Cada oficina es de propiedad y gestión independiente, por lo que Argentina S.R.L no interviene en los datos de la publicación, en la operación inmobiliaria, ni en la confección y/o firma del boleto de compraventa y/o escritura y/o contrato de alquiler. En cumplimiento de las leyes vigentes que regulan el corretaje inmobiliario, Ley Nacional 25.028, Ley 22.802 de Lealtad Comercial, Ley 24.240 de Defensa al Consumidor, las normas del Código Civil y Comercial de la Nación y Constitucionales, los agentes/gestores NO ejercen el corretaje inmobiliario. Todas las operaciones inmobiliarias son objeto de intermediación y conclusión por parte del corredor público inmobiliario colegiado a cargo de la publicación, cuyos datos se exhiben en la presente. La presente publicación describe las características esenciales del inmueble, debiéndose consultar al corredor público inmobiliario responsable de la operación por la eventual actualización de las medidas, descripciones arquitectónicas y funcionales, valores de expensas, servicios, impuestos, precios y demás información, cuyos valores son aproximados.",
-    "coordinates": {
-      "lat": "-32.924044899369",
-      "lng": "-68.788571834302"
-    },
-    "category_b_metrics": {
-      "price_score": 100.0,
-      "price_status": "DENTRO_PRESUPUESTO",
-      "surface_score": 100.0,
-      "surface_notes": "232 m2 (Cumple objetivo de 80 m2)",
-      "price_per_m2": 271.6
-    },
-    "analysis": {
-      "opportunity_score": 53.5,
-      "evaluation_source": "heurística",
-      "category_c": {
-        "has_security": false,
-        "has_gas_network": false,
-        "has_parking": true,
-        "has_elevator": false,
-        "two_bathrooms": true
-      },
-      "negotiation_analysis": {
-        "potential": "Estándar",
-        "signals_detected": false,
-        "summary": "Precio estándar de mercado."
-      },
-      "pros": [
-        "Dentro del presupuesto (USD 63,000)",
-        "🚗 Cuenta con cochera"
-      ],
-      "cons": [
-        "⚠️ Sin seguridad 24 hs ni barrio privado (penalizado en puntaje)",
-        "Consultar conexión a red de gas natural"
-      ],
-      "ai_summary": "Propiedad en Mendoza (casa) de 232.0 m2 a USD 63,000. Score: 53.5/100 (Penalizado por falta de seguridad 24hs)."
-    }
-  },
-  {
-    "id": "inmoclick_274909_2314",
-    "portal": "Inmoclick",
-    "title": "DEPARTAMENTO 2 DORMITORIOS EN VENTA LUJAN DE CUYO MENDOZA",
-    "property_type": "departamento",
-    "price_usd": 130000.0,
-    "surface_m2": 99.0,
-    "surface_total_m2": 99.0,
-    "surface_covered_m2": 99.0,
-    "bathrooms": 2,
-    "has_parking_attribute": false,
-    "location_zone": "Mendoza",
-    "url": "https://www.inmoclick.com.ar/274909-remax-follow/inmuebles/2314/ficha/departamento-en-venta-en-patricios-esquina-constitucion-0",
-    "image_url": "https://www.inmoclick.com.ar/bundles/inmoclick/images/v14.6/empty-photo-box.jpg",
-    "description": "DEPARTAMENTO 2 DORMITORIOS EN VENTA LUJAN DE CUYO MENDOZA\n\nRE/MAX FOLLOW presenta un departamento en Patricios esquina Constitución, ubicado en el primer piso de un edificio de tres niveles. Con 99 m² de superficie construida, esta propiedad combina funcionalidad, luminosidad y vistas privilegiadas hacia la cordillera.\n\nEl inmueble se distribuye en cinco ambientes que maximizan el aprovechamiento del espacio. Cuenta con dos dormitorios equipados con placares funcionales, dos baños completos y un toilette adicional, garantizando comodidad y privacidad para toda la familia. El living comedor integrado recibe abundante luz natural gracias a su disposición frente, creando un ambiente cálido y acogedor donde la familia puede compartir momentos significativos. La cocina moderna se conecta fluidamente con el comedor, conformando un espacio práctico y bien pensado para disfrutar en conjunto.\n\nEl balcón se convierte en el rincón ideal para desconectar, ofreciendo vistas abiertas hacia la cordillera y permitiendo que la luz natural inunde cada rincón del hogar. El edificio cuenta con ascensor, facilitando el acceso a todas las plantas. La propiedad se complementa con opciones de cochera cubierta y baulera, brindando seguridad y espacio adicional para almacenamiento.\n\nConstruido en 2021, el departamento mantiene excelente estado general. Dispone de todos los servicios esenciales: electricidad, agua, gas, internet, televisión por cable y televisión satelital, asegurando conectividad y confort sin interrupciones.\n\nUbicado en una zona estratégica de Mendoza, este hogar es ideal para quienes valoran la tranquilidad sin renunciar a la vida urbana, combinando serenidad, diseño contemporáneo y cercanía a todas las comodidades. Te invitamos a conocerlo y descubrir el espacio que estabas buscando.",
-    "coordinates": {
-      "lat": "-33.0317145",
-      "lng": "-68.8800323"
-    },
-    "category_b_metrics": {
-      "price_score": 91.8,
-      "price_status": "DENTRO_PRESUPUESTO",
-      "surface_score": 95.7,
-      "surface_notes": "99 m2 (Cumple objetivo de 80 m2)",
-      "price_per_m2": 1313.1
-    },
-    "analysis": {
-      "opportunity_score": 52.6,
-      "evaluation_source": "heurística",
-      "category_c": {
-        "has_security": false,
-        "has_gas_network": false,
-        "has_parking": true,
-        "has_elevator": true,
-        "two_bathrooms": true
-      },
-      "negotiation_analysis": {
-        "potential": "Estándar",
-        "signals_detected": false,
-        "summary": "Precio estándar de mercado."
-      },
-      "pros": [
-        "Dentro del presupuesto (USD 130,000)",
-        "🚗 Cuenta con cochera",
-        "🛗 Edificio con ascensor"
-      ],
-      "cons": [
-        "⚠️ Sin seguridad 24 hs ni barrio privado (penalizado en puntaje)",
-        "Consultar conexión a red de gas natural"
-      ],
-      "ai_summary": "Propiedad en Mendoza (departamento) de 99.0 m2 a USD 130,000. Score: 52.6/100 (Penalizado por falta de seguridad 24hs)."
-    }
-  },
-  {
-    "id": "inmoclick_39165_135",
-    "portal": "Inmoclick",
-    "title": "Casa amplia y cómoda en Las Cañas",
-    "property_type": "casa",
-    "price_usd": 110000.0,
-    "surface_m2": 160.0,
-    "surface_total_m2": 250.0,
-    "surface_covered_m2": 160.0,
-    "bathrooms": 2,
-    "has_parking_attribute": true,
-    "location_zone": "Mendoza",
-    "url": "https://www.inmoclick.com.ar/39165-inmobiliaria-vilches/inmuebles/135/ficha/casa-en-venta-en-cdad-de-carlos-paz-1615",
-    "image_url": "https://www.inmoclick.com.ar/bundles/inmoclick/images/v14.6/empty-photo-box.jpg",
-    "description": "Casa amplia y cómoda en Las Cañas\n\nUbicada en la tranquila calle Carlos Paz, esta casa de 6 ambientes es ideal para familias que buscan confort y calidad de vida. Con 4 dormitorios y un hermoso jardín, disfrutarás de momentos inolvidables en un entorno seguro y accesible.\n\nCaracterísticas:\n- Superficie total de 160 m2\n- 4 dormitorios\n- 2 baños\n- Cocina equipada\n- 2 cocheras cubiertas\n- Apto profesional\n\nPrecio: U$D110.000\n\nNo dejes pasar esta oportunidad de inversión. Contáctanos y agenda tu visita hoy mismo.",
-    "coordinates": {
-      "lat": "-32.9134861",
-      "lng": "-68.8146948"
-    },
-    "category_b_metrics": {
-      "price_score": 95.4,
-      "price_status": "DENTRO_PRESUPUESTO",
-      "surface_score": 100.0,
-      "surface_notes": "160 m2 (Cumple objetivo de 80 m2)",
-      "price_per_m2": 687.5
-    },
-    "analysis": {
-      "opportunity_score": 52.1,
-      "evaluation_source": "heurística",
-      "category_c": {
-        "has_security": false,
-        "has_gas_network": false,
-        "has_parking": true,
-        "has_elevator": false,
-        "two_bathrooms": true
-      },
-      "negotiation_analysis": {
-        "potential": "Estándar",
-        "signals_detected": false,
-        "summary": "Precio estándar de mercado."
-      },
-      "pros": [
-        "Dentro del presupuesto (USD 110,000)",
-        "🚗 Cuenta con cochera"
-      ],
-      "cons": [
-        "⚠️ Sin seguridad 24 hs ni barrio privado (penalizado en puntaje)",
-        "Consultar conexión a red de gas natural"
-      ],
-      "ai_summary": "Propiedad en Mendoza (casa) de 160.0 m2 a USD 110,000. Score: 52.1/100 (Penalizado por falta de seguridad 24hs)."
-    }
-  },
-  {
-    "id": "inmoclick_268429_2005",
-    "portal": "Inmoclick",
-    "title": "Casa en venta en Bermejo – Calle Chiclana",
-    "property_type": "casa",
-    "price_usd": 110000.0,
-    "surface_m2": 300.0,
-    "surface_total_m2": 340.0,
-    "surface_covered_m2": 300.0,
-    "bathrooms": 4,
-    "has_parking_attribute": false,
-    "location_zone": "Mendoza",
-    "url": "https://www.inmoclick.com.ar/268429-re-max-vendimia/inmuebles/2005/ficha/casa-en-venta-en-chiclana-3300",
-    "image_url": "https://www.inmoclick.com.ar/bundles/inmoclick/images/v14.6/empty-photo-box.jpg",
-    "description": "Casa en venta en Bermejo – Calle Chiclana\n\nPropiedad ubicada en Bermejo, sobre calle Chiclana.\nCuenta con 300 m² cubiertos, distribuidos en dos plantas.\nAl ingresar se encuentra un living amplio, seguido de comedor y cocina de buenas dimensiones.\nLa casa dispone de 4 dormitorios y 4 baños. El dormitorio principal cuenta con vestidor.\nEn el exterior posee galería, patio, piscina y churrasquera.\nTambién cuenta con lavandería independiente.\nNo posee cochera actualmente, pero tiene espacio disponible para proyectar un ingreso vehicular a futuro.",
-    "coordinates": {
-      "lat": "-32.8673308",
-      "lng": "-68.7807382"
-    },
-    "category_b_metrics": {
-      "price_score": 95.4,
-      "price_status": "DENTRO_PRESUPUESTO",
-      "surface_score": 100.0,
-      "surface_notes": "300 m2 (Cumple objetivo de 80 m2)",
-      "price_per_m2": 366.7
-    },
-    "analysis": {
-      "opportunity_score": 52.1,
-      "evaluation_source": "heurística",
-      "category_c": {
-        "has_security": false,
-        "has_gas_network": false,
-        "has_parking": true,
-        "has_elevator": false,
-        "two_bathrooms": true
-      },
-      "negotiation_analysis": {
-        "potential": "Estándar",
-        "signals_detected": false,
-        "summary": "Precio estándar de mercado."
-      },
-      "pros": [
-        "Dentro del presupuesto (USD 110,000)",
-        "🚗 Cuenta con cochera"
-      ],
-      "cons": [
-        "⚠️ Sin seguridad 24 hs ni barrio privado (penalizado en puntaje)",
-        "Consultar conexión a red de gas natural"
-      ],
-      "ai_summary": "Propiedad en Mendoza (casa) de 300.0 m2 a USD 110,000. Score: 52.1/100 (Penalizado por falta de seguridad 24hs)."
-    }
-  },
-  {
-    "id": "inmoclick_17515_18874",
-    "portal": "Inmoclick",
-    "title": "CASA 4 AMBIENTES VILLA NUEVA GUAYMALLÉN MENDOZA - APTO CRÉDITO",
-    "property_type": "casa",
-    "price_usd": 110000.0,
-    "surface_m2": 145.0,
-    "surface_total_m2": 220.0,
-    "surface_covered_m2": 145.0,
-    "bathrooms": 2,
-    "has_parking_attribute": true,
-    "location_zone": "Mendoza",
-    "url": "https://www.inmoclick.com.ar/17515-remax-solutions/inmuebles/18874/ficha/casa-en-venta-en-bo-6-de-octubre-mzna-d-0",
-    "image_url": "https://www.inmoclick.com.ar/bundles/inmoclick/images/v14.6/empty-photo-box.jpg",
-    "description": "CASA 4 AMBIENTES VILLA NUEVA GUAYMALLÉN MENDOZA - APTO CRÉDITO\n\nPropiedad de diseño funcional ubicada en el barrio 6 de Octubre, Villa Nueva de Guaymallén. Inmueble con distribución moderna que ofrece espacios amplios e integrados, ideal para familias que valoran confort y practicidad.\n\nCARACTERÍSTICAS PRINCIPALES\n\n• Superficie total de 220 m², con 145 m² cubiertos y 75 m² descubiertos\n• Construcción del año 2005 en excelente estado de conservación\n• Distribución estratégica en 4 ambientes\n• Clasificación: apto para crédito hipotecario\n\nDISTRIBUCIÓN INTERIOR\n\n• Living y comedor integrados con diseño contemporáneo\n• Cocina amplia con conexión directa al área social\n• 2 dormitorios, siendo el principal en suite\n• 2 baños completos\n• 1 cochera techada\n\nESPACIOS EXTERIORES\n\n• Patio con área verde\n• Espacio para churrasquera\n• Zona de esparcimiento familiar\n\nUBICACIÓN ESTRATÉGICA\n\nEmplazado en zona residencial consolidada del barrio 6 de Octubre, con excelente conectividad y servicios cercanos. Ubicación sobre Manzana D, que garantiza tranquilidad y accesibilidad.\n\nPropiedad lista para habitar, sin necesidad de reformas adicionales. Inversión con potencial de valorización en un sector de crecimiento inmobiliario constante.",
-    "coordinates": {
-      "lat": "-32.907671624602",
-      "lng": "-68.773429666097"
-    },
-    "category_b_metrics": {
-      "price_score": 95.4,
-      "price_status": "DENTRO_PRESUPUESTO",
-      "surface_score": 100.0,
-      "surface_notes": "145 m2 (Cumple objetivo de 80 m2)",
-      "price_per_m2": 758.6
-    },
-    "analysis": {
-      "opportunity_score": 52.1,
-      "evaluation_source": "heurística",
-      "category_c": {
-        "has_security": false,
-        "has_gas_network": false,
-        "has_parking": true,
-        "has_elevator": false,
-        "two_bathrooms": true
-      },
-      "negotiation_analysis": {
-        "potential": "Estándar",
-        "signals_detected": false,
-        "summary": "Precio estándar de mercado."
-      },
-      "pros": [
-        "Dentro del presupuesto (USD 110,000)",
-        "🚗 Cuenta con cochera"
-      ],
-      "cons": [
-        "⚠️ Sin seguridad 24 hs ni barrio privado (penalizado en puntaje)",
-        "Consultar conexión a red de gas natural"
-      ],
-      "ai_summary": "Propiedad en Mendoza (casa) de 145.0 m2 a USD 110,000. Score: 52.1/100 (Penalizado por falta de seguridad 24hs)."
-    }
-  },
-  {
-    "id": "inmoclick_17515_20024",
-    "portal": "Inmoclick",
-    "title": "El equipo de ofrece a la venta casa en excelentes condiciones de mantenimiento, ubicada en calle Chavarria, Gutiérrez, Maipú, cercana a la estación de Metro tranvía, estación Gutiérrez.",
-    "property_type": "casa",
-    "price_usd": 110000.0,
-    "surface_m2": 160.0,
-    "surface_total_m2": 210.0,
-    "surface_covered_m2": 160.0,
-    "bathrooms": 2,
-    "has_parking_attribute": true,
-    "location_zone": "Godoy Cruz",
-    "url": "https://www.inmoclick.com.ar/17515-remax-solutions/inmuebles/20024/ficha/casa-en-venta-en-chavarria-100",
-    "image_url": "https://www.inmoclick.com.ar/bundles/inmoclick/images/v14.6/empty-photo-box.jpg",
-    "description": "El equipo de ofrece a la venta casa en excelentes condiciones de mantenimiento, ubicada en calle Chavarria, Gutiérrez, Maipú, cercana a la estación de Metro tranvía, estación Gutiérrez. \nZona residencial rodeada de comercios, paradas de transporte público, supermercados, escuelas, plaza, entre otros.\nLa propiedad se encuentra emplazada en una esquina, con dos ingresos independientes. Tiene una superficie cubierta de 160 m2 desarrollada en dos plantas, sobre un terreno de 210 m2. \n\nPlanta baja:\n- Hall Ingreso\n- Sala estar o Escritorio\n- Living luminoso de doble altura\n- Cocina con muebles bajo mesada y alacena\n- Lavadero integrado en cocina\n- Baño completo\n- Habitación principal con placard empotrado.\n\nPlanta alta:\n- Dos dormitorios.\n- Baño completo\n- Terraza-Balcón con vista panorámica hacia el norte y este.\n\nExterior:\n- Patio\n- Cochera techada\n\nCalefacción por estufas. Nuevo cableado eléctrico. Perímetro cerrado y aberturas con rejas.\nServicios: Luz, gas, agua y cloacas.\n\nNo te pierdas la oportunidad de vivir en esta propiedad única en un entorno tranquilo y seguro.\n\nESCRITURA INMEDIATA - APTA CRÉDITO HIPOTECARIO\nLISTA PARA MUDARSE!\n\n*El precio, distancias y medidas indicadas, son de referencia, sujeto a modificaciones sin previo aviso.-\n*Los datos consignados en esta web, pueden contener errores y no son contractuales; verifique los mismos previamente con nuestro asesor.\n\nBENEFICIOS A CLIENTES \nSi te falta hasta un 35% del valor de esta propiedad, te ofrecemos solicitar un préstamo a través de Lendar, servicio exclusivo para clientes RE/MAX.\nHace la simulación de tu cuota aquí. Ir a simulador \n\nTodas las propiedades que figuran en mi perfil se encuentran a cargo del profesional matriculado de la oficina (VÍCTOR MONTIVERO CCPIM 783). La intermediación y la conclusión de la operación serán llevadas exclusivamente por él.",
-    "coordinates": {
-      "lat": "-32.9652863",
-      "lng": "-68.7824733"
-    },
-    "category_b_metrics": {
-      "price_score": 95.4,
-      "price_status": "DENTRO_PRESUPUESTO",
-      "surface_score": 100.0,
-      "surface_notes": "160 m2 (Cumple objetivo de 80 m2)",
-      "price_per_m2": 687.5
-    },
-    "analysis": {
-      "opportunity_score": 52.1,
-      "evaluation_source": "heurística",
-      "category_c": {
-        "has_security": false,
-        "has_gas_network": false,
-        "has_parking": true,
-        "has_elevator": false,
-        "two_bathrooms": true
-      },
-      "negotiation_analysis": {
-        "potential": "Estándar",
-        "signals_detected": false,
-        "summary": "Precio estándar de mercado."
-      },
-      "pros": [
-        "Dentro del presupuesto (USD 110,000)",
-        "🚗 Cuenta con cochera"
-      ],
-      "cons": [
-        "⚠️ Sin seguridad 24 hs ni barrio privado (penalizado en puntaje)",
-        "Consultar conexión a red de gas natural"
-      ],
-      "ai_summary": "Propiedad en Godoy Cruz (casa) de 160.0 m2 a USD 110,000. Score: 52.1/100 (Penalizado por falta de seguridad 24hs)."
-    }
-  },
-  {
-    "id": "inmoclick_310222_1",
-    "portal": "Inmoclick",
-    "title": "Casa mixta con carácter y gran potencial en ubicación céntrica: mitad adobe y mitad material, situada en una zona escolar y a solo dos cuadras de la plaza central y dos cuadras del parque Ferry. Ideal para quienes buscan comodidad, acceso y tranquilidad en un mismo lugar.",
-    "property_type": "casa",
-    "price_usd": 116000.0,
-    "surface_m2": 238.0,
-    "surface_total_m2": 600.0,
-    "surface_covered_m2": 238.0,
-    "bathrooms": 3,
-    "has_parking_attribute": true,
-    "location_zone": "Godoy Cruz",
-    "url": "https://www.inmoclick.com.ar/310222-daniela-bontempo/inmuebles/1/ficha/casa-en-venta-en-paso-de-los-andes-262",
-    "image_url": "https://www.inmoclick.com.ar/bundles/inmoclick/images/v14.6/empty-photo-box.jpg",
-    "description": "Casa mixta con carácter y gran potencial en ubicación céntrica: mitad adobe y mitad material, situada en una zona escolar y a solo dos cuadras de la plaza central y dos cuadras del parque Ferry. Ideal para quienes buscan comodidad, acceso y tranquilidad en un mismo lugar.\r\n\r\nCaracterísticas principales:\r\n- 🧱 Construcción: casa mixta (mitad adobe, mitad material)\r\n- 📍 Ubicación: zona escolar, a 2 cuadras de la plaza central y a 2 cuadras del parque Ferry\r\n- 🚪 Entradas: 2 accesos independientes, posibilidad de reconvertir una parte en local a la calle\r\n- ☀️ Iluminación: ambientes amplios y luminosos\r\n- 🌳 Terreno: hermoso jardín con pasto y árboles frutales\r\n- 🍇 Parral: presente en la propiedad\r\n- 🏊 Piscina: pileta de natación ideal para disfrutar en familia\r\n- 🧺 Servicio exterior: lavadero externo con baño\r\n- 🤫 Entorno: barrio tranquilo y silencioso\r\n\r\nDescripción ampliada:\r\nEsta vivienda ofrece espacios generosos y luminosos que invitan a vivir con comodidad y flexibilidad. Las dos entradas permiten un uso mixto residencial-comercial o la facilidad de separar ambientes según necesidades. El amplio terreno con césped, parral y árboles frutales crea un ambiente agradable y natural, perfecto para reuniones al aire libre, juegos infantiles o huerto casero. La pileta aporta un notable plus de disfrute y confort durante todo el año. Su ubicación privilegiada, cercana a la plaza y al parque, y en una zona escolar, suma practicidad para la vida diaria y buena revalorización. Un hogar con carácter, posibilidades de adaptación y un entorno sereno que conecta con el centro de la comunidad.",
-    "coordinates": {
-      "lat": "-33.0398322",
-      "lng": "-68.87687760000001"
-    },
-    "category_b_metrics": {
-      "price_score": 94.3,
-      "price_status": "DENTRO_PRESUPUESTO",
-      "surface_score": 100.0,
-      "surface_notes": "238 m2 (Cumple objetivo de 80 m2)",
-      "price_per_m2": 487.4
-    },
-    "analysis": {
-      "opportunity_score": 51.8,
-      "evaluation_source": "heurística",
-      "category_c": {
-        "has_security": false,
-        "has_gas_network": false,
-        "has_parking": true,
-        "has_elevator": false,
-        "two_bathrooms": true
-      },
-      "negotiation_analysis": {
-        "potential": "Estándar",
-        "signals_detected": false,
-        "summary": "Precio estándar de mercado."
-      },
-      "pros": [
-        "Dentro del presupuesto (USD 116,000)",
-        "🚗 Cuenta con cochera"
-      ],
-      "cons": [
-        "⚠️ Sin seguridad 24 hs ni barrio privado (penalizado en puntaje)",
-        "Consultar conexión a red de gas natural"
-      ],
-      "ai_summary": "Propiedad en Godoy Cruz (casa) de 238.0 m2 a USD 116,000. Score: 51.8/100 (Penalizado por falta de seguridad 24hs)."
-    }
-  },
-  {
-    "id": "inmoclick_297536_205",
-    "portal": "Inmoclick",
-    "title": "Se vende terreno de aproximadamente 2 hectáreas, ubicado a tan solo 5 minutos del centro de la ciudad, en una zona estratégica con excelente accesibilidad y gran proyección de crecimiento.",
-    "property_type": "casa",
-    "price_usd": 120000.0,
-    "surface_m2": 194.0,
-    "surface_total_m2": 20000.0,
-    "surface_covered_m2": 194.0,
-    "bathrooms": 3,
-    "has_parking_attribute": true,
-    "location_zone": "Mendoza",
-    "url": "https://www.inmoclick.com.ar/297536-re-max-cosecha/inmuebles/205/ficha/casa-en-venta-en-diagonal-carlos-pellegrini-2400",
-    "image_url": "https://www.inmoclick.com.ar/bundles/inmoclick/images/v14.6/empty-photo-box.jpg",
-    "description": "Se vende terreno de aproximadamente 2 hectáreas, ubicado a tan solo 5 minutos del centro de la ciudad, en una zona estratégica con excelente accesibilidad y gran proyección de crecimiento.\nLa propiedad cuenta con dos viviendas: una habitable y otra a refaccionar, permitiendo contar con presencia permanente en el predio mientras se desarrolla cualquier proyecto futuro.\nSu verdadero valor radica en la ubicación, dimensiones y versatilidad del terreno, convirtiéndolo en una excelente alternativa para desarrolladores, inversores y empresas que buscan una superficie amplia en un punto privilegiado de la ciudad.\nIdeal para:\n\n Desarrollo de loteo residencial.\n Parque o complejo de naves industriales.\n Centro logístico o de distribución.\n Emprendimientos comerciales y empresariales.\n Depósitos, talleres o proyectos productivos.\n Desarrollo mixto residencial-comercial.\n\nPuntos destacados:\n\nAproximadamente 20.000 m² de superficie.\nA solo 5 minutos del centro.\nDos viviendas existentes.\nExcelente conectividad y accesos.\nAmplio frente y gran capacidad de aprovechamiento.\n\nZona con potencial de expansión urbana y comercial.\nUna propiedad donde el valor no está únicamente en las construcciones existentes, sino en la posibilidad de transformar sus 2 hectáreas en un proyecto de gran escala con múltiples alternativas de desarrollo.",
-    "coordinates": {
-      "lat": "-34.99436850823",
-      "lng": "-67.659328579903"
-    },
-    "category_b_metrics": {
-      "price_score": 93.6,
-      "price_status": "DENTRO_PRESUPUESTO",
-      "surface_score": 100.0,
-      "surface_notes": "194 m2 (Cumple objetivo de 80 m2)",
-      "price_per_m2": 618.6
-    },
-    "analysis": {
-      "opportunity_score": 51.6,
-      "evaluation_source": "heurística",
-      "category_c": {
-        "has_security": false,
-        "has_gas_network": false,
-        "has_parking": true,
-        "has_elevator": false,
-        "two_bathrooms": true
-      },
-      "negotiation_analysis": {
-        "potential": "Estándar",
-        "signals_detected": false,
-        "summary": "Precio estándar de mercado."
-      },
-      "pros": [
-        "Dentro del presupuesto (USD 120,000)",
-        "🚗 Cuenta con cochera"
-      ],
-      "cons": [
-        "⚠️ Sin seguridad 24 hs ni barrio privado (penalizado en puntaje)",
-        "Consultar conexión a red de gas natural"
-      ],
-      "ai_summary": "Propiedad en Mendoza (casa) de 194.0 m2 a USD 120,000. Score: 51.6/100 (Penalizado por falta de seguridad 24hs)."
-    }
-  },
-  {
     "id": "inmoclick_17515_18739",
     "portal": "Inmoclick",
     "title": "OFRECE EN VENTA",
@@ -1272,6 +256,13 @@
     "coordinates": {
       "lat": "-32.8910102",
       "lng": "-68.8495576"
+    },
+    "geo_verification": {
+      "is_valid_zone": true,
+      "real_city": "Ciudad De Mendoza",
+      "real_neighborhood": null,
+      "rejection_reason": null,
+      "geocode_verified": true
     },
     "category_b_metrics": {
       "price_score": 93.6,
@@ -1307,162 +298,6 @@
     }
   },
   {
-    "id": "inmoclick_274909_2435",
-    "portal": "Inmoclick",
-    "title": "El equipo de Follow ofrece a la venta este prototipo de vivienda en Steel Frame con sistema de llave en mano para que en 6 meses tengas listo tu hogar soñado en el lugar que vos prefieras, teniendo como única condición que el frente del terreno elegido, debe tener como mínimo 13m.",
-    "property_type": "casa",
-    "price_usd": 93000.0,
-    "surface_m2": 93.0,
-    "surface_total_m2": 200.0,
-    "surface_covered_m2": 93.0,
-    "bathrooms": 2,
-    "has_parking_attribute": true,
-    "location_zone": "Mendoza",
-    "url": "https://www.inmoclick.com.ar/274909-remax-follow/inmuebles/2435/ficha/casa-en-venta-en-calle-alfonso-xiii-0",
-    "image_url": "https://www.inmoclick.com.ar/bundles/inmoclick/images/v14.6/empty-photo-box.jpg",
-    "description": "El equipo de Follow ofrece a la venta este prototipo de vivienda en Steel Frame con sistema de llave en mano para que en 6 meses tengas listo tu hogar soñado en el lugar que vos prefieras, teniendo como única condición que el frente del terreno elegido, debe tener como mínimo 13m.\nEl modelo se desarrolla en una sola planta. Se ingresa por la imponente entrada a un espacio amplio, luminoso y compartido de cocina-living-comedor (la cocina totalmente equipada con anafe, horno empotrable y extractor). La propiedad cuenta con 2 dormitorios con la posibilidad de ampliar a 3 (el principal con vestidor); 2 baños completos, uno de ellos en suite; galería y cochera semicubierta.\nTodos los materiales utilizados son de excelente calidad. Carpintería de aluminio, pisos de porcellanato, placares y vestidor incluidos, mesa de cocina incluida con la mesada y puerta de madera tipo zoita.\nEs una gran oportunidad para que tengas tu casa con la garantía de los profesionales matriculados que llevan adelante este proyecto y con la posibilidad de ver el prototipo terminado y corroborar cada detalle de la descripción. \nTotalmente adaptable al reglamento de construcción de los desarrollos privados, se presenta como una excelente opción si lo que buscás es categoría, estilo y confort para vos y tu familia con todo resuelto y en el menor tiempo.\n¡No dudes en consultarme y agendamos!",
-    "coordinates": {
-      "lat": "-32.8716421",
-      "lng": "-68.74687"
-    },
-    "category_b_metrics": {
-      "price_score": 98.4,
-      "price_status": "DENTRO_PRESUPUESTO",
-      "surface_score": 93.9,
-      "surface_notes": "93 m2 (Cumple objetivo de 80 m2)",
-      "price_per_m2": 1000.0
-    },
-    "analysis": {
-      "opportunity_score": 51.5,
-      "evaluation_source": "heurística",
-      "category_c": {
-        "has_security": false,
-        "has_gas_network": false,
-        "has_parking": true,
-        "has_elevator": false,
-        "two_bathrooms": true
-      },
-      "negotiation_analysis": {
-        "potential": "Estándar",
-        "signals_detected": false,
-        "summary": "Precio estándar de mercado."
-      },
-      "pros": [
-        "Dentro del presupuesto (USD 93,000)",
-        "🚗 Cuenta con cochera"
-      ],
-      "cons": [
-        "⚠️ Sin seguridad 24 hs ni barrio privado (penalizado en puntaje)",
-        "Consultar conexión a red de gas natural"
-      ],
-      "ai_summary": "Propiedad en Mendoza (casa) de 93.0 m2 a USD 93,000. Score: 51.5/100 (Penalizado por falta de seguridad 24hs)."
-    }
-  },
-  {
-    "id": "inmoclick_274909_2064",
-    "portal": "Inmoclick",
-    "title": "Casa en pozo de 2 habitaciones en el Barrio Vista Michelo",
-    "property_type": "casa",
-    "price_usd": 85000.0,
-    "surface_m2": 87.0,
-    "surface_total_m2": 158.0,
-    "surface_covered_m2": 87.0,
-    "bathrooms": 2,
-    "has_parking_attribute": true,
-    "location_zone": "Mendoza",
-    "url": "https://www.inmoclick.com.ar/274909-remax-follow/inmuebles/2064/ficha/casa-en-venta-en-calle-25-de-mayo-oeste-1100",
-    "image_url": "https://www.inmoclick.com.ar/bundles/inmoclick/images/v14.6/empty-photo-box.jpg",
-    "description": "Casa en pozo de 2 habitaciones en el Barrio Vista Michelo\n ofrece excelente oportunidad en Vista Michelo, diseñada para quienes buscan la combinación perfecta entre estilo moderno, confort diario y privacidad.\nCon una distribución inteligente que prioriza la luz natural y la fluidez de sus ambientes, estas unidades representan una oportunidad única tanto para vivienda familiar como para inversión de alto valor.\nEspecificaciones Principales:\nSuperficie de Terreno: \n158 m² aproximados\nSuperficie Cubierta: \n87 m2 aproximados\nDormitorios: 2 espaciosos dormitorios proyectados para el máximo descanso, equipados con placares empotrados. Uno de ellos con baño completo\nBaños: 2 baños completos de diseño funcional.\nEstacionamiento: Cochera propia e independiente al frente, capacidad para 2 vehículos.\nLiving-comedor integrado, con excelente entrada de luz y conexión directa al exterior.\nCocina optimizada para el uso cotidiano, con generosa capacidad de guardado y sector de lavadero integrado.\nPulmón de Luz y Jardín: Diseño innovador que incorpora un patio que garantiza ventilación cruzada y luminosidad en toda la casa.\nSe entrega terminado en 6 meses aproximados.\nCuenta con financiación: entrega del 50% y saldo durante el avance de obra.\nUbicada en un entorno residencial tranquilo y de alta revalorización en Vista Michelo.\nContactanos para coordinar una visita privada y conocer todos los detalles de la propiedad.\n\nEl precio, distancias y medidas indicadas, son de referencia, sujeto a modificaciones sin previo aviso. - Los datos consignados en esta web, pueden contener errores y no son contractuales; verifique los mismos previamente con nuestro asesor. Argentina S.R.L. no ejerce el corretaje inmobiliario. El presente sitio web es una plataforma en donde cada oficina inmobiliaria independiente que contrata los servicios RE/MAX puede publicar las propiedades a su cargo. Cada oficina es de propiedad y gestión independiente, por lo que Argentina S.R.L no interviene en los datos de la publicación, en la operación inmobiliaria, ni en la confección y/o firma del boleto de compraventa y/o escritura y/o contrato de alquiler. En cumplimiento de las leyes vigentes que regulan el corretaje inmobiliario, Ley Nacional 25.028, Ley 22.802 de Lealtad Comercial, Ley 24.240 de Defensa al Consumidor, las normas del Código Civil y Comercial de la Nación y Constitucionales, los agentes/gestores NO ejercen el corretaje inmobiliario. Todas las operaciones inmobiliarias son objeto de intermediación y conclusión por parte del corredor público inmobiliario colegiado a cargo de la publicación, cuyos datos se exhiben en la presente. La presente publicación describe las características esenciales del inmueble, debiéndose consultar al corredor público inmobiliario responsable de la operación por la eventual actualización de las medidas, descripciones arquitectónicas y funcionales, valores de expensas, servicios, impuestos, precios y demás información, cuyos valores son aproximados.",
-    "coordinates": {
-      "lat": "-32.984332047931",
-      "lng": "-68.802223205566"
-    },
-    "category_b_metrics": {
-      "price_score": 99.8,
-      "price_status": "DENTRO_PRESUPUESTO",
-      "surface_score": 92.1,
-      "surface_notes": "87 m2 (Cumple objetivo de 80 m2)",
-      "price_per_m2": 977.0
-    },
-    "analysis": {
-      "opportunity_score": 51.5,
-      "evaluation_source": "heurística",
-      "category_c": {
-        "has_security": false,
-        "has_gas_network": false,
-        "has_parking": true,
-        "has_elevator": false,
-        "two_bathrooms": true
-      },
-      "negotiation_analysis": {
-        "potential": "Estándar",
-        "signals_detected": false,
-        "summary": "Precio estándar de mercado."
-      },
-      "pros": [
-        "Dentro del presupuesto (USD 85,000)",
-        "🚗 Cuenta con cochera"
-      ],
-      "cons": [
-        "⚠️ Sin seguridad 24 hs ni barrio privado (penalizado en puntaje)",
-        "Consultar conexión a red de gas natural"
-      ],
-      "ai_summary": "Propiedad en Mendoza (casa) de 87.0 m2 a USD 85,000. Score: 51.5/100 (Penalizado por falta de seguridad 24hs)."
-    }
-  },
-  {
-    "id": "inmoclick_309837_13",
-    "portal": "Inmoclick",
-    "title": "RJ Negocios Inmobiliarios vende:",
-    "property_type": "casa",
-    "price_usd": 130000.0,
-    "surface_m2": 170.0,
-    "surface_total_m2": 700.0,
-    "surface_covered_m2": 170.0,
-    "bathrooms": 2,
-    "has_parking_attribute": true,
-    "location_zone": "Godoy Cruz",
-    "url": "https://www.inmoclick.com.ar/309837-rj-negocios-inmobiliarios/inmuebles/13/ficha/casa-en-venta-en-las-berbenas-el-salto",
-    "image_url": "https://www.inmoclick.com.ar/bundles/inmoclick/images/v14.6/empty-photo-box.jpg",
-    "description": "RJ Negocios Inmobiliarios vende:\n\nCASA EN EL SALTO – POTRERILLOS\n\nExcelente oportunidad en El Salto, Potrerillos, en un entorno natural privilegiado de Mendoza, ideal para quienes buscan tranquilidad, naturaleza y una propiedad con múltiples posibilidades de uso.\n\nLa propiedad se desarrolla sobre un terreno de 700 m² y cuenta con aproximadamente 170 m² cubiertos.\n\nLa vivienda, construida originalmente en 1995, fue remodelada hace aproximadamente 2 años, ofreciendo una combinación de construcción tradicional y espacios actualizados.\n\nCuenta con:\n\n3 dormitorios.\n2 baños.\nAmplios espacios interiores.\nTerreno de 700 m².\n170 m² cubiertos.\nPropiedad remodelada y en muy buen estado general.\n\nSu ubicación en El Salto, Potrerillos, permite disfrutar de un entorno natural y de montaña, convirtiéndola en una excelente alternativa tanto para vivienda permanente como para casa de descanso o proyecto de alquiler turístico.\n\nUna propiedad para quienes buscan desconectarse de la ciudad y disfrutar de uno de los entornos naturales más atractivos de Mendoza.\n\nSuperficie de terreno: 700 m²\nSuperficie cubierta: 170 m²\nDormitorios: 3\nBaños: 2\nAntigüedad: 1995\nRemodelada: aproximadamente hace 2 años\nPrecio: USD 130.000\n\nNo dejes pasar esta oportunidad, escribime y coordinamos una visita!\n\nTodas las propiedades que figuran en mi perfil estan a cargo de el corredor publico matriculado Maribel Sosa CCPIM 1553",
-    "coordinates": {
-      "lat": "-32.954147",
-      "lng": "-69.2897283"
-    },
-    "category_b_metrics": {
-      "price_score": 91.8,
-      "price_status": "DENTRO_PRESUPUESTO",
-      "surface_score": 100.0,
-      "surface_notes": "170 m2 (Cumple objetivo de 80 m2)",
-      "price_per_m2": 764.7
-    },
-    "analysis": {
-      "opportunity_score": 51.1,
-      "evaluation_source": "heurística",
-      "category_c": {
-        "has_security": false,
-        "has_gas_network": false,
-        "has_parking": true,
-        "has_elevator": false,
-        "two_bathrooms": true
-      },
-      "negotiation_analysis": {
-        "potential": "Estándar",
-        "signals_detected": false,
-        "summary": "Precio estándar de mercado."
-      },
-      "pros": [
-        "Dentro del presupuesto (USD 130,000)",
-        "🚗 Cuenta con cochera"
-      ],
-      "cons": [
-        "⚠️ Sin seguridad 24 hs ni barrio privado (penalizado en puntaje)",
-        "Consultar conexión a red de gas natural"
-      ],
-      "ai_summary": "Propiedad en Godoy Cruz (casa) de 170.0 m2 a USD 130,000. Score: 51.1/100 (Penalizado por falta de seguridad 24hs)."
-    }
-  },
-  {
     "id": "inmoclick_124071_43",
     "portal": "Inmoclick",
     "title": "DRUMMOND NEGOCIOS INMOBILIARIOS VENDE",
@@ -1480,6 +315,13 @@
     "coordinates": {
       "lat": "-32.888521736592686",
       "lng": "-68.84139686187133"
+    },
+    "geo_verification": {
+      "is_valid_zone": true,
+      "real_city": "Ciudad De Mendoza",
+      "real_neighborhood": null,
+      "rejection_reason": null,
+      "geocode_verified": true
     },
     "category_b_metrics": {
       "price_score": 100.0,
@@ -1515,110 +357,6 @@
     }
   },
   {
-    "id": "inmoclick_280057_2141",
-    "portal": "Inmoclick",
-    "title": "OPENHOUSE GROUP vende este encantador departamento ubicado en el corazón de Godoy Cruz, en el prestigioso Barrio Las Acacias. Situado en el primer piso, esta propiedad ofrece una excelente oportunidad para aquellos que buscan un hogar cómodo y accesible en una ubicación deseable.",
-    "property_type": "departamento",
-    "price_usd": 83000.0,
-    "surface_m2": null,
-    "surface_total_m2": null,
-    "surface_covered_m2": null,
-    "bathrooms": 2,
-    "has_parking_attribute": true,
-    "location_zone": "Godoy Cruz",
-    "url": "https://www.inmoclick.com.ar/280057-openhouse-inmobiliaria/inmuebles/2141/ficha/departamento-en-venta-en-barrio-las-acacias-godoy-cruz",
-    "image_url": "https://www.inmoclick.com.ar/bundles/inmoclick/images/v14.6/empty-photo-box.jpg",
-    "description": "OPENHOUSE GROUP vende este encantador departamento ubicado en el corazón de Godoy Cruz, en el prestigioso Barrio Las Acacias. Situado en el primer piso, esta propiedad ofrece una excelente oportunidad para aquellos que buscan un hogar cómodo y accesible en una ubicación deseable.\n\nEl departamento cuenta con 2 dormitorios, proporcionando un espacio acogedor para descansar. Acompañado de un baño completo, se garantiza la comodidad diaria necesaria para una vida moderna. Aunque no dispone de estacionamiento cubierto, la ubicación permite fácil acceso al transporte público y otras comodidades urbanas.\n\nLa propiedad está equipada con servicios esenciales como agua corriente, cloaca, gas natural y electricidad, asegurando que su vida diaria sea sin preocupaciones. La disposición del departamento está diseñada para maximizar el uso del espacio, ofreciendo áreas comunes que permiten disfrutar de un ambiente cálido y acogedor. La propiedad esta apta a crédito. En efectivo $83.000USD, Crédito $85.000USD\n\nGodoy Cruz es conocido por su vibrante comunidad y su proximidad a una variedad de tiendas, restaurantes y opciones de entretenimiento. Esta ubicación ofrece la combinación perfecta de tranquilidad residencial y acceso a las comodidades de la ciudad.\n\nEste departamento es ideal para quienes buscan su primer hogar o una inversión sólida en una de las zonas más solicitadas de Mendoza. No pierda la oportunidad de conocer este encantador espacio que podría convertirse en su próximo hogar.\n\nM.S\n\nOPENHOUSE GROUP EL HOGAR DE TUS SUEÑOS!",
-    "coordinates": {
-      "lat": "-32.9214725",
-      "lng": "-68.8743525"
-    },
-    "category_b_metrics": {
-      "price_score": 100.0,
-      "price_status": "DENTRO_PRESUPUESTO",
-      "surface_score": 70.0,
-      "surface_notes": "Superficie no informada expresamente",
-      "price_per_m2": null
-    },
-    "analysis": {
-      "opportunity_score": 48.7,
-      "evaluation_source": "heurística",
-      "category_c": {
-        "has_security": false,
-        "has_gas_network": true,
-        "has_parking": true,
-        "has_elevator": false,
-        "two_bathrooms": true
-      },
-      "negotiation_analysis": {
-        "potential": "Estándar",
-        "signals_detected": false,
-        "summary": "Precio estándar de mercado."
-      },
-      "pros": [
-        "Dentro del presupuesto (USD 83,000)",
-        "🔥 Red de gas natural confirmada",
-        "🚗 Cuenta con cochera"
-      ],
-      "cons": [
-        "⚠️ Sin seguridad 24 hs ni barrio privado (penalizado en puntaje)"
-      ],
-      "ai_summary": "Propiedad en Godoy Cruz (departamento) de None m2 a USD 83,000. Score: 48.7/100 (Penalizado por falta de seguridad 24hs)."
-    }
-  },
-  {
-    "id": "inmoclick_280057_2142",
-    "portal": "Inmoclick",
-    "title": "OPENHOUSE GROUP vende este encantador departamento ubicado en el corazón de Godoy Cruz, en el prestigioso Barrio Las Acacias. Situado en el primer piso, esta propiedad ofrece una excelente oportunidad para aquellos que buscan un hogar cómodo y accesible en una ubicación deseable.",
-    "property_type": "departamento",
-    "price_usd": 83000.0,
-    "surface_m2": null,
-    "surface_total_m2": null,
-    "surface_covered_m2": null,
-    "bathrooms": 2,
-    "has_parking_attribute": true,
-    "location_zone": "Godoy Cruz",
-    "url": "https://www.inmoclick.com.ar/280057-openhouse-inmobiliaria/inmuebles/2142/ficha/departamento-en-venta-en-barrio-las-acacias-godoy-cruz",
-    "image_url": "https://www.inmoclick.com.ar/bundles/inmoclick/images/v14.6/empty-photo-box.jpg",
-    "description": "OPENHOUSE GROUP vende este encantador departamento ubicado en el corazón de Godoy Cruz, en el prestigioso Barrio Las Acacias. Situado en el primer piso, esta propiedad ofrece una excelente oportunidad para aquellos que buscan un hogar cómodo y accesible en una ubicación deseable.\n\nEl departamento cuenta con 2 dormitorios, proporcionando un espacio acogedor para descansar. Acompañado de un baño completo, se garantiza la comodidad diaria necesaria para una vida moderna. Aunque no dispone de estacionamiento cubierto, la ubicación permite fácil acceso al transporte público y otras comodidades urbanas.\n\nLa propiedad está equipada con servicios esenciales como agua corriente, cloaca, gas natural y electricidad, asegurando que su vida diaria sea sin preocupaciones. La disposición del departamento está diseñada para maximizar el uso del espacio, ofreciendo áreas comunes que permiten disfrutar de un ambiente cálido y acogedor. La propiedad esta apta a crédito. En efectivo $83.000USD, Crédito $85.000USD\n\nGodoy Cruz es conocido por su vibrante comunidad y su proximidad a una variedad de tiendas, restaurantes y opciones de entretenimiento. Esta ubicación ofrece la combinación perfecta de tranquilidad residencial y acceso a las comodidades de la ciudad.\n\nEste departamento es ideal para quienes buscan su primer hogar o una inversión sólida en una de las zonas más solicitadas de Mendoza. No pierda la oportunidad de conocer este encantador espacio que podría convertirse en su próximo hogar.\n\nM.S\n\nOPENHOUSE GROUP EL HOGAR DE TUS SUEÑOS!",
-    "coordinates": {
-      "lat": "-32.9214725",
-      "lng": "-68.8743525"
-    },
-    "category_b_metrics": {
-      "price_score": 100.0,
-      "price_status": "DENTRO_PRESUPUESTO",
-      "surface_score": 70.0,
-      "surface_notes": "Superficie no informada expresamente",
-      "price_per_m2": null
-    },
-    "analysis": {
-      "opportunity_score": 48.7,
-      "evaluation_source": "heurística",
-      "category_c": {
-        "has_security": false,
-        "has_gas_network": true,
-        "has_parking": true,
-        "has_elevator": false,
-        "two_bathrooms": true
-      },
-      "negotiation_analysis": {
-        "potential": "Estándar",
-        "signals_detected": false,
-        "summary": "Precio estándar de mercado."
-      },
-      "pros": [
-        "Dentro del presupuesto (USD 83,000)",
-        "🔥 Red de gas natural confirmada",
-        "🚗 Cuenta con cochera"
-      ],
-      "cons": [
-        "⚠️ Sin seguridad 24 hs ni barrio privado (penalizado en puntaje)"
-      ],
-      "ai_summary": "Propiedad en Godoy Cruz (departamento) de None m2 a USD 83,000. Score: 48.7/100 (Penalizado por falta de seguridad 24hs)."
-    }
-  },
-  {
     "id": "inmoclick_1406_3601",
     "portal": "Inmoclick",
     "title": "\"CARINA DROZD gestiones inmobiliarias\" VENDE: DEPARTAMENTOS Ubicadísimos: Calle ALMIRANTE BROWN, B° BOMBAL SUR. Complejo de 7 deptos con cocheras subterráneas. ASCENSOR. Piso 1 y Piso 2. FRONTALES!. Constan de: COCINA LIVING COMEDOR con Equipo A.A. y Calefactor; cocina con extractor, alacenas, bajomesada, Barra Desayunador- 2 DORMITORIOS (1 con A.A.) con Placares y Calefactores- 2 BAÑOS (uno en SUITE)- Recién Pintados! BALCON- PATIO LAVANDERÍA con bacha y mueble- COCHERA AUTOMATIZADA, en Subsuelo. VALORES: U$S 115.000 sin cochera en Piso 1- U$S 130.000 con Cochera en Piso 2. ESCRITURACION Inmediata. ALQUILADOS con Excelentes Rentas, pero se desocupan si lo desea el comprador-",
@@ -1636,6 +374,13 @@
     "coordinates": {
       "lat": "-32.9084392",
       "lng": "-68.8467242"
+    },
+    "geo_verification": {
+      "is_valid_zone": true,
+      "real_city": "Distrito Ciudad De Godoy Cruz",
+      "real_neighborhood": "Rincón Arizu",
+      "rejection_reason": null,
+      "geocode_verified": true
     },
     "category_b_metrics": {
       "price_score": 91.8,
@@ -1690,6 +435,13 @@
       "lat": "-32.9174387",
       "lng": "-68.8498446"
     },
+    "geo_verification": {
+      "is_valid_zone": true,
+      "real_city": "Distrito Ciudad De Godoy Cruz",
+      "real_neighborhood": null,
+      "rejection_reason": null,
+      "geocode_verified": true
+    },
     "category_b_metrics": {
       "price_score": 100.0,
       "price_status": "DENTRO_PRESUPUESTO",
@@ -1741,6 +493,13 @@
     "coordinates": {
       "lat": "-32.928602",
       "lng": "-68.849859"
+    },
+    "geo_verification": {
+      "is_valid_zone": true,
+      "real_city": "Distrito Ciudad De Godoy Cruz",
+      "real_neighborhood": "Barrio Ypf",
+      "rejection_reason": null,
+      "geocode_verified": true
     },
     "category_b_metrics": {
       "price_score": 100.0,
@@ -1794,6 +553,13 @@
       "lat": "-32.9214293",
       "lng": "-68.8436908"
     },
+    "geo_verification": {
+      "is_valid_zone": true,
+      "real_city": "Distrito Ciudad De Godoy Cruz",
+      "real_neighborhood": null,
+      "rejection_reason": null,
+      "geocode_verified": true
+    },
     "category_b_metrics": {
       "price_score": 99.6,
       "price_status": "DENTRO_PRESUPUESTO",
@@ -1829,110 +595,6 @@
     }
   },
   {
-    "id": "inmoclick_116071_350",
-    "portal": "Inmoclick",
-    "title": "¡¡¡MENDOZA PROPIEDADES VENDE!!!",
-    "property_type": "departamento",
-    "price_usd": 78000.0,
-    "surface_m2": 73.0,
-    "surface_total_m2": 100.0,
-    "surface_covered_m2": 73.0,
-    "bathrooms": 2,
-    "has_parking_attribute": true,
-    "location_zone": "Mendoza",
-    "url": "https://www.inmoclick.com.ar/116071-mendoza-propiedades/inmuebles/350/ficha/departamento-en-venta-en-zaragoza-al-2200",
-    "image_url": "https://www.inmoclick.com.ar/bundles/inmoclick/images/v14.6/empty-photo-box.jpg",
-    "description": "¡¡¡MENDOZA PROPIEDADES VENDE!!!\n\nHermoso dúplex de 2 dormitorios en Barrio Trapiche – Godoy Cruz, Mendoza\n\nMendoza Propiedades ofrece a la venta este excelente dúplex ubicado sobre calle Zaragoza, en el reconocido Barrio Trapiche, una de las zonas más elegidas de Godoy Cruz por su entorno residencial, tranquilidad y excelente conectividad.\n\nLa propiedad se encuentra en una ubicación estratégica, con rápido acceso al Corredor del Oeste y Acceso Sur, y a pocos minutos de Palmares Open Mall, supermercados, bancos, colegios, universidades, espacios verdes y una amplia variedad de comercios y servicios.\n\nDesarrollado en dos plantas, el dúplex ofrece ambientes amplios, cómodos y muy luminosos, ideales para quienes buscan calidad de vida en una excelente ubicación.\n\nPlanta Baja\n\n* Amplio living-comedor con ventanal y salida al patio.\n* Cocina integrada mediante desayunador.\n* Baño de visitas.\n* Patio privado.\n* Cochera para 1 vehículo.\n\nPlanta Alta\n\n* 2 amplios dormitorios con placares.\n* Dormitorio principal equipado con aire acondicionado.\n* Baño completo.\n\nLa propiedad cuenta con una distribución funcional y espacios pensados para disfrutar en familia, convirtiéndose en una excelente opción tanto para vivienda permanente como para inversión.\n\n¡Consultanos para conocer más detalles y coordinar una visita!\n\nCCPIM Mat. 1640",
-    "coordinates": {
-      "lat": "-32.9473459",
-      "lng": "-68.8642002"
-    },
-    "category_b_metrics": {
-      "price_score": 100.0,
-      "price_status": "DENTRO_PRESUPUESTO",
-      "surface_score": 73.7,
-      "surface_notes": "73 m2 (En tolerancia, cercano al target de 80 m2)",
-      "price_per_m2": 1068.5
-    },
-    "analysis": {
-      "opportunity_score": 47.0,
-      "evaluation_source": "heurística",
-      "category_c": {
-        "has_security": false,
-        "has_gas_network": false,
-        "has_parking": true,
-        "has_elevator": false,
-        "two_bathrooms": true
-      },
-      "negotiation_analysis": {
-        "potential": "Estándar",
-        "signals_detected": false,
-        "summary": "Precio estándar de mercado."
-      },
-      "pros": [
-        "Dentro del presupuesto (USD 78,000)",
-        "🚗 Cuenta con cochera"
-      ],
-      "cons": [
-        "⚠️ Sin seguridad 24 hs ni barrio privado (penalizado en puntaje)",
-        "Consultar conexión a red de gas natural"
-      ],
-      "ai_summary": "Propiedad en Mendoza (departamento) de 73.0 m2 a USD 78,000. Score: 47.0/100 (Penalizado por falta de seguridad 24hs)."
-    }
-  },
-  {
-    "id": "inmoclick_274909_1958",
-    "portal": "Inmoclick",
-    "title": "DEPARTAMENTO EN VENTA 3 AMBIENTES GODOY CRUZ MENDOZA TORRE6 Ingreso por calle Salvador Civit y por Cippoletti, porton automatico por ambos ingresos.",
-    "property_type": "departamento",
-    "price_usd": 59000.0,
-    "surface_m2": 94.0,
-    "surface_total_m2": 96.0,
-    "surface_covered_m2": 94.0,
-    "bathrooms": 1,
-    "has_parking_attribute": true,
-    "location_zone": "Godoy Cruz",
-    "url": "https://www.inmoclick.com.ar/274909-remax-follow/inmuebles/1958/ficha/departamento-en-venta-en-salvador-civit-1200",
-    "image_url": "https://www.inmoclick.com.ar/bundles/inmoclick/images/v14.6/empty-photo-box.jpg",
-    "description": "DEPARTAMENTO EN VENTA 3 AMBIENTES GODOY CRUZ MENDOZA TORRE6 Ingreso por calle Salvador Civit y por Cippoletti, porton automatico por ambos ingresos.\n\nNO APTO CREDITO HIPOTECARIO\n\nDepartamento de 96 m² ubicado en zona estratégica de Godoy Cruz, con excelente distribución y terminaciones de calidad. Primer piso por escaleras. La propiedad ofrece un diseño funcional con tres habitaciones y espacios bien aprovechados, ideal para familias o inversores que buscan una vivienda con potencial de valorización.\n\nEl inmueble se encuentra en el primer piso de una construcción sólida del año 2000, con 94 m² cubiertos y 2 m² semicubiertos. Cuenta con tres dormitorios amplios, un baño completo y toilette, garantizando comodidad y privacidad para sus habitantes.\n\nEntre sus principales características destacan el estado general excelente, la ubicación privilegiada y la inclusión de cochera, elementos que incrementan significativamente su valor en el mercado inmobiliario mendocino. La distribución permite optimizar cada espacio, generando ambientes luminosos y funcionales.\n\nEl edificio representa una propuesta inmobiliaria de calidad, con terminaciones que superan el estándar tradicional. Su construcción moderna y conservación impecable lo posicionan como una inversión sólida en el competitivo mercado inmobiliario de Mendoza.\n\nSuperficie total: 96 m²\nAmbientes: 3\nCochera: 1\nAño de construcción: 2000\nEstado: Excelente\n\nOportunidad de inversión con alto potencial de revalorización en una zona de crecimiento sostenido.",
-    "coordinates": {
-      "lat": "-32.9286268",
-      "lng": "-68.8583963"
-    },
-    "category_b_metrics": {
-      "price_score": 100.0,
-      "price_status": "DENTRO_PRESUPUESTO",
-      "surface_score": 94.2,
-      "surface_notes": "94 m2 (Cumple objetivo de 80 m2)",
-      "price_per_m2": 627.7
-    },
-    "analysis": {
-      "opportunity_score": 46.8,
-      "evaluation_source": "heurística",
-      "category_c": {
-        "has_security": false,
-        "has_gas_network": false,
-        "has_parking": true,
-        "has_elevator": false,
-        "two_bathrooms": true
-      },
-      "negotiation_analysis": {
-        "potential": "Estándar",
-        "signals_detected": false,
-        "summary": "Precio estándar de mercado."
-      },
-      "pros": [
-        "Dentro del presupuesto (USD 59,000)",
-        "🚗 Cuenta con cochera"
-      ],
-      "cons": [
-        "⚠️ Sin seguridad 24 hs ni barrio privado (penalizado en puntaje)",
-        "Consultar conexión a red de gas natural"
-      ],
-      "ai_summary": "Propiedad en Godoy Cruz (departamento) de 94.0 m2 a USD 59,000. Score: 46.8/100 (Penalizado por falta de seguridad 24hs)."
-    }
-  },
-  {
     "id": "inmoclick_16797_811",
     "portal": "Inmoclick",
     "title": "Bombal Sur. Piso completo - Beltran 1.910 esquina 25 de Mayo. Excelente ubicacion geografica. Cerca Estacion Metrotanvia. Limite con Barrio Bombal de Ciudad. 2° Piso. Muy luminoso . Living comedor amplio. Cocina comedor mediana. 3 dormitorios con placares. 2 baños. Ascensor .Apto Credito . Desocupado. Javier / Armando",
@@ -1950,6 +612,13 @@
     "coordinates": {
       "lat": "-32.90464365966685",
       "lng": "-68.85175962355652"
+    },
+    "geo_verification": {
+      "is_valid_zone": true,
+      "real_city": "Distrito Ciudad De Godoy Cruz",
+      "real_neighborhood": "Barrio Tapón De Sevilla",
+      "rejection_reason": null,
+      "geocode_verified": true
     },
     "category_b_metrics": {
       "price_score": 100.0,
@@ -2003,6 +672,13 @@
       "lat": "-32.9082448",
       "lng": "-68.8524433"
     },
+    "geo_verification": {
+      "is_valid_zone": true,
+      "real_city": "Distrito Ciudad De Godoy Cruz",
+      "real_neighborhood": "Villa Hipódromo",
+      "rejection_reason": null,
+      "geocode_verified": true
+    },
     "category_b_metrics": {
       "price_score": 90.0,
       "price_status": "DENTRO_PRESUPUESTO",
@@ -2055,6 +731,13 @@
       "lat": "-32.8875854",
       "lng": "-68.84454219999999"
     },
+    "geo_verification": {
+      "is_valid_zone": true,
+      "real_city": "Ciudad De Mendoza",
+      "real_neighborhood": "Área Fundacional",
+      "rejection_reason": null,
+      "geocode_verified": true
+    },
     "category_b_metrics": {
       "price_score": 98.0,
       "price_status": "DENTRO_PRESUPUESTO",
@@ -2089,161 +772,6 @@
     }
   },
   {
-    "id": "inmoclick_206383_35",
-    "portal": "Inmoclick",
-    "title": "OPORTUNIDAD ÚNICA EN PLENO CENTRO DE MAIPÚ! 🌟",
-    "property_type": "departamento",
-    "price_usd": 75000.0,
-    "surface_m2": 74.0,
-    "surface_total_m2": 85.0,
-    "surface_covered_m2": 74.0,
-    "bathrooms": 2,
-    "has_parking_attribute": false,
-    "location_zone": "Mendoza",
-    "url": "https://www.inmoclick.com.ar/206383-solsanchezgiorgioatgmail-com/inmuebles/35/ficha/departamento-en-venta-en-presindente-peron-y-padre-vazque",
-    "image_url": "https://www.inmoclick.com.ar/bundles/inmoclick/images/v14.6/empty-photo-box.jpg",
-    "description": "OPORTUNIDAD ÚNICA EN PLENO CENTRO DE MAIPÚ! 🌟\r\nDepartamento en Planta Alta, tipo Loft de categoría.\r\n\r\nSi buscas confort, seguridad y la mejor ubicación, este departamento interno en planta alta está listo para habitar. Con 74 m² propios perfectamente distribuidos y detalles de calidad pensados para uso propio.\r\n\r\n✨ Características principales:\r\n\r\n74 m² propios de espacio funcional, cálido y luminoso (sin cochera).\r\n\r\n2 Habitaciones: Dormitorio principal en suite para máxima comodidad.\r\n\r\n2 Baños completos.\r\n\r\nEstar tipo Loft con cocina integrada: Incluye barra desayunadora ideal para compartir.\r\n\r\nLavandería independiente: Amplia y muy cómoda, equipada con churrasquera propia.\r\n\r\n🏡 Equipamiento y confort total (¡Listo para mudarte!):\r\n\r\nTechos de madera vista de gran categoría y excelente calidez.\r\n\r\nAires acondicionados instalados en todos los ambientes.\r\n\r\nEstufas a gas y luminarias completas.\r\n\r\nCortinas blackout y persianas americanas.\r\n\r\n🔒 Seguridad y expensas bajas:\r\n\r\nEquipado con alarma y rejas de protección.\r\n\r\nExpensas mínimas (~$5.000/mes para limpieza de espacios comunes).\r\n\r\n📍 Ubicación inmejorable:\r\n\r\nCalle Padre Vásquez, a pasos de la plaza del Centro de Maipú Ubicación privilegiada con todo a mano!\r\n\r\n📄 Documentación:\r\n\r\nEscritura inmediata.\r\n\r\n💵 Precio: U$S 75.000",
-    "coordinates": {
-      "lat": "-32.9825655",
-      "lng": "-68.788394"
-    },
-    "category_b_metrics": {
-      "price_score": 100.0,
-      "price_status": "DENTRO_PRESUPUESTO",
-      "surface_score": 76.0,
-      "surface_notes": "74 m2 (En tolerancia, cercano al target de 80 m2)",
-      "price_per_m2": 1013.5
-    },
-    "analysis": {
-      "opportunity_score": 42.2,
-      "evaluation_source": "heurística",
-      "category_c": {
-        "has_security": false,
-        "has_gas_network": false,
-        "has_parking": true,
-        "has_elevator": false,
-        "two_bathrooms": true
-      },
-      "negotiation_analysis": {
-        "potential": "Estándar",
-        "signals_detected": false,
-        "summary": "Precio estándar de mercado."
-      },
-      "pros": [
-        "Dentro del presupuesto (USD 75,000)",
-        "🚗 Cuenta con cochera"
-      ],
-      "cons": [
-        "⚠️ Sin seguridad 24 hs ni barrio privado (penalizado en puntaje)",
-        "Consultar conexión a red de gas natural"
-      ],
-      "ai_summary": "Propiedad en Mendoza (departamento) de 74.0 m2 a USD 75,000. Score: 42.2/100 (Penalizado por falta de seguridad 24hs)."
-    }
-  },
-  {
-    "id": "inmoclick_280057_2002",
-    "portal": "Inmoclick",
-    "title": "OPENHOUSE VENDE DEPARTAMENTO DE CATEGORIA EN LAS MEJORES ZONAS DE GRAN MENDOZA",
-    "property_type": "departamento",
-    "price_usd": 100000.0,
-    "surface_m2": 75.0,
-    "surface_total_m2": 75.0,
-    "surface_covered_m2": 75.0,
-    "bathrooms": 2,
-    "has_parking_attribute": true,
-    "location_zone": "Mendoza",
-    "url": "https://www.inmoclick.com.ar/280057-openhouse-inmobiliaria/inmuebles/2002/ficha/departamento-en-venta-en-biritos-bombal-sur",
-    "image_url": "https://www.inmoclick.com.ar/bundles/inmoclick/images/v14.6/empty-photo-box.jpg",
-    "description": "OPENHOUSE VENDE DEPARTAMENTO DE CATEGORIA EN LAS MEJORES ZONAS DE GRAN MENDOZA\nEdificio frente a la plaza Biritos, del Bombal Sur\nSe caracteriza por ser moderno con finas terminaciones y su ubicación es privilegiada.\n\nCARACTERSITICAS:\n- Living comedor y cocina integrada\n- Balcón amplio\n- Dos dormitorios amplios con placares con puertas corredizas\n- Baño completo con antebaño\n- Cochera techada con portón automático\n- Todo eléctrico\n\nEl edificio cuenta con:\n- Bombas y cisterna en cada bloque\n- Terraza con vista panorámica (en total hay 3 - una por cada bloque)\n\nValor USD 100.000\n\nAPTO PARA PRESTAMO HIPOTECARIO\n\nLISTO PARA ESCRITURAR\n\nPara mayor información no dude en consultarnos\n\nSolange Salas\nMat 1856\n\nLa presente publicación describe las características esenciales del inmueble, debiéndose consultar al corredor público inmobiliario responsable de la operación por la eventual actualización de las medidas, descripciones arquitectónicas y funcionales, valores de expensas, servicios, impuestos, precios y demás información, cuyos valores son aproximados..",
-    "coordinates": {
-      "lat": "-32.8995733",
-      "lng": "-68.8099188"
-    },
-    "category_b_metrics": {
-      "price_score": 97.1,
-      "price_status": "DENTRO_PRESUPUESTO",
-      "surface_score": 78.3,
-      "surface_notes": "75 m2 (En tolerancia, cercano al target de 80 m2)",
-      "price_per_m2": 1333.3
-    },
-    "analysis": {
-      "opportunity_score": 41.9,
-      "evaluation_source": "heurística",
-      "category_c": {
-        "has_security": false,
-        "has_gas_network": false,
-        "has_parking": true,
-        "has_elevator": false,
-        "two_bathrooms": true
-      },
-      "negotiation_analysis": {
-        "potential": "Estándar",
-        "signals_detected": false,
-        "summary": "Precio estándar de mercado."
-      },
-      "pros": [
-        "Dentro del presupuesto (USD 100,000)",
-        "🚗 Cuenta con cochera"
-      ],
-      "cons": [
-        "⚠️ Sin seguridad 24 hs ni barrio privado (penalizado en puntaje)",
-        "Consultar conexión a red de gas natural"
-      ],
-      "ai_summary": "Propiedad en Mendoza (departamento) de 75.0 m2 a USD 100,000. Score: 41.9/100 (Penalizado por falta de seguridad 24hs)."
-    }
-  },
-  {
-    "id": "inmoclick_17515_20179",
-    "portal": "Inmoclick",
-    "title": "Cabañas Alpinas con Vista Única al Lago y al Cordón del Plata – Potrerillos. Mendoza",
-    "property_type": "casa",
-    "price_usd": 65000.0,
-    "surface_m2": 80.0,
-    "surface_total_m2": 2079.0,
-    "surface_covered_m2": 80.0,
-    "bathrooms": 2,
-    "has_parking_attribute": false,
-    "location_zone": "Mendoza",
-    "url": "https://www.inmoclick.com.ar/17515-remax-solutions/inmuebles/20179/ficha/casa-en-venta-en-ruta-nacional-7-km-1094-1000",
-    "image_url": "https://www.inmoclick.com.ar/bundles/inmoclick/images/v14.6/empty-photo-box.jpg",
-    "description": "Cabañas Alpinas con Vista Única al Lago y al Cordón del Plata – Potrerillos. Mendoza\n\nRE/MAX ofrece a la venta oportunidad imperdible en la mejor zona de Potrerillos, donde se concentra la mayor demanda turística y las mejores vistas de todo Potrerillos. Este conjunto de dos cabañas alpinas a refaccionar, ofrece un enorme potencial de desarrollo con una inversión accesible, ideal para renta turística o proyecto familiar.\n\nUbicadas en el punto justo entre tranquilidad y naturaleza, rodeadas de montaña y con un acceso rápido a los servicios de la Villa de Potrerillos, estas cabañas disfrutan de vistas privilegiadas al lago de Potrerillos y al imponente Cordón del Plata.\n\nCaracterísticas de las cabañas\n- Dos cabañas gemelas estilo alpino\n- Una unidad terminada, con faltante de artefactos de baño\n- Una unidad a terminar en su interior (estructura avanzada)\n- Planta baja: cocina comedor, baño amplio y living\n- Planta alta: espacio destinado a habitación, con posibilidad de generar dos dormitorios\n- Ambas con vista directa al lago y a las montañas\n- Construidas en el lomo del cerro garantizando las vistas\n- Terreno de 2079m2\n\nPor qué es una excelente inversión\n- Ubicación estratégica en el sector más buscado por turistas\n- Máximo potencial de rentabilidad vacacional en Potrerillos\n- Entorno natural único, ideal para descanso, turismo aventura y escapadas de fin de semana\n- No requiere una inversión elevada para ponerlas en funcionamiento\n- Servicios de luz y agua provistos por el barrio\n\nEscritura disponible\n\nSI QUERÉS CONOCER ESTAS OPORTUNIDAD DE INVERSIÓN ESCRIBIME Y COORDINAMOS UNA VISITA!\n\nLas dimensiones y superficies mencionadas en esta publicación son aproximadas. Las mismas deberán ser verificadas con los documentos oficiales correspondientes.",
-    "coordinates": {
-      "lat": "-32.972361826275",
-      "lng": "-69.190242290497"
-    },
-    "category_b_metrics": {
-      "price_score": 100.0,
-      "price_status": "DENTRO_PRESUPUESTO",
-      "surface_score": 90.0,
-      "surface_notes": "80 m2 (Cumple objetivo de 80 m2)",
-      "price_per_m2": 812.5
-    },
-    "analysis": {
-      "opportunity_score": 40.4,
-      "evaluation_source": "heurística",
-      "category_c": {
-        "has_security": false,
-        "has_gas_network": false,
-        "has_parking": false,
-        "has_elevator": false,
-        "two_bathrooms": true
-      },
-      "negotiation_analysis": {
-        "potential": "Estándar",
-        "signals_detected": false,
-        "summary": "Precio estándar de mercado."
-      },
-      "pros": [
-        "Dentro del presupuesto (USD 65,000)"
-      ],
-      "cons": [
-        "⚠️ Sin seguridad 24 hs ni barrio privado (penalizado en puntaje)",
-        "Consultar conexión a red de gas natural"
-      ],
-      "ai_summary": "Propiedad en Mendoza (casa) de 80.0 m2 a USD 65,000. Score: 40.4/100 (Penalizado por falta de seguridad 24hs)."
-    }
-  },
-  {
     "id": "inmoclick_3076_3329",
     "portal": "Inmoclick",
     "title": "Venta de Departamento – Cuarta Sección Oeste",
@@ -2261,6 +789,13 @@
     "coordinates": {
       "lat": "-32.8720782",
       "lng": "-68.83923709999999"
+    },
+    "geo_verification": {
+      "is_valid_zone": true,
+      "real_city": "Ciudad De Mendoza",
+      "real_neighborhood": "Área Fundacional",
+      "rejection_reason": null,
+      "geocode_verified": true
     },
     "category_b_metrics": {
       "price_score": 100.0,
@@ -2314,6 +849,13 @@
       "lat": "-32.89044970820627",
       "lng": "-68.84077458937988"
     },
+    "geo_verification": {
+      "is_valid_zone": true,
+      "real_city": "Ciudad De Mendoza",
+      "real_neighborhood": null,
+      "rejection_reason": null,
+      "geocode_verified": true
+    },
     "category_b_metrics": {
       "price_score": 90.0,
       "price_status": "DENTRO_PRESUPUESTO",
@@ -2365,6 +907,13 @@
     "coordinates": {
       "lat": "-32.8762546174",
       "lng": "-68.8577294615"
+    },
+    "geo_verification": {
+      "is_valid_zone": true,
+      "real_city": "Ciudad De Mendoza",
+      "real_neighborhood": "Barrio Ferroviario",
+      "rejection_reason": null,
+      "geocode_verified": true
     },
     "category_b_metrics": {
       "price_score": 91.8,
@@ -2418,6 +967,13 @@
       "lat": "-32.8955231",
       "lng": "-68.8458625"
     },
+    "geo_verification": {
+      "is_valid_zone": true,
+      "real_city": "Ciudad De Mendoza",
+      "real_neighborhood": null,
+      "rejection_reason": null,
+      "geocode_verified": true
+    },
     "category_b_metrics": {
       "price_score": 97.5,
       "price_status": "DENTRO_PRESUPUESTO",
@@ -2469,6 +1025,13 @@
       "lat": "-32.8875312",
       "lng": "-68.8448985"
     },
+    "geo_verification": {
+      "is_valid_zone": true,
+      "real_city": "Ciudad De Mendoza",
+      "real_neighborhood": "Área Fundacional",
+      "rejection_reason": null,
+      "geocode_verified": true
+    },
     "category_b_metrics": {
       "price_score": 98.9,
       "price_status": "DENTRO_PRESUPUESTO",
@@ -2502,6 +1065,64 @@
     }
   },
   {
+    "id": "inmoclick_302127_95",
+    "portal": "Inmoclick",
+    "title": "Vendo Departamento en Ciudad de Mendoza. 82 mtrs terreno total. La propiedad cuenta con cocina comedor, living, 3 habitaciones, placares, 2 baños, aire acondicionado, calefactores. Los principales ventanales dan a la cordillera. En pleno centro de Mendoza. Se evalúan ofertas. Zelta Inmobiliaria",
+    "property_type": "departamento",
+    "price_usd": 90000.0,
+    "surface_m2": 82.0,
+    "surface_total_m2": 82.0,
+    "surface_covered_m2": 82.0,
+    "bathrooms": 2,
+    "has_parking_attribute": false,
+    "location_zone": "Mendoza",
+    "url": "https://www.inmoclick.com.ar/302127-zelta-inmobiliaria/inmuebles/95/ficha/departamento-en-venta-en-catamarca-35",
+    "image_url": "https://www.inmoclick.com.ar/bundles/inmoclick/images/v14.6/empty-photo-box.jpg",
+    "description": "Vendo Departamento en Ciudad de Mendoza. 82 mtrs terreno total. La propiedad cuenta con cocina comedor, living, 3 habitaciones, placares, 2 baños, aire acondicionado, calefactores. Los principales ventanales dan a la cordillera. En pleno centro de Mendoza. Se evalúan ofertas. Zelta Inmobiliaria",
+    "coordinates": {
+      "lat": "-32.8896878",
+      "lng": "-68.8383757"
+    },
+    "geo_verification": {
+      "is_valid_zone": true,
+      "real_city": "Ciudad De Mendoza",
+      "real_neighborhood": null,
+      "rejection_reason": null,
+      "geocode_verified": true
+    },
+    "category_b_metrics": {
+      "price_score": 98.9,
+      "price_status": "DENTRO_PRESUPUESTO",
+      "surface_score": 90.6,
+      "surface_notes": "82 m2 (Cumple objetivo de 80 m2)",
+      "price_per_m2": 1097.6
+    },
+    "analysis": {
+      "opportunity_score": 35.0,
+      "evaluation_source": "heurística",
+      "category_c": {
+        "has_security": false,
+        "has_gas_network": false,
+        "has_parking": false,
+        "has_elevator": false,
+        "two_bathrooms": true
+      },
+      "negotiation_analysis": {
+        "potential": "Estándar",
+        "signals_detected": false,
+        "summary": "Precio estándar de mercado."
+      },
+      "pros": [
+        "Dentro del presupuesto (USD 90,000)"
+      ],
+      "cons": [
+        "⚠️ Sin seguridad 24 hs ni barrio privado (penalizado en puntaje)",
+        "Consultar conexión a red de gas natural"
+      ],
+      "ai_summary": "Propiedad en Mendoza (departamento) de 82.0 m2 a USD 90,000. Score: 35.0/100 (Penalizado por falta de seguridad 24hs)."
+    }
+  },
+  {
     "id": "inmoclick_274909_2357",
     "portal": "Inmoclick",
     "title": "Follow ofrece en venta un amplio departamento de 3 dormitorios, totalmente refaccionado, ubicado sobre calle Amigorena, en pleno centro de la Ciudad de Mendoza.",
@@ -2519,6 +1140,13 @@
     "coordinates": {
       "lat": "-32.8918098",
       "lng": "-68.838637"
+    },
+    "geo_verification": {
+      "is_valid_zone": true,
+      "real_city": "Ciudad De Mendoza",
+      "real_neighborhood": null,
+      "rejection_reason": null,
+      "geocode_verified": true
     },
     "category_b_metrics": {
       "price_score": 100.0,
@@ -2551,109 +1179,6 @@
         "Consultar conexión a red de gas natural"
       ],
       "ai_summary": "Propiedad en Mendoza (departamento) de 66.0 m2 a USD 77,500. Score: 34.9/100 (Penalizado por falta de seguridad 24hs)."
-    }
-  },
-  {
-    "id": "inmoclick_97164_186",
-    "portal": "Inmoclick",
-    "title": "DEPARTAMENTO DE 80 m² – IDEAL USO COMERCIAL",
-    "property_type": "departamento",
-    "price_usd": 98000.0,
-    "surface_m2": 80.0,
-    "surface_total_m2": 80.0,
-    "surface_covered_m2": 80.0,
-    "bathrooms": 2,
-    "has_parking_attribute": false,
-    "location_zone": "Mendoza",
-    "url": "https://www.inmoclick.com.ar/97164-laura-gola-propiedades/inmuebles/186/ficha/departamento-en-venta-en-pedro-molina-y-mitre",
-    "image_url": "https://www.inmoclick.com.ar/bundles/inmoclick/images/v14.6/empty-photo-box.jpg",
-    "description": "DEPARTAMENTO DE 80 m² – IDEAL USO COMERCIAL\r\nExcelente propiedad de 80 m², actualmente distribuida en dos unidades independientes de 40 m² cada una, lo que brinda múltiples posibilidades de uso e inversión.\r\nCada unidad cuenta con:\r\nUnidad 1\r\n. Cocina completa con heladera con freezer, cocina\r\n. Comedor diario.\r\n. Baño con antebaño.\r\n. Un dormitorio.\r\nUnidad 2\r\n. Comedor diario\r\n. Cocina completa con frigobar y horno eléctrico \r\n. Baño\r\n. Un dormitorio\r\n. Con vista espectacular al centro cívico \r\n Ventanas de aluminio corredizas nuevas\r\nBaños refaccionados con grifería de primera calidad\r\nCada uno equepado para cuatro personas \r\nAmbientes amplios y muy luminosos.\r\nSe entregan completamente amobladas.\r\nRentabilidad comprobable \r\nCon una pequeña reforma se puede volver a su estado original \r\nPor su distribución y características, resulta una propiedad ideal para uso comercial, profesional o como inversión, permitiendo mantener las dos unidades independientes o adaptarlas según las necesidades del proyecto.\r\nUna excelente oportunidad para quienes buscan espacio, funcionalidad y versatilidad en una misma propiedad.",
-    "coordinates": {
-      "lat": "-32.8791007",
-      "lng": "-68.81332669999999"
-    },
-    "category_b_metrics": {
-      "price_score": 97.5,
-      "price_status": "DENTRO_PRESUPUESTO",
-      "surface_score": 90.0,
-      "surface_notes": "80 m2 (Cumple objetivo de 80 m2)",
-      "price_per_m2": 1225.0
-    },
-    "analysis": {
-      "opportunity_score": 34.4,
-      "evaluation_source": "heurística",
-      "category_c": {
-        "has_security": false,
-        "has_gas_network": false,
-        "has_parking": false,
-        "has_elevator": false,
-        "two_bathrooms": true
-      },
-      "negotiation_analysis": {
-        "potential": "Estándar",
-        "signals_detected": false,
-        "summary": "Precio estándar de mercado."
-      },
-      "pros": [
-        "Dentro del presupuesto (USD 98,000)"
-      ],
-      "cons": [
-        "⚠️ Sin seguridad 24 hs ni barrio privado (penalizado en puntaje)",
-        "Consultar conexión a red de gas natural"
-      ],
-      "ai_summary": "Propiedad en Mendoza (departamento) de 80.0 m2 a USD 98,000. Score: 34.4/100 (Penalizado por falta de seguridad 24hs)."
-    }
-  },
-  {
-    "id": "inmoclick_4335_2675",
-    "portal": "Inmoclick",
-    "title": "DEPARTAMENTO EN TORRES ALEJANDRIA.",
-    "property_type": "departamento",
-    "price_usd": 144200.0,
-    "surface_m2": 72.0,
-    "surface_total_m2": 90.0,
-    "surface_covered_m2": 72.0,
-    "bathrooms": 3,
-    "has_parking_attribute": true,
-    "location_zone": "Mendoza",
-    "url": "https://www.inmoclick.com.ar/4335-llopart-inmobiliaria/inmuebles/2675/ficha/departamento-en-venta-en-ruta-panamericana-caracoles-de-chacras",
-    "image_url": "https://www.inmoclick.com.ar/bundles/inmoclick/images/v14.6/empty-photo-box.jpg",
-    "description": "DEPARTAMENTO EN TORRES ALEJANDRIA.\r\nPRÓXIMO A CHACRAS DE CORIA, MALLS, CENTROS EMPRESARIALES, CLUBES Y COLEGIOS.\r\n\r\nEXCELENTE CONECTIVIDAD POR CORREDOR DEL OESTE Y NUEVA PANAMERICANA.\r\n\r\nHALL RECEPCIÓN.\r\nLIVING COMEDOR.\r\n\r\nCOCINA\r\nLAVADERO\r\nTOILETTE\r\n2 DORMITORIOS EN SUITE\r\nBALCÓN TERRAZA CON CHURRASQUERA\r\nCOCHERA CUBIERTA.\r\n\r\n- CALEFACCIÓN CENTRAL POR LOSA RADIANTE.\r\n\r\n72 M2 PROPIOS MÁS 18 M2 DE BALCÓN.\r\n\r\nAMENITIES:\r\nSUM, PISCINA CON DECK SOLARIUM, GIMNASIO Y SPA.\r\n\r\nSEGURIDAD Y CONSERJERÍA 24 HS.",
-    "coordinates": {
-      "lat": "-32.96895551759652",
-      "lng": "-68.87755463609068"
-    },
-    "category_b_metrics": {
-      "price_score": 74.5,
-      "price_status": "REQUIERE_CONTRAOFERTA",
-      "surface_score": 71.3,
-      "surface_notes": "72 m2 (En tolerancia, cercano al target de 80 m2)",
-      "price_per_m2": 2002.8
-    },
-    "analysis": {
-      "opportunity_score": 33.4,
-      "evaluation_source": "heurística",
-      "category_c": {
-        "has_security": false,
-        "has_gas_network": false,
-        "has_parking": true,
-        "has_elevator": false,
-        "two_bathrooms": true
-      },
-      "negotiation_analysis": {
-        "potential": "Moderada",
-        "signals_detected": false,
-        "summary": "Precio estándar de mercado."
-      },
-      "pros": [
-        "🚗 Cuenta con cochera"
-      ],
-      "cons": [
-        "Publicado en USD 144,200 (Requiere contraoferta del 3.0%)",
-        "⚠️ Sin seguridad 24 hs ni barrio privado (penalizado en puntaje)",
-        "Consultar conexión a red de gas natural"
-      ],
-      "ai_summary": "Propiedad en Mendoza (departamento) de 72.0 m2 a USD 144,200. Score: 33.4/100 (Penalizado por falta de seguridad 24hs)."
     }
   }
 ]
