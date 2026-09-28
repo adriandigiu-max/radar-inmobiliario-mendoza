@@ -1,0 +1,41 @@
+name: Radar Inmobiliario Mendoza Diario
+
+on:
+  schedule:
+    # Corre todos los días a las 08:00 AM hora de Argentina (11:00 UTC)
+    - cron: '0 11 * * *'
+  workflow_dispatch: # Permite ejecutarlo manualmente con un clic cuando quieras
+
+jobs:
+  scrape-and-update:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+    steps:
+      - name: Clonar repositorio
+        uses: actions/checkout@v4
+
+      - name: Configurar Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+
+      - name: Instalar dependencias
+        run: |
+          pip install -r requirements.txt
+
+      - name: Ejecutar Radar Inmobiliario y Enviar Email
+        env:
+          SMTP_SENDER_EMAIL: ${{ secrets.SMTP_SENDER_EMAIL }}
+          SMTP_APP_PASSWORD: ${{ secrets.SMTP_APP_PASSWORD }}
+          SMTP_RECIPIENT_EMAIL: ${{ secrets.SMTP_RECIPIENT_EMAIL }}
+          GEMINI_API_KEY: ${{ secrets.GEMINI_API_KEY }}
+        run: |
+          python main.py
+
+      - name: Guardar y publicar actualizaciones en GitHub
+        run: |
+          git config --global user.name 'Radar Bot'
+          git config --global user.email 'bot@radarinmobiliario.local'
+          git add data/
+          git diff --quiet && git diff --staged --quiet || (git commit -m 'chore: actualizacion diaria automatica [skip ci]' && git push)
