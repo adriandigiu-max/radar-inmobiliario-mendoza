@@ -103,7 +103,7 @@ with open(data_file, "r", encoding="utf-8") as f:
     properties = json.load(f)
 
 # Filtros dinámicos
-score_filter = st.sidebar.slider("Score mínimo", min_value=30, max_value=100, value=65)
+score_filter = st.sidebar.slider("Score mínimo", min_value=30, max_value=100, value=35)
 available_zones = sorted({p.get("location_zone", "") for p in properties if p.get("location_zone")})
 selected_zones = st.sidebar.multiselect("Zonas", available_zones, default=available_zones)
 available_types = sorted({p.get("property_type", "").title() for p in properties if p.get("property_type")})
@@ -194,8 +194,13 @@ for p in filtered:
                 st.markdown("🖼️ *Foto disponible en la ficha*")
 
         with col_info:
+            geo = p.get('geo_verification', {})
+            real_loc = f"{geo.get('real_city', p.get('location_zone'))}"
+            if geo.get('real_neighborhood'):
+                real_loc += f" ({geo.get('real_neighborhood')})"
+            
             st.markdown(f"#### {p.get('title')}")
-            st.markdown(f"📍 **{p.get('location_zone')}** • 🏠 **{p.get('property_type','').title()}** • 📐 **{m2_str}**")
+            st.markdown(f"📍 **{real_loc}** • 🏠 **{p.get('property_type','').title()}** • 📐 **{m2_str}**")
 
             # Badges Categoría C
             badges = []
