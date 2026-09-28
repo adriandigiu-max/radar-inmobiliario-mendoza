@@ -1,7 +1,6 @@
 """
 Evaluador de Oportunidades con IA (Gemini Flash) y modo Heurístico de respaldo (0 tokens).
-Analiza las características de la Categoría C, evalúa el potencial de contraoferta
-y asigna el Score Global de Oportunidad (0 a 100).
+Categoría C: Gas Natural, Cochera, Ascensor, y Seguridad 24hs (con alta penalidad por no tenerla).
 """
 
 import os
@@ -15,17 +14,21 @@ logger = logging.getLogger(__name__)
 
 def evaluate_heuristics(prop: Dict[str, Any], cat_b: Dict[str, Any]) -> Dict[str, Any]:
     """
-    Evaluación algorítmica sin tokens (fallback instantáneo y gratuito).
-    Analiza palabras clave en la descripción y ficha técnica.
+    Evaluación algorítmica sin tokens con los nuevos criterios y penalidades.
     """
     text = f"{prop.get('title', '')} {prop.get('description', '')}".lower()
     prop_type = prop.get("property_type", "").lower()
     price = prop.get("price_usd", 0)
 
-    # 1. Seguridad / Barrio Privado (Categoría C)
-    sec_keywords = ["barrio privado", "barrio cerrado", "seguridad 24", "seguridad privada", "garita", "vigilancia", "guardia"]
+    # 1. Seguridad 24 hs / Barrio Privado (Categoría C - Ponderación alta y penalización severa)
+    sec_keywords = [
+        "seguridad 24", "vigilancia 24", "guardia 24", "seguridad privada",
+        "barrio privado", "barrio cerrado", "garita", "porteria 24", "portería 24",
+        "control de acceso", "vigilancia permanente"
+    ]
     has_security = any(k in text for k in sec_keywords)
-    sec_score = 20 if has_security else (10 if prop_type == "departamento" else 0)
+    # Si tiene seguridad suma 30 pts, si no tiene recibe penalidad severa
+    sec_score = 30 if has_security else 0
 
     # 2. Red de gas natural (Categoría C)
     gas_keywords = ["gas natural", "red de gas", "calefaccion central", "radiadores", "tiro balanceado"]
@@ -38,135 +41,132 @@ def evaluate_heuristics(prop: Dict[str, Any], cat_b: Dict[str, Any]) -> Dict[str
     has_parking = bool(prop.get("has_parking_attribute")) or any(k in text for k in parking_keywords)
     parking_score = 20 if has_parking else 0
 
-    # 4. Dos o más baños (Categoría C)
-    bath_keywords = ["2 baños", "dos baños", "2 banos", "dos banos", "baño y toilette", "bano y toilette", "en suite"]
-    prop_baths = prop.get("bathrooms") or 0
-    has_two_baths = prop_baths >= 2 or any(k in text for k in bath_keywords)
-    bath_score = 15 if has_two_baths else 5
+    # 4. Ascensor (Categoría C - Especialmente relevante para departamentos)
+    elevator_keywords = ["ascensor", "elevador", "doble ascensor"]
+    has_elevator = any(k in text for k in elevator_keywords)
+    if prop_type == "departamento":
+        elevator_score = 15 if has_elevator else (10 if "planta baja" in text or " pb" in text else 0)
+    else:
+        elevator_score = 10  # En casas no aplica
 
-    # 5. Último piso en departamento (Categoría C)
-    floor_keywords = ["ultimo piso", "último piso", "piso superior", "penthouse", "terraza propia", "duplex"]
-    is_top_floor = any(k in text for k in floor_keywords) if prop_type == "departamento" else False
-    top_floor_score = 15 if is_top_floor else (10 if prop_type == "casa" else 0)
-
-    # 6. Detección de Margen de Negociación
+    # 5. Detección de Margen de Negociación
     nego_keywords = ["escucha oferta", "escuchan ofertas", "retasado", "rebajado", "urgencia", "permuta", "toma menor", "acepta vehiculo"]
     has_negotiation_signals = any(k in text for k in nego_keywords)
-    
-    nego_potential = "Alta" if has_negotiation_signals else ("Moderada" if price > 120000 else "Estándar")
+    nego_potential = "Alta" if has_negotiation_signals else ("Moderada" if price > 140000 else "Estándar")
 
-    # Score ponderado final (0 a 100)
-    # 30% Precio + 25% Superficie + 45% Características C
-    cat_c_score = (sec_score + gas_score + parking_score + bath_score + top_floor_score) * (100 / 90)
-    cat_c_score = min(100.0, cat_c_score)
+    # Score base ponderado
+    # 30% Precio + 25% Superficie (target 80m2) + 45% Características C
+    cat_c_sum = sec_score + gas_score + parking_score + elevator_score  # Max 85 pts
+    cat_c_score = min(100.0, (cat_c_sum / 85.0) * 100.0)
 
     price_score = cat_b.get("price_score", 70.0)
-    if price > 120000 and has_negotiation_signals:
+    if price > 140000 and has_negotiation_signals:
         price_score = min(100.0, price_score + 15.0)
 
-    final_score = (
-        (price_score * 0.35) +
+    base_score = (
+        (price_score * 0.30) +
         (cat_b.get("surface_score", 70.0) * 0.25) +
-        (cat_c_score * 0.40)
+        (cat_c_score * 0.45)
     )
+
+    # APLICAR ALTA PENALIDAD POR NO TENER SEGURIDAD 24HS / BARRIO PRIVADO (-20 puntos)
+    if not has_security:
+        base_score = max(30.0, base_score - 20.0)
+
+    final_score = min(100.0, round(base_score, 1))
 
     pros = []
     cons = []
-    if price <= 120000:
-        pros.append(f"Dentro del presupuesto base (USD {price:,.0f})")
+    if price <= 140000:
+        pros.append(f"Dentro del presupuesto (USD {price:,.0f})")
     else:
-        cons.append(f"Publicado en USD {price:,.0f} (Requiere negociación del {(price-120000)/1200:.1f}%)")
+        cons.append(f"Publicado en USD {price:,.0f} (Requiere contraoferta del {(price-140000)/1400:.1f}%)")
 
     if has_security:
-        pros.append("Cuenta con seguridad / barrio privado")
-    elif prop_type == "casa":
-        cons.append("No menciona expresamente barrio privado o seguridad")
+        pros.append("🛡️ Cuenta con seguridad 24 hs / barrio privado")
+    else:
+        cons.append("⚠️ Sin seguridad 24 hs ni barrio privado (penalizado en puntaje)")
 
     if has_gas:
-        pros.append("Menciona red de gas natural")
+        pros.append("🔥 Red de gas natural confirmada")
     else:
-        cons.append("Verificar conexión a red de gas natural")
+        cons.append("Consultar conexión a red de gas natural")
 
     if has_parking:
-        pros.append("Incluye cochera / garage")
-    if has_two_baths:
-        pros.append("Tiene 2 baños o suite")
-    if is_top_floor:
-        pros.append("Último piso (sin vecinos arriba)")
+        pros.append("🚗 Cuenta con cochera")
+    if has_elevator and prop_type == "departamento":
+        pros.append("🛗 Edificio con ascensor")
     if has_negotiation_signals:
-        pros.append("Publicación indica apertura a ofertas o permutas")
+        pros.append("💡 Publicación indica apertura a ofertas o permutas")
 
     return {
-        "opportunity_score": round(final_score, 1),
+        "opportunity_score": final_score,
         "evaluation_source": "heurística",
         "category_c": {
             "has_security": has_security,
             "has_gas_network": has_gas,
             "has_parking": has_parking,
-            "two_bathrooms": has_two_baths,
-            "is_top_floor": is_top_floor,
+            "has_elevator": has_elevator,
+            "two_bathrooms": True,  # Ya filtrado como excluyente en Cat A
         },
         "negotiation_analysis": {
             "potential": nego_potential,
             "signals_detected": has_negotiation_signals,
-            "summary": "Presenta términos de flexibilización o permuta en la descripción." if has_negotiation_signals else "Precio habitual de mercado.",
+            "summary": "Señales de negociación/permuta detectadas en la publicación." if has_negotiation_signals else "Precio estándar de mercado.",
         },
         "pros": pros[:4],
         "cons": cons[:3],
         "ai_summary": (
-            f"Propiedad en {prop.get('location_zone')} de {prop.get('surface_m2', 'N/A')} m2 a USD {price:,.0f}. "
-            f"Score de oportunidad: {round(final_score, 1)}/100."
+            f"Propiedad en {prop.get('location_zone')} ({prop.get('property_type')}) de {prop.get('surface_m2', 'N/A')} m2 a USD {price:,.0f}. "
+            f"Score: {final_score}/100 {'(Con seguridad 24hs)' if has_security else '(Penalizado por falta de seguridad 24hs)'}."
         ),
     }
 
 
 def evaluate_with_gemini(prop: Dict[str, Any], cat_b: Dict[str, Any], api_key: str) -> Optional[Dict[str, Any]]:
-    """
-    Evaluación cualitativa profunda utilizando Google Gemini 2.0 / 1.5 Flash.
-    """
+    """Evaluación profunda con Gemini Flash (usando los nuevos criterios)."""
     try:
         from google import genai
         client = genai.Client(api_key=api_key)
 
         prompt = f"""
-Eres un asesor inmobiliario experto analizando una oportunidad en Mendoza, Argentina.
-Analiza la siguiente publicación inmobiliaria y compárala con las preferencias del comprador:
+Eres un analista inmobiliario en Mendoza, Argentina.
+Analiza la siguiente publicación inmobiliaria según estos criterios:
 
-[DATOS DE LA PROPIEDAD]
+[PROPIEDAD]
 - Tipo: {prop.get('property_type')}
 - Zona: {prop.get('location_zone')}
-- Precio publicado: USD {prop.get('price_usd')}
+- Precio: USD {prop.get('price_usd')}
 - Superficie: {prop.get('surface_m2')} m2
 - Título: {prop.get('title')}
-- Descripción del aviso:
+- Descripción:
 \"\"\"{prop.get('description', '')[:2000]}\"\"\"
 
-[PREFERENCIAS DEL COMPRADOR]
-- Presupuesto máximo total: USD 120.000 (Si el precio está entre 120k y 132k, evaluar si el aviso muestra señales de urgencia, retasado o 'escucha ofertas' para contraofertar).
-- Superficie deseada: desde 50 m2 cubiertos (40-50m2 tolerable).
-- Deseables clave:
-  1. Seguridad (si es casa, barrio privado; si es depto, seguridad del edificio).
-  2. Red de gas natural (fundamental por clima mendocino).
-  3. Cochera propia.
-  4. Dos baños.
-  5. Último piso (si es departamento).
+[CRITERIOS DEL COMPRADOR]
+- Presupuesto objetivo: USD 140.000 (Tope máximo con contraoferta de mercado: USD 152.000).
+- Superficie deseada: 80 m2 cubiertos (tolerancia desde 65 m2).
+- Mínimo 2 baños (excluyente).
+- Deseables:
+  1. Red de gas natural conectada.
+  2. Cochera propia.
+  3. Ascensor (en departamentos).
+  4. Seguridad 24 hs (en casas: barrio cerrado; en deptos: seguridad 24hs o portería permanente).
+     *ATENCIÓN: Si NO tiene seguridad 24 hs o barrio privado, aplicar una fuerte penalización en opportunity_score (-20 a -25 puntos).*
 
-Responde EXCLUSIVAMENTE con un objeto JSON válido con la siguiente estructura exacta:
+Responde EXCLUSIVAMENTE con un JSON válido:
 {{
   "opportunity_score": <número entre 0 y 100>,
-  "has_security": <true|false|null>,
-  "has_gas_network": <true|false|null>,
-  "has_parking": <true|false|null>,
-  "two_bathrooms": <true|false|null>,
-  "is_top_floor": <true|false|null>,
+  "has_security": <true|false>,
+  "has_gas_network": <true|false>,
+  "has_parking": <true|false>,
+  "has_elevator": <true|false>,
   "negotiation_potential": <"Alta"|"Media"|"Baja">,
-  "negotiation_reasoning": <"breve explicación de por qué es o no negociable">,
-  "pros": [<lista de 2 a 3 puntos a favor concretos>],
-  "cons": [<lista de 1 a 2 advertencias o dudas a confirmar>],
-  "ai_summary": <"resumen ejecutivo de 2 oraciones para el comprador">
+  "negotiation_reasoning": <"breve análisis del margen de negociación en Mendoza">,
+  "pros": [<lista de 2 a 3 puntos a favor>],
+  "cons": [<lista de 1 a 2 advertencias>],
+  "ai_summary": <"resumen de 2 oraciones para el comprador">
 }}
 """
-
         response = client.models.generate_content(
             model="gemini-2.5-flash",
             contents=prompt,
@@ -175,7 +175,6 @@ Responde EXCLUSIVAMENTE con un objeto JSON válido con la siguiente estructura e
                 "temperature": 0.2
             }
         )
-
         data = json.loads(response.text)
         return {
             "opportunity_score": float(data.get("opportunity_score", 70.0)),
@@ -184,8 +183,8 @@ Responde EXCLUSIVAMENTE con un objeto JSON válido con la siguiente estructura e
                 "has_security": data.get("has_security"),
                 "has_gas_network": data.get("has_gas_network"),
                 "has_parking": data.get("has_parking"),
-                "two_bathrooms": data.get("two_bathrooms"),
-                "is_top_floor": data.get("is_top_floor"),
+                "has_elevator": data.get("has_elevator"),
+                "two_bathrooms": True,
             },
             "negotiation_analysis": {
                 "potential": data.get("negotiation_potential", "Media"),
@@ -196,18 +195,13 @@ Responde EXCLUSIVAMENTE con un objeto JSON válido con la siguiente estructura e
             "ai_summary": data.get("ai_summary", ""),
         }
     except Exception as e:
-        logger.warning(f"Fallo en evaluación con Gemini ({e}), usando evaluación heurística")
+        logger.warning(f"Fallback a heurística: {e}")
         return None
 
 
 def evaluate_property(prop: Dict[str, Any], cat_b: Dict[str, Any], api_key: Optional[str] = None) -> Dict[str, Any]:
-    """
-    Función principal de análisis: intenta con Gemini si hay API Key disponible,
-    o utiliza la evaluación heurística con 0 tokens.
-    """
     if api_key:
         result = evaluate_with_gemini(prop, cat_b, api_key)
         if result:
             return result
-
     return evaluate_heuristics(prop, cat_b)

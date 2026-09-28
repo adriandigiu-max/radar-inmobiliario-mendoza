@@ -9,82 +9,82 @@ search:
   # ----------------------------------------------------------------------------
   locations:
     primary:
-      - "Mendoza"       # Ciudad / Capital
-    secondary:
-      - "Godoy Cruz"
-      - "Guaymallen"
-      - "Las Heras"
+      - "Mendoza"       # Ciudad / Capital (Todas las secciones, Bombal, Quinta, etc.)
+      - "Godoy Cruz"    # Godoy Cruz completo
+    secondary_subzones:
+      - zone: "Guaymallen"
+        allowed_neighborhoods:
+          - "dorrego"   # En Guaymallén ÚNICAMENTE barrio Dorrego
 
   property_types:
     - "departamento"
     - "casa"
 
+  # Baños mínimos obligatorios (Excluyente)
+  min_bathrooms: 2
+
   budget:
-    total_available_usd: 120000
-    # Margen de contraoferta (10%): propiedades hasta $132.000 se evalúan
-    # para analizar si por antigüedad o urgencia se puede negociar a $120.000
-    negotiation_margin_pct: 10
-    max_search_price_usd: 132000
+    total_available_usd: 140000
+    # Margen de contraoferta según mercado Mendoza (8.5% habitual para compras al contado):
+    # Propiedades hasta $152.000 se evalúan para analizar si se pueden cerrar en $140.000
+    negotiation_margin_pct: 8.5
+    max_search_price_usd: 152000
 
   # ----------------------------------------------------------------------------
   # CATEGORÍA B: VALORES DESEADOS CON TOLERANCIA
   # No excluyen, pero otorgan mayor o menor puntaje base.
   # ----------------------------------------------------------------------------
   surface:
-    target_m2: 50
-    min_m2_acceptable: 40  # Margen de tolerancia (ej: 45m2 califica con penalización leve)
+    target_m2: 80         # Target deseado: 80 m2 cubiertos
+    min_m2_acceptable: 65 # Tolerancia mínima: por debajo de 65m2 penaliza fuertemente
 
   # ----------------------------------------------------------------------------
-  # CATEGORÍA C: CARACTERÍSTICAS MUY DESEABLES (Puntos extra en el Score 0-100)
-  # La IA analiza el texto y ficha técnica buscando estas condiciones.
+  # CATEGORÍA C: CARACTERÍSTICAS MUY DESEABLES (Puntos extra / Penalidades)
   # ----------------------------------------------------------------------------
   features:
-    security_gated_community:
-      name: "Seguridad / Barrio Privado"
-      weight: 20
-      description: "En caso de casa: barrio privado, cerrado o seguridad 24hs"
+    security_24hs:
+      name: "Seguridad 24 hs / Barrio Privado"
+      weight: 35
+      penalty_if_missing: -25  # Alta penalidad por no tener seguridad 24hs
+      description: "Seguridad 24 hs en edificio o barrio cerrado/privado en casas"
     gas_network:
       name: "Red de Gas Natural"
       weight: 20
-      description: "Conexión a gas natural de red (clave en Mendoza)"
+      description: "Conexión a gas natural de red"
     parking:
       name: "Cochera"
       weight: 20
-      description: "Cochera cubierta o descubierta propia"
-    two_bathrooms:
-      name: "Dos o más baños"
+      description: "Cochera propia / garage cubierto"
+    elevator:
+      name: "Ascensor (en Deptos)"
       weight: 15
-      description: "Al menos 2 baños completos o baño + toilette"
-    top_floor:
-      name: "Último piso (Dpto)"
-      weight: 15
-      description: "Último piso en caso de departamentos"
+      description: "Edificio con ascensor (si es departamento en piso alto)"
 
 # ------------------------------------------------------------------------------
-# PORTALES A MONITOREAR
+# PORTALES MONITOREADOS
 # ------------------------------------------------------------------------------
 portals:
-  mercadolibre:
-    enabled: true
-    label: "Mercado Libre Inmuebles"
   inmoclick:
     enabled: true
     label: "Inmoclick Mendoza (Portal #1 local en Cuyo)"
+  mercadolibre:
+    enabled: true
+    label: "Mercado Libre Inmuebles"
   zonaprop:
     enabled: true
-    label: "Zonaprop"
+    label: "Zonaprop Mendoza"
   argenprop:
     enabled: true
-    label: "Argenprop"
+    label: "Argenprop Mendoza"
 
 # ------------------------------------------------------------------------------
 # NOTIFICACIONES POR EMAIL
 # ------------------------------------------------------------------------------
 notifications:
   email:
-    enabled: false              # Cambiar a true cuando se configuren las credenciales
+    enabled: false
     smtp_server: "smtp.gmail.com"
     smtp_port: 587
-    sender_email: ""            # Tu correo Gmail remitente
-    sender_app_password: ""     # Contraseña de aplicación de Google (16 letras)
-    recipient_email: ""         # Correo donde quieres recibir el reporte diario
+    sender_email: ""
+    sender_app_password: ""
+    recipient_email: ""
