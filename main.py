@@ -13,6 +13,8 @@ import yaml
 from dotenv import load_dotenv
 
 from scraper.inmoclick import scrape_all_inmoclick
+from scraper.argenprop import scrape_argenprop
+from scraper.mercadolibre import scrape_mercadolibre
 from analyzer.filter import check_category_a, calculate_category_b_score
 from analyzer.ai_evaluator import evaluate_property
 from notifier.mailer import send_email_report, generate_email_html
@@ -73,6 +75,16 @@ def run_pipeline():
         inmoclick_props = scrape_all_inmoclick(locations, max_price_usd=max_price)
         logger.info(f"Inmoclick: {len(inmoclick_props)} propiedades encontradas.")
         raw_properties.extend(inmoclick_props)
+
+    if portals_cfg.get("argenprop", {}).get("enabled", True):
+        logger.info("Consultando Argenprop...")
+        argenprop_props = scrape_argenprop(max_price_usd=max_price, max_pages=2)
+        raw_properties.extend(argenprop_props)
+
+    if portals_cfg.get("mercadolibre", {}).get("enabled", True):
+        logger.info("Consultando Mercado Libre Inmuebles...")
+        ml_props = scrape_mercadolibre(max_price_usd=max_price)
+        raw_properties.extend(ml_props)
 
     logger.info(f"Total propiedades capturadas antes de filtros: {len(raw_properties)}")
 
@@ -197,7 +209,7 @@ def run_pipeline():
     email_cfg = config.get("notifications", {}).get("email", {})
     if email_cfg.get("enabled", False):
         logger.info("Enviando reporte por email...")
-        sent = send_email_report(top_opportunities, email_cfg, search_cfg)
+        sent = send_email_report(evaluated_opportunities, email_cfg, search_cfg)
         if sent:
             logger.info("Email enviado exitosamente.")
     else:
