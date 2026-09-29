@@ -18,7 +18,7 @@ logger = logging.getLogger(__name__)
 def generate_email_html(
     opportunities: List[Dict[str, Any]],
     search_summary: Dict[str, Any],
-    app_url: str = "https://radar-inmobiliario-mendoza.streamlit.app",
+    app_url: str = "https://radar-inmobiliario-mendoza-jbkvczku2rebeudch5itlt.streamlit.app",
     total_found: int = 0
 ) -> str:
     """Genera la plantilla HTML responsive priorizando NOVEDADES del día."""
@@ -200,7 +200,7 @@ def send_email_report(
     recipient = smtp_config.get("recipient_email", "sdigiuseppe@umaza.edu.ar")
     smtp_server = smtp_config.get("smtp_server", "smtp.gmail.com")
     smtp_port = int(smtp_config.get("smtp_port", 587))
-    app_url = smtp_config.get("app_url", "https://radar-inmobiliario-mendoza.streamlit.app")
+    app_url = smtp_config.get("app_url", "https://radar-inmobiliario-mendoza-jbkvczku2rebeudch5itlt.streamlit.app")
 
     if not sender or not password or not recipient:
         logger.warning("Falta configurar la contraseña de aplicación SMTP (sender_app_password). Reporte guardado localmente.")

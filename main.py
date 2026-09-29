@@ -226,7 +226,7 @@ def run_pipeline():
 
     # Generar y guardar vista previa HTML del reporte
     email_cfg = config.get("notifications", {}).get("email", {})
-    app_url = email_cfg.get("app_url", "https://radar-inmobiliario-mendoza.streamlit.app")
+    app_url = email_cfg.get("app_url", "https://radar-inmobiliario-mendoza-jbkvczku2rebeudch5itlt.streamlit.app")
     html_report = generate_email_html(
         opportunities=evaluated_opportunities,
         search_summary=search_cfg,

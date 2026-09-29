@@ -88,4 +88,4 @@ notifications:
     sender_email: "adriandigiu@gmail.com"
     sender_app_password: ""  # Se carga desde .env o variable de entorno SMTP_APP_PASSWORD
     recipient_email: "sdigiuseppe@umaza.edu.ar"
-    app_url: "https://radar-inmobiliario-mendoza.streamlit.app"
+    app_url: "https://radar-inmobiliario-mendoza-jbkvczku2rebeudch5itlt.streamlit.app"
