@@ -170,7 +170,7 @@ def send_email_report(
 ) -> bool:
     """Envía el email del Top 3 vía SMTP."""
     sender = smtp_config.get("sender_email", "adriandigiu@gmail.com")
-    password = smtp_config.get("sender_app_password")
+    password = smtp_config.get("sender_app_password", "").replace(" ", "").strip()
     recipient = smtp_config.get("recipient_email", "flordigiu@gmail.com")
     smtp_server = smtp_config.get("smtp_server", "smtp.gmail.com")
     smtp_port = int(smtp_config.get("smtp_port", 587))
@@ -195,13 +195,25 @@ def send_email_report(
         )
         msg.attach(MIMEText(html_body, "html", "utf-8"))
 
-        with smtplib.SMTP(smtp_server, smtp_port) as server:
-            server.starttls()
-            server.login(sender, password)
-            server.send_message(msg)
-
-        logger.info(f"Reporte enviado con éxito a {recipient} desde {sender}")
-        return True
+        # Intentar primero conexión directa SSL por puerto 465 (más confiable)
+        try:
+            import ssl
+            context = ssl.create_default_context()
+            with smtplib.SMTP_SSL("smtp.gmail.com", 465, context=context, timeout=15) as server:
+                server.login(sender, password)
+                server.send_message(msg)
+            logger.info(f"Reporte enviado con éxito a {recipient} desde {sender} (vía SSL 465)")
+            return True
+        except Exception as ssl_err:
+            logger.warning(f"Intento por puerto 465 falló ({ssl_err}), intentando puerto 587...")
+            with smtplib.SMTP(smtp_server, 587, timeout=15) as server:
+                server.ehlo()
+                server.starttls()
+                server.ehlo()
+                server.login(sender, password)
+                server.send_message(msg)
+            logger.info(f"Reporte enviado con éxito a {recipient} desde {sender} (vía TLS 587)")
+            return True
     except Exception as e:
         logger.error(f"Error al enviar correo por SMTP: {e}")
         return False
