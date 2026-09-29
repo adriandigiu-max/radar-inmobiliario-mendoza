@@ -1,22 +1,22 @@
 [
   {
-    "id": "inmoclick_17515_20134",
+    "id": "inmoclick_17515_19405",
     "portal": "Inmoclick",
-    "title": "Departamento en Microcentro en Venta – 3 Dormitorios / 2 Baños / Cochera/ Amoblado",
+    "title": "DEPARTAMENTO 3 AMBIENTES EN VENTA EN 25 DE MAYO, MENDOZA CAPITAL",
     "property_type": "departamento",
-    "price_usd": 89999.0,
-    "surface_m2": 110.0,
+    "price_usd": 100000.0,
+    "surface_m2": 100.0,
     "surface_total_m2": 110.0,
-    "surface_covered_m2": 110.0,
+    "surface_covered_m2": 100.0,
     "bathrooms": 2,
     "has_parking_attribute": true,
     "location_zone": "Mendoza",
-    "url": "https://www.inmoclick.com.ar/17515-remax-solutions/inmuebles/20134/ficha/departamento-en-venta-en-corrientes-100",
+    "url": "https://www.inmoclick.com.ar/17515-remax-solutions/inmuebles/19405/ficha/departamento-en-venta-en-25-de-mayo-900",
     "image_url": "https://www.inmoclick.com.ar/bundles/inmoclick/images/v14.6/empty-photo-box.jpg",
-    "description": "Departamento en Microcentro en Venta – 3 Dormitorios / 2 Baños / Cochera/ Amoblado\n\n Excelente departamento en pleno Microcentro de Mendoza, el precio es completamente amoblado tal cual se ve en fotos\n\nUbicación privilegiada: Calle Corrientes 122, a solo una cuadra de Av. San Martín y con rápida salida a Costanera. Zona céntrica y comercial, rodeada de transporte público, colegios, escuelas, comercios y servicios.\n\n\n\n El edificio\n\t•\tClásica arquitectura con destacada fachada.\n\t•\t8 plantas de departamentos y 2 subsuelos de cocheras.\n\t•\tAmplio lobby con frente vidriado y diseño en ladrillo visto.\n\t•\tSeguridad 24 hs: guardia permanente, cámaras y portón automático en cocheras.\n\n El departamento\n\t•\tUbicado en 6º piso, acceso por ascensor o escaleras.\n\t•\tSuperficie cubierta: propios / Total: 110 m².\n\t•\tCochera amplia: 28 m² en 1º subsuelo (una de las más grandes del edificio).\n\t•\tLiving comedor con salida a balcón.\n\t•\tCocina independiente con lavadero.\n\t•\t3 dormitorios con placares.\n\t•\t2 baños (uno con bañera).\n\n Reciclado: cocina y placares de dormitorios recientemente renovados.\n\n Detalles constructivos\n\t•\tPisos de parquet en living, dormitorios y pasillo.\n\t•\tAmoblamiento de cocina a nuevo.\n\t•\tPlacares completos en dormitorios.\n\t•\tVentiladores de techo y luminarias instaladas.\n\t•\tCalefactor.\n \nListo para escriturar\nContactanos para más info y agendá tu visita.\n\n- El precio, distancias y medidas indicadas, son de referencia, sujeto a modificaciones sin previo aviso.-\n- Los datos consignados en esta web, pueden contener errores y no son contractuales; verifique los mismos previamente con nuestro asesor.",
+    "description": "DEPARTAMENTO 3 AMBIENTES EN VENTA EN 25 DE MAYO, MENDOZA CAPITAL\n\nUn refugio urbano que combina elegancia contemporánea con la calidez de Mendoza, este departamento de 110 m² se erige como un espacio de vida pensado para quienes valoran el confort y la ubicación estratégica.\n\nCARACTERÍSTICAS PRINCIPALES\n\n• Ubicación privilegiada sobre 25 de Mayo, en pleno corazón de Mendoza Capital\n• Superficie total de 110 m², con 100 m² cubiertos y 10 m² semicubiertos\n• Distribución inteligente en 3 ambientes con 2 habitaciones amplias\n• Dos baños completos que garantizan privacidad y funcionalidad\n• Dos cocheras incluidas, un plus para la movilidad urbana\n\nDETALLES DEL INMUEBLE Y EDIFICIO.\n\nLa propiedad, construida en 1995, conserva una estructura sólida y bien mantenida. Ubicado en el quinto piso de un edificio de ocho niveles, ofrece una perspectiva única de la dinámica urbana mendocina.\nEn piso octavo esta la piscina, quincho y lavanderia.\nSEGURIDAD 24 HORAS.\n\nPROPUESTA DE VALOR\n\nUn departamento que no es solo un espacio, sino un lienzo donde proyectar tus sueños. La distribución equilibrada permite flexibilidad para familias jóvenes, profesionales o inversores que buscan una propiedad con potencial de valorización.\n\nLa luminosidad natural, la distribución funcional y la ubicación céntrica lo convierten en una opción irresistible para quienes buscan vivir el pulso de Mendoza con sofisticación y comodidad.",
     "coordinates": {
-      "lat": "-32.8820692",
-      "lng": "-68.834876"
+      "lat": "-32.890912745124",
+      "lng": "-68.847495630836"
     },
     "geo_verification": {
       "is_valid_zone": true,
@@ -26,20 +26,20 @@
       "geocode_verified": true
     },
     "category_b_metrics": {
-      "price_score": 98.9,
+      "price_score": 97.1,
       "price_status": "DENTRO_PRESUPUESTO",
-      "surface_score": 99.0,
-      "surface_notes": "110 m2 (Cumple objetivo de 80 m2)",
-      "price_per_m2": 818.2
+      "surface_score": 96.0,
+      "surface_notes": "100 m2 (Cumple objetivo de 80 m2)",
+      "price_per_m2": 1000.0
     },
     "analysis": {
-      "opportunity_score": 91.5,
+      "opportunity_score": 82.2,
       "evaluation_source": "heurística",
       "category_c": {
         "has_security": true,
         "has_gas_network": false,
         "has_parking": true,
-        "has_elevator": true,
+        "has_elevator": false,
         "two_bathrooms": true
       },
       "negotiation_analysis": {
@@ -48,136 +48,17 @@
         "summary": "Precio estándar de mercado."
       },
       "pros": [
-        "Dentro del presupuesto (USD 89,999)",
+        "Dentro del presupuesto (USD 100,000)",
         "🛡️ Cuenta con seguridad 24 hs / barrio privado",
-        "🚗 Cuenta con cochera",
-        "🛗 Edificio con ascensor"
+        "🚗 Cuenta con cochera"
       ],
       "cons": [
         "Consultar conexión a red de gas natural"
       ],
-      "ai_summary": "Propiedad en Mendoza (departamento) de 110.0 m2 a USD 89,999. Score: 91.5/100 (Con seguridad 24hs)."
-    }
-  },
-  {
-    "id": "inmoclick_133635_102",
-    "portal": "Inmoclick",
-    "title": "OPORTUNIDAD EN PLENO CENTRO",
-    "property_type": "departamento",
-    "price_usd": 63000.0,
-    "surface_m2": 136.0,
-    "surface_total_m2": 136.0,
-    "surface_covered_m2": 136.0,
-    "bathrooms": 2,
-    "has_parking_attribute": false,
-    "location_zone": "Mendoza",
-    "url": "https://www.inmoclick.com.ar/133635-di-luca-propiedades/inmuebles/102/ficha/departamento-en-venta-en-buenos-aires-n0-258-ciudad",
-    "image_url": "https://www.inmoclick.com.ar/bundles/inmoclick/images/v14.6/empty-photo-box.jpg",
-    "description": "OPORTUNIDAD EN PLENO CENTRO\r\n\r\n3 DORMITORIOS - 136m² - U$S 63.000\r\n\r\nTu próxima historia empieza en el microcentro mendocino\r\n\r\n📍 Buenos Aires 258, Ciudad - A metros de Rioja. Caminando a todo: comercios, colegios, transporte y mercados\r\n\r\n🏠 Primer piso con ascensor - 136,47 m² cubiertos\r\n\r\n✔ Living-comedor amplio y luminoso\r\n✔ Cocina separada con lavadero\r\n✔ 3 dormitorios espaciosos\r\n✔ Baño principal + Baño en suite\r\n✔ Edificio con ascensor\r\n\r\n✨ LISTO PARA ESCRITURAR\r\n\r\nUn departamento grande, de los de antes, en una ubicación que ya no se consigue a este precio. \r\n\r\n✔ Sin cochera.\r\n\r\n💵 U$S 63.000\r\n\r\n👉 ¿Querés conocerlo? Escribinos y coordinamos visita.\r\n\r\nDiluca Propiedades\r\nwww.dilucapropiedades.com.ar",
-    "coordinates": {
-      "lat": "-32.88744121953435",
-      "lng": "-68.83488048260118"
+      "ai_summary": "Propiedad en Mendoza (departamento) de 100.0 m2 a USD 100,000. Score: 82.2/100 (Con seguridad 24hs)."
     },
-    "geo_verification": {
-      "is_valid_zone": true,
-      "real_city": "Ciudad De Mendoza",
-      "real_neighborhood": null,
-      "rejection_reason": null,
-      "geocode_verified": true
-    },
-    "category_b_metrics": {
-      "price_score": 100.0,
-      "price_status": "DENTRO_PRESUPUESTO",
-      "surface_score": 100.0,
-      "surface_notes": "136 m2 (Cumple objetivo de 80 m2)",
-      "price_per_m2": 463.2
-    },
-    "analysis": {
-      "opportunity_score": 56.2,
-      "evaluation_source": "heurística",
-      "category_c": {
-        "has_security": false,
-        "has_gas_network": false,
-        "has_parking": true,
-        "has_elevator": true,
-        "two_bathrooms": true
-      },
-      "negotiation_analysis": {
-        "potential": "Estándar",
-        "signals_detected": false,
-        "summary": "Precio estándar de mercado."
-      },
-      "pros": [
-        "Dentro del presupuesto (USD 63,000)",
-        "🚗 Cuenta con cochera",
-        "🛗 Edificio con ascensor"
-      ],
-      "cons": [
-        "⚠️ Sin seguridad 24 hs ni barrio privado (penalizado en puntaje)",
-        "Consultar conexión a red de gas natural"
-      ],
-      "ai_summary": "Propiedad en Mendoza (departamento) de 136.0 m2 a USD 63,000. Score: 56.2/100 (Penalizado por falta de seguridad 24hs)."
-    }
-  },
-  {
-    "id": "inmoclick_268429_1974",
-    "portal": "Inmoclick",
-    "title": "VENTA DEPARTAMENTO – GODOY CRUZ",
-    "property_type": "departamento",
-    "price_usd": 95000.0,
-    "surface_m2": 109.0,
-    "surface_total_m2": 114.0,
-    "surface_covered_m2": 109.0,
-    "bathrooms": 2,
-    "has_parking_attribute": false,
-    "location_zone": "Godoy Cruz",
-    "url": "https://www.inmoclick.com.ar/268429-re-max-vendimia/inmuebles/1974/ficha/departamento-en-venta-en-avenida-san-martin-100",
-    "image_url": "https://www.inmoclick.com.ar/bundles/inmoclick/images/v14.6/empty-photo-box.jpg",
-    "description": "VENTA DEPARTAMENTO – GODOY CRUZ\nRE/MAX VENDIMIA\nUbicación: Excelente zona de Godoy Cruz, a solo tres cuadras de la Plaza.\n\n*Vistas: Increíbles vistas a la montaña y a la cordillera.\n*Departamento muy luminoso.\n\nDescripción de la propiedad\nDepartamento de categoría, remodelado y restaurado, con ambientes amplios, cómodos y funcionales. Construcción tradicional, sólida y de excelente calidad. Edificio con más de 50 años de trayectoria y en muy buen estado de conservación.\n\nSuperficie cubierta propia: 109,39 m²\nSuperficie cubierta total: 153,98 m²\nSuperficie no cubierta de uso exclusivo: 10,36 m² (terraza 5,10 m² + balcón 5,26 m²)\n\nDistribución\n-3 dormitorios (uno con vestidor) o privados\n-3 baños\n-Cocina independiente\n-Living–comedor amplio\n-Habitación de depósito\n-2 balcones\n-Baulera en subsuelo\n-Hall de ingreso\n-Ascensor\n\nCaracterísticas destacadas\n-Construcción tradicional\n-Cañerías de agua fría y agua caliente totalmente refaccionadas\n-Calefacción central (caldera nueva)\n-Excelente ventilación natural\n-Muy luminoso\n-Buenas vistas a la montaña\n-Zona con todos los servicios\n-Edificio tradicional y sólido\n\nImportante\nNo dispone de cochera propia, pero se pueden alquilar o comprar cocheras en la zona.\n\nSe puede negociar el valor del departamento.\n\nOportunidad única\nDepartamento amplio, luminoso y con vistas privilegiadas en una de las mejores zonas de Godoy Cruz. Ideal para vivienda permanente o inversión.\n\n¡Consultanos por más información y coordiná tu visita!\n\nRE/MAX VENDIMIA\nTu mejor opción en bienes raíces.",
-    "coordinates": {
-      "lat": "-32.922184965481",
-      "lng": "-68.847855090899"
-    },
-    "geo_verification": {
-      "is_valid_zone": true,
-      "real_city": "Distrito Ciudad De Godoy Cruz",
-      "real_neighborhood": "Barrio Ypf",
-      "rejection_reason": null,
-      "geocode_verified": true
-    },
-    "category_b_metrics": {
-      "price_score": 98.0,
-      "price_status": "DENTRO_PRESUPUESTO",
-      "surface_score": 98.7,
-      "surface_notes": "109 m2 (Cumple objetivo de 80 m2)",
-      "price_per_m2": 871.6
-    },
-    "analysis": {
-      "opportunity_score": 55.3,
-      "evaluation_source": "heurística",
-      "category_c": {
-        "has_security": false,
-        "has_gas_network": false,
-        "has_parking": true,
-        "has_elevator": true,
-        "two_bathrooms": true
-      },
-      "negotiation_analysis": {
-        "potential": "Estándar",
-        "signals_detected": false,
-        "summary": "Precio estándar de mercado."
-      },
-      "pros": [
-        "Dentro del presupuesto (USD 95,000)",
-        "🚗 Cuenta con cochera",
-        "🛗 Edificio con ascensor"
-      ],
-      "cons": [
-        "⚠️ Sin seguridad 24 hs ni barrio privado (penalizado en puntaje)",
-        "Consultar conexión a red de gas natural"
-      ],
-      "ai_summary": "Propiedad en Godoy Cruz (departamento) de 109.0 m2 a USD 95,000. Score: 55.3/100 (Penalizado por falta de seguridad 24hs)."
-    }
+    "is_new": true,
+    "first_seen": "2026-09-29"
   },
   {
     "id": "inmoclick_17515_18739",
@@ -236,66 +117,9 @@
         "Consultar conexión a red de gas natural"
       ],
       "ai_summary": "Propiedad en Mendoza (casa) de 154.0 m2 a USD 120,000. Score: 51.6/100 (Penalizado por falta de seguridad 24hs)."
-    }
-  },
-  {
-    "id": "inmoclick_124071_43",
-    "portal": "Inmoclick",
-    "title": "DRUMMOND NEGOCIOS INMOBILIARIOS VENDE",
-    "property_type": "departamento",
-    "price_usd": 68000.0,
-    "surface_m2": 75.0,
-    "surface_total_m2": 75.0,
-    "surface_covered_m2": 75.0,
-    "bathrooms": 2,
-    "has_parking_attribute": false,
-    "location_zone": "Mendoza",
-    "url": "https://www.inmoclick.com.ar/124071-drummond-negocios-inmobiliarios/inmuebles/43/ficha/departamento-en-venta-en-espana-y-gutierrez",
-    "image_url": "https://www.inmoclick.com.ar/bundles/inmoclick/images/v14.6/empty-photo-box.jpg",
-    "description": "DRUMMOND NEGOCIOS INMOBILIARIOS VENDE\r\n\r\nDEPARTAMENTO DE 2 DORMITORIOS SOBRE AV. ESPAÑA\r\nCIUDAD DE MENDOZA\r\n\r\nExcelente oportunidad para vivienda o inversión, ubicada sobre Avenida España, en un sector estratégico de la Ciudad de Mendoza con alta demanda locativa y cercanía a comercios, universidades y medios de transporte.\r\n\r\nEl departamento está ubicado en un quinto piso, posee aproximadamente 75 m² y se encuentra en muy buen estado de conservación.\r\n\r\nCARACTERÍSTICAS\r\n\r\n• Dos dormitorios.\r\n• Baño completo.\r\n• Toilette.\r\n• Ambientes luminosos y ventilados.\r\n• Buena distribución interior.\r\n• Instalaciones de agua completamente renovadas.\r\n• Calefacción a gas natural.\r\n• Aires acondicionados instalados.\r\n• Bajo costo de mantenimiento.\r\n• Sin cochera.\r\n\r\nPor su ubicación, tipología y estado general, presenta un perfil atractivo para vivienda propia o para destinarlo al mercado de alquiler.\r\n\r\nConsultanos para conocer el precio, recibir más información y coordinar una visita.\r\n\r\nTodas las superficies y medidas indicadas son aproximadas. Las dimensiones definitivas surgirán del plano de mensura y de la documentación correspondiente.\r\n\r\nDRUMMOND NEGOCIOS INMOBILIARIOS\r\nJuan Esteban Ojeda Gassull\r\nCorredor Inmobiliario – CPIM Mat. Nº 1654",
-    "coordinates": {
-      "lat": "-32.888521736592686",
-      "lng": "-68.84139686187133"
     },
-    "geo_verification": {
-      "is_valid_zone": true,
-      "real_city": "Ciudad De Mendoza",
-      "real_neighborhood": null,
-      "rejection_reason": null,
-      "geocode_verified": true
-    },
-    "category_b_metrics": {
-      "price_score": 100.0,
-      "price_status": "DENTRO_PRESUPUESTO",
-      "surface_score": 78.3,
-      "surface_notes": "75 m2 (En tolerancia, cercano al target de 80 m2)",
-      "price_per_m2": 906.7
-    },
-    "analysis": {
-      "opportunity_score": 50.8,
-      "evaluation_source": "heurística",
-      "category_c": {
-        "has_security": false,
-        "has_gas_network": true,
-        "has_parking": true,
-        "has_elevator": false,
-        "two_bathrooms": true
-      },
-      "negotiation_analysis": {
-        "potential": "Estándar",
-        "signals_detected": false,
-        "summary": "Precio estándar de mercado."
-      },
-      "pros": [
-        "Dentro del presupuesto (USD 68,000)",
-        "🔥 Red de gas natural confirmada",
-        "🚗 Cuenta con cochera"
-      ],
-      "cons": [
-        "⚠️ Sin seguridad 24 hs ni barrio privado (penalizado en puntaje)"
-      ],
-      "ai_summary": "Propiedad en Mendoza (departamento) de 75.0 m2 a USD 68,000. Score: 50.8/100 (Penalizado por falta de seguridad 24hs)."
-    }
+    "is_new": true,
+    "first_seen": "2026-09-29"
   },
   {
     "id": "inmoclick_1406_3601",
@@ -346,6 +170,7 @@
         "summary": "Precio estándar de mercado."
       },
       "pros": [
+        "📍 Excelente ubicación: Barrio Bombal / Bombal Sur (Godoy Cruz)",
         "Dentro del presupuesto (USD 130,000)",
         "🚗 Cuenta con cochera",
         "🛗 Edificio con ascensor"
@@ -355,161 +180,45 @@
         "Consultar conexión a red de gas natural"
       ],
       "ai_summary": "Propiedad en Godoy Cruz (departamento) de 75.0 m2 a USD 130,000. Score: 48.3/100 (Penalizado por falta de seguridad 24hs)."
-    }
+    },
+    "is_new": true,
+    "first_seen": "2026-09-29"
   },
   {
-    "id": "inmoclick_259304_28",
+    "id": "inmoclick_280057_2240",
     "portal": "Inmoclick",
-    "title": "Oportunidad de inversión!",
+    "title": "OPENHOUSE VENDE | Exclusivos departamentos en pozo – Quinta Sección",
     "property_type": "departamento",
-    "price_usd": 63000.0,
-    "surface_m2": 112.0,
-    "surface_total_m2": 112.0,
-    "surface_covered_m2": 112.0,
+    "price_usd": 140000.0,
+    "surface_m2": null,
+    "surface_total_m2": null,
+    "surface_covered_m2": null,
     "bathrooms": 2,
     "has_parking_attribute": false,
     "location_zone": "Mendoza",
-    "url": "https://www.inmoclick.com.ar/259304-bcg-desarrollos-inmobiliarios/inmuebles/28/ficha/departamento-en-venta-en-pte-derqui-243",
+    "url": "https://www.inmoclick.com.ar/280057-openhouse-inmobiliaria/inmuebles/2240/ficha/departamento-en-venta-en-5ta-seccion",
     "image_url": "https://www.inmoclick.com.ar/bundles/inmoclick/images/v14.6/empty-photo-box.jpg",
-    "description": "Oportunidad de inversión!\r\nDepartamento, ubicado en calle Pte Derqui a metros de calle Beltrán de Godoy Cruz, 1 piso por escaleras. Ubicación estratégica por su cercanía a Calle San Martin y a pocos metros de la nueva estación del metro tranvía. Zona altamente desarrollada, rodeada de comercios, escuelas, clínicas, transporte público, de fácil acceso a las principales avenidas y a solo 10 minutos de la Ciudad de Mendoza. \r\n El departamento tiene una superficie total propia de 112,31 m2, distribuidos en living comedor, cómoda cocina con muebles y alacenas, 1 baño en zona de servicio, 2 habitaciones con placares de piso a techo, 1 baño completo y amplio balcón, sus espacios son cómodos, tiene buena iluminación y ventilación. \r\nNo posee cochera.",
+    "description": "OPENHOUSE VENDE | Exclusivos departamentos en pozo – Quinta Sección\n\nUbicado sobre calle Vicente Gil, en una de las zonas más buscadas de Ciudad, este moderno edificio de categoría combina diseño contemporáneo, excelente calidad constructiva y una ubicación privilegiada. El proyecto está compuesto por solo 6 departamentos, brindando mayor privacidad y confort. Además, contará con SUM y terraza de uso común, ideales para disfrutar con familia y amigos.\n\nAmbientes\n\n-Living comedor\n-Cocina integrada con lavandería\n-2 dormitorios, el principal con vestidor y baño\n-2 baños en total\n-Balcón\n-Cochera cubierta\n\nCaracterísticas\n\n-73,9 m² cubiertos aprox.\n-Balcón de 11,8 m² o 19,9 m² según la unidad\n-Cochera cubierta\n-Edificio con ascensor\n-Complejo de solo 6 departamentos\n-SUM con amplia terraza de uso común\n-Pisos de porcelanato\n-Caldera dual\n-Preinstalación para aire acondicionado\n-Horno empotrado\n-Anafe\n-Campana extractora\n-Carpintería y terminaciones de excelente calidad\n-Proyecto moderno y funcional\n\nValores\n\n-Desde USD 140.000\n-Unidad de planta baja con patio desde USD 144.000\n\nFinanciación\n\n-Anticipo inicial\n-Saldo financiado en hasta 24 cuotas con actualización CAC.\n\nUna excelente oportunidad para invertir o vivir en la Quinta Sección, en un desarrollo moderno, de pocas unidades y con terminaciones premium.\n\nOPENHOUSE EL HOGAR DE TUS SUEÑOS",
     "coordinates": {
-      "lat": "-32.9174387",
-      "lng": "-68.8498446"
+      "lat": "-32.8967221",
+      "lng": "-68.8595723"
     },
     "geo_verification": {
       "is_valid_zone": true,
-      "real_city": "Distrito Ciudad De Godoy Cruz",
+      "real_city": "Ciudad De Mendoza",
       "real_neighborhood": null,
       "rejection_reason": null,
       "geocode_verified": true
     },
     "category_b_metrics": {
-      "price_score": 100.0,
+      "price_score": 90.0,
       "price_status": "DENTRO_PRESUPUESTO",
-      "surface_score": 99.6,
-      "surface_notes": "112 m2 (Cumple objetivo de 80 m2)",
-      "price_per_m2": 562.5
+      "surface_score": 70.0,
+      "surface_notes": "Superficie no informada expresamente",
+      "price_per_m2": null
     },
     "analysis": {
-      "opportunity_score": 48.1,
-      "evaluation_source": "heurística",
-      "category_c": {
-        "has_security": false,
-        "has_gas_network": false,
-        "has_parking": true,
-        "has_elevator": false,
-        "two_bathrooms": true
-      },
-      "negotiation_analysis": {
-        "potential": "Estándar",
-        "signals_detected": false,
-        "summary": "Precio estándar de mercado."
-      },
-      "pros": [
-        "Dentro del presupuesto (USD 63,000)",
-        "🚗 Cuenta con cochera"
-      ],
-      "cons": [
-        "⚠️ Sin seguridad 24 hs ni barrio privado (penalizado en puntaje)",
-        "Consultar conexión a red de gas natural"
-      ],
-      "ai_summary": "Propiedad en Mendoza (departamento) de 112.0 m2 a USD 63,000. Score: 48.1/100 (Penalizado por falta de seguridad 24hs)."
-    }
-  },
-  {
-    "id": "inmoclick_12572_754",
-    "portal": "Inmoclick",
-    "title": "TRE INMOBILIARIA VENDE DEPARTAMENTO ubicado en Torres San Vicente sobre calle San Martín Sur 499 frente calle Leguizamón - Godoy Cruz - Mendoza.",
-    "property_type": "departamento",
-    "price_usd": 75000.0,
-    "surface_m2": 75.0,
-    "surface_total_m2": null,
-    "surface_covered_m2": 75.0,
-    "bathrooms": 2,
-    "has_parking_attribute": true,
-    "location_zone": "Godoy Cruz",
-    "url": "https://www.inmoclick.com.ar/12572-tre-inmobiliaria/inmuebles/754/ficha/departamento-en-venta-en-torres-san-vicente-godoy-cruz-mendoza",
-    "image_url": "https://www.inmoclick.com.ar/bundles/inmoclick/images/v14.6/empty-photo-box.jpg",
-    "description": "TRE INMOBILIARIA VENDE DEPARTAMENTO ubicado en Torres San Vicente sobre calle San Martín Sur 499 frente calle Leguizamón - Godoy Cruz - Mendoza.\n\nSuperfice cubierta: 75 m2.\n\nLa propiedad se encuentra en la Torre B, Planta Baja, cuenta con living comedor, amplia cocina con amoblamiento alacenas y bajo mesada, lavadero y toilette.\nEn zona íntima dispone de tres dormitorios con placard y baño completo.\nPosee cochera techada para un vehículo, ingreso con portón automatizado.\n\nObservaciones: pisos cerámicos, calefacción mediante estufas a gas.\n\nExcelente ubicación! A 500 metros de Plaza Godoy Cruz, variedad en comercios y transporte público.\n\nNO APTO  CREDITO HIPOTECARIO.\n\n¡Contáctanos para más información y agendar una visita!",
-    "coordinates": {
-      "lat": "-32.928602",
-      "lng": "-68.849859"
-    },
-    "geo_verification": {
-      "is_valid_zone": true,
-      "real_city": "Distrito Ciudad De Godoy Cruz",
-      "real_neighborhood": "Barrio Ypf",
-      "rejection_reason": null,
-      "geocode_verified": true
-    },
-    "category_b_metrics": {
-      "price_score": 100.0,
-      "price_status": "DENTRO_PRESUPUESTO",
-      "surface_score": 78.3,
-      "surface_notes": "75 m2 (En tolerancia, cercano al target de 80 m2)",
-      "price_per_m2": 1000.0
-    },
-    "analysis": {
-      "opportunity_score": 48.1,
-      "evaluation_source": "heurística",
-      "category_c": {
-        "has_security": false,
-        "has_gas_network": false,
-        "has_parking": true,
-        "has_elevator": false,
-        "two_bathrooms": true
-      },
-      "negotiation_analysis": {
-        "potential": "Estándar",
-        "signals_detected": false,
-        "summary": "Precio estándar de mercado."
-      },
-      "pros": [
-        "Dentro del presupuesto (USD 75,000)",
-        "🚗 Cuenta con cochera"
-      ],
-      "cons": [
-        "⚠️ Sin seguridad 24 hs ni barrio privado (penalizado en puntaje)",
-        "Consultar conexión a red de gas natural"
-      ],
-      "ai_summary": "Propiedad en Godoy Cruz (departamento) de 75.0 m2 a USD 75,000. Score: 48.1/100 (Penalizado por falta de seguridad 24hs)."
-    }
-  },
-  {
-    "id": "inmoclick_268429_1981",
-    "portal": "Inmoclick",
-    "title": "Oportunidad! Venta Departamento Godoy Cruz - 2 dormitorios, con cochera subterránea y ascensor",
-    "property_type": "departamento",
-    "price_usd": 86000.0,
-    "surface_m2": 70.0,
-    "surface_total_m2": 70.0,
-    "surface_covered_m2": 70.0,
-    "bathrooms": 2,
-    "has_parking_attribute": true,
-    "location_zone": "Godoy Cruz",
-    "url": "https://www.inmoclick.com.ar/268429-re-max-vendimia/inmuebles/1981/ficha/departamento-en-venta-en-belgrano-200",
-    "image_url": "https://www.inmoclick.com.ar/bundles/inmoclick/images/v14.6/empty-photo-box.jpg",
-    "description": "Oportunidad! Venta Departamento Godoy Cruz - 2 dormitorios, con cochera subterránea y ascensor \n\n Vendimia ofrece a la venta departamento muy luminoso de 70 m² cubiertos, ubicado en calle Belgrano, Godoy Cruz, en una zona con fácil acceso a comercios, transporte público y servicios.\n\nEl departamento se encuentra ubicado en el primer piso, cuenta con carpintería de aluminio con DVH (doble vidrio hermético) en todas sus aberturas, placares y mueble de cocina de primera calidad. Tiene cocina independiente, living-comedor amplio y muy luminoso, con balcón, 2 dormitorios y 2 baños. Se suma cochera subterránea individual.\n\nEl edificio se encuentra en perfecto estado de conservación, cuenta con ascensor y SUM (salón de usos múltiples) Es íntegramente eléctrico. \n\nCaracterísticas del departamento:\n•\tMuy luminoso\n•\tCarpintería de aluminio con DVH\n•\tPlacares\n•\tMueble de cocina de primera calidad\n•\t2 dormitorios\n•\t2 baños\n•\tCocina independiente\n•\tLiving-comedor amplio\n•\tCochera subterránea individual\n•\tAscensor\n•\tSUM\n\nContactá a nuestro equipo para coordinar una visita!",
-    "coordinates": {
-      "lat": "-32.9214293",
-      "lng": "-68.8436908"
-    },
-    "geo_verification": {
-      "is_valid_zone": true,
-      "real_city": "Distrito Ciudad De Godoy Cruz",
-      "real_neighborhood": null,
-      "rejection_reason": null,
-      "geocode_verified": true
-    },
-    "category_b_metrics": {
-      "price_score": 99.6,
-      "price_status": "DENTRO_PRESUPUESTO",
-      "surface_score": 66.7,
-      "surface_notes": "70 m2 (En tolerancia, cercano al target de 80 m2)",
-      "price_per_m2": 1228.6
-    },
-    "analysis": {
-      "opportunity_score": 47.7,
+      "opportunity_score": 45.7,
       "evaluation_source": "heurística",
       "category_c": {
         "has_security": false,
@@ -524,7 +233,7 @@
         "summary": "Precio estándar de mercado."
       },
       "pros": [
-        "Dentro del presupuesto (USD 86,000)",
+        "Dentro del presupuesto (USD 140,000)",
         "🚗 Cuenta con cochera",
         "🛗 Edificio con ascensor"
       ],
@@ -532,8 +241,10 @@
         "⚠️ Sin seguridad 24 hs ni barrio privado (penalizado en puntaje)",
         "Consultar conexión a red de gas natural"
       ],
-      "ai_summary": "Propiedad en Godoy Cruz (departamento) de 70.0 m2 a USD 86,000. Score: 47.7/100 (Penalizado por falta de seguridad 24hs)."
-    }
+      "ai_summary": "Propiedad en Mendoza (departamento) de None m2 a USD 140,000. Score: 45.7/100 (Penalizado por falta de seguridad 24hs)."
+    },
+    "is_new": true,
+    "first_seen": "2026-09-29"
   },
   {
     "id": "inmoclick_16797_811",
@@ -584,6 +295,7 @@
         "summary": "Precio estándar de mercado."
       },
       "pros": [
+        "📍 Excelente ubicación: Barrio Bombal / Bombal Sur (Godoy Cruz)",
         "Dentro del presupuesto (USD 79,000)",
         "🛗 Edificio con ascensor"
       ],
@@ -592,203 +304,28 @@
         "Consultar conexión a red de gas natural"
       ],
       "ai_summary": "Propiedad en Godoy Cruz (departamento) de 110.0 m2 a USD 79,000. Score: 45.3/100 (Penalizado por falta de seguridad 24hs)."
-    }
+    },
+    "is_new": true,
+    "first_seen": "2026-09-29"
   },
   {
-    "id": "inmoclick_280057_2063",
+    "id": "inmoclick_105122_121",
     "portal": "Inmoclick",
-    "title": "OPENHOUSE vende desarrollo en obra gruesa sobre calle Pascual Segura de Godoy Cruz",
+    "title": "Departamento ubicado en 5° piso de Avenida Pedro Molina, Segunda sección de Capital.",
     "property_type": "departamento",
-    "price_usd": 140000.0,
-    "surface_m2": 575.0,
-    "surface_total_m2": 575.0,
-    "surface_covered_m2": null,
-    "bathrooms": null,
-    "has_parking_attribute": true,
-    "location_zone": "Godoy Cruz",
-    "url": "https://www.inmoclick.com.ar/280057-openhouse-inmobiliaria/inmuebles/2063/ficha/departamento-en-venta-en-pascual-segura-godoy-cruz",
-    "image_url": "https://www.inmoclick.com.ar/bundles/inmoclick/images/v14.6/empty-photo-box.jpg",
-    "description": "OPENHOUSE vende desarrollo en obra gruesa sobre calle Pascual Segura de Godoy Cruz\n\nExcelente oportunidad para inversores y desarrolladores: se ofrece a la venta un proyecto edilicio en obra gruesa, ubicado sobre calle Pascual Segura, en pleno Godoy Cruz, frente al Metrotranvía, lo que garantiza conectividad, tránsito constante y un entorno de fuerte crecimiento urbano.\n\nEl proyecto se desarrolla sobre un terreno de 522 m², con 575 m² cubiertos ya ejecutados.\nEl frente de 9,96 metros y un fondo de 52 metros, sumado a la orientación Este, permite un excelente aprovechamiento constructivo y luminosidad natural.\n\nLa obra contempla un conjunto de 15 departamentos monoambientes, uno de ellos de mayor superficie, ideales para renta permanente o turismo.\nEl proyecto incluye 3 cocheras, sumando valor y atractivo para futuros usuarios o inversores.\n\nSe vende en estado de obra gruesa, listo para que el comprador continúe y finalice según sus necesidades, permitiendo adaptar terminaciones, diseño y estrategia comercial al mercado actual.\n\nCARACTERÍSTICAS PRINCIPALES\n-Terreno: 522 m²\n-Superficie cubierta ejecutada: 575 m²\n-Frente: 9,96 m\n-Fondo: 52 m\n-Orientación: Este\n- Ubicación estratégica: frente al Metrotranvía\n-15 departamentos monoambientes (1 más amplio que los demás)\n-3 cocheras (con posibilidad de tener mas)\n-Estructura en obra gruesa\n-Ideal para inversión, desarrollo y renta futura\n\nUna oportunidad única en una de las zonas con mayor demanda y expansión de Godoy Cruz, perfecta para quienes buscan finalizar un proyecto con excelente potencial de rentabilidad.\n\nPara más información o visitas, comunicate con nosotros!\n\nOPENHOUSE – proyectos que se convierten en oportunidades\n\n — F.F",
-    "coordinates": {
-      "lat": "-32.9082448",
-      "lng": "-68.8524433"
-    },
-    "geo_verification": {
-      "is_valid_zone": true,
-      "real_city": "Distrito Ciudad De Godoy Cruz",
-      "real_neighborhood": "Villa Hipódromo",
-      "rejection_reason": null,
-      "geocode_verified": true
-    },
-    "category_b_metrics": {
-      "price_score": 90.0,
-      "price_status": "DENTRO_PRESUPUESTO",
-      "surface_score": 100.0,
-      "surface_notes": "575 m2 (Cumple objetivo de 80 m2)",
-      "price_per_m2": 243.5
-    },
-    "analysis": {
-      "opportunity_score": 45.2,
-      "evaluation_source": "heurística",
-      "category_c": {
-        "has_security": false,
-        "has_gas_network": false,
-        "has_parking": true,
-        "has_elevator": false,
-        "two_bathrooms": true
-      },
-      "negotiation_analysis": {
-        "potential": "Estándar",
-        "signals_detected": false,
-        "summary": "Precio estándar de mercado."
-      },
-      "pros": [
-        "Dentro del presupuesto (USD 140,000)",
-        "🚗 Cuenta con cochera"
-      ],
-      "cons": [
-        "⚠️ Sin seguridad 24 hs ni barrio privado (penalizado en puntaje)",
-        "Consultar conexión a red de gas natural"
-      ],
-      "ai_summary": "Propiedad en Godoy Cruz (departamento) de 575.0 m2 a USD 140,000. Score: 45.2/100 (Penalizado por falta de seguridad 24hs)."
-    }
-  },
-  {
-    "id": "inmoclick_11968_51",
-    "portal": "Inmoclick",
-    "title": "Departamento ubicado en una zona estratégica, a poca distancia de Plaza Independencia: una propuesta ideal para quienes buscan comodidad y funcionalidad en el centro. Se trata de un 1° piso frontal que ofrece ambientes bien distribuidos y posibilidades para adaptarlo según tus necesidades.",
-    "property_type": "departamento",
-    "price_usd": 95000.0,
-    "surface_m2": 77.0,
-    "surface_total_m2": 103.0,
-    "surface_covered_m2": 77.0,
+    "price_usd": 90000.0,
+    "surface_m2": 65.0,
+    "surface_total_m2": 65.0,
+    "surface_covered_m2": 65.0,
     "bathrooms": 2,
     "has_parking_attribute": true,
     "location_zone": "Mendoza",
-    "url": "https://www.inmoclick.com.ar/11968-inmobiliaria-miguel-angel-juan-pablo-simon/inmuebles/51/ficha/departamento-en-venta-en-gutierrez-434",
+    "url": "https://www.inmoclick.com.ar/105122-helga-kruls-propiedades/inmuebles/121/ficha/departamento-en-venta-en-pedro-molina-461",
     "image_url": "https://www.inmoclick.com.ar/bundles/inmoclick/images/v14.6/empty-photo-box.jpg",
-    "description": "Departamento ubicado en una zona estratégica, a poca distancia de Plaza Independencia: una propuesta ideal para quienes buscan comodidad y funcionalidad en el centro. Se trata de un 1° piso frontal que ofrece ambientes bien distribuidos y posibilidades para adaptarlo según tus necesidades.\r\n\r\n- 📍 Ubicación: Cerca de Plaza Independencia\r\n- 🏢 Piso: 1° piso frontal\r\n- 🛋️ Living comedor\r\n- 🛏️ 2 dormitorios\r\n- 🚿 Baño principal\r\n- 🍽️ Cocina\r\n- 🧺 Dependencia de servicio con baño y sector de lavandería\r\n- 🚗 Cochera\r\n\r\nEl living comedor se presenta como el corazón del inmueble, perfecto para recibir visitas o compartir en familia. La cocina independiente facilita la organización diaria y la dependencia de servicio, con baño propio y área de lavandería, suma practicidad y opciones de uso (servicio, escritorio o espacio de guardado). Los dos dormitorios aseguran privacidad y confort para moradores o invitados.\r\n\r\nLa cochera incluida aporta un valor diferencial en una ubicación céntrica, brindando comodidad y seguridad para el vehículo. Al ser un piso frontal, el departamento tiene buena ventilación y una vista directa hacia la calle, lo cual mejora la sensación de amplitud.\r\n\r\nUna alternativa atractiva tanto para vivienda propia como para inversión, por su ubicación y distribución funcional. Contactá para coordinar una visita y conocer personalmente todas sus ventajas.",
+    "description": "Departamento ubicado en 5° piso de Avenida Pedro Molina, Segunda sección de Capital.\r\nZona rodeada de comercios,bancos,restaurantes y cafés.Con cercanía a universidades y colegios,paradas de colectivos cercanas y frente al Parque Civico.\r\nEste departamento destaca por su orientación, que lo hace muy luminoso,el entorno es seguro y el edificio muy tranquilo,la unidad cuenta con cochera y baulera en subsuelo,lo que la hace mucho mas funcional.\r\nEl edificio cuenta con ingreso para personas con movilidad reducida,2 ascensores para uso de los consorcistas y un montcargas para limpieza y mudanzas.\r\nEl edificio acepta mascotas,cuenta con camaras de seguridad en ingresos y tiene bajas expensas.\r\nEl destino de la unidad es apta para vivienda,consultorio u oficina.\r\nOportunidad de inversion!\r\n\r\nvalor efectivo $90.000 dolares",
     "coordinates": {
-      "lat": "-32.8875854",
-      "lng": "-68.84454219999999"
-    },
-    "geo_verification": {
-      "is_valid_zone": true,
-      "real_city": "Ciudad De Mendoza",
-      "real_neighborhood": "Área Fundacional",
-      "rejection_reason": null,
-      "geocode_verified": true
-    },
-    "category_b_metrics": {
-      "price_score": 98.0,
-      "price_status": "DENTRO_PRESUPUESTO",
-      "surface_score": 83.0,
-      "surface_notes": "77 m2 (En tolerancia, cercano al target de 80 m2)",
-      "price_per_m2": 1233.8
-    },
-    "analysis": {
-      "opportunity_score": 43.4,
-      "evaluation_source": "heurística",
-      "category_c": {
-        "has_security": false,
-        "has_gas_network": false,
-        "has_parking": true,
-        "has_elevator": false,
-        "two_bathrooms": true
-      },
-      "negotiation_analysis": {
-        "potential": "Estándar",
-        "signals_detected": false,
-        "summary": "Precio estándar de mercado."
-      },
-      "pros": [
-        "Dentro del presupuesto (USD 95,000)",
-        "🚗 Cuenta con cochera"
-      ],
-      "cons": [
-        "⚠️ Sin seguridad 24 hs ni barrio privado (penalizado en puntaje)",
-        "Consultar conexión a red de gas natural"
-      ],
-      "ai_summary": "Propiedad en Mendoza (departamento) de 77.0 m2 a USD 95,000. Score: 43.4/100 (Penalizado por falta de seguridad 24hs)."
-    }
-  },
-  {
-    "id": "inmoclick_3076_3329",
-    "portal": "Inmoclick",
-    "title": "Venta de Departamento – Cuarta Sección Oeste",
-    "property_type": "departamento",
-    "price_usd": 70000.0,
-    "surface_m2": 70.0,
-    "surface_total_m2": 80.0,
-    "surface_covered_m2": 70.0,
-    "bathrooms": 3,
-    "has_parking_attribute": true,
-    "location_zone": "Mendoza",
-    "url": "https://www.inmoclick.com.ar/3076-ente-inmobiliaria/inmuebles/3329/ficha/departamento-en-venta-en-fray-inalican-363",
-    "image_url": "https://www.inmoclick.com.ar/bundles/inmoclick/images/v14.6/empty-photo-box.jpg",
-    "description": "Venta de Departamento – Cuarta Sección Oeste\r\n\r\nExcelente departamento frontal ubicado en una de las zonas más buscadas de la ciudad.\r\n\r\nCaracterísticas:\r\n\r\n2 dormitorios con placares\r\nLiving-comedor\r\nCocina\r\n1 baño\r\nBalcón\r\nTerraza\r\nCochera\r\n\r\nDetalles adicionales:\r\n\r\nDepartamento frontal, con muy buena iluminación y ventilación\r\nAntigüedad: 30 años\r\n\r\nIdeal para vivienda propia o inversión.\r\n\r\nConsultar precio y coordinar visita.",
-    "coordinates": {
-      "lat": "-32.8720782",
-      "lng": "-68.83923709999999"
-    },
-    "geo_verification": {
-      "is_valid_zone": true,
-      "real_city": "Ciudad De Mendoza",
-      "real_neighborhood": "Área Fundacional",
-      "rejection_reason": null,
-      "geocode_verified": true
-    },
-    "category_b_metrics": {
-      "price_score": 100.0,
-      "price_status": "DENTRO_PRESUPUESTO",
-      "surface_score": 66.7,
-      "surface_notes": "70 m2 (En tolerancia, cercano al target de 80 m2)",
-      "price_per_m2": 1000.0
-    },
-    "analysis": {
-      "opportunity_score": 39.9,
-      "evaluation_source": "heurística",
-      "category_c": {
-        "has_security": false,
-        "has_gas_network": false,
-        "has_parking": true,
-        "has_elevator": false,
-        "two_bathrooms": true
-      },
-      "negotiation_analysis": {
-        "potential": "Estándar",
-        "signals_detected": false,
-        "summary": "Precio estándar de mercado."
-      },
-      "pros": [
-        "Dentro del presupuesto (USD 70,000)",
-        "🚗 Cuenta con cochera"
-      ],
-      "cons": [
-        "⚠️ Sin seguridad 24 hs ni barrio privado (penalizado en puntaje)",
-        "Consultar conexión a red de gas natural"
-      ],
-      "ai_summary": "Propiedad en Mendoza (departamento) de 70.0 m2 a USD 70,000. Score: 39.9/100 (Penalizado por falta de seguridad 24hs)."
-    }
-  },
-  {
-    "id": "inmoclick_276253_136",
-    "portal": "Inmoclick",
-    "title": "Departamento en Venta – Mendoza Capital",
-    "property_type": "departamento",
-    "price_usd": 140000.0,
-    "surface_m2": 75.0,
-    "surface_total_m2": 75.0,
-    "surface_covered_m2": 75.0,
-    "bathrooms": 2,
-    "has_parking_attribute": true,
-    "location_zone": "Mendoza",
-    "url": "https://www.inmoclick.com.ar/276253-sere-inmobiliaria/inmuebles/136/ficha/departamento-en-venta-en-peatonal-y-9-de-julio",
-    "image_url": "https://www.inmoclick.com.ar/bundles/inmoclick/images/v14.6/empty-photo-box.jpg",
-    "description": "Departamento en Venta – Mendoza Capital\r\n\r\nUbicado en plena Peatonal y 9 de Julio, en el corazón de la ciudad de Mendoza.\r\n\r\n✨ Características:\r\n\r\n2 habitaciones (una con piso alfombrado)\r\n\r\n2 baños\r\n\r\nLiving/Comedor\r\n\r\nCocina\r\n\r\n2 balcones con excelente vista\r\n\r\nPisos de parquet en impecables condiciones y lustrados\r\n\r\n📌 Zona totalmente privilegiada – cercana a todos los servicios, comercios y transporte.\r\n\r\nEscucho contado",
-    "coordinates": {
-      "lat": "-32.89044970820627",
-      "lng": "-68.84077458937988"
+      "lat": "-32.896073227240386",
+      "lng": "-68.84702922664184"
     },
     "geo_verification": {
       "is_valid_zone": true,
@@ -798,20 +335,20 @@
       "geocode_verified": true
     },
     "category_b_metrics": {
-      "price_score": 90.0,
+      "price_score": 98.9,
       "price_status": "DENTRO_PRESUPUESTO",
-      "surface_score": 78.3,
-      "surface_notes": "75 m2 (En tolerancia, cercano al target de 80 m2)",
-      "price_per_m2": 1866.7
+      "surface_score": 55.0,
+      "surface_notes": "65 m2 (En tolerancia, cercano al target de 80 m2)",
+      "price_per_m2": 1384.6
     },
     "analysis": {
-      "opportunity_score": 39.8,
+      "opportunity_score": 44.6,
       "evaluation_source": "heurística",
       "category_c": {
         "has_security": false,
         "has_gas_network": false,
         "has_parking": true,
-        "has_elevator": false,
+        "has_elevator": true,
         "two_bathrooms": true
       },
       "negotiation_analysis": {
@@ -820,56 +357,122 @@
         "summary": "Precio estándar de mercado."
       },
       "pros": [
-        "Dentro del presupuesto (USD 140,000)",
-        "🚗 Cuenta con cochera"
+        "Dentro del presupuesto (USD 90,000)",
+        "🚗 Cuenta con cochera",
+        "🛗 Edificio con ascensor"
       ],
       "cons": [
         "⚠️ Sin seguridad 24 hs ni barrio privado (penalizado en puntaje)",
         "Consultar conexión a red de gas natural"
       ],
-      "ai_summary": "Propiedad en Mendoza (departamento) de 75.0 m2 a USD 140,000. Score: 39.8/100 (Penalizado por falta de seguridad 24hs)."
-    }
+      "ai_summary": "Propiedad en Mendoza (departamento) de 65.0 m2 a USD 90,000. Score: 44.6/100 (Penalizado por falta de seguridad 24hs)."
+    },
+    "is_new": true,
+    "first_seen": "2026-09-29"
   },
   {
-    "id": "inmoclick_12572_844",
+    "id": "inmoclick_268429_1974",
     "portal": "Inmoclick",
-    "title": "TRE INMOBILIARIA VENDE DEPARTAMENTO  ubicado sobre calle Huarpes 2046 - Sexta Sección - Mendoza.",
+    "title": "VENTA DEPARTAMENTO – GODOY CRUZ",
     "property_type": "departamento",
-    "price_usd": 130000.0,
-    "surface_m2": 74.0,
-    "surface_total_m2": null,
-    "surface_covered_m2": 74.0,
+    "price_usd": 95000.0,
+    "surface_m2": 109.0,
+    "surface_total_m2": 114.0,
+    "surface_covered_m2": 109.0,
     "bathrooms": 2,
-    "has_parking_attribute": true,
-    "location_zone": "Mendoza",
-    "url": "https://www.inmoclick.com.ar/12572-tre-inmobiliaria/inmuebles/844/ficha/departamento-en-venta-en-sexta-seccion-ciudad-mendoza",
+    "has_parking_attribute": false,
+    "location_zone": "Godoy Cruz",
+    "url": "https://www.inmoclick.com.ar/268429-re-max-vendimia/inmuebles/1974/ficha/departamento-en-venta-en-avenida-san-martin-100",
     "image_url": "https://www.inmoclick.com.ar/bundles/inmoclick/images/v14.6/empty-photo-box.jpg",
-    "description": "TRE INMOBILIARIA VENDE DEPARTAMENTO  ubicado sobre calle Huarpes 2046 - Sexta Sección - Mendoza.\n\nSuperficie ciubierta: 74,22 m2.\n\nLa propiedad se encuentra en segundo piso por escalera, cuenta con amplio y luminoso living comedor, cocina lavadero y baño completo. \n\nEn zona íntima dispone de dos dormitorios, el principal en suite con baño completo.\n\nAdemás posee cochera cubierta para un vehículo.\n\nObservaciones: pisos porcelanato, calefacción mediante estufa a gas, aires acondicionados, luminarias y cortinas.\n\nOpcionalmente, se ofrece amoblado.\n\nExcelente ubicación! A 100 metros de Boulogne Sur Mer, variedad en transporte público, fáciles y rápidos accesos.\n\nConsultanos para más información y agendar visita!",
+    "description": "VENTA DEPARTAMENTO – GODOY CRUZ\nRE/MAX VENDIMIA\nUbicación: Excelente zona de Godoy Cruz, a solo tres cuadras de la Plaza.\n\n*Vistas: Increíbles vistas a la montaña y a la cordillera.\n*Departamento muy luminoso.\n\nDescripción de la propiedad\nDepartamento de categoría, remodelado y restaurado, con ambientes amplios, cómodos y funcionales. Construcción tradicional, sólida y de excelente calidad. Edificio con más de 50 años de trayectoria y en muy buen estado de conservación.\n\nSuperficie cubierta propia: 109,39 m²\nSuperficie cubierta total: 153,98 m²\nSuperficie no cubierta de uso exclusivo: 10,36 m² (terraza 5,10 m² + balcón 5,26 m²)\n\nDistribución\n-3 dormitorios (uno con vestidor) o privados\n-3 baños\n-Cocina independiente\n-Living–comedor amplio\n-Habitación de depósito\n-2 balcones\n-Baulera en subsuelo\n-Hall de ingreso\n-Ascensor\n\nCaracterísticas destacadas\n-Construcción tradicional\n-Cañerías de agua fría y agua caliente totalmente refaccionadas\n-Calefacción central (caldera nueva)\n-Excelente ventilación natural\n-Muy luminoso\n-Buenas vistas a la montaña\n-Zona con todos los servicios\n-Edificio tradicional y sólido\n\nImportante\nNo dispone de cochera propia, pero se pueden alquilar o comprar cocheras en la zona.\n\nSe puede negociar el valor del departamento.\n\nOportunidad única\nDepartamento amplio, luminoso y con vistas privilegiadas en una de las mejores zonas de Godoy Cruz. Ideal para vivienda permanente o inversión.\n\n¡Consultanos por más información y coordiná tu visita!\n\nRE/MAX VENDIMIA\nTu mejor opción en bienes raíces.",
     "coordinates": {
-      "lat": "-32.8762546174",
-      "lng": "-68.8577294615"
+      "lat": "-32.922184965481",
+      "lng": "-68.847855090899"
     },
     "geo_verification": {
       "is_valid_zone": true,
-      "real_city": "Ciudad De Mendoza",
-      "real_neighborhood": "Barrio Ferroviario",
+      "real_city": "Distrito Ciudad De Godoy Cruz",
+      "real_neighborhood": "Barrio Ypf",
       "rejection_reason": null,
       "geocode_verified": true
     },
     "category_b_metrics": {
-      "price_score": 91.8,
+      "price_score": 98.0,
       "price_status": "DENTRO_PRESUPUESTO",
-      "surface_score": 76.0,
-      "surface_notes": "74 m2 (En tolerancia, cercano al target de 80 m2)",
-      "price_per_m2": 1756.8
+      "surface_score": 98.7,
+      "surface_notes": "109 m2 (Cumple objetivo de 80 m2)",
+      "price_per_m2": 871.6
     },
     "analysis": {
-      "opportunity_score": 39.8,
+      "opportunity_score": 40.3,
       "evaluation_source": "heurística",
       "category_c": {
         "has_security": false,
         "has_gas_network": false,
         "has_parking": true,
+        "has_elevator": true,
+        "two_bathrooms": true
+      },
+      "negotiation_analysis": {
+        "potential": "Estándar",
+        "signals_detected": false,
+        "summary": "Precio estándar de mercado."
+      },
+      "pros": [
+        "Dentro del presupuesto (USD 95,000)",
+        "🚗 Cuenta con cochera",
+        "🛗 Edificio con ascensor"
+      ],
+      "cons": [
+        "⚠️ Ubicado en Godoy Cruz fuera de Barrio Bombal (-15 pts)",
+        "⚠️ Sin seguridad 24 hs ni barrio privado (penalizado en puntaje)",
+        "Consultar conexión a red de gas natural"
+      ],
+      "ai_summary": "Propiedad en Godoy Cruz (departamento) de 109.0 m2 a USD 95,000. Score: 40.3/100 (Penalizado por falta de seguridad 24hs)."
+    },
+    "is_new": true,
+    "first_seen": "2026-09-29"
+  },
+  {
+    "id": "inmoclick_68264_4",
+    "portal": "Inmoclick",
+    "title": "DEPARTAMENTO DE 4 AMBIENTES - CENTRICO",
+    "property_type": "departamento",
+    "price_usd": 55000.0,
+    "surface_m2": 72.0,
+    "surface_total_m2": 110.0,
+    "surface_covered_m2": 72.0,
+    "bathrooms": 2,
+    "has_parking_attribute": false,
+    "location_zone": "Mendoza",
+    "url": "https://www.inmoclick.com.ar/68264-gaustralinmobiliariaatgmail-com/inmuebles/4/ficha/departamento-en-venta-en-rondeau",
+    "image_url": "https://www.inmoclick.com.ar/bundles/inmoclick/images/v14.6/empty-photo-box.jpg",
+    "description": "DEPARTAMENTO DE 4 AMBIENTES - CENTRICO\r\n📍 CIUDAD DE MENDOZA, MENDOZA - ARGENTINA\r\n✅ A 350mts de Av. San Martin. \r\n\r\nCaracterísticas destacadas: \r\n✅ 2 Dormitorios con placares\r\n🛁 Sobre Rondeau\r\n🌿 2 BAÑO completos\r\n🌿 2 Patios\r\n🏪 Amplio Living \r\n🚗 a 150 mts de Av. Zapata\r\n🍽️ Con 72 m2 propios\r\n📍 TODOS LOS SERVICIOS, INCLUSO GAS NATURAL",
+    "coordinates": {
+      "lat": "-32.896892305152015",
+      "lng": "-68.83556993516541"
+    },
+    "geo_verification": {
+      "is_valid_zone": true,
+      "real_city": "Ciudad De Mendoza",
+      "real_neighborhood": null,
+      "rejection_reason": null,
+      "geocode_verified": true
+    },
+    "category_b_metrics": {
+      "price_score": 100.0,
+      "price_status": "DENTRO_PRESUPUESTO",
+      "surface_score": 71.3,
+      "surface_notes": "72 m2 (En tolerancia, cercano al target de 80 m2)",
+      "price_per_m2": 763.9
+    },
+    "analysis": {
+      "opportunity_score": 38.4,
+      "evaluation_source": "heurística",
+      "category_c": {
+        "has_security": false,
+        "has_gas_network": true,
+        "has_parking": false,
         "has_elevator": false,
         "two_bathrooms": true
       },
@@ -879,15 +482,16 @@
         "summary": "Precio estándar de mercado."
       },
       "pros": [
-        "Dentro del presupuesto (USD 130,000)",
-        "🚗 Cuenta con cochera"
+        "Dentro del presupuesto (USD 55,000)",
+        "🔥 Red de gas natural confirmada"
       ],
       "cons": [
-        "⚠️ Sin seguridad 24 hs ni barrio privado (penalizado en puntaje)",
-        "Consultar conexión a red de gas natural"
+        "⚠️ Sin seguridad 24 hs ni barrio privado (penalizado en puntaje)"
       ],
-      "ai_summary": "Propiedad en Mendoza (departamento) de 74.0 m2 a USD 130,000. Score: 39.8/100 (Penalizado por falta de seguridad 24hs)."
-    }
+      "ai_summary": "Propiedad en Mendoza (departamento) de 72.0 m2 a USD 55,000. Score: 38.4/100 (Penalizado por falta de seguridad 24hs)."
+    },
+    "is_new": true,
+    "first_seen": "2026-09-29"
   },
   {
     "id": "ml_1808643353",
@@ -940,229 +544,9 @@
         "Consultar conexión a red de gas natural"
       ],
       "ai_summary": "Propiedad en Mendoza (departamento) de 137.0 m2 a USD 90,000. Score: 37.3/100 (Penalizado por falta de seguridad 24hs)."
-    }
-  },
-  {
-    "id": "inmoclick_12373_269",
-    "portal": "Inmoclick",
-    "title": "SCAFFIDI PROPIEDADES VENDE",
-    "property_type": "departamento",
-    "price_usd": 98000.0,
-    "surface_m2": 110.0,
-    "surface_total_m2": 120.0,
-    "surface_covered_m2": 110.0,
-    "bathrooms": 3,
-    "has_parking_attribute": false,
-    "location_zone": "Mendoza",
-    "url": "https://www.inmoclick.com.ar/12373-scaffidi-propiedades/inmuebles/269/ficha/departamento-en-venta-en-mitre-565",
-    "image_url": "https://www.inmoclick.com.ar/bundles/inmoclick/images/v14.6/empty-photo-box.jpg",
-    "description": "SCAFFIDI PROPIEDADES VENDE\r\n\r\nDEPARTAMENTO UBICADO EN CALLE MITRE, EN PLENA CIUDAD DE MENDOZA, CERCA DE AV. COLÓN Y CALLE PEDRO MOLINA.\r\n\r\nLA PROPIEDAD CUENTA CON TRES HABITACIONES CON PLACARES Y PISO DE PARQUET, COLOCADO HACE APROXIMADAMENTE 6 MESES.\r\n\r\nADEMÁS, DISPONE DE UNA HABITACIÓN DE SERVICIO CON BAÑO, LIVING COMEDOR MUY AMPLIO CON SALIDA A UNA MAGNÍFICA TERRAZA, COCINA INDEPENDIENTE COMPLETA CON LAVANDERÍA Y DOS BAÑOS COMPLETOS.\r\n\r\nEN TOTAL, POSEE DOS TERRAZAS.\r\n\r\nMUY LUMINOSO Y FRESCO. ORIENTACIÓN NOROESTE.\r\n\r\nIDEAL INVERSIÓN.\r\n\r\nPROPIEDAD ALQUILADA.\r\n\r\nAPTO CRÉDITO HIPOTECARIO.\r\n\r\nPARA MÁS INFORMACIÓN Y CONSULTAS:\r\nINSTAGRAM: @SCAFFIDI.PROPIEDADES",
-    "coordinates": {
-      "lat": "-32.8955231",
-      "lng": "-68.8458625"
     },
-    "geo_verification": {
-      "is_valid_zone": true,
-      "real_city": "Ciudad De Mendoza",
-      "real_neighborhood": null,
-      "rejection_reason": null,
-      "geocode_verified": true
-    },
-    "category_b_metrics": {
-      "price_score": 97.5,
-      "price_status": "DENTRO_PRESUPUESTO",
-      "surface_score": 99.0,
-      "surface_notes": "110 m2 (Cumple objetivo de 80 m2)",
-      "price_per_m2": 890.9
-    },
-    "analysis": {
-      "opportunity_score": 36.6,
-      "evaluation_source": "heurística",
-      "category_c": {
-        "has_security": false,
-        "has_gas_network": false,
-        "has_parking": false,
-        "has_elevator": false,
-        "two_bathrooms": true
-      },
-      "negotiation_analysis": {
-        "potential": "Estándar",
-        "signals_detected": false,
-        "summary": "Precio estándar de mercado."
-      },
-      "pros": [
-        "Dentro del presupuesto (USD 98,000)"
-      ],
-      "cons": [
-        "⚠️ Sin seguridad 24 hs ni barrio privado (penalizado en puntaje)",
-        "Consultar conexión a red de gas natural"
-      ],
-      "ai_summary": "Propiedad en Mendoza (departamento) de 110.0 m2 a USD 98,000. Score: 36.6/100 (Penalizado por falta de seguridad 24hs)."
-    }
-  },
-  {
-    "id": "ml_3846544412",
-    "portal": "Mercado Libre",
-    "title": "Duplex En Godoy Cruz",
-    "property_type": "departamento",
-    "price_usd": 58000.0,
-    "surface_m2": 100.0,
-    "bathrooms": 2,
-    "has_parking_attribute": false,
-    "location_zone": "Godoy Cruz",
-    "url": "https://departamento.mercadolibre.com.ar/MLA-3846544412-duplex-en-godoy-cruz-_JM",
-    "image_url": "https://http2.mlstatic.com/D_NQ_NP_2X_968556-MLA116595092255_082026-E.webp",
-    "description": "Duplex En Godoy Cruz. Características: 5 ambs., 2 baños, 100 m² cubiertos. Zona: Godoy Cruz.",
-    "coordinates": null,
-    "geo_verification": {
-      "is_valid_zone": true,
-      "real_city": "Sin coordenadas",
-      "real_neighborhood": null,
-      "rejection_reason": null,
-      "geocode_verified": false
-    },
-    "category_b_metrics": {
-      "price_score": 100.0,
-      "price_status": "DENTRO_PRESUPUESTO",
-      "surface_score": 96.0,
-      "surface_notes": "100 m2 (Cumple objetivo de 80 m2)",
-      "price_per_m2": 580.0
-    },
-    "analysis": {
-      "opportunity_score": 36.6,
-      "evaluation_source": "heurística",
-      "category_c": {
-        "has_security": false,
-        "has_gas_network": false,
-        "has_parking": false,
-        "has_elevator": false,
-        "two_bathrooms": true
-      },
-      "negotiation_analysis": {
-        "potential": "Estándar",
-        "signals_detected": false,
-        "summary": "Precio estándar de mercado."
-      },
-      "pros": [
-        "Dentro del presupuesto (USD 58,000)"
-      ],
-      "cons": [
-        "⚠️ Sin seguridad 24 hs ni barrio privado (penalizado en puntaje)",
-        "Consultar conexión a red de gas natural"
-      ],
-      "ai_summary": "Propiedad en Godoy Cruz (departamento) de 100.0 m2 a USD 58,000. Score: 36.6/100 (Penalizado por falta de seguridad 24hs)."
-    }
-  },
-  {
-    "id": "inmoclick_12197_397",
-    "portal": "Inmoclick",
-    "title": "SOPPELSA INMOBILIARIA VENDE amplio Departamento en ciudad. Calle Gutiérrez y Mitre. Semipiso de doble ingreso, Ubicado en 5to Piso. Posee Living comedor con Balcón. Cocina comedor amplia. Dependencia de servicio con Baño. 3 Dormitorios. Baño principal y Toilette.",
-    "property_type": "departamento",
-    "price_usd": 90000.0,
-    "surface_m2": 103.0,
-    "surface_total_m2": 103.0,
-    "surface_covered_m2": 103.0,
-    "bathrooms": 3,
-    "has_parking_attribute": false,
-    "location_zone": "Mendoza",
-    "url": "https://www.inmoclick.com.ar/12197-soppelsa-inmobiliaria/inmuebles/397/ficha/departamento-en-venta-en-gutierrez-466-5to-piso",
-    "image_url": "https://www.inmoclick.com.ar/bundles/inmoclick/images/v14.6/empty-photo-box.jpg",
-    "description": "SOPPELSA INMOBILIARIA VENDE amplio Departamento en ciudad. Calle Gutiérrez y Mitre. Semipiso de doble ingreso, Ubicado en 5to Piso. Posee Living comedor con Balcón. Cocina comedor amplia. Dependencia de servicio con Baño. 3 Dormitorios. Baño principal y Toilette.",
-    "coordinates": {
-      "lat": "-32.8875312",
-      "lng": "-68.8448985"
-    },
-    "geo_verification": {
-      "is_valid_zone": true,
-      "real_city": "Ciudad De Mendoza",
-      "real_neighborhood": "Área Fundacional",
-      "rejection_reason": null,
-      "geocode_verified": true
-    },
-    "category_b_metrics": {
-      "price_score": 98.9,
-      "price_status": "DENTRO_PRESUPUESTO",
-      "surface_score": 96.9,
-      "surface_notes": "103 m2 (Cumple objetivo de 80 m2)",
-      "price_per_m2": 873.8
-    },
-    "analysis": {
-      "opportunity_score": 36.5,
-      "evaluation_source": "heurística",
-      "category_c": {
-        "has_security": false,
-        "has_gas_network": false,
-        "has_parking": false,
-        "has_elevator": false,
-        "two_bathrooms": true
-      },
-      "negotiation_analysis": {
-        "potential": "Estándar",
-        "signals_detected": false,
-        "summary": "Precio estándar de mercado."
-      },
-      "pros": [
-        "Dentro del presupuesto (USD 90,000)"
-      ],
-      "cons": [
-        "⚠️ Sin seguridad 24 hs ni barrio privado (penalizado en puntaje)",
-        "Consultar conexión a red de gas natural"
-      ],
-      "ai_summary": "Propiedad en Mendoza (departamento) de 103.0 m2 a USD 90,000. Score: 36.5/100 (Penalizado por falta de seguridad 24hs)."
-    }
-  },
-  {
-    "id": "ml_3756706742",
-    "portal": "Mercado Libre",
-    "title": "Departamento En Venta - Benegas - Godoy Cruz - Mendoza",
-    "property_type": "departamento",
-    "price_usd": 80000.0,
-    "surface_m2": 90.0,
-    "bathrooms": 2,
-    "has_parking_attribute": false,
-    "location_zone": "Godoy Cruz",
-    "url": "https://departamento.mercadolibre.com.ar/MLA-3756706742-departamento-en-venta-benegas-godoy-cruz-mendoza-_JM",
-    "image_url": "https://http2.mlstatic.com/D_NQ_NP_2X_845552-MLA114506015822_082026-E.webp",
-    "description": "Departamento En Venta - Benegas - Godoy Cruz - Mendoza. Características: 3 ambs., 2 baños, 90 m² cubiertos. Zona: Godoy Cruz.",
-    "coordinates": null,
-    "geo_verification": {
-      "is_valid_zone": true,
-      "real_city": "Sin coordenadas",
-      "real_neighborhood": null,
-      "rejection_reason": null,
-      "geocode_verified": false
-    },
-    "category_b_metrics": {
-      "price_score": 100.0,
-      "price_status": "DENTRO_PRESUPUESTO",
-      "surface_score": 93.0,
-      "surface_notes": "90 m2 (Cumple objetivo de 80 m2)",
-      "price_per_m2": 888.9
-    },
-    "analysis": {
-      "opportunity_score": 35.9,
-      "evaluation_source": "heurística",
-      "category_c": {
-        "has_security": false,
-        "has_gas_network": false,
-        "has_parking": false,
-        "has_elevator": false,
-        "two_bathrooms": true
-      },
-      "negotiation_analysis": {
-        "potential": "Estándar",
-        "signals_detected": false,
-        "summary": "Precio estándar de mercado."
-      },
-      "pros": [
-        "Dentro del presupuesto (USD 80,000)"
-      ],
-      "cons": [
-        "⚠️ Sin seguridad 24 hs ni barrio privado (penalizado en puntaje)",
-        "Consultar conexión a red de gas natural"
-      ],
-      "ai_summary": "Propiedad en Godoy Cruz (departamento) de 90.0 m2 a USD 80,000. Score: 35.9/100 (Penalizado por falta de seguridad 24hs)."
-    }
+    "is_new": true,
+    "first_seen": "2026-09-29"
   },
   {
     "id": "ml_2130172827",
@@ -1215,60 +599,9 @@
         "Consultar conexión a red de gas natural"
       ],
       "ai_summary": "Propiedad en Guaymallen (departamento) de 88.0 m2 a USD 55,000. Score: 35.7/100 (Penalizado por falta de seguridad 24hs)."
-    }
-  },
-  {
-    "id": "ml_3912396714",
-    "portal": "Mercado Libre",
-    "title": "Venta Amplio Departamento Godoy Cruz  Apto Credito",
-    "property_type": "departamento",
-    "price_usd": 99000.0,
-    "surface_m2": 93.0,
-    "bathrooms": 2,
-    "has_parking_attribute": false,
-    "location_zone": "Godoy Cruz",
-    "url": "https://departamento.mercadolibre.com.ar/MLA-3912396714-venta-amplio-departamento-godoy-cruz-apto-credito-_JM",
-    "image_url": "https://http2.mlstatic.com/D_NQ_NP_2X_947451-MLA117165283561_092026-E.webp",
-    "description": "Venta Amplio Departamento Godoy Cruz  Apto Credito. Características: 6 ambs., 2 baños, 93 m² cubiertos. Zona: Godoy Cruz.",
-    "coordinates": null,
-    "geo_verification": {
-      "is_valid_zone": true,
-      "real_city": "Sin coordenadas",
-      "real_neighborhood": null,
-      "rejection_reason": null,
-      "geocode_verified": false
     },
-    "category_b_metrics": {
-      "price_score": 97.3,
-      "price_status": "DENTRO_PRESUPUESTO",
-      "surface_score": 93.9,
-      "surface_notes": "93 m2 (Cumple objetivo de 80 m2)",
-      "price_per_m2": 1064.5
-    },
-    "analysis": {
-      "opportunity_score": 35.3,
-      "evaluation_source": "heurística",
-      "category_c": {
-        "has_security": false,
-        "has_gas_network": false,
-        "has_parking": false,
-        "has_elevator": false,
-        "two_bathrooms": true
-      },
-      "negotiation_analysis": {
-        "potential": "Estándar",
-        "signals_detected": false,
-        "summary": "Precio estándar de mercado."
-      },
-      "pros": [
-        "Dentro del presupuesto (USD 99,000)"
-      ],
-      "cons": [
-        "⚠️ Sin seguridad 24 hs ni barrio privado (penalizado en puntaje)",
-        "Consultar conexión a red de gas natural"
-      ],
-      "ai_summary": "Propiedad en Godoy Cruz (departamento) de 93.0 m2 a USD 99,000. Score: 35.3/100 (Penalizado por falta de seguridad 24hs)."
-    }
+    "is_new": true,
+    "first_seen": "2026-09-29"
   },
   {
     "id": "ml_3024664484",
@@ -1321,26 +654,28 @@
         "Consultar conexión a red de gas natural"
       ],
       "ai_summary": "Propiedad en Guaymallen (departamento) de 100.0 m2 a USD 110,000. Score: 35.3/100 (Penalizado por falta de seguridad 24hs)."
-    }
+    },
+    "is_new": true,
+    "first_seen": "2026-09-29"
   },
   {
-    "id": "inmoclick_274909_2357",
+    "id": "inmoclick_311442_2",
     "portal": "Inmoclick",
-    "title": "Follow ofrece en venta un amplio departamento de 3 dormitorios, totalmente refaccionado, ubicado sobre calle Amigorena, en pleno centro de la Ciudad de Mendoza.",
+    "title": "📍 En pleno corazón de la ciudad de Mendoza, este amplio departamento amoblado ofrece comodidad y practicidad en una ubicación difícil de igualar. Espacios bien distribuidos que invitan a sentirse en casa desde el primer momento: cocina funcional, estar-comedor acogedor y dos dormitorios que garantizan privacidad. El mobiliario incluido —camas, mesas de luz, comedor y sala con TV— permite mudarse sin preocupaciones, y la opción de alquiler sin muebles brinda flexibilidad según tus necesidades.",
     "property_type": "departamento",
-    "price_usd": 77500.0,
-    "surface_m2": 66.0,
-    "surface_total_m2": 70.0,
-    "surface_covered_m2": 66.0,
-    "bathrooms": 1,
+    "price_usd": 70000.0,
+    "surface_m2": 80.0,
+    "surface_total_m2": 100.0,
+    "surface_covered_m2": 80.0,
+    "bathrooms": 2,
     "has_parking_attribute": false,
     "location_zone": "Mendoza",
-    "url": "https://www.inmoclick.com.ar/274909-remax-follow/inmuebles/2357/ficha/departamento-en-venta-en-amigorena-0",
+    "url": "https://www.inmoclick.com.ar/311442-plus-valor/inmuebles/2/ficha/departamento-en-venta-en-9-de-julio-1570",
     "image_url": "https://www.inmoclick.com.ar/bundles/inmoclick/images/v14.6/empty-photo-box.jpg",
-    "description": "Follow ofrece en venta un amplio departamento de 3 dormitorios, totalmente refaccionado, ubicado sobre calle Amigorena, en pleno centro de la Ciudad de Mendoza.\n\nSu excelente ubicación, a pocos metros de Avenida San Martín, lo sitúa en una de las zonas con mayor demanda de la ciudad. Rodeado de comercios, restaurantes, hoteles, entidades bancarias y oficinas, se encuentra frente al Hotel Sheraton y a escasa distancia de la Universidad Aconcagua, la Universidad de Congreso y la Plaza Independencia. Además, cuenta con excelente conectividad mediante transporte público y rápido acceso a los principales puntos de la ciudad.\n\nLa propiedad se encuentra en un primer piso con frente a calle Amigorena y acceso por ascensor o escalera.\n\nSe distribuye en un amplio y luminoso living comedor, cocina independiente, tres cómodos dormitorios, toilette de visitas, baño completo y patio. El departamento fue completamente refaccionado, encontrándose en excelentes condiciones, listo para habitar o comenzar a rentabilizar desde el primer día.\nAdemás y como valor agregado tiene cañerías nuevas de agua, gas y todo el desagüe cloacal de cocina y baños.\n\nEl edificio cuenta con reglamento que permite el destino profesional y el alquiler temporario, una característica muy valorada en este sector de la Ciudad de Mendoza. Esto convierte a la propiedad en una excelente alternativa tanto para vivienda permanente como para consultorios, estudios profesionales o inversión con alta demanda de alquiler turístico y corporativo.\n\nUna oportunidad única para adquirir un departamento de amplias dimensiones, con una ubicación privilegiada y un gran potencial de valorización.\n\nContactanos para coordinar una visita y conocer esta excelente propiedad.",
+    "description": "📍 En pleno corazón de la ciudad de Mendoza, este amplio departamento amoblado ofrece comodidad y practicidad en una ubicación difícil de igualar. Espacios bien distribuidos que invitan a sentirse en casa desde el primer momento: cocina funcional, estar-comedor acogedor y dos dormitorios que garantizan privacidad. El mobiliario incluido —camas, mesas de luz, comedor y sala con TV— permite mudarse sin preocupaciones, y la opción de alquiler sin muebles brinda flexibilidad según tus necesidades.\r\n\r\nPrincipales características:\r\n- 🏠 Ubicación: corazón de la ciudad de Mendoza\r\n- 🍽️ Cocina equipada (amoblada)\r\n- 🛋️ Estar - comedor con sofá y rack con TV\r\n- 🛏️ 2 dormitorios (equipados: 2 camas individuales y 1 cama matrimonial)\r\n- 🛁 1 baño principal\r\n- ❄️ 2 aires acondicionados\r\n- 🪑 Mobiliario incluido: mesas de luz, mesa de comedor con 4 sillas, sillón, TV con rack\r\n- 🔁 Opción: compra sin mobiliario (consultar)",
     "coordinates": {
-      "lat": "-32.8918098",
-      "lng": "-68.838637"
+      "lat": "-32.8851503",
+      "lng": "-68.83944679999999"
     },
     "geo_verification": {
       "is_valid_zone": true,
@@ -1352,18 +687,18 @@
     "category_b_metrics": {
       "price_score": 100.0,
       "price_status": "DENTRO_PRESUPUESTO",
-      "surface_score": 57.3,
-      "surface_notes": "66 m2 (En tolerancia, cercano al target de 80 m2)",
-      "price_per_m2": 1174.2
+      "surface_score": 90.0,
+      "surface_notes": "80 m2 (Cumple objetivo de 80 m2)",
+      "price_per_m2": 875.0
     },
     "analysis": {
-      "opportunity_score": 34.9,
+      "opportunity_score": 35.1,
       "evaluation_source": "heurística",
       "category_c": {
         "has_security": false,
         "has_gas_network": false,
         "has_parking": false,
-        "has_elevator": true,
+        "has_elevator": false,
         "two_bathrooms": true
       },
       "negotiation_analysis": {
@@ -1372,15 +707,76 @@
         "summary": "Precio estándar de mercado."
       },
       "pros": [
-        "Dentro del presupuesto (USD 77,500)",
-        "🛗 Edificio con ascensor"
+        "Dentro del presupuesto (USD 70,000)"
       ],
       "cons": [
         "⚠️ Sin seguridad 24 hs ni barrio privado (penalizado en puntaje)",
         "Consultar conexión a red de gas natural"
       ],
-      "ai_summary": "Propiedad en Mendoza (departamento) de 66.0 m2 a USD 77,500. Score: 34.9/100 (Penalizado por falta de seguridad 24hs)."
-    }
+      "ai_summary": "Propiedad en Mendoza (departamento) de 80.0 m2 a USD 70,000. Score: 35.1/100 (Penalizado por falta de seguridad 24hs)."
+    },
+    "is_new": true,
+    "first_seen": "2026-09-29"
+  },
+  {
+    "id": "inmoclick_308706_6",
+    "portal": "Inmoclick",
+    "title": "Planta baja confortable y funcional en excelente zona de Dorrego, entre las calles Laprida y Cobos, adyacencias calle Lamadrid, ideal para quienes buscan comodidad, privacidad y ubicación estratégica. Un hogar pensado para el día a día: living comedor para recibir visitas, cocina comedor práctica para las comidas diarias y una lavandería independiente que facilita las tareas del hogar. Tres dormitorios bien distribuidos: dos con placares y un tercero en suite con su propio placard, que ofrece mayor privacidad y confort.",
+    "property_type": "departamento",
+    "price_usd": 53000.0,
+    "surface_m2": 70.0,
+    "surface_total_m2": 75.0,
+    "surface_covered_m2": 70.0,
+    "bathrooms": 2,
+    "has_parking_attribute": false,
+    "location_zone": "Mendoza",
+    "url": "https://www.inmoclick.com.ar/308706-cm/inmuebles/6/ficha/departamento-en-venta-en-laprida-y-cobos",
+    "image_url": "https://www.inmoclick.com.ar/bundles/inmoclick/images/v14.6/empty-photo-box.jpg",
+    "description": "Planta baja confortable y funcional en excelente zona de Dorrego, entre las calles Laprida y Cobos, adyacencias calle Lamadrid, ideal para quienes buscan comodidad, privacidad y ubicación estratégica. Un hogar pensado para el día a día: living comedor para recibir visitas, cocina comedor práctica para las comidas diarias y una lavandería independiente que facilita las tareas del hogar. Tres dormitorios bien distribuidos: dos con placares y un tercero en suite con su propio placard, que ofrece mayor privacidad y confort.\r\n\r\nCaracterísticas principales:\r\n- 🏡 Planta baja, acceso cómodo y directo\r\n- 🛋️ Living comedor, espacio para recepción y relax\r\n- 🍽️ Cocina comedor, funcional y de uso diario\r\n- 🧺 Lavandería independiente, mayor practicidad\r\n- 🛏️ 2 dormitorios con placares empotrados\r\n- 🚿 Dormitorio principal en suite con placard\r\n- 📍 Excelente ubicación en Dorrego: cerca de paradas de colectivo, centros comerciales y colegios\r\n- 🔒 Entorno privado, tranquilidad y confort\r\n\r\nEsta propiedad combina practicidad y buen potencial para adaptarla a tu estilo: espacios bien pensados para la vida familiar y la convivencia. La ubicación facilita la movilidad y las compras cotidianas, además de ofrecer acceso a educación y servicios cercanos. Consulte para coordinar una visita; estamos para ayudarlo a encontrar el hogar que busca.",
+    "coordinates": {
+      "lat": "-32.9043747",
+      "lng": "-68.8222582"
+    },
+    "geo_verification": {
+      "is_valid_zone": true,
+      "real_city": "Departamento Guaymallén",
+      "real_neighborhood": "Distrito Dorrego",
+      "rejection_reason": null,
+      "geocode_verified": true
+    },
+    "category_b_metrics": {
+      "price_score": 100.0,
+      "price_status": "DENTRO_PRESUPUESTO",
+      "surface_score": 66.7,
+      "surface_notes": "70 m2 (En tolerancia, cercano al target de 80 m2)",
+      "price_per_m2": 757.1
+    },
+    "analysis": {
+      "opportunity_score": 34.6,
+      "evaluation_source": "heurística",
+      "category_c": {
+        "has_security": false,
+        "has_gas_network": false,
+        "has_parking": false,
+        "has_elevator": false,
+        "two_bathrooms": true
+      },
+      "negotiation_analysis": {
+        "potential": "Estándar",
+        "signals_detected": false,
+        "summary": "Precio estándar de mercado."
+      },
+      "pros": [
+        "Dentro del presupuesto (USD 53,000)"
+      ],
+      "cons": [
+        "⚠️ Sin seguridad 24 hs ni barrio privado (penalizado en puntaje)",
+        "Consultar conexión a red de gas natural"
+      ],
+      "ai_summary": "Propiedad en Mendoza (departamento) de 70.0 m2 a USD 53,000. Score: 34.6/100 (Penalizado por falta de seguridad 24hs)."
+    },
+    "is_new": true,
+    "first_seen": "2026-09-29"
   },
   {
     "id": "ml_2052069609",
@@ -1433,7 +829,9 @@
         "Consultar conexión a red de gas natural"
       ],
       "ai_summary": "Propiedad en Guaymallen (departamento) de 90.0 m2 a USD 120,000. Score: 34.0/100 (Penalizado por falta de seguridad 24hs)."
-    }
+    },
+    "is_new": true,
+    "first_seen": "2026-09-29"
   },
   {
     "id": "ml_1945076259",
@@ -1479,6 +877,7 @@
         "summary": "Precio estándar de mercado."
       },
       "pros": [
+        "📍 Excelente ubicación: Barrio Bombal / Bombal Sur (Godoy Cruz)",
         "Dentro del presupuesto (USD 124,900)"
       ],
       "cons": [
@@ -1486,43 +885,50 @@
         "Consultar conexión a red de gas natural"
       ],
       "ai_summary": "Propiedad en Godoy Cruz (departamento) de 87.0 m2 a USD 124,900. Score: 33.5/100 (Penalizado por falta de seguridad 24hs)."
-    }
+    },
+    "is_new": true,
+    "first_seen": "2026-09-29"
   },
   {
-    "id": "ml_3914417650",
-    "portal": "Mercado Libre",
-    "title": "Venta Duplex En Godoy Cruz",
+    "id": "inmoclick_12572_754",
+    "portal": "Inmoclick",
+    "title": "TRE INMOBILIARIA VENDE DEPARTAMENTO ubicado en Torres San Vicente sobre calle San Martín Sur 499 frente calle Leguizamón - Godoy Cruz - Mendoza.",
     "property_type": "departamento",
-    "price_usd": 128000.0,
-    "surface_m2": 87.0,
+    "price_usd": 75000.0,
+    "surface_m2": 75.0,
+    "surface_total_m2": null,
+    "surface_covered_m2": 75.0,
     "bathrooms": 2,
-    "has_parking_attribute": false,
+    "has_parking_attribute": true,
     "location_zone": "Godoy Cruz",
-    "url": "https://departamento.mercadolibre.com.ar/MLA-3914417650-venta-duplex-en-godoy-cruz-_JM",
-    "image_url": "https://http2.mlstatic.com/D_NQ_NP_2X_641007-MLA115740684574_092026-E.webp",
-    "description": "Venta Duplex En Godoy Cruz. Características: 4 ambs., 2 baños, 87 m² cubiertos. Zona: Godoy Cruz.",
-    "coordinates": null,
+    "url": "https://www.inmoclick.com.ar/12572-tre-inmobiliaria/inmuebles/754/ficha/departamento-en-venta-en-torres-san-vicente-godoy-cruz-mendoza",
+    "image_url": "https://www.inmoclick.com.ar/bundles/inmoclick/images/v14.6/empty-photo-box.jpg",
+    "description": "TRE INMOBILIARIA VENDE DEPARTAMENTO ubicado en Torres San Vicente sobre calle San Martín Sur 499 frente calle Leguizamón - Godoy Cruz - Mendoza.\n\nSuperfice cubierta: 75 m2.\n\nLa propiedad se encuentra en la Torre B, Planta Baja, cuenta con living comedor, amplia cocina con amoblamiento alacenas y bajo mesada, lavadero y toilette.\nEn zona íntima dispone de tres dormitorios con placard y baño completo.\nPosee cochera techada para un vehículo, ingreso con portón automatizado.\n\nObservaciones: pisos cerámicos, calefacción mediante estufas a gas.\n\nExcelente ubicación! A 500 metros de Plaza Godoy Cruz, variedad en comercios y transporte público.\n\nNO APTO  CREDITO HIPOTECARIO.\n\n¡Contáctanos para más información y agendar una visita!",
+    "coordinates": {
+      "lat": "-32.928602",
+      "lng": "-68.849859"
+    },
     "geo_verification": {
       "is_valid_zone": true,
-      "real_city": "Sin coordenadas",
-      "real_neighborhood": null,
+      "real_city": "Distrito Ciudad De Godoy Cruz",
+      "real_neighborhood": "Barrio Ypf",
       "rejection_reason": null,
-      "geocode_verified": false
+      "geocode_verified": true
     },
     "category_b_metrics": {
-      "price_score": 92.1,
+      "price_score": 100.0,
       "price_status": "DENTRO_PRESUPUESTO",
-      "surface_score": 92.1,
-      "surface_notes": "87 m2 (Cumple objetivo de 80 m2)",
-      "price_per_m2": 1471.3
+      "surface_score": 78.3,
+      "surface_notes": "75 m2 (En tolerancia, cercano al target de 80 m2)",
+      "price_per_m2": 1000.0
     },
     "analysis": {
-      "opportunity_score": 33.3,
+      "opportunity_score": 33.1,
       "evaluation_source": "heurística",
       "category_c": {
         "has_security": false,
         "has_gas_network": false,
-        "has_parking": false,
+        "has_parking": true,
         "has_elevator": false,
         "two_bathrooms": true
       },
@@ -1532,28 +938,157 @@
         "summary": "Precio estándar de mercado."
       },
       "pros": [
-        "Dentro del presupuesto (USD 128,000)"
+        "Dentro del presupuesto (USD 75,000)",
+        "🚗 Cuenta con cochera"
       ],
       "cons": [
+        "⚠️ Ubicado en Godoy Cruz fuera de Barrio Bombal (-15 pts)",
         "⚠️ Sin seguridad 24 hs ni barrio privado (penalizado en puntaje)",
         "Consultar conexión a red de gas natural"
       ],
-      "ai_summary": "Propiedad en Godoy Cruz (departamento) de 87.0 m2 a USD 128,000. Score: 33.3/100 (Penalizado por falta de seguridad 24hs)."
-    }
+      "ai_summary": "Propiedad en Godoy Cruz (departamento) de 75.0 m2 a USD 75,000. Score: 33.1/100 (Penalizado por falta de seguridad 24hs)."
+    },
+    "is_new": true,
+    "first_seen": "2026-09-29"
   },
   {
-    "id": "ml_1713408519",
-    "portal": "Mercado Libre",
-    "title": "Departamento En Gobernador Benegas",
+    "id": "inmoclick_268429_1981",
+    "portal": "Inmoclick",
+    "title": "Oportunidad! Venta Departamento Godoy Cruz - 2 dormitorios, con cochera subterránea y ascensor",
     "property_type": "departamento",
-    "price_usd": 63300.0,
-    "surface_m2": 73.0,
+    "price_usd": 86000.0,
+    "surface_m2": 70.0,
+    "surface_total_m2": 70.0,
+    "surface_covered_m2": 70.0,
+    "bathrooms": 2,
+    "has_parking_attribute": true,
+    "location_zone": "Godoy Cruz",
+    "url": "https://www.inmoclick.com.ar/268429-re-max-vendimia/inmuebles/1981/ficha/departamento-en-venta-en-belgrano-200",
+    "image_url": "https://www.inmoclick.com.ar/bundles/inmoclick/images/v14.6/empty-photo-box.jpg",
+    "description": "Oportunidad! Venta Departamento Godoy Cruz - 2 dormitorios, con cochera subterránea y ascensor \n\n Vendimia ofrece a la venta departamento muy luminoso de 70 m² cubiertos, ubicado en calle Belgrano, Godoy Cruz, en una zona con fácil acceso a comercios, transporte público y servicios.\n\nEl departamento se encuentra ubicado en el primer piso, cuenta con carpintería de aluminio con DVH (doble vidrio hermético) en todas sus aberturas, placares y mueble de cocina de primera calidad. Tiene cocina independiente, living-comedor amplio y muy luminoso, con balcón, 2 dormitorios y 2 baños. Se suma cochera subterránea individual.\n\nEl edificio se encuentra en perfecto estado de conservación, cuenta con ascensor y SUM (salón de usos múltiples) Es íntegramente eléctrico. \n\nCaracterísticas del departamento:\n•\tMuy luminoso\n•\tCarpintería de aluminio con DVH\n•\tPlacares\n•\tMueble de cocina de primera calidad\n•\t2 dormitorios\n•\t2 baños\n•\tCocina independiente\n•\tLiving-comedor amplio\n•\tCochera subterránea individual\n•\tAscensor\n•\tSUM\n\nContactá a nuestro equipo para coordinar una visita!",
+    "coordinates": {
+      "lat": "-32.9214293",
+      "lng": "-68.8436908"
+    },
+    "geo_verification": {
+      "is_valid_zone": true,
+      "real_city": "Distrito Ciudad De Godoy Cruz",
+      "real_neighborhood": null,
+      "rejection_reason": null,
+      "geocode_verified": true
+    },
+    "category_b_metrics": {
+      "price_score": 99.6,
+      "price_status": "DENTRO_PRESUPUESTO",
+      "surface_score": 66.7,
+      "surface_notes": "70 m2 (En tolerancia, cercano al target de 80 m2)",
+      "price_per_m2": 1228.6
+    },
+    "analysis": {
+      "opportunity_score": 32.7,
+      "evaluation_source": "heurística",
+      "category_c": {
+        "has_security": false,
+        "has_gas_network": false,
+        "has_parking": true,
+        "has_elevator": true,
+        "two_bathrooms": true
+      },
+      "negotiation_analysis": {
+        "potential": "Estándar",
+        "signals_detected": false,
+        "summary": "Precio estándar de mercado."
+      },
+      "pros": [
+        "Dentro del presupuesto (USD 86,000)",
+        "🚗 Cuenta con cochera",
+        "🛗 Edificio con ascensor"
+      ],
+      "cons": [
+        "⚠️ Ubicado en Godoy Cruz fuera de Barrio Bombal (-15 pts)",
+        "⚠️ Sin seguridad 24 hs ni barrio privado (penalizado en puntaje)",
+        "Consultar conexión a red de gas natural"
+      ],
+      "ai_summary": "Propiedad en Godoy Cruz (departamento) de 70.0 m2 a USD 86,000. Score: 32.7/100 (Penalizado por falta de seguridad 24hs)."
+    },
+    "is_new": true,
+    "first_seen": "2026-09-29"
+  },
+  {
+    "id": "inmoclick_280057_2063",
+    "portal": "Inmoclick",
+    "title": "OPENHOUSE vende desarrollo en obra gruesa sobre calle Pascual Segura de Godoy Cruz",
+    "property_type": "departamento",
+    "price_usd": 140000.0,
+    "surface_m2": 575.0,
+    "surface_total_m2": 575.0,
+    "surface_covered_m2": null,
     "bathrooms": null,
+    "has_parking_attribute": true,
+    "location_zone": "Godoy Cruz",
+    "url": "https://www.inmoclick.com.ar/280057-openhouse-inmobiliaria/inmuebles/2063/ficha/departamento-en-venta-en-pascual-segura-godoy-cruz",
+    "image_url": "https://www.inmoclick.com.ar/bundles/inmoclick/images/v14.6/empty-photo-box.jpg",
+    "description": "OPENHOUSE vende desarrollo en obra gruesa sobre calle Pascual Segura de Godoy Cruz\n\nExcelente oportunidad para inversores y desarrolladores: se ofrece a la venta un proyecto edilicio en obra gruesa, ubicado sobre calle Pascual Segura, en pleno Godoy Cruz, frente al Metrotranvía, lo que garantiza conectividad, tránsito constante y un entorno de fuerte crecimiento urbano.\n\nEl proyecto se desarrolla sobre un terreno de 522 m², con 575 m² cubiertos ya ejecutados.\nEl frente de 9,96 metros y un fondo de 52 metros, sumado a la orientación Este, permite un excelente aprovechamiento constructivo y luminosidad natural.\n\nLa obra contempla un conjunto de 15 departamentos monoambientes, uno de ellos de mayor superficie, ideales para renta permanente o turismo.\nEl proyecto incluye 3 cocheras, sumando valor y atractivo para futuros usuarios o inversores.\n\nSe vende en estado de obra gruesa, listo para que el comprador continúe y finalice según sus necesidades, permitiendo adaptar terminaciones, diseño y estrategia comercial al mercado actual.\n\nCARACTERÍSTICAS PRINCIPALES\n-Terreno: 522 m²\n-Superficie cubierta ejecutada: 575 m²\n-Frente: 9,96 m\n-Fondo: 52 m\n-Orientación: Este\n- Ubicación estratégica: frente al Metrotranvía\n-15 departamentos monoambientes (1 más amplio que los demás)\n-3 cocheras (con posibilidad de tener mas)\n-Estructura en obra gruesa\n-Ideal para inversión, desarrollo y renta futura\n\nUna oportunidad única en una de las zonas con mayor demanda y expansión de Godoy Cruz, perfecta para quienes buscan finalizar un proyecto con excelente potencial de rentabilidad.\n\nPara más información o visitas, comunicate con nosotros!\n\nOPENHOUSE – proyectos que se convierten en oportunidades\n\n — F.F",
+    "coordinates": {
+      "lat": "-32.9082448",
+      "lng": "-68.8524433"
+    },
+    "geo_verification": {
+      "is_valid_zone": true,
+      "real_city": "Distrito Ciudad De Godoy Cruz",
+      "real_neighborhood": "Villa Hipódromo",
+      "rejection_reason": null,
+      "geocode_verified": true
+    },
+    "category_b_metrics": {
+      "price_score": 90.0,
+      "price_status": "DENTRO_PRESUPUESTO",
+      "surface_score": 100.0,
+      "surface_notes": "575 m2 (Cumple objetivo de 80 m2)",
+      "price_per_m2": 243.5
+    },
+    "analysis": {
+      "opportunity_score": 30.2,
+      "evaluation_source": "heurística",
+      "category_c": {
+        "has_security": false,
+        "has_gas_network": false,
+        "has_parking": true,
+        "has_elevator": false,
+        "two_bathrooms": true
+      },
+      "negotiation_analysis": {
+        "potential": "Estándar",
+        "signals_detected": false,
+        "summary": "Precio estándar de mercado."
+      },
+      "pros": [
+        "Dentro del presupuesto (USD 140,000)",
+        "🚗 Cuenta con cochera"
+      ],
+      "cons": [
+        "⚠️ Ubicado en Godoy Cruz fuera de Barrio Bombal (-15 pts)",
+        "⚠️ Sin seguridad 24 hs ni barrio privado (penalizado en puntaje)",
+        "Consultar conexión a red de gas natural"
+      ],
+      "ai_summary": "Propiedad en Godoy Cruz (departamento) de 575.0 m2 a USD 140,000. Score: 30.2/100 (Penalizado por falta de seguridad 24hs)."
+    },
+    "is_new": true,
+    "first_seen": "2026-09-29"
+  },
+  {
+    "id": "ml_3846544412",
+    "portal": "Mercado Libre",
+    "title": "Duplex En Godoy Cruz",
+    "property_type": "departamento",
+    "price_usd": 58000.0,
+    "surface_m2": 100.0,
+    "bathrooms": 2,
     "has_parking_attribute": false,
     "location_zone": "Godoy Cruz",
-    "url": "https://departamento.mercadolibre.com.ar/MLA-1713408519-departamento-en-gobernador-benegas-_JM",
-    "image_url": "https://http2.mlstatic.com/D_NQ_NP_2X_737420-MLA113971210411_062026-E.webp",
-    "description": "Departamento En Gobernador Benegas. Características: 2 dormitorios, 73 m² totales. Zona: Godoy Cruz.",
+    "url": "https://departamento.mercadolibre.com.ar/MLA-3846544412-duplex-en-godoy-cruz-_JM",
+    "image_url": "https://http2.mlstatic.com/D_NQ_NP_2X_968556-MLA116595092255_082026-E.webp",
+    "description": "Duplex En Godoy Cruz. Características: 5 ambs., 2 baños, 100 m² cubiertos. Zona: Godoy Cruz.",
     "coordinates": null,
     "geo_verification": {
       "is_valid_zone": true,
@@ -1565,12 +1100,12 @@
     "category_b_metrics": {
       "price_score": 100.0,
       "price_status": "DENTRO_PRESUPUESTO",
-      "surface_score": 73.7,
-      "surface_notes": "73 m2 (En tolerancia, cercano al target de 80 m2)",
-      "price_per_m2": 867.1
+      "surface_score": 96.0,
+      "surface_notes": "100 m2 (Cumple objetivo de 80 m2)",
+      "price_per_m2": 580.0
     },
     "analysis": {
-      "opportunity_score": 31.1,
+      "opportunity_score": 21.6,
       "evaluation_source": "heurística",
       "category_c": {
         "has_security": false,
@@ -1585,14 +1120,129 @@
         "summary": "Precio estándar de mercado."
       },
       "pros": [
-        "Dentro del presupuesto (USD 63,300)"
+        "Dentro del presupuesto (USD 58,000)"
       ],
       "cons": [
+        "⚠️ Ubicado en Godoy Cruz fuera de Barrio Bombal (-15 pts)",
         "⚠️ Sin seguridad 24 hs ni barrio privado (penalizado en puntaje)",
         "Consultar conexión a red de gas natural"
       ],
-      "ai_summary": "Propiedad en Godoy Cruz (departamento) de 73.0 m2 a USD 63,300. Score: 31.1/100 (Penalizado por falta de seguridad 24hs)."
-    }
+      "ai_summary": "Propiedad en Godoy Cruz (departamento) de 100.0 m2 a USD 58,000. Score: 21.6/100 (Penalizado por falta de seguridad 24hs)."
+    },
+    "is_new": true,
+    "first_seen": "2026-09-29"
+  },
+  {
+    "id": "ml_3756706742",
+    "portal": "Mercado Libre",
+    "title": "Departamento En Venta - Benegas - Godoy Cruz - Mendoza",
+    "property_type": "departamento",
+    "price_usd": 80000.0,
+    "surface_m2": 90.0,
+    "bathrooms": 2,
+    "has_parking_attribute": false,
+    "location_zone": "Godoy Cruz",
+    "url": "https://departamento.mercadolibre.com.ar/MLA-3756706742-departamento-en-venta-benegas-godoy-cruz-mendoza-_JM",
+    "image_url": "https://http2.mlstatic.com/D_NQ_NP_2X_845552-MLA114506015822_082026-E.webp",
+    "description": "Departamento En Venta - Benegas - Godoy Cruz - Mendoza. Características: 3 ambs., 2 baños, 90 m² cubiertos. Zona: Godoy Cruz.",
+    "coordinates": null,
+    "geo_verification": {
+      "is_valid_zone": true,
+      "real_city": "Sin coordenadas",
+      "real_neighborhood": null,
+      "rejection_reason": null,
+      "geocode_verified": false
+    },
+    "category_b_metrics": {
+      "price_score": 100.0,
+      "price_status": "DENTRO_PRESUPUESTO",
+      "surface_score": 93.0,
+      "surface_notes": "90 m2 (Cumple objetivo de 80 m2)",
+      "price_per_m2": 888.9
+    },
+    "analysis": {
+      "opportunity_score": 20.9,
+      "evaluation_source": "heurística",
+      "category_c": {
+        "has_security": false,
+        "has_gas_network": false,
+        "has_parking": false,
+        "has_elevator": false,
+        "two_bathrooms": true
+      },
+      "negotiation_analysis": {
+        "potential": "Estándar",
+        "signals_detected": false,
+        "summary": "Precio estándar de mercado."
+      },
+      "pros": [
+        "Dentro del presupuesto (USD 80,000)"
+      ],
+      "cons": [
+        "⚠️ Ubicado en Godoy Cruz fuera de Barrio Bombal (-15 pts)",
+        "⚠️ Sin seguridad 24 hs ni barrio privado (penalizado en puntaje)",
+        "Consultar conexión a red de gas natural"
+      ],
+      "ai_summary": "Propiedad en Godoy Cruz (departamento) de 90.0 m2 a USD 80,000. Score: 20.9/100 (Penalizado por falta de seguridad 24hs)."
+    },
+    "is_new": true,
+    "first_seen": "2026-09-29"
+  },
+  {
+    "id": "ml_3912396714",
+    "portal": "Mercado Libre",
+    "title": "Venta Amplio Departamento Godoy Cruz  Apto Credito",
+    "property_type": "departamento",
+    "price_usd": 99000.0,
+    "surface_m2": 93.0,
+    "bathrooms": 2,
+    "has_parking_attribute": false,
+    "location_zone": "Godoy Cruz",
+    "url": "https://departamento.mercadolibre.com.ar/MLA-3912396714-venta-amplio-departamento-godoy-cruz-apto-credito-_JM",
+    "image_url": "https://http2.mlstatic.com/D_NQ_NP_2X_947451-MLA117165283561_092026-E.webp",
+    "description": "Venta Amplio Departamento Godoy Cruz  Apto Credito. Características: 6 ambs., 2 baños, 93 m² cubiertos. Zona: Godoy Cruz.",
+    "coordinates": null,
+    "geo_verification": {
+      "is_valid_zone": true,
+      "real_city": "Sin coordenadas",
+      "real_neighborhood": null,
+      "rejection_reason": null,
+      "geocode_verified": false
+    },
+    "category_b_metrics": {
+      "price_score": 97.3,
+      "price_status": "DENTRO_PRESUPUESTO",
+      "surface_score": 93.9,
+      "surface_notes": "93 m2 (Cumple objetivo de 80 m2)",
+      "price_per_m2": 1064.5
+    },
+    "analysis": {
+      "opportunity_score": 20.3,
+      "evaluation_source": "heurística",
+      "category_c": {
+        "has_security": false,
+        "has_gas_network": false,
+        "has_parking": false,
+        "has_elevator": false,
+        "two_bathrooms": true
+      },
+      "negotiation_analysis": {
+        "potential": "Estándar",
+        "signals_detected": false,
+        "summary": "Precio estándar de mercado."
+      },
+      "pros": [
+        "Dentro del presupuesto (USD 99,000)"
+      ],
+      "cons": [
+        "⚠️ Ubicado en Godoy Cruz fuera de Barrio Bombal (-15 pts)",
+        "⚠️ Sin seguridad 24 hs ni barrio privado (penalizado en puntaje)",
+        "Consultar conexión a red de gas natural"
+      ],
+      "ai_summary": "Propiedad en Godoy Cruz (departamento) de 93.0 m2 a USD 99,000. Score: 20.3/100 (Penalizado por falta de seguridad 24hs)."
+    },
+    "is_new": true,
+    "first_seen": "2026-09-29"
   },
   {
     "id": "ml_1805521295",
@@ -1623,7 +1273,7 @@
       "price_per_m2": 2027.0
     },
     "analysis": {
-      "opportunity_score": 30.2,
+      "opportunity_score": 20.0,
       "evaluation_source": "heurística",
       "category_c": {
         "has_security": false,
@@ -1641,12 +1291,14 @@
         "🚗 Cuenta con cochera"
       ],
       "cons": [
+        "⚠️ Ubicado en Godoy Cruz fuera de Barrio Bombal (-15 pts)",
         "Publicado en USD 150,000 (Requiere contraoferta del 7.1%)",
-        "⚠️ Sin seguridad 24 hs ni barrio privado (penalizado en puntaje)",
-        "Consultar conexión a red de gas natural"
+        "⚠️ Sin seguridad 24 hs ni barrio privado (penalizado en puntaje)"
       ],
-      "ai_summary": "Propiedad en Godoy Cruz (departamento) de 74.0 m2 a USD 150,000. Score: 30.2/100 (Penalizado por falta de seguridad 24hs)."
-    }
+      "ai_summary": "Propiedad en Godoy Cruz (departamento) de 74.0 m2 a USD 150,000. Score: 20.0/100 (Penalizado por falta de seguridad 24hs)."
+    },
+    "is_new": true,
+    "first_seen": "2026-09-29"
   },
   {
     "id": "ml_1746780419",
@@ -1677,7 +1329,7 @@
       "price_per_m2": 1211.3
     },
     "analysis": {
-      "opportunity_score": 30.0,
+      "opportunity_score": 20.0,
       "evaluation_source": "heurística",
       "category_c": {
         "has_security": false,
@@ -1695,11 +1347,70 @@
         "Dentro del presupuesto (USD 86,000)"
       ],
       "cons": [
+        "⚠️ Ubicado en Godoy Cruz fuera de Barrio Bombal (-15 pts)",
         "⚠️ Sin seguridad 24 hs ni barrio privado (penalizado en puntaje)",
         "Consultar conexión a red de gas natural"
       ],
-      "ai_summary": "Propiedad en Godoy Cruz (departamento) de 71.0 m2 a USD 86,000. Score: 30.0/100 (Penalizado por falta de seguridad 24hs)."
-    }
+      "ai_summary": "Propiedad en Godoy Cruz (departamento) de 71.0 m2 a USD 86,000. Score: 20.0/100 (Penalizado por falta de seguridad 24hs)."
+    },
+    "is_new": true,
+    "first_seen": "2026-09-29"
+  },
+  {
+    "id": "ml_1713408519",
+    "portal": "Mercado Libre",
+    "title": "Departamento En Gobernador Benegas",
+    "property_type": "departamento",
+    "price_usd": 63300.0,
+    "surface_m2": 73.0,
+    "bathrooms": null,
+    "has_parking_attribute": false,
+    "location_zone": "Godoy Cruz",
+    "url": "https://departamento.mercadolibre.com.ar/MLA-1713408519-departamento-en-gobernador-benegas-_JM",
+    "image_url": "https://http2.mlstatic.com/D_NQ_NP_2X_737420-MLA113971210411_062026-E.webp",
+    "description": "Departamento En Gobernador Benegas. Características: 2 dormitorios, 73 m² totales. Zona: Godoy Cruz.",
+    "coordinates": null,
+    "geo_verification": {
+      "is_valid_zone": true,
+      "real_city": "Sin coordenadas",
+      "real_neighborhood": null,
+      "rejection_reason": null,
+      "geocode_verified": false
+    },
+    "category_b_metrics": {
+      "price_score": 100.0,
+      "price_status": "DENTRO_PRESUPUESTO",
+      "surface_score": 73.7,
+      "surface_notes": "73 m2 (En tolerancia, cercano al target de 80 m2)",
+      "price_per_m2": 867.1
+    },
+    "analysis": {
+      "opportunity_score": 20.0,
+      "evaluation_source": "heurística",
+      "category_c": {
+        "has_security": false,
+        "has_gas_network": false,
+        "has_parking": false,
+        "has_elevator": false,
+        "two_bathrooms": true
+      },
+      "negotiation_analysis": {
+        "potential": "Estándar",
+        "signals_detected": false,
+        "summary": "Precio estándar de mercado."
+      },
+      "pros": [
+        "Dentro del presupuesto (USD 63,300)"
+      ],
+      "cons": [
+        "⚠️ Ubicado en Godoy Cruz fuera de Barrio Bombal (-15 pts)",
+        "⚠️ Sin seguridad 24 hs ni barrio privado (penalizado en puntaje)",
+        "Consultar conexión a red de gas natural"
+      ],
+      "ai_summary": "Propiedad en Godoy Cruz (departamento) de 73.0 m2 a USD 63,300. Score: 20.0/100 (Penalizado por falta de seguridad 24hs)."
+    },
+    "is_new": true,
+    "first_seen": "2026-09-29"
   },
   {
     "id": "ml_1835271625",
@@ -1730,7 +1441,7 @@
       "price_per_m2": 1898.7
     },
     "analysis": {
-      "opportunity_score": 30.0,
+      "opportunity_score": 20.0,
       "evaluation_source": "heurística",
       "category_c": {
         "has_security": false,
@@ -1746,11 +1457,69 @@
       },
       "pros": [],
       "cons": [
+        "⚠️ Ubicado en Godoy Cruz fuera de Barrio Bombal (-15 pts)",
         "Publicado en USD 150,000 (Requiere contraoferta del 7.1%)",
+        "⚠️ Sin seguridad 24 hs ni barrio privado (penalizado en puntaje)"
+      ],
+      "ai_summary": "Propiedad en Godoy Cruz (departamento) de 79.0 m2 a USD 150,000. Score: 20.0/100 (Penalizado por falta de seguridad 24hs)."
+    },
+    "is_new": true,
+    "first_seen": "2026-09-29"
+  },
+  {
+    "id": "ml_3914417650",
+    "portal": "Mercado Libre",
+    "title": "Venta Duplex En Godoy Cruz",
+    "property_type": "departamento",
+    "price_usd": 128000.0,
+    "surface_m2": 87.0,
+    "bathrooms": 2,
+    "has_parking_attribute": false,
+    "location_zone": "Godoy Cruz",
+    "url": "https://departamento.mercadolibre.com.ar/MLA-3914417650-venta-duplex-en-godoy-cruz-_JM",
+    "image_url": "https://http2.mlstatic.com/D_NQ_NP_2X_641007-MLA115740684574_092026-E.webp",
+    "description": "Venta Duplex En Godoy Cruz. Características: 4 ambs., 2 baños, 87 m² cubiertos. Zona: Godoy Cruz.",
+    "coordinates": null,
+    "geo_verification": {
+      "is_valid_zone": true,
+      "real_city": "Sin coordenadas",
+      "real_neighborhood": null,
+      "rejection_reason": null,
+      "geocode_verified": false
+    },
+    "category_b_metrics": {
+      "price_score": 92.1,
+      "price_status": "DENTRO_PRESUPUESTO",
+      "surface_score": 92.1,
+      "surface_notes": "87 m2 (Cumple objetivo de 80 m2)",
+      "price_per_m2": 1471.3
+    },
+    "analysis": {
+      "opportunity_score": 20.0,
+      "evaluation_source": "heurística",
+      "category_c": {
+        "has_security": false,
+        "has_gas_network": false,
+        "has_parking": false,
+        "has_elevator": false,
+        "two_bathrooms": true
+      },
+      "negotiation_analysis": {
+        "potential": "Estándar",
+        "signals_detected": false,
+        "summary": "Precio estándar de mercado."
+      },
+      "pros": [
+        "Dentro del presupuesto (USD 128,000)"
+      ],
+      "cons": [
+        "⚠️ Ubicado en Godoy Cruz fuera de Barrio Bombal (-15 pts)",
         "⚠️ Sin seguridad 24 hs ni barrio privado (penalizado en puntaje)",
         "Consultar conexión a red de gas natural"
       ],
-      "ai_summary": "Propiedad en Godoy Cruz (departamento) de 79.0 m2 a USD 150,000. Score: 30.0/100 (Penalizado por falta de seguridad 24hs)."
-    }
+      "ai_summary": "Propiedad en Godoy Cruz (departamento) de 87.0 m2 a USD 128,000. Score: 20.0/100 (Penalizado por falta de seguridad 24hs)."
+    },
+    "is_new": true,
+    "first_seen": "2026-09-29"
   }
 ]

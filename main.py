@@ -150,6 +150,40 @@ def run_pipeline():
     data_dir = Path(__file__).parent / "data"
     data_dir.mkdir(exist_ok=True)
 
+    # Seguimiento de NOVEDADES: Compara con el historial de publicaciones ya vistas
+    history_file = data_dir / "seen_properties.json"
+    seen_properties = {}
+    if history_file.exists():
+        try:
+            with open(history_file, "r", encoding="utf-8") as f:
+                seen_properties = json.load(f)
+        except Exception:
+            seen_properties = {}
+
+    today_str = datetime.now().strftime("%Y-%m-%d")
+    new_count = 0
+
+    for p in evaluated_opportunities:
+        pkey = p.get("id") or p.get("url")
+        if pkey not in seen_properties:
+            p["is_new"] = True
+            p["first_seen"] = today_str
+            seen_properties[pkey] = today_str
+            new_count += 1
+        else:
+            # Es novedad si se descubrió por primera vez hoy
+            p["is_new"] = (seen_properties.get(pkey) == today_str)
+            p["first_seen"] = seen_properties.get(pkey)
+
+    logger.info(f"Detección de novedades: {new_count} publicaciones nuevas hoy de {len(evaluated_opportunities)} totales.")
+
+    # Guardar historial de vistas
+    try:
+        with open(history_file, "w", encoding="utf-8") as f:
+            json.dump(seen_properties, f, ensure_ascii=False, indent=2)
+    except Exception as e:
+        logger.warning(f"No se pudo guardar seen_properties.json: {e}")
+
     json_path = data_dir / "latest_run.json"
     with open(json_path, "w", encoding="utf-8") as f:
         json.dump(evaluated_opportunities, f, ensure_ascii=False, indent=2)

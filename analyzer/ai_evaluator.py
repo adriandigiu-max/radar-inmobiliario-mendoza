@@ -73,10 +73,29 @@ def evaluate_heuristics(prop: Dict[str, Any], cat_b: Dict[str, Any]) -> Dict[str
     if not has_security:
         base_score = max(30.0, base_score - 20.0)
 
-    final_score = min(100.0, round(base_score, 1))
-
     pros = []
     cons = []
+
+    # EVALUACIÓN DE BARRIO EN GODOY CRUZ:
+    # "Godoy cruz sigue siendo aceptado, pero penaliza a los barrios que no sea el Bombal"
+    geo = prop.get("geo_verification", {})
+    prop_zone = (prop.get("location_zone") or "").lower()
+    real_city = (geo.get("real_city") or "").lower()
+    real_neighborhood = (geo.get("real_neighborhood") or "").lower()
+    loc_full = f"{prop_zone} {real_city} {real_neighborhood} {text}".lower()
+
+    is_godoy_cruz = "godoy cruz" in prop_zone or "godoy cruz" in real_city
+    is_bombal = "bombal" in loc_full or "bombal sur" in loc_full
+
+    if is_godoy_cruz:
+        if is_bombal:
+            pros.append("📍 Excelente ubicación: Barrio Bombal / Bombal Sur (Godoy Cruz)")
+        else:
+            base_score = max(20.0, base_score - 15.0)
+            cons.append("⚠️ Ubicado en Godoy Cruz fuera de Barrio Bombal (-15 pts)")
+
+    final_score = min(100.0, round(base_score, 1))
+
     if price <= 140000:
         pros.append(f"Dentro del presupuesto (USD {price:,.0f})")
     else:

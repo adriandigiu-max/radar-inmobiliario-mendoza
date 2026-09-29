@@ -1,10 +1,11 @@
 """
 Módulo de Notificación por Email (SMTP de Gmail).
-Envía el resumen diario a flordigiu@gmail.com desde adriandigiu@gmail.com
-con el Top 3 de novedades y el enlace directo al panel web de Streamlit.
+Envía el resumen diario a sdigiuseppe@umaza.edu.ar desde adriandigiu@gmail.com
+priorizando NOVEDADES (propiedades recién detectadas) para no repetir siempre las mismas opciones.
 """
 
 import smtplib
+import ssl
 import logging
 from email.mime.multipart import MIMEMultipart
 from email.mime.text import MIMEText
@@ -20,18 +21,36 @@ def generate_email_html(
     app_url: str = "https://radar-inmobiliario-mendoza.streamlit.app",
     total_found: int = 0
 ) -> str:
-    """Genera la plantilla HTML responsive con el Top 3 y link a la app."""
+    """Genera la plantilla HTML responsive priorizando NOVEDADES del día."""
     date_str = datetime.now().strftime("%d/%m/%Y")
-    top_3 = opportunities[:3]
     total_count = total_found or len(opportunities)
 
+    # Separar novedades (recién descubiertas hoy) de las que ya estaban en seguimiento
+    new_ops = [op for op in opportunities if op.get("is_new")]
+    ongoing_ops = [op for op in opportunities if not op.get("is_new")]
+
+    # Selección del Top 3 a destacar en el cuerpo del correo:
+    # 1. Primero las novedades ordenadas por score
+    # 2. Si hay menos de 3 novedades, completar con las mejores opciones en seguimiento
+    if len(new_ops) >= 3:
+        featured_ops = new_ops[:3]
+        section_subtitle = f"Detectamos <strong>{len(new_ops)} publicaciones nuevas</strong> hoy. Aquí tienes el Top 3 de novedades."
+    elif len(new_ops) > 0:
+        needed = 3 - len(new_ops)
+        featured_ops = new_ops + ongoing_ops[:needed]
+        section_subtitle = f"Se detectaron <strong>{len(new_ops)} novedad(es)</strong> hoy + las opciones vigentes más destacadas."
+    else:
+        featured_ops = opportunities[:3]
+        section_subtitle = "Hoy no ingresaron publicaciones nuevas que superen los filtros. Te mostramos las 3 mejores opciones vigentes en seguimiento."
+
     items_html = ""
-    for idx, op in enumerate(top_3, 1):
+    for idx, op in enumerate(featured_ops, 1):
         analysis = op.get("analysis", {})
         score = analysis.get("opportunity_score", 0)
         cat_c = analysis.get("category_c", {})
         nego = analysis.get("negotiation_analysis", {})
         geo = op.get("geo_verification", {})
+        is_new = op.get("is_new", False)
 
         # Ubicación real comprobada por GPS
         city = geo.get("real_city") or op.get("location_zone")
@@ -48,6 +67,12 @@ def generate_email_html(
         else:
             badge_color = "#d97706"  # ámbar
             badge_text = "Opción Aceptable"
+
+        # Badge de Novedad vs Seguimiento
+        if is_new:
+            novelty_badge = '<span style="background:#dc2626;color:#ffffff;padding:3px 9px;border-radius:12px;font-weight:700;font-size:11px;margin-right:6px;">🔥 NOVEDAD DE HOY</span>'
+        else:
+            novelty_badge = '<span style="background:#475569;color:#ffffff;padding:3px 9px;border-radius:12px;font-weight:600;font-size:11px;margin-right:6px;">📋 EN SEGUIMIENTO</span>'
 
         # Badges Categoría C
         tags_html = ""
@@ -76,6 +101,7 @@ def generate_email_html(
             <div style="display:flex;justify-content:space-between;align-items:flex-start;flex-wrap:wrap;gap:10px;">
                 <div style="flex:1;min-width:260px;">
                     <div style="margin-bottom:8px;">
+                        {novelty_badge}
                         <span style="background:#1e293b;color:#ffffff;padding:3px 9px;border-radius:12px;font-weight:bold;font-size:12px;margin-right:8px;">
                             TOP #{idx}
                         </span>
@@ -122,13 +148,13 @@ def generate_email_html(
             <!-- HEADER -->
             <div style="background:linear-gradient(135deg, #1e293b 0%, #0f172a 100%);color:#ffffff;padding:28px 24px;border-radius:12px 12px 0 0;text-align:center;">
                 <h1 style="margin:0 0 6px 0;font-size:24px;letter-spacing:-0.5px;">🏡 Radar Inmobiliario Mendoza</h1>
-                <p style="margin:0;opacity:0.85;font-size:14px;">Actualización diaria del {date_str} • Capital, Godoy Cruz y Dorrego</p>
+                <p style="margin:0;opacity:0.85;font-size:14px;">Actualización diaria del {date_str} • Capital, Godoy Cruz (Bombal) y Dorrego</p>
             </div>
             
             <!-- BOTON DESTACADO APP -->
             <div style="background:#ffffff;padding:18px 24px;border-bottom:1px solid #e2e8f0;text-align:center;">
                 <p style="margin:0 0 12px 0;font-size:14px;color:#475569;">
-                    El agente analizó las publicaciones de hoy y detectó <strong>{total_count} propiedades</strong> que cumplen todos los criterios.
+                    El agente analizó las publicaciones de hoy y mantiene <strong>{total_count} propiedades verificadas</strong> activas.
                 </p>
                 <a href="{app_url}" target="_blank" style="background:#2563eb;color:#ffffff;text-decoration:none;padding:12px 26px;border-radius:8px;font-weight:700;font-size:15px;display:inline-block;box-shadow:0 2px 4px rgba(37,99,235,0.2);">
                     👉 Abrir Panel Web con todas las oportunidades
@@ -137,13 +163,13 @@ def generate_email_html(
 
             <!-- TITULO TOP 3 -->
             <div style="padding:20px 6px 10px 6px;">
-                <h3 style="margin:0;color:#1e293b;font-size:18px;">🏆 Top 3 Novedades de Hoy</h3>
-                <p style="margin:4px 0 0 0;color:#64748b;font-size:13px;">Las 3 mejores opciones ponderadas por precio, superficie, seguridad 24hs y ubicación GPS.</p>
+                <h3 style="margin:0;color:#1e293b;font-size:18px;">🏆 Oportunidades Seleccionadas de Hoy</h3>
+                <p style="margin:4px 0 0 0;color:#64748b;font-size:13px;">{section_subtitle}</p>
             </div>
 
             <!-- LISTADO TOP 3 -->
             <div>
-                {items_html if items_html else "<p style='text-align:center;color:#64748b;padding:30px 0;'>No se encontraron nuevas propiedades hoy.</p>"}
+                {items_html if items_html else "<p style='text-align:center;color:#64748b;padding:30px 0;'>No se encontraron propiedades para mostrar hoy.</p>"}
             </div>
 
             <!-- FOOTER -->
@@ -168,7 +194,7 @@ def send_email_report(
     smtp_config: Dict[str, Any],
     search_summary: Dict[str, Any]
 ) -> bool:
-    """Envía el email del Top 3 vía SMTP."""
+    """Envía el email vía SMTP priorizando novedades."""
     sender = smtp_config.get("sender_email", "adriandigiu@gmail.com")
     password = smtp_config.get("sender_app_password", "").replace(" ", "").strip()
     recipient = smtp_config.get("recipient_email", "sdigiuseppe@umaza.edu.ar")
@@ -182,8 +208,16 @@ def send_email_report(
 
     try:
         date_str = datetime.now().strftime("%d/%m")
+        new_count = sum(1 for op in opportunities if op.get("is_new"))
+        
+        # Asunto descriptivo según novedades
+        if new_count > 0:
+            subject = f"🏡 Radar Inmobiliario Mendoza: {new_count} Novedad(es) hoy ({date_str})"
+        else:
+            subject = f"🏡 Radar Inmobiliario Mendoza: Top 3 en seguimiento ({date_str})"
+
         msg = MIMEMultipart("alternative")
-        msg["Subject"] = f"🏡 Radar Inmobiliario Mendoza: Top 3 de hoy ({date_str})"
+        msg["Subject"] = subject
         msg["From"] = f"Radar Inmobiliario <{sender}>"
         msg["To"] = recipient
 
@@ -195,9 +229,8 @@ def send_email_report(
         )
         msg.attach(MIMEText(html_body, "html", "utf-8"))
 
-        # Intentar primero conexión directa SSL por puerto 465 (más confiable)
+        # Conexión directa SSL puerto 465 (más confiable) con fallback a 587
         try:
-            import ssl
             context = ssl.create_default_context()
             with smtplib.SMTP_SSL("smtp.gmail.com", 465, context=context, timeout=15) as server:
                 server.login(sender, password)

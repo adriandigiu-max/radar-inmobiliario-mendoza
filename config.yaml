@@ -10,7 +10,7 @@ search:
   locations:
     primary:
       - "Mendoza"       # Ciudad / Capital (Todas las secciones, Bombal, Quinta, etc.)
-      - "Godoy Cruz"    # Godoy Cruz completo
+      - "Godoy Cruz"    # Godoy Cruz (Penaliza barrios fuera de Bombal)
     secondary_subzones:
       - zone: "Guaymallen"
         allowed_neighborhoods:
