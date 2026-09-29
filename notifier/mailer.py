@@ -153,7 +153,7 @@ def generate_email_html(
             </div>
 
             <div style="text-align:center;color:#94a3b8;font-size:12px;padding:20px 0;">
-                Enviado automáticamente desde adriandigiu@gmail.com hacia flordigiu@gmail.com<br>
+                Enviado automáticamente desde adriandigiu@gmail.com hacia sdigiuseppe@umaza.edu.ar<br>
                 Radar Inmobiliario Mendoza
             </div>
         </div>
@@ -171,7 +171,7 @@ def send_email_report(
     """Envía el email del Top 3 vía SMTP."""
     sender = smtp_config.get("sender_email", "adriandigiu@gmail.com")
     password = smtp_config.get("sender_app_password", "").replace(" ", "").strip()
-    recipient = smtp_config.get("recipient_email", "flordigiu@gmail.com")
+    recipient = smtp_config.get("recipient_email", "sdigiuseppe@umaza.edu.ar")
     smtp_server = smtp_config.get("smtp_server", "smtp.gmail.com")
     smtp_port = int(smtp_config.get("smtp_port", 587))
     app_url = smtp_config.get("app_url", "https://radar-inmobiliario-mendoza.streamlit.app")

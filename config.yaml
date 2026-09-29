@@ -87,5 +87,5 @@ notifications:
     smtp_port: 587
     sender_email: "adriandigiu@gmail.com"
     sender_app_password: ""  # Se carga desde .env o variable de entorno SMTP_APP_PASSWORD
-    recipient_email: "flordigiu@gmail.com"
+    recipient_email: "sdigiuseppe@umaza.edu.ar"
     app_url: "https://radar-inmobiliario-mendoza.streamlit.app"
