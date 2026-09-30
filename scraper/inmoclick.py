@@ -104,6 +104,9 @@ def scrape_slug(target: Dict[str, str], max_price_usd: float = 152000, max_pages
                 sup_t = parse_surface(article.get("sup_t", ""))
                 surface_m2 = sup_c if sup_c else sup_t
 
+                raw_bedrooms = article.get("ser_1", "")
+                bedrooms = int(raw_bedrooms) if raw_bedrooms.isdigit() else (None if raw_bedrooms == "disable" else None)
+
                 raw_baths = article.get("ser_2", "")
                 bathrooms = int(raw_baths) if raw_baths.isdigit() else (None if raw_baths == "disable" else 1)
                 
@@ -146,6 +149,8 @@ def scrape_slug(target: Dict[str, str], max_price_usd: float = 152000, max_pages
                     "surface_total_m2": sup_t,
                     "surface_covered_m2": sup_c,
                     "bathrooms": bathrooms,
+                    "bedrooms": bedrooms,
+                    "rooms": None,
                     "has_parking_attribute": has_garage,
                     "location_zone": zone,
                     "url": item_url,

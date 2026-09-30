@@ -94,6 +94,22 @@ def evaluate_heuristics(prop: Dict[str, Any], cat_b: Dict[str, Any]) -> Dict[str
             base_score = max(20.0, base_score - 15.0)
             cons.append("⚠️ Ubicado en Godoy Cruz fuera de Barrio Bombal (-15 pts)")
 
+    # BONIFICACIÓN POR ESPACIO EXTRA (3+ DORMITORIOS O 4+ AMBIENTES)
+    bedrooms = prop.get("bedrooms")
+    rooms = prop.get("rooms")
+    has_extra_rooms = (
+        (bedrooms is not None and bedrooms >= 3) or
+        (rooms is not None and rooms >= 4) or
+        any(k in text for k in [
+            "3 dormitorios", "tres dormitorios", "4 dormitorios", "cuatro dormitorios", "5 dormitorios",
+            "3 habitaciones", "tres habitaciones", "4 habitaciones", "cuatro habitaciones",
+            "4 ambientes", "cuatro ambientes", "5 ambientes", "cinco ambientes", "3 dorm", "4 dorm"
+        ])
+    )
+    if has_extra_rooms:
+        base_score = min(100.0, base_score + 10.0)
+        pros.append("✨ Amplio: cuenta con 3+ dormitorios o 4+ ambientes (+10 pts)")
+
     final_score = min(100.0, round(base_score, 1))
 
     if price <= 140000:

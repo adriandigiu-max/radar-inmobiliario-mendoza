@@ -104,6 +104,8 @@ def scrape_mercadolibre(max_price_usd: float = 152000, max_pages: int = 2) -> Li
 
                 surface_m2 = None
                 bathrooms = None
+                bedrooms = None
+                rooms = None
                 has_parking = False
 
                 for a in attrs:
@@ -121,6 +123,22 @@ def scrape_mercadolibre(max_price_usd: float = 152000, max_pages: int = 2) -> Li
                         if b_match:
                             try:
                                 bathrooms = int(b_match.group(1))
+                            except ValueError:
+                                pass
+                    # Dormitorios / Habitaciones
+                    if "dorm" in a or "habitac" in a:
+                        d_match = re.search(r"(\d+)", a)
+                        if d_match:
+                            try:
+                                bedrooms = int(d_match.group(1))
+                            except ValueError:
+                                pass
+                    # Ambientes
+                    if "amb" in a:
+                        amb_match = re.search(r"(\d+)", a)
+                        if amb_match:
+                            try:
+                                rooms = int(amb_match.group(1))
                             except ValueError:
                                 pass
                     # Cochera
@@ -148,6 +166,8 @@ def scrape_mercadolibre(max_price_usd: float = 152000, max_pages: int = 2) -> Li
                     "price_usd": price_usd,
                     "surface_m2": surface_m2,
                     "bathrooms": bathrooms,
+                    "bedrooms": bedrooms,
+                    "rooms": rooms,
                     "has_parking_attribute": has_parking,
                     "location_zone": zone,
                     "url": item_url,

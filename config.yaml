@@ -20,8 +20,10 @@ search:
     - "departamento"
     - "casa"
 
-  # Baños mínimos obligatorios (Excluyente)
-  min_bathrooms: 2
+  # Requisitos mínimos obligatorios (Excluyentes de Categoría A)
+  min_bathrooms: 2  # Mínimo 2 baños completos
+  min_bedrooms: 2   # Mínimo 2 habitaciones (dormitorios)
+  min_rooms: 3      # Mínimo 3 ambientes
 
   budget:
     total_available_usd: 140000

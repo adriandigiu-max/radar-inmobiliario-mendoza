@@ -161,8 +161,34 @@ def generate_email_html(
                 </a>
             </div>
 
+            <!-- RESUMEN DE CONDICIONES Y CONFIGURACIÓN ANALIZADA -->
+            <div style="background:#ffffff;border:1px solid #e2e8f0;border-left:4px solid #0284c7;border-radius:8px;padding:16px 20px;margin:18px 0;box-shadow:0 1px 3px rgba(0,0,0,0.03);">
+                <div style="font-weight:700;font-size:14px;color:#0f172a;margin-bottom:10px;">
+                    🎯 Criterios y Filtros de Búsqueda Activos
+                </div>
+                <table style="width:100%;font-size:12px;color:#334155;border-collapse:collapse;line-height:1.5;">
+                    <tr>
+                        <td style="padding:4px 8px 4px 0;vertical-align:top;width:50%;">📍 <strong>Zonas:</strong> Mendoza Capital, Godoy Cruz (preferencia Bombal) y Guaymallén (solo Dorrego)</td>
+                        <td style="padding:4px 0 4px 8px;vertical-align:top;width:50%;">🏠 <strong>Tipos:</strong> Casa o Departamento</td>
+                    </tr>
+                    <tr>
+                        <td style="padding:4px 8px 4px 0;vertical-align:top;">🚪 <strong>Espacio:</strong> Mínimo <strong>2 dormitorios</strong> y <strong>3 ambientes</strong> (excluyente)</td>
+                        <td style="padding:4px 0 4px 8px;vertical-align:top;">🚿 <strong>Baños:</strong> Mínimo <strong>2 baños</strong> (excluyente)</td>
+                    </tr>
+                    <tr>
+                        <td style="padding:4px 8px 4px 0;vertical-align:top;">💰 <strong>Presupuesto:</strong> USD 140k (tope USD 152k con margen de negociación)</td>
+                        <td style="padding:4px 0 4px 8px;vertical-align:top;">📐 <strong>Superficie:</strong> Target 80 m² (piso tolerancia 65 m²)</td>
+                    </tr>
+                    <tr>
+                        <td colspan="2" style="padding:8px 0 0 0;font-size:11px;color:#64748b;border-top:1px dashed #e2e8f0;margin-top:6px;">
+                            ⭐ <strong>Puntos extra:</strong> 3+ dormitorios o 4+ ambientes, Red de Gas, Cochera, Ascensor y Seguridad 24hs / Barrio Cerrado (con penalidad si falta).
+                        </td>
+                    </tr>
+                </table>
+            </div>
+
             <!-- TITULO TOP 3 -->
-            <div style="padding:20px 6px 10px 6px;">
+            <div style="padding:10px 6px 10px 6px;">
                 <h3 style="margin:0;color:#1e293b;font-size:18px;">🏆 Oportunidades Seleccionadas de Hoy</h3>
                 <p style="margin:4px 0 0 0;color:#64748b;font-size:13px;">{section_subtitle}</p>
             </div>

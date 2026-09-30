@@ -54,7 +54,6 @@ def check_category_a(prop: Dict[str, Any], config: Dict[str, Any]) -> Tuple[bool
 
     # 4. Mínimo 2 baños (EXCLUYENTE)
     baths = prop.get("bathrooms")
-    # Chequear también en el texto si se menciona 1 baño o 2 baños
     has_two_baths_in_text = any(k in full_text for k in [
         "2 baños", "dos baños", "2 banos", "dos banos", "3 baños", "tres baños",
         "baño y toilette", "bano y toilette", "toilette", "en suite", "dos plantas con baño"
@@ -70,7 +69,43 @@ def check_category_a(prop: Dict[str, Any], config: Dict[str, Any]) -> Tuple[bool
     elif not has_two_baths_in_text and has_single_bath_in_text:
         return False, "Descartado: Publicación indica 1 solo baño"
 
-    # 5. Superficie mínima con tolerancia
+    # 5. Mínimo 2 habitaciones (dormitorios) y mínimo 3 ambientes (EXCLUYENTE)
+    bedrooms = prop.get("bedrooms")
+    rooms = prop.get("rooms")
+
+    has_two_plus_bedrooms = any(k in full_text for k in [
+        "2 dormitorios", "dos dormitorios", "3 dormitorios", "tres dormitorios", "4 dormitorios", "cuatro dormitorios",
+        "2 habitaciones", "dos habitaciones", "3 habitaciones", "tres habitaciones", "4 habitaciones",
+        "2 dorm", "3 dorm", "4 dorm", "2 hab", "3 hab", "4 hab"
+    ])
+    has_single_bedroom = any(k in full_text for k in [
+        "1 dormitorio", "un dormitorio", "1 habitacion", "1 habitación", "una habitacion", "una habitación",
+        "1 dorm", "monoambiente", "mono ambiente", "mono-ambiente"
+    ])
+
+    has_three_plus_rooms = any(k in full_text for k in [
+        "3 ambientes", "tres ambientes", "4 ambientes", "cuatro ambientes", "5 ambientes", "cinco ambientes",
+        "3 amb", "4 amb", "5 amb"
+    ])
+    has_one_or_two_rooms = any(k in full_text for k in [
+        "1 ambiente", "un ambiente", "2 ambientes", "dos ambientes", "1 amb", "2 amb"
+    ])
+
+    # Validación de habitaciones / dormitorios (mínimo 2)
+    if bedrooms is not None:
+        if bedrooms < 2:
+            return False, f"Descartado: Cuenta con {bedrooms} dormitorio(s) (mínimo excluyente: 2 habitaciones)"
+    elif has_single_bedroom and not has_two_plus_bedrooms:
+        return False, "Descartado: Publicación indica 1 solo dormitorio o monoambiente (mínimo: 2 habitaciones)"
+
+    # Validación de ambientes (mínimo 3 ambientes)
+    if rooms is not None:
+        if rooms < 3:
+            return False, f"Descartado: Cuenta con {rooms} ambiente(s) (mínimo excluyente: 3 ambientes)"
+    elif has_one_or_two_rooms and not (has_three_plus_rooms or has_two_plus_bedrooms):
+        return False, "Descartado: Publicación indica 1 o 2 ambientes (mínimo excluyente: 3 ambientes)"
+
+    # 6. Superficie mínima con tolerancia
     surface = prop.get("surface_m2")
     min_surface = surface_cfg.get("min_m2_acceptable", 65)
     if surface is not None and surface > 0 and surface < min_surface:

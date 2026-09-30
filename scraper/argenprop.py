@@ -112,9 +112,10 @@ def scrape_argenprop(max_price_usd: float = 152000, max_pages: int = 2) -> List[
                     prop_type = "departamento" if "departamento" in item_url.lower() or "departamento" in title.lower() else "casa"
 
                     # Características (superficie, baños, dormitorios)
-                    features = [f.text.strip().lower() for f in card.select(".card__main-features li")]
                     surface_m2 = None
                     bathrooms = None
+                    bedrooms = None
+                    rooms = None
 
                     for f in features:
                         # Superficie
@@ -130,6 +131,22 @@ def scrape_argenprop(max_price_usd: float = 152000, max_pages: int = 2) -> List[
                             if bath_match:
                                 try:
                                     bathrooms = int(bath_match.group(1))
+                                except ValueError:
+                                    pass
+                        # Dormitorios
+                        if "dorm" in f or "habitac" in f:
+                            dorm_match = re.search(r"(\d+)", f)
+                            if dorm_match:
+                                try:
+                                    bedrooms = int(dorm_match.group(1))
+                                except ValueError:
+                                    pass
+                        # Ambientes
+                        if "amb" in f:
+                            amb_match = re.search(r"(\d+)", f)
+                            if amb_match:
+                                try:
+                                    rooms = int(amb_match.group(1))
                                 except ValueError:
                                     pass
 
@@ -155,6 +172,8 @@ def scrape_argenprop(max_price_usd: float = 152000, max_pages: int = 2) -> List[
                         "price_usd": price_usd,
                         "surface_m2": surface_m2,
                         "bathrooms": bathrooms,
+                        "bedrooms": bedrooms,
+                        "rooms": rooms,
                         "has_parking_attribute": any("cochera" in f or "garage" in f for f in features),
                         "location_zone": zone,
                         "address": address,
