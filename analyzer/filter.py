@@ -38,18 +38,52 @@ def check_category_a(prop: Dict[str, Any], config: Dict[str, Any]) -> Tuple[bool
     prop_zone = (prop.get("location_zone") or "").lower()
     full_text = f"{prop.get('title', '')} {prop.get('description', '')} {prop.get('url', '')}".lower()
 
-    if "mendoza" in prop_zone or "capital" in prop_zone:
-        # Permitido
-        pass
-    elif "godoy cruz" in prop_zone:
-        # Permitido
-        pass
-    elif "guaymallen" in prop_zone or "guaymallén" in prop_zone:
-        # Solo permitido si menciona explícitamente "Dorrego"
+    # 3a. Filtro semántico negativo: Descartar si el texto menciona explícitamente zonas excluidas
+    # (Evita publicaciones con pines GPS falsos o categorías erróneas en los portales)
+    excluded_zone_patterns = [
+        (r"\bluzuriaga\b", "Luzuriaga (Maipú)"),
+        (r"\bcoquimbito\b", "Coquimbito (Maipú)"),
+        (r"\bgeneral guti[eé]rrez\b", "Gutiérrez (Maipú)"),
+        (r"\bgral\.?\s*guti[eé]rrez\b", "Gutiérrez (Maipú)"),
+        (r"\brussell\b", "Russell (Maipú)"),
+        (r"\bchacras de coria\b", "Chacras de Coria (Luján)"),
+        (r"\bvistalba\b", "Vistalba (Luján)"),
+        (r"\bcarrodilla\b", "Carrodilla (Luján)"),
+        (r"\bmayor drummond\b", "Mayor Drummond (Luján)"),
+        (r"\bel challao\b", "El Challao (Las Heras)"),
+        (r"\bel plumerillo\b", "El Plumerillo (Las Heras)"),
+        (r"\buspallata\b", "Uspallata"),
+        (r"\bpotrerillos\b", "Potrerillos"),
+        (r"\btupungato\b", "Tupungato"),
+        (r"\btunuy[aá]n\b", "Tunuyán"),
+        (r"\bsan carlos\b", "San Carlos"),
+        (r"\bsan rafael\b", "San Rafael"),
+        (r"\bgeneral alvear\b", "General Alvear"),
+        (r"\bgral\.?\s*alvear\b", "General Alvear"),
+        (r"\bmalarg[uü]e\b", "Malargüe"),
+        (r"\brivadavia\b", "Rivadavia"),
+        (r"\bjun[ií]n\b", "Junín"),
+        (r"\blavalle\b", "Lavalle"),
+        (r"(?<!calle\s)(?<!av\.\s)(?<!avenida\s)\bmaip[uú]\b", "Maipú"),
+        (r"(?<!calle\s)(?<!av\.\s)(?<!avenida\s)\bluj[aá]n\b", "Luján de Cuyo"),
+        (r"(?<!calle\s)(?<!av\.\s)(?<!avenida\s)\blas heras\b", "Las Heras"),
+    ]
+    for pat, label in excluded_zone_patterns:
+        if re.search(pat, full_text, re.IGNORECASE):
+            return False, f"Descartado: El texto indica ubicación en {label}, fuera del área deseada"
+
+    # Si menciona Guaymallén, DEBE mencionar explícitamente Dorrego
+    if ("guaymallen" in full_text or "guaymallén" in full_text or "guaymallen" in prop_zone or "guaymallén" in prop_zone):
         if "dorrego" not in full_text:
             return False, "Guaymallén descartado por no pertenecer al barrio Dorrego"
+
+    if "mendoza" in prop_zone or "capital" in prop_zone:
+        pass
+    elif "godoy cruz" in prop_zone:
+        pass
+    elif "guaymallen" in prop_zone or "guaymallén" in prop_zone:
+        pass
     else:
-        # Fuera de zona (ej. Las Heras, Maipú, etc.)
         return False, f"Zona '{prop_zone}' no permitida"
 
     # 4. Mínimo 2 baños (EXCLUYENTE)
