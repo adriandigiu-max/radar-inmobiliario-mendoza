@@ -80,14 +80,24 @@ portals:
     label: "Argenprop Mendoza"
 
 # ------------------------------------------------------------------------------
-# NOTIFICACIONES POR EMAIL
+# NOTIFICACIONES
 # ------------------------------------------------------------------------------
 notifications:
   email:
-    enabled: true
+    enabled: false
     smtp_server: "smtp.gmail.com"
     smtp_port: 587
     sender_email: "adriandigiu@gmail.com"
     sender_app_password: ""  # Se carga desde .env o variable de entorno SMTP_APP_PASSWORD
     recipient_email: "sdigiuseppe@umaza.edu.ar"
     app_url: "https://radar-inmobiliario-mendoza-jbkvczku2rebeudch5itlt.streamlit.app"
+
+  whatsapp:
+    enabled: true
+    min_score: 80       # Solo novedades con score igual o superior a 80
+    phone_number_id: "1348232058375156"
+    api_version: "v20.0"
+    recipients:
+      - "+5492613836576"
+      - "+5492615710925"
+

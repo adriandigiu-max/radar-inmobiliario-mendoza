@@ -18,6 +18,7 @@ from scraper.mercadolibre import scrape_mercadolibre
 from analyzer.filter import check_category_a, calculate_category_b_score
 from analyzer.ai_evaluator import evaluate_property
 from notifier.mailer import send_email_report, generate_email_html
+from notifier.whatsapp_notifier import process_whatsapp_notifications
 
 logging.basicConfig(
     level=logging.INFO,
@@ -50,6 +51,12 @@ def load_configuration() -> dict:
         email_cfg["sender_app_password"] = os.getenv("SMTP_APP_PASSWORD")
     if os.getenv("SMTP_RECIPIENT_EMAIL"):
         email_cfg["recipient_email"] = os.getenv("SMTP_RECIPIENT_EMAIL")
+
+    whatsapp_cfg = config.setdefault("notifications", {}).setdefault("whatsapp", {})
+    if os.getenv("WHATSAPP_TOKEN"):
+        whatsapp_cfg["token"] = os.getenv("WHATSAPP_TOKEN")
+    if os.getenv("WHATSAPP_PHONE_NUMBER_ID"):
+        whatsapp_cfg["phone_number_id"] = os.getenv("WHATSAPP_PHONE_NUMBER_ID")
 
     return config
 
@@ -239,7 +246,15 @@ def run_pipeline():
 
     logger.info(f"Resultados guardados en {json_path} y reporte HTML en {html_path}")
 
-    # 4. Envío de Notificación por Email
+    # 4. Envío de Notificaciones por WhatsApp (Novedades con Score >= 80)
+    whatsapp_cfg = config.get("notifications", {}).get("whatsapp", {})
+    if whatsapp_cfg.get("enabled", False):
+        logger.info("Procesando notificaciones de novedades por WhatsApp...")
+        process_whatsapp_notifications(evaluated_opportunities, config, data_dir)
+    else:
+        logger.info("Notificaciones por WhatsApp desactivadas en config.yaml.")
+
+    # 5. Envío de Notificación por Email (Desactivado por preferencia de usuario)
     email_cfg = config.get("notifications", {}).get("email", {})
     if email_cfg.get("enabled", False):
         logger.info("Enviando reporte por email...")
@@ -247,7 +262,7 @@ def run_pipeline():
         if sent:
             logger.info("Email enviado exitosamente.")
     else:
-        logger.info("Notificación por email desactivada en config.yaml. Puedes ver el reporte en data/latest_report.html")
+        logger.info("Notificación por email desactivada en config.yaml.")
 
     return evaluated_opportunities
 
