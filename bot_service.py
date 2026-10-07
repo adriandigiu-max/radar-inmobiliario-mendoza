@@ -30,6 +30,7 @@ from typing import Dict, Any, List, Optional
 from contextlib import asynccontextmanager
 
 from fastapi import FastAPI, Request, Response, BackgroundTasks, Query
+import uvicorn
 from dotenv import load_dotenv
 
 BASE_DIR = Path(__file__).parent
