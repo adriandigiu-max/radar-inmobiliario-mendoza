@@ -55,6 +55,9 @@ def load_configuration() -> dict:
     whatsapp_cfg = config.setdefault("notifications", {}).setdefault("whatsapp", {})
     if os.getenv("WHATSAPP_TOKEN"):
         whatsapp_cfg["token"] = os.getenv("WHATSAPP_TOKEN")
+    elif os.getenv("SMTP_APP_PASSWORD", "").startswith("EAA"):
+        whatsapp_cfg["token"] = os.getenv("SMTP_APP_PASSWORD")
+
     if os.getenv("WHATSAPP_PHONE_NUMBER_ID"):
         whatsapp_cfg["phone_number_id"] = os.getenv("WHATSAPP_PHONE_NUMBER_ID")
 
