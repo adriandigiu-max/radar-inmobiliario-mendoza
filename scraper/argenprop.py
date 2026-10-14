@@ -117,6 +117,9 @@ def scrape_argenprop(max_price_usd: float = 152000, max_pages: int = 2) -> List[
                     bedrooms = None
                     rooms = None
 
+                    feature_items = card.select(".card__main-features li") or card.select("ul.card__features li") or card.select(".card__feature") or card.select("ul li")
+                    features = [li.text.strip().lower() for li in feature_items]
+
                     for f in features:
                         # Superficie
                         m2_match = re.search(r"(\d+)\s*m", f)
