@@ -249,7 +249,7 @@ def run_pipeline():
 
     logger.info(f"Resultados guardados en {json_path} y reporte HTML en {html_path}")
 
-    # 4. Envío de Notificaciones por WhatsApp (Novedades con Score >= 80)
+    # 4. Envío de Notificaciones por WhatsApp (Novedades con Score >= 60)
     whatsapp_cfg = config.get("notifications", {}).get("whatsapp", {})
     if whatsapp_cfg.get("enabled", False):
         logger.info("Procesando notificaciones de novedades por WhatsApp...")

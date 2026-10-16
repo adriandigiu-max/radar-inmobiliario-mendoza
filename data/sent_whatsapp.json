@@ -343,5 +343,135 @@
     "status": "pre_existing",
     "first_seen": "2026-10-07",
     "note": "Descartado por histórico previo (inicio WhatsApp 2026-10-04)"
+  },
+  "argenprop_19590149": {
+    "status": "sent",
+    "score": 70.9,
+    "title": "Casa en venta c/ cochera en 6.ª sección residencial norte",
+    "price_usd": 95000.0,
+    "url": "https://www.argenprop.com/casa-en-venta-en-seccion-6-residencial-norte-5-ambientes--19590149",
+    "sent_at": "2026-10-16T16:33:34.548049",
+    "sent_recipients": [
+      "+5492613836576",
+      "+5492615710925"
+    ],
+    "failed_recipients": []
+  },
+  "argenprop_20476730": {
+    "status": "sent",
+    "score": 69.6,
+    "title": "Casa en venta 3 dormitorios – jardín con churrasquera – 2 cocheras – sexta sección",
+    "price_usd": 120000.0,
+    "url": "https://www.argenprop.com/casa-en-venta-en-sexta-seccion-5-ambientes--20476730",
+    "sent_at": "2026-10-16T16:33:34.548049",
+    "sent_recipients": [
+      "+5492613836576",
+      "+5492615710925"
+    ],
+    "failed_recipients": []
+  },
+  "argenprop_19590152": {
+    "status": "sent",
+    "score": 69.0,
+    "title": "Dúplex en venta c/ cochera en godoy cruz",
+    "price_usd": 65000.0,
+    "url": "https://www.argenprop.com/casa-en-venta-en-godoy-cruz-3-ambientes--19590152",
+    "sent_at": "2026-10-16T16:33:34.548049",
+    "sent_recipients": [
+      "+5492613836576",
+      "+5492615710925"
+    ],
+    "failed_recipients": []
+  },
+  "argenprop_19928492": {
+    "status": "sent",
+    "score": 65.8,
+    "title": "Departamento con terraza y quincho 106m2 ciudad mendoza",
+    "price_usd": 65000.0,
+    "url": "https://www.argenprop.com/departamento-en-venta-en-mendoza-4-ambientes--19928492",
+    "sent_at": "2026-10-16T16:33:34.548049",
+    "sent_recipients": [
+      "+5492613836576",
+      "+5492615710925"
+    ],
+    "failed_recipients": []
+  },
+  "argenprop_20386270": {
+    "status": "sent",
+    "score": 62.9,
+    "title": "Vendo casa en ciudad de mendoza. apta credito hipotecario",
+    "price_usd": 95000.0,
+    "url": "https://www.argenprop.com/casa-en-venta-en-mendoza-7-ambientes--20386270",
+    "sent_at": "2026-10-16T16:33:34.548049",
+    "sent_recipients": [
+      "+5492613836576",
+      "+5492615710925"
+    ],
+    "failed_recipients": []
+  },
+  "argenprop_20608486": {
+    "status": "sent",
+    "score": 62.8,
+    "title": "Complejo de 4 unidades. duplex + 3 departamentos a reciclar",
+    "price_usd": 98000.0,
+    "url": "https://www.argenprop.com/casa-en-venta-en-mendoza-10-ambientes--20608486",
+    "sent_at": "2026-10-16T16:33:34.548049",
+    "sent_recipients": [
+      "+5492613836576",
+      "+5492615710925"
+    ],
+    "failed_recipients": []
+  },
+  "argenprop_19148242": {
+    "status": "sent",
+    "score": 62.7,
+    "title": "Hauser vende casa interna",
+    "price_usd": 100000.0,
+    "url": "https://www.argenprop.com/casa-en-venta-en-quinta-seccion--19148242",
+    "sent_at": "2026-10-16T16:33:34.548049",
+    "sent_recipients": [
+      "+5492613836576",
+      "+5492615710925"
+    ],
+    "failed_recipients": []
+  },
+  "argenprop_20364060": {
+    "status": "sent",
+    "score": 62.1,
+    "title": "Venta - casa en dorrego - 3 dormitorios   estudio / 2 baños",
+    "price_usd": 110000.0,
+    "url": "https://www.argenprop.com/casa-en-venta-en-coronel-dorrego-7-ambientes--20364060",
+    "sent_at": "2026-10-16T16:33:34.548049",
+    "sent_recipients": [
+      "+5492613836576",
+      "+5492615710925"
+    ],
+    "failed_recipients": []
+  },
+  "argenprop_19123113": {
+    "status": "sent",
+    "score": 61.6,
+    "title": "Vendo casa en dorrego",
+    "price_usd": 120000.0,
+    "url": "https://www.argenprop.com/casa-en-venta-en-coronel-dorrego-4-ambientes--19123113",
+    "sent_at": "2026-10-16T16:33:34.548049",
+    "sent_recipients": [
+      "+5492613836576",
+      "+5492615710925"
+    ],
+    "failed_recipients": []
+  },
+  "argenprop_19590925": {
+    "status": "sent",
+    "score": 60.6,
+    "title": "Casa en venta c/ cochera en 6.ª sección residencial norte",
+    "price_usd": 138000.0,
+    "url": "https://www.argenprop.com/casa-en-venta-en-seccion-6-residencial-norte-6-ambientes--19590925",
+    "sent_at": "2026-10-16T16:33:34.548049",
+    "sent_recipients": [
+      "+5492613836576",
+      "+5492615710925"
+    ],
+    "failed_recipients": []
   }
 }

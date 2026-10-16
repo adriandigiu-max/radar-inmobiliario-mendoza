@@ -94,7 +94,7 @@ notifications:
 
   whatsapp:
     enabled: true
-    min_score: 80       # Solo novedades con score igual o superior a 80
+    min_score: 60       # Solo novedades con score igual o superior a 60
     phone_number_id: "1348232058375156"
     api_version: "v20.0"
     recipients:

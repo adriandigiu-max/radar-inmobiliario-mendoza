@@ -248,7 +248,7 @@ def process_whatsapp_notifications(
     phone_number_id = os.getenv("WHATSAPP_PHONE_NUMBER_ID") or whatsapp_cfg.get("phone_number_id")
     api_version = whatsapp_cfg.get("api_version", DEFAULT_API_VERSION)
     recipients = whatsapp_cfg.get("recipients", [])
-    min_score = whatsapp_cfg.get("min_score", 80)
+    min_score = whatsapp_cfg.get("min_score", 60)
 
     if not token or not phone_number_id:
         logger.warning("Credenciales de WhatsApp no encontradas. Saltando notificación WhatsApp.")
