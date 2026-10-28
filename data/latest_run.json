@@ -1,46 +1,105 @@
 [
   {
-    "id": "inmoclick_60778_710",
+    "id": "inmoclick_17515_20134",
     "portal": "Inmoclick",
-    "title": "EUSKADI VENDE EXCELENTE DEPARTAMENTO APTO CREDITO HIPOTECARIO EN ALTA MENDOZA - CIUDAD",
+    "title": "Departamento en Microcentro en Venta – 3 Dormitorios / 2 Baños / Cochera/ Amoblado",
     "property_type": "departamento",
-    "price_usd": 105000.0,
-    "surface_m2": 92.0,
-    "surface_total_m2": 92.0,
-    "surface_covered_m2": 92.0,
+    "price_usd": 89999.0,
+    "surface_m2": 110.0,
+    "surface_total_m2": 110.0,
+    "surface_covered_m2": 110.0,
     "bathrooms": 2,
-    "bedrooms": 2,
+    "bedrooms": 3,
     "rooms": null,
     "has_parking_attribute": true,
-    "location_zone": "Godoy Cruz",
-    "url": "https://www.inmoclick.com.ar/60778-euskadi-inmobiliaria-desarrollos/inmuebles/710/ficha/departamento-en-venta-en-doctor-salomon-miyara",
+    "location_zone": "Mendoza",
+    "url": "https://www.inmoclick.com.ar/17515-remax-solutions/inmuebles/20134/ficha/departamento-en-venta-en-corrientes-100",
     "image_url": "https://www.inmoclick.com.ar/bundles/inmoclick/images/v14.6/empty-photo-box.jpg",
-    "description": "EUSKADI VENDE EXCELENTE DEPARTAMENTO APTO CREDITO HIPOTECARIO EN ALTA MENDOZA - CIUDAD\nUSD 105.000\nComplejo Cerrado - sobre calle Dr. Salomon Miyara 2625, con acceso controlado por Porton Automatico y Camaras de Vigilancia. Antiguedad: 11 años.\nZONA CERCANIA: 200mts del Strip Center LOMAS y Centro Medico en la zona de Alta Mendoza - 200mts Ingreso Barrio Privado Dalvian (Av. Champagnat) - 400mts Estacion de Servicios - 500mts Comercio Gastronomicos y Supermercados - 600mts Colegios Privados - 1000mts Universidades, Entorno Seguro, Tranquilo y de Gran Proyeccion de Crecimiento. \n\nCARACTERISTICAS:\nM2 CUBIERTOS: 92,34M2 (Pisos de Porcelanato, Cortinas a Medidas, Excelente Mantenimienot y Conservacion).\nDISTRIBUCION: 2 dormitorios, 1 Baño Recepcion, 1 Baño Completo con Antebaño, Amplio living comedor y cocina ( conexión para lavarropas y heladera), Patio Propio y Cochera.\nSERVICIOS: Luz, Gas, Agua y Cloacas.\nCOMPLEJO CERRADO - Camaras de Vigilancia - Porton Automatico de Ingreso.\n\nNo dude en consultar para mayor información y programar una visita!!!",
+    "description": "Departamento en Microcentro en Venta – 3 Dormitorios / 2 Baños / Cochera/ Amoblado\n\n Excelente departamento en pleno Microcentro de Mendoza, el precio es completamente amoblado tal cual se ve en fotos\n\nUbicación privilegiada: Calle Corrientes 122, a solo una cuadra de Av. San Martín y con rápida salida a Costanera. Zona céntrica y comercial, rodeada de transporte público, colegios, escuelas, comercios y servicios.\n\n\n\n El edificio\n\t•\tClásica arquitectura con destacada fachada.\n\t•\t8 plantas de departamentos y 2 subsuelos de cocheras.\n\t•\tAmplio lobby con frente vidriado y diseño en ladrillo visto.\n\t•\tSeguridad 24 hs: guardia permanente, cámaras y portón automático en cocheras.\n\n El departamento\n\t•\tUbicado en 6º piso, acceso por ascensor o escaleras.\n\t•\tSuperficie cubierta: propios / Total: 110 m².\n\t•\tCochera amplia: 28 m² en 1º subsuelo (una de las más grandes del edificio).\n\t•\tLiving comedor con salida a balcón.\n\t•\tCocina independiente con lavadero.\n\t•\t3 dormitorios con placares.\n\t•\t2 baños (uno con bañera).\n\n Reciclado: cocina y placares de dormitorios recientemente renovados.\n\n Detalles constructivos\n\t•\tPisos de parquet en living, dormitorios y pasillo.\n\t•\tAmoblamiento de cocina a nuevo.\n\t•\tPlacares completos en dormitorios.\n\t•\tVentiladores de techo y luminarias instaladas.\n\t•\tCalefactor.\n \nListo para escriturar\nContactanos para más info y agendá tu visita.\n\n- El precio, distancias y medidas indicadas, son de referencia, sujeto a modificaciones sin previo aviso.-\n- Los datos consignados en esta web, pueden contener errores y no son contractuales; verifique los mismos previamente con nuestro asesor.",
     "coordinates": {
-      "lat": "-32.872822059105",
-      "lng": "-68.882181325662"
+      "lat": "-32.8820692",
+      "lng": "-68.834876"
     },
     "geo_verification": {
       "is_valid_zone": true,
       "real_city": "Ciudad De Mendoza",
-      "real_neighborhood": "Distrito El Challao",
+      "real_neighborhood": null,
       "rejection_reason": null,
       "geocode_verified": true
     },
     "category_b_metrics": {
-      "price_score": 96.2,
+      "price_score": 98.9,
       "price_status": "DENTRO_PRESUPUESTO",
-      "surface_score": 93.6,
-      "surface_notes": "92 m2 (Cumple objetivo de 80 m2)",
-      "price_per_m2": 1141.3
+      "surface_score": 99.0,
+      "surface_notes": "110 m2 (Cumple objetivo de 80 m2)",
+      "price_per_m2": 818.2
     },
     "analysis": {
-      "opportunity_score": 66.4,
+      "opportunity_score": 100.0,
       "evaluation_source": "heurística",
       "category_c": {
         "has_security": true,
         "has_gas_network": false,
         "has_parking": true,
+        "has_elevator": true,
+        "two_bathrooms": true
+      },
+      "negotiation_analysis": {
+        "potential": "Estándar",
+        "signals_detected": false,
+        "summary": "Precio estándar de mercado."
+      },
+      "pros": [
+        "✨ Amplio: cuenta con 3+ dormitorios o 4+ ambientes (+10 pts)",
+        "Dentro del presupuesto (USD 89,999)",
+        "🛡️ Cuenta con seguridad 24 hs / barrio privado",
+        "🚗 Cuenta con cochera"
+      ],
+      "cons": [
+        "Consultar conexión a red de gas natural"
+      ],
+      "ai_summary": "Propiedad en Mendoza (departamento) de 110.0 m2 a USD 89,999. Score: 100.0/100 (Con seguridad 24hs)."
+    },
+    "is_new": false,
+    "first_seen": "2026-10-21"
+  },
+  {
+    "id": "ml_1506999247",
+    "portal": "Mercado Libre",
+    "title": "Lote Venta Moreno Barrio Privado Prados Del Oeste 2",
+    "property_type": "casa",
+    "price_usd": 65000.0,
+    "surface_m2": 800.0,
+    "bathrooms": null,
+    "bedrooms": null,
+    "rooms": null,
+    "has_parking_attribute": false,
+    "location_zone": "Godoy Cruz",
+    "url": "https://terreno.mercadolibre.com.ar/MLA-1506999247-lote-venta-moreno-barrio-privado-prados-del-oeste-2-_JM",
+    "image_url": "https://http2.mlstatic.com/D_NQ_NP_2X_666059-MLA111072569507_042026-E.webp",
+    "description": "Lote Venta Moreno Barrio Privado Prados Del Oeste 2. Características: 800 m² totales. Zona: Godoy Cruz.",
+    "coordinates": null,
+    "geo_verification": {
+      "is_valid_zone": true,
+      "real_city": "Sin coordenadas",
+      "real_neighborhood": null,
+      "rejection_reason": null,
+      "geocode_verified": false
+    },
+    "category_b_metrics": {
+      "price_score": 100.0,
+      "price_status": "DENTRO_PRESUPUESTO",
+      "surface_score": 100.0,
+      "surface_notes": "800 m2 (Cumple objetivo de 80 m2)",
+      "price_per_m2": 81.2
+    },
+    "analysis": {
+      "opportunity_score": 63.8,
+      "evaluation_source": "heurística",
+      "category_c": {
+        "has_security": true,
+        "has_gas_network": false,
+        "has_parking": false,
         "has_elevator": false,
         "two_bathrooms": true
       },
@@ -50,18 +109,17 @@
         "summary": "Precio estándar de mercado."
       },
       "pros": [
-        "Dentro del presupuesto (USD 105,000)",
-        "🛡️ Cuenta con seguridad 24 hs / barrio privado",
-        "🚗 Cuenta con cochera"
+        "Dentro del presupuesto (USD 65,000)",
+        "🛡️ Cuenta con seguridad 24 hs / barrio privado"
       ],
       "cons": [
         "⚠️ Ubicado en Godoy Cruz fuera de Barrio Bombal (-15 pts)",
         "Consultar conexión a red de gas natural"
       ],
-      "ai_summary": "Propiedad en Godoy Cruz (departamento) de 92.0 m2 a USD 105,000. Score: 66.4/100 (Con seguridad 24hs)."
+      "ai_summary": "Propiedad en Godoy Cruz (casa) de 800.0 m2 a USD 65,000. Score: 63.8/100 (Con seguridad 24hs)."
     },
-    "is_new": false,
-    "first_seen": "2026-10-20"
+    "is_new": true,
+    "first_seen": "2026-10-28"
   },
   {
     "id": "inmoclick_17515_20400",
@@ -192,30 +250,30 @@
     "first_seen": "2026-10-12"
   },
   {
-    "id": "inmoclick_298285_3",
+    "id": "inmoclick_311873_1",
     "portal": "Inmoclick",
-    "title": "En la hermosa ciudad de Mendoza, en la 6.ª Sección Residencial Norte, se encuentra esta propiedad ideal para aquellos que buscan invertir en un proyecto de reciclaje o construcción de departamentos. La casa, de 50 años de antigüedad, se encuentra totalmente construida en material y cuenta con un lote de 10 x 25.50 metros.",
+    "title": "- 🏠 Plantas: 2",
     "property_type": "casa",
     "price_usd": 85000.0,
-    "surface_m2": 129.0,
-    "surface_total_m2": 255.0,
-    "surface_covered_m2": 129.0,
+    "surface_m2": 159.0,
+    "surface_total_m2": 191.0,
+    "surface_covered_m2": 159.0,
     "bathrooms": 2,
     "bedrooms": 3,
     "rooms": null,
     "has_parking_attribute": true,
     "location_zone": "Mendoza",
-    "url": "https://www.inmoclick.com.ar/298285-pablo-catalano/inmuebles/3/ficha/casa-en-venta-en-maure-250",
+    "url": "https://www.inmoclick.com.ar/311873-carolina-munoz/inmuebles/1/ficha/casa-en-venta-en-remedios-de-escalada",
     "image_url": "https://www.inmoclick.com.ar/bundles/inmoclick/images/v14.6/empty-photo-box.jpg",
-    "description": "En la hermosa ciudad de Mendoza, en la 6.ª Sección Residencial Norte, se encuentra esta propiedad ideal para aquellos que buscan invertir en un proyecto de reciclaje o construcción de departamentos. La casa, de 50 años de antigüedad, se encuentra totalmente construida en material y cuenta con un lote de 10 x 25.50 metros.\r\n\r\nAl ingresar a la propiedad, nos encontramos con un amplio espacio distribuido en 5 ambientes, incluyendo 3 dormitorios y 2 baños. La superficie cubierta de 129 m2 ofrece un buen estado de conservación, ideal para quienes desean realizar una renovación o remodelación. Además, la cochera pasante brinda comodidad y practicidad para el estacionamiento de hasta 2 vehículos.\r\n\r\nEn resumen, esta casa en Mendoza Capital ofrece un gran potencial para aquellos inversores o familias que desean llevar a cabo un proyecto de reciclaje o construcción de departamentos en una ubicación privilegiada. No dejes pasar esta oportunidad de adquirir una propiedad con un amplio terreno y posibilidades de expansión.\r\n\r\nPropiedad alquilada hasta Julio 2027\r\nCanon ACTUAL $702.000",
+    "description": "- 🏠 Plantas: 2 \r\n- 🛏️ Dormitorios: 3 \r\n- 🚿 Baños: 2 \r\n- 🌅 Terraza con balcón \r\n- 🧺 Lavandería \r\n- 🍳 Cocina independiente \r\n- 🛋️ Living \r\n- 🍽️ Comedor \r\n- 🚗 Cochera \r\n- 🔥 Patio con churrasquera \r\n- 📐 Espacios amplios y bien distribuidos \r\n- 🛠️ Requiere reparaciones y pintura a gusto\r\n\r\nEn el corazón de Dorrego, esta casa de dos plantas ofrece la combinación ideal entre ubicación y potencial para crear el hogar que siempre imaginaste. Sus ambientes amplios y bien distribuidos invitan a la vida familiar: tres dormitorios para mayor comodidad, dos baños funcionales y áreas sociales separadas que permiten recibir amigos y disfrutar en familia sin perder privacidad. La terraza con balcón suma un punto especial para tomar aire y contemplar el barrio, mientras que el patio con churrasquera promete tardes de encuentro y asados memorables.\r\n\r\nLa cocina independiente y la lavandería facilitan la organización diaria; la cochera aporta comodidad y seguridad. Ubicada con acceso ágil a las principales vías y al centro de la ciudad, la propiedad brinda movilidad y cercanía a servicios.\r\n\r\nSi bien requiere reparaciones y pintura, esto lo convierte en una excelente oportunidad para personalizar cada rincón y revalorizar la vivienda según tu estilo. Ideal para quienes buscan un proyecto con potencial en una ubicación estratégica y con espacios generosos para disfrutar y transformar.",
     "coordinates": {
-      "lat": "-32.87325403327282",
-      "lng": "-68.84932636686477"
+      "lat": "-32.911898433349386",
+      "lng": "-68.83298848956613"
     },
     "geo_verification": {
       "is_valid_zone": true,
-      "real_city": "Ciudad De Mendoza",
-      "real_neighborhood": "Barrio Ferroviario",
+      "real_city": "Departamento Guaymallén",
+      "real_neighborhood": "Distrito Dorrego",
       "rejection_reason": null,
       "geocode_verified": true
     },
@@ -223,8 +281,8 @@
       "price_score": 99.8,
       "price_status": "DENTRO_PRESUPUESTO",
       "surface_score": 100.0,
-      "surface_notes": "129 m2 (Cumple objetivo de 80 m2)",
-      "price_per_m2": 658.9
+      "surface_notes": "159 m2 (Cumple objetivo de 80 m2)",
+      "price_per_m2": 534.6
     },
     "analysis": {
       "opportunity_score": 63.5,
@@ -250,95 +308,31 @@
         "⚠️ Sin seguridad 24 hs ni barrio privado (penalizado en puntaje)",
         "Consultar conexión a red de gas natural"
       ],
-      "ai_summary": "Propiedad en Mendoza (casa) de 129.0 m2 a USD 85,000. Score: 63.5/100 (Penalizado por falta de seguridad 24hs)."
+      "ai_summary": "Propiedad en Mendoza (casa) de 159.0 m2 a USD 85,000. Score: 63.5/100 (Penalizado por falta de seguridad 24hs)."
     },
     "is_new": false,
-    "first_seen": "2026-10-09"
+    "first_seen": "2026-10-19"
   },
   {
-    "id": "inmoclick_61179_240",
+    "id": "inmoclick_4201_256",
     "portal": "Inmoclick",
-    "title": "Dúplex Interno en Venta | Centro de Mendoza (Apto Crédito)",
+    "title": "Hermosa propiedad! Ubicación privilegiada en sexta sección, orientación este sobre calle Bolivia entre Italia y Hossay, cómoda, luminosa y muy segura.",
     "property_type": "casa",
-    "price_usd": 95000.0,
-    "surface_m2": 147.0,
-    "surface_total_m2": 150.0,
-    "surface_covered_m2": 147.0,
+    "price_usd": 120000.0,
+    "surface_m2": 138.0,
+    "surface_total_m2": 212.0,
+    "surface_covered_m2": 138.0,
     "bathrooms": 2,
-    "bedrooms": 4,
-    "rooms": null,
-    "has_parking_attribute": false,
-    "location_zone": "Mendoza",
-    "url": "https://www.inmoclick.com.ar/61179-branko-molinari/inmuebles/240/ficha/casa-en-venta-en-rondeau-mendoza",
-    "image_url": "https://www.inmoclick.com.ar/bundles/inmoclick/images/v14.6/empty-photo-box.jpg",
-    "description": "Dúplex Interno en Venta | Centro de Mendoza (Apto Crédito)\r\n\r\nUbicado en calle Rondeau (entre Rioja y Salta), una zona estratégica con excelente conectividad. Propiedad desarrollada en dos plantas, caracterizada por la amplitud de sus ambientes y buena luz natural.\r\n\r\nPlanta Baja: Living comedor amplio con hogar, cocina independiente amplia con barra/comedor diario, baño completo con ante baño y lavadero. \r\n\r\nTiene patio propio con churrasquera.\r\n\r\nPlanta Alta: 4 dormitorios (3 de ellos con placard) y un baño completo.\r\n\r\nSuperficie: 147 m² cubiertos\r\n\r\nSin cochera.\r\n\r\nApto Crédito Hipotecario.",
-    "coordinates": {
-      "lat": "-32.897036440394",
-      "lng": "-68.835902529083"
-    },
-    "geo_verification": {
-      "is_valid_zone": true,
-      "real_city": "Ciudad De Mendoza",
-      "real_neighborhood": null,
-      "rejection_reason": null,
-      "geocode_verified": true
-    },
-    "category_b_metrics": {
-      "price_score": 98.0,
-      "price_status": "DENTRO_PRESUPUESTO",
-      "surface_score": 100.0,
-      "surface_notes": "147 m2 (Cumple objetivo de 80 m2)",
-      "price_per_m2": 646.3
-    },
-    "analysis": {
-      "opportunity_score": 62.9,
-      "evaluation_source": "heurística",
-      "category_c": {
-        "has_security": false,
-        "has_gas_network": false,
-        "has_parking": true,
-        "has_elevator": false,
-        "two_bathrooms": true
-      },
-      "negotiation_analysis": {
-        "potential": "Estándar",
-        "signals_detected": false,
-        "summary": "Precio estándar de mercado."
-      },
-      "pros": [
-        "✨ Amplio: cuenta con 3+ dormitorios o 4+ ambientes (+10 pts)",
-        "Dentro del presupuesto (USD 95,000)",
-        "🚗 Cuenta con cochera"
-      ],
-      "cons": [
-        "⚠️ Sin seguridad 24 hs ni barrio privado (penalizado en puntaje)",
-        "Consultar conexión a red de gas natural"
-      ],
-      "ai_summary": "Propiedad en Mendoza (casa) de 147.0 m2 a USD 95,000. Score: 62.9/100 (Penalizado por falta de seguridad 24hs)."
-    },
-    "is_new": false,
-    "first_seen": "2026-10-18"
-  },
-  {
-    "id": "inmoclick_17515_20387",
-    "portal": "Inmoclick",
-    "title": "ofrece una excelente propiedad en una ubicación estratégica a minutos del parque san martín , centros de salud , colegios.",
-    "property_type": "casa",
-    "price_usd": 110000.0,
-    "surface_m2": 160.0,
-    "surface_total_m2": 200.0,
-    "surface_covered_m2": 160.0,
-    "bathrooms": 2,
-    "bedrooms": 4,
+    "bedrooms": 3,
     "rooms": null,
     "has_parking_attribute": true,
     "location_zone": "Mendoza",
-    "url": "https://www.inmoclick.com.ar/17515-remax-solutions/inmuebles/20387/ficha/casa-en-venta-en-huarpes-1800",
+    "url": "https://www.inmoclick.com.ar/4201-vanina-rubio/inmuebles/256/ficha/casa-en-venta-en-bolivia-3360",
     "image_url": "https://www.inmoclick.com.ar/bundles/inmoclick/images/v14.6/empty-photo-box.jpg",
-    "description": "ofrece una excelente propiedad en una ubicación estratégica a minutos del parque san martín , centros de salud , colegios.\n\nLa propiedad con gran potencial , ideal para inversión cuenta con 160 m2 cubiertos y 200 m2 de terreno.\n\nAl ingresar , nos recibe un amplio living-comedor , ideal para disfrutar en familia o con amigos .\n\nLa cocina , con comedor diario , ofrece un espacio práctico con excelente capacidad de guardado .\n\nLa casa dispone de 3 dormitorios de generosas dimensiones , toilette, dos baños completos una habitación de servicio con lavadero independiente, brindando comodidad .\n\nEn el exterior , un amplio patio de baldosas , con posibilidad de crear jardín , churrasquera ,cochera",
+    "description": "Hermosa propiedad! Ubicación privilegiada en sexta sección, orientación este sobre calle Bolivia entre Italia y Hossay, cómoda, luminosa y muy segura.\r\nReciclada a nuevo en su totalidad: electricidad, cañerías de gas, cloacas y agua (termofusión) .\r\nDesarrollada en una sola planta, distribuida en sala de living comedor con un toillete, cocina comedor con desayunador, tres dormitorios con sus respectivos placares, el principal con vestidor, un baño completo, hermoso patio con churrasquera y lavandería independiente, cochera cubierta.\r\nVisitas a coordinar día y horario por teléfono.\r\nVanina Rubio, matrícula 1353.",
     "coordinates": {
-      "lat": "-32.8779136",
-      "lng": "-68.8581456"
+      "lat": "-32.864183416189256",
+      "lng": "-68.85282466897337"
     },
     "geo_verification": {
       "is_valid_zone": true,
@@ -348,14 +342,14 @@
       "geocode_verified": true
     },
     "category_b_metrics": {
-      "price_score": 95.4,
+      "price_score": 93.6,
       "price_status": "DENTRO_PRESUPUESTO",
       "surface_score": 100.0,
-      "surface_notes": "160 m2 (Cumple objetivo de 80 m2)",
-      "price_per_m2": 687.5
+      "surface_notes": "138 m2 (Cumple objetivo de 80 m2)",
+      "price_per_m2": 869.6
     },
     "analysis": {
-      "opportunity_score": 62.1,
+      "opportunity_score": 61.6,
       "evaluation_source": "heurística",
       "category_c": {
         "has_security": false,
@@ -371,60 +365,241 @@
       },
       "pros": [
         "✨ Amplio: cuenta con 3+ dormitorios o 4+ ambientes (+10 pts)",
-        "Dentro del presupuesto (USD 110,000)",
+        "Dentro del presupuesto (USD 120,000)",
         "🚗 Cuenta con cochera"
       ],
       "cons": [
         "⚠️ Sin seguridad 24 hs ni barrio privado (penalizado en puntaje)",
         "Consultar conexión a red de gas natural"
       ],
-      "ai_summary": "Propiedad en Mendoza (casa) de 160.0 m2 a USD 110,000. Score: 62.1/100 (Penalizado por falta de seguridad 24hs)."
+      "ai_summary": "Propiedad en Mendoza (casa) de 138.0 m2 a USD 120,000. Score: 61.6/100 (Penalizado por falta de seguridad 24hs)."
     },
     "is_new": false,
-    "first_seen": "2026-10-10"
+    "first_seen": "2026-10-02"
   },
   {
-    "id": "inmoclick_12572_697",
+    "id": "inmoclick_19594_3",
     "portal": "Inmoclick",
-    "title": "TRE Inmobiliaria ofrece a la venta  dúplex de dos dormitorios con cochera en quinta sección residencial sur, calle O. V. Andrade muy cerca de ciclovía y metrotranvía , parque General San Martin, UTN, Arístides Villanueva .",
-    "property_type": "departamento",
-    "price_usd": 128000.0,
-    "surface_m2": 77.0,
-    "surface_total_m2": null,
-    "surface_covered_m2": 77.0,
+    "title": "Dueño vende .",
+    "property_type": "casa",
+    "price_usd": 120000.0,
+    "surface_m2": 148.0,
+    "surface_total_m2": 212.0,
+    "surface_covered_m2": 148.0,
     "bathrooms": 2,
-    "bedrooms": 2,
+    "bedrooms": 3,
     "rooms": null,
     "has_parking_attribute": true,
-    "location_zone": "Godoy Cruz",
-    "url": "https://www.inmoclick.com.ar/12572-tre-inmobiliaria/inmuebles/697/ficha/departamento-en-venta-en-quinta-seccion-p-a",
+    "location_zone": "Mendoza",
+    "url": "https://www.inmoclick.com.ar/19594-yanet-biluron/inmuebles/3/ficha/casa-en-venta-en-bolivia-3360",
     "image_url": "https://www.inmoclick.com.ar/bundles/inmoclick/images/v14.6/empty-photo-box.jpg",
-    "description": "TRE Inmobiliaria ofrece a la venta  dúplex de dos dormitorios con cochera en quinta sección residencial sur, calle O. V. Andrade muy cerca de ciclovía y metrotranvía , parque General San Martin, UTN, Arístides Villanueva .\n \n\nTodas las unidades se caracterizan por su amplitud y luminosos espacios.\n\nEl dúplex se encuentra en primer piso, es contrafrente con las siguientes características:\nEn planta baja\n\nLiving-comedor\n\nCocina\n\nUn toilette\n\nEn planta alta\n\nDos dormitorios\n\nSector de estudio\n\nUn baño completo\n\nEl dúplex cuenta con su respectiva cochera.\n\nSuperficie cubierta 77 mts2 aproximadamente\n\nDetalles constructivos:\n\nCarpinterías de Aluminio.\n\nTerminaciones de categoría.\n\nCocina equipada con muebles de bajo mesada y alacenas, mesada de granito, anafe y horno eléctrico.\n\nCalefacción central por radiadores\n\nAmplios y luminosos espacios.\n\nDiseño de vanguardia.\n\nListo para ser habitado!!!!\n\nNO APTO CREDITO HIPOTECARIO",
+    "description": "Dueño vende .\r\nCasa en venta. Restaurada a nuevo. Cañerías nuevas, muebles de cocina, baño equipado con Ferrum.\r\nPiso SpC alto tránsito.\r\n3 habitaciones, una de ellas con habitación para guardarropa o oficina, 2 baños. Lavandería. Cochera. \r\n212 metros terreno 138 cubiertos\r\nDUEÑO VENDE",
     "coordinates": {
-      "lat": "-32.9016889034",
-      "lng": "-68.8518214533"
+      "lat": "-32.8644659",
+      "lng": "-68.85300780000001"
     },
     "geo_verification": {
       "is_valid_zone": true,
       "real_city": "Ciudad De Mendoza",
-      "real_neighborhood": "Bombal",
+      "real_neighborhood": "Barrio Ferroviario",
       "rejection_reason": null,
       "geocode_verified": true
     },
     "category_b_metrics": {
-      "price_score": 92.1,
+      "price_score": 93.6,
       "price_status": "DENTRO_PRESUPUESTO",
-      "surface_score": 83.0,
-      "surface_notes": "77 m2 (En tolerancia, cercano al target de 80 m2)",
-      "price_per_m2": 1662.3
+      "surface_score": 100.0,
+      "surface_notes": "148 m2 (Cumple objetivo de 80 m2)",
+      "price_per_m2": 810.8
     },
     "analysis": {
-      "opportunity_score": 54.9,
+      "opportunity_score": 61.6,
       "evaluation_source": "heurística",
       "category_c": {
         "has_security": false,
-        "has_gas_network": true,
+        "has_gas_network": false,
         "has_parking": true,
+        "has_elevator": false,
+        "two_bathrooms": true
+      },
+      "negotiation_analysis": {
+        "potential": "Estándar",
+        "signals_detected": false,
+        "summary": "Precio estándar de mercado."
+      },
+      "pros": [
+        "✨ Amplio: cuenta con 3+ dormitorios o 4+ ambientes (+10 pts)",
+        "Dentro del presupuesto (USD 120,000)",
+        "🚗 Cuenta con cochera"
+      ],
+      "cons": [
+        "⚠️ Sin seguridad 24 hs ni barrio privado (penalizado en puntaje)",
+        "Consultar conexión a red de gas natural"
+      ],
+      "ai_summary": "Propiedad en Mendoza (casa) de 148.0 m2 a USD 120,000. Score: 61.6/100 (Penalizado por falta de seguridad 24hs)."
+    },
+    "is_new": false,
+    "first_seen": "2026-10-12"
+  },
+  {
+    "id": "inmoclick_311675_6",
+    "portal": "Inmoclick",
+    "title": "🏡 DUEÑO VENDE – CASA ESQUINA EN BARRIO SANIDAD, MENDOZA",
+    "property_type": "casa",
+    "price_usd": 130000.0,
+    "surface_m2": 240.0,
+    "surface_total_m2": 290.0,
+    "surface_covered_m2": 240.0,
+    "bathrooms": 2,
+    "bedrooms": 3,
+    "rooms": null,
+    "has_parking_attribute": true,
+    "location_zone": "Mendoza",
+    "url": "https://www.inmoclick.com.ar/311675-mica-mutt/inmuebles/6/ficha/casa-en-venta-en-san-jose-1903",
+    "image_url": "https://www.inmoclick.com.ar/bundles/inmoclick/images/v14.6/empty-photo-box.jpg",
+    "description": "🏡 DUEÑO VENDE – CASA ESQUINA EN BARRIO SANIDAD, MENDOZA\r\n\r\n📍 San José 1903 – Ciudad de Mendoza\r\nExcelente ubicación, frente al Barrio Dalvian, a pocas cuadras del Colegio Maristas y de la Universidad Nacional de Cuyo\r\n\r\n✨ Casa esquina de 290 m²\r\nUbicada sobre calle San José, la calle principal del barrio, con *parada de micro a solo media cuadra\r\n\r\n🏠 La propiedad cuenta con:\r\n\r\n🛏️ 3 dormitorios, dos con placard\r\n🛁 2 baños completos\r\n🛋️ 2 livings\r\n🍳 Cocina\r\n🍽️ Comedor\r\n💻 Escritorio\r\n🌳 Jardín con churrasquera y depósito\r\n🚗 Cochera amplia con baulera\r\n🌀 2 aires acondicionados\r\n🏡 Casa esquina, con excelente frente y ubicación\r\n\r\nSeguridad:rejas en toda la propiedad y cerco eléctrico\r\n\r\n📍 Ubicación estratégica, cerca de:\r\n\r\n* Colegio Maristas\r\n* Universidad Nacional de Cuyo\r\n* Barrio Dalvian\r\n* Lomas Centro Médico\r\n* Centro Comercial Lomas\r\n* El Círculo Centro Comercial \r\n* Supermercados y gym \r\n\r\n📞 Dueño vende directamente.\r\nUna propiedad ideal para vivienda familiar, por su ubicación, distribución, espacios amplios y cercanía a servicios, colegios, universidad y centros comerciales.",
+    "coordinates": {
+      "lat": "-32.86829565756736",
+      "lng": "-68.879122400184"
+    },
+    "geo_verification": {
+      "is_valid_zone": true,
+      "real_city": "Ciudad De Mendoza",
+      "real_neighborhood": "Barrio Champagnat",
+      "rejection_reason": null,
+      "geocode_verified": true
+    },
+    "category_b_metrics": {
+      "price_score": 91.8,
+      "price_status": "DENTRO_PRESUPUESTO",
+      "surface_score": 100.0,
+      "surface_notes": "240 m2 (Cumple objetivo de 80 m2)",
+      "price_per_m2": 541.7
+    },
+    "analysis": {
+      "opportunity_score": 61.1,
+      "evaluation_source": "heurística",
+      "category_c": {
+        "has_security": false,
+        "has_gas_network": false,
+        "has_parking": true,
+        "has_elevator": false,
+        "two_bathrooms": true
+      },
+      "negotiation_analysis": {
+        "potential": "Estándar",
+        "signals_detected": false,
+        "summary": "Precio estándar de mercado."
+      },
+      "pros": [
+        "✨ Amplio: cuenta con 3+ dormitorios o 4+ ambientes (+10 pts)",
+        "Dentro del presupuesto (USD 130,000)",
+        "🚗 Cuenta con cochera"
+      ],
+      "cons": [
+        "⚠️ Sin seguridad 24 hs ni barrio privado (penalizado en puntaje)",
+        "Consultar conexión a red de gas natural"
+      ],
+      "ai_summary": "Propiedad en Mendoza (casa) de 240.0 m2 a USD 130,000. Score: 61.1/100 (Penalizado por falta de seguridad 24hs)."
+    },
+    "is_new": false,
+    "first_seen": "2026-10-08"
+  },
+  {
+    "id": "ml_4103976960",
+    "portal": "Mercado Libre",
+    "title": "Venta Casa 2 Plantas + 2 Dptos  Ideal P/alquiler",
+    "property_type": "casa",
+    "price_usd": 80000.0,
+    "surface_m2": 125.0,
+    "bathrooms": 5,
+    "bedrooms": null,
+    "rooms": 5,
+    "has_parking_attribute": false,
+    "location_zone": "Mendoza",
+    "url": "https://casa.mercadolibre.com.ar/MLA-4103976960-venta-casa-2-plantas-2-dptos-ideal-palquiler-_JM",
+    "image_url": "https://http2.mlstatic.com/D_NQ_NP_2X_733374-MLA118220850074_102026-E.webp",
+    "description": "Venta Casa 2 Plantas + 2 Dptos  Ideal P/alquiler. Características: 5 ambs., 5 baños, 125 m² cubiertos. Zona: Mendoza.",
+    "coordinates": null,
+    "geo_verification": {
+      "is_valid_zone": true,
+      "real_city": "Sin coordenadas",
+      "real_neighborhood": null,
+      "rejection_reason": null,
+      "geocode_verified": false
+    },
+    "category_b_metrics": {
+      "price_score": 100.0,
+      "price_status": "DENTRO_PRESUPUESTO",
+      "surface_score": 100.0,
+      "surface_notes": "125 m2 (Cumple objetivo de 80 m2)",
+      "price_per_m2": 640.0
+    },
+    "analysis": {
+      "opportunity_score": 52.9,
+      "evaluation_source": "heurística",
+      "category_c": {
+        "has_security": false,
+        "has_gas_network": false,
+        "has_parking": false,
+        "has_elevator": false,
+        "two_bathrooms": true
+      },
+      "negotiation_analysis": {
+        "potential": "Estándar",
+        "signals_detected": false,
+        "summary": "Precio estándar de mercado."
+      },
+      "pros": [
+        "✨ Amplio: cuenta con 3+ dormitorios o 4+ ambientes (+10 pts)",
+        "Dentro del presupuesto (USD 80,000)"
+      ],
+      "cons": [
+        "⚠️ Sin seguridad 24 hs ni barrio privado (penalizado en puntaje)",
+        "Consultar conexión a red de gas natural"
+      ],
+      "ai_summary": "Propiedad en Mendoza (casa) de 125.0 m2 a USD 80,000. Score: 52.9/100 (Penalizado por falta de seguridad 24hs)."
+    },
+    "is_new": true,
+    "first_seen": "2026-10-28"
+  },
+  {
+    "id": "ml_4028498792",
+    "portal": "Mercado Libre",
+    "title": "Venta Casa Con Dpto En Bombal Sur Ideal Inversión",
+    "property_type": "casa",
+    "price_usd": 72000.0,
+    "surface_m2": 156.0,
+    "bathrooms": 3,
+    "bedrooms": null,
+    "rooms": 7,
+    "has_parking_attribute": false,
+    "location_zone": "Godoy Cruz",
+    "url": "https://casa.mercadolibre.com.ar/MLA-4028498792-venta-casa-con-dpto-en-bombal-sur-ideal-inversion-_JM",
+    "image_url": "https://http2.mlstatic.com/D_NQ_NP_2X_905827-MLA117166506688_102026-E.webp",
+    "description": "Venta Casa Con Dpto En Bombal Sur Ideal Inversión. Características: 7 ambs., 3 baños, 156 m² cubiertos. Zona: Godoy Cruz.",
+    "coordinates": null,
+    "geo_verification": {
+      "is_valid_zone": true,
+      "real_city": "Sin coordenadas",
+      "real_neighborhood": null,
+      "rejection_reason": null,
+      "geocode_verified": false
+    },
+    "category_b_metrics": {
+      "price_score": 100.0,
+      "price_status": "DENTRO_PRESUPUESTO",
+      "surface_score": 100.0,
+      "surface_notes": "156 m2 (Cumple objetivo de 80 m2)",
+      "price_per_m2": 461.5
+    },
+    "analysis": {
+      "opportunity_score": 52.9,
+      "evaluation_source": "heurística",
+      "category_c": {
+        "has_security": false,
+        "has_gas_network": false,
+        "has_parking": false,
         "has_elevator": false,
         "two_bathrooms": true
       },
@@ -435,17 +610,597 @@
       },
       "pros": [
         "📍 Excelente ubicación: Barrio Bombal / Bombal Sur (Godoy Cruz)",
-        "Dentro del presupuesto (USD 128,000)",
-        "🔥 Red de gas natural confirmada",
-        "🚗 Cuenta con cochera"
+        "✨ Amplio: cuenta con 3+ dormitorios o 4+ ambientes (+10 pts)",
+        "Dentro del presupuesto (USD 72,000)"
       ],
       "cons": [
-        "⚠️ Sin seguridad 24 hs ni barrio privado (penalizado en puntaje)"
+        "⚠️ Sin seguridad 24 hs ni barrio privado (penalizado en puntaje)",
+        "Consultar conexión a red de gas natural"
       ],
-      "ai_summary": "Propiedad en Godoy Cruz (departamento) de 77.0 m2 a USD 128,000. Score: 54.9/100 (Penalizado por falta de seguridad 24hs)."
+      "ai_summary": "Propiedad en Godoy Cruz (casa) de 156.0 m2 a USD 72,000. Score: 52.9/100 (Penalizado por falta de seguridad 24hs)."
     },
-    "is_new": false,
-    "first_seen": "2026-10-20"
+    "is_new": true,
+    "first_seen": "2026-10-28"
+  },
+  {
+    "id": "ml_4072927150",
+    "portal": "Mercado Libre",
+    "title": "C21 Inmoandes Vende Casa En B° Viajantes - Dorrego",
+    "property_type": "casa",
+    "price_usd": 75000.0,
+    "surface_m2": 170.0,
+    "bathrooms": 2,
+    "bedrooms": 3,
+    "rooms": null,
+    "has_parking_attribute": false,
+    "location_zone": "Guaymallen",
+    "url": "https://casa.mercadolibre.com.ar/MLA-4072927150-c21-inmoandes-vende-casa-en-b-viajantes-dorrego-_JM",
+    "image_url": "https://http2.mlstatic.com/D_NQ_NP_2X_633567-MLA117716962420_102026-E.webp",
+    "description": "C21 Inmoandes Vende Casa En B° Viajantes - Dorrego. Características: 3 dormitorios, 2 baños, 170 m² cubiertos. Zona: Guaymallen.",
+    "coordinates": null,
+    "geo_verification": {
+      "is_valid_zone": true,
+      "real_city": "Sin coordenadas",
+      "real_neighborhood": null,
+      "rejection_reason": null,
+      "geocode_verified": false
+    },
+    "category_b_metrics": {
+      "price_score": 100.0,
+      "price_status": "DENTRO_PRESUPUESTO",
+      "surface_score": 100.0,
+      "surface_notes": "170 m2 (Cumple objetivo de 80 m2)",
+      "price_per_m2": 441.2
+    },
+    "analysis": {
+      "opportunity_score": 52.9,
+      "evaluation_source": "heurística",
+      "category_c": {
+        "has_security": false,
+        "has_gas_network": false,
+        "has_parking": false,
+        "has_elevator": false,
+        "two_bathrooms": true
+      },
+      "negotiation_analysis": {
+        "potential": "Estándar",
+        "signals_detected": false,
+        "summary": "Precio estándar de mercado."
+      },
+      "pros": [
+        "✨ Amplio: cuenta con 3+ dormitorios o 4+ ambientes (+10 pts)",
+        "Dentro del presupuesto (USD 75,000)"
+      ],
+      "cons": [
+        "⚠️ Sin seguridad 24 hs ni barrio privado (penalizado en puntaje)",
+        "Consultar conexión a red de gas natural"
+      ],
+      "ai_summary": "Propiedad en Guaymallen (casa) de 170.0 m2 a USD 75,000. Score: 52.9/100 (Penalizado por falta de seguridad 24hs)."
+    },
+    "is_new": true,
+    "first_seen": "2026-10-28"
+  },
+  {
+    "id": "ml_4100116772",
+    "portal": "Mercado Libre",
+    "title": "Casa En Venta En Dorrego",
+    "property_type": "casa",
+    "price_usd": 75000.0,
+    "surface_m2": 139.0,
+    "bathrooms": 2,
+    "bedrooms": null,
+    "rooms": 5,
+    "has_parking_attribute": false,
+    "location_zone": "Guaymallen",
+    "url": "https://casa.mercadolibre.com.ar/MLA-4100116772-casa-en-venta-en-dorrego-_JM",
+    "image_url": "https://http2.mlstatic.com/D_NQ_NP_2X_681144-MLA118169559910_102026-E.webp",
+    "description": "Casa En Venta En Dorrego. Características: 5 ambs., 2 baños, 139 m² cubiertos. Zona: Guaymallen.",
+    "coordinates": null,
+    "geo_verification": {
+      "is_valid_zone": true,
+      "real_city": "Sin coordenadas",
+      "real_neighborhood": null,
+      "rejection_reason": null,
+      "geocode_verified": false
+    },
+    "category_b_metrics": {
+      "price_score": 100.0,
+      "price_status": "DENTRO_PRESUPUESTO",
+      "surface_score": 100.0,
+      "surface_notes": "139 m2 (Cumple objetivo de 80 m2)",
+      "price_per_m2": 539.6
+    },
+    "analysis": {
+      "opportunity_score": 52.9,
+      "evaluation_source": "heurística",
+      "category_c": {
+        "has_security": false,
+        "has_gas_network": false,
+        "has_parking": false,
+        "has_elevator": false,
+        "two_bathrooms": true
+      },
+      "negotiation_analysis": {
+        "potential": "Estándar",
+        "signals_detected": false,
+        "summary": "Precio estándar de mercado."
+      },
+      "pros": [
+        "✨ Amplio: cuenta con 3+ dormitorios o 4+ ambientes (+10 pts)",
+        "Dentro del presupuesto (USD 75,000)"
+      ],
+      "cons": [
+        "⚠️ Sin seguridad 24 hs ni barrio privado (penalizado en puntaje)",
+        "Consultar conexión a red de gas natural"
+      ],
+      "ai_summary": "Propiedad en Guaymallen (casa) de 139.0 m2 a USD 75,000. Score: 52.9/100 (Penalizado por falta de seguridad 24hs)."
+    },
+    "is_new": true,
+    "first_seen": "2026-10-28"
+  },
+  {
+    "id": "ml_3341239884",
+    "portal": "Mercado Libre",
+    "title": "Venta Casa Dorrego Guaymallén",
+    "property_type": "casa",
+    "price_usd": 87500.0,
+    "surface_m2": 160.0,
+    "bathrooms": 2,
+    "bedrooms": 3,
+    "rooms": null,
+    "has_parking_attribute": false,
+    "location_zone": "Guaymallen",
+    "url": "https://casa.mercadolibre.com.ar/MLA-3341239884-venta-casa-dorrego-guaymallen-_JM",
+    "image_url": "https://http2.mlstatic.com/D_NQ_NP_2X_722847-MLA107832587160_032026-E.webp",
+    "description": "Venta Casa Dorrego Guaymallén. Características: 3 dormitorios, 2 baños, 160 m² cubiertos. Zona: Guaymallen.",
+    "coordinates": null,
+    "geo_verification": {
+      "is_valid_zone": true,
+      "real_city": "Sin coordenadas",
+      "real_neighborhood": null,
+      "rejection_reason": null,
+      "geocode_verified": false
+    },
+    "category_b_metrics": {
+      "price_score": 99.4,
+      "price_status": "DENTRO_PRESUPUESTO",
+      "surface_score": 100.0,
+      "surface_notes": "160 m2 (Cumple objetivo de 80 m2)",
+      "price_per_m2": 546.9
+    },
+    "analysis": {
+      "opportunity_score": 52.8,
+      "evaluation_source": "heurística",
+      "category_c": {
+        "has_security": false,
+        "has_gas_network": false,
+        "has_parking": false,
+        "has_elevator": false,
+        "two_bathrooms": true
+      },
+      "negotiation_analysis": {
+        "potential": "Estándar",
+        "signals_detected": false,
+        "summary": "Precio estándar de mercado."
+      },
+      "pros": [
+        "✨ Amplio: cuenta con 3+ dormitorios o 4+ ambientes (+10 pts)",
+        "Dentro del presupuesto (USD 87,500)"
+      ],
+      "cons": [
+        "⚠️ Sin seguridad 24 hs ni barrio privado (penalizado en puntaje)",
+        "Consultar conexión a red de gas natural"
+      ],
+      "ai_summary": "Propiedad en Guaymallen (casa) de 160.0 m2 a USD 87,500. Score: 52.8/100 (Penalizado por falta de seguridad 24hs)."
+    },
+    "is_new": true,
+    "first_seen": "2026-10-28"
+  },
+  {
+    "id": "ml_1932694261",
+    "portal": "Mercado Libre",
+    "title": "Venta Casa Dorrego Guaymallén",
+    "property_type": "casa",
+    "price_usd": 87500.0,
+    "surface_m2": 160.0,
+    "bathrooms": 2,
+    "bedrooms": 3,
+    "rooms": null,
+    "has_parking_attribute": false,
+    "location_zone": "Guaymallen",
+    "url": "https://casa.mercadolibre.com.ar/MLA-1932694261-venta-casa-dorrego-guaymallen-_JM",
+    "image_url": "https://http2.mlstatic.com/D_NQ_NP_2X_830759-MLA113976614444_072026-E.webp",
+    "description": "Venta Casa Dorrego Guaymallén. Características: 3 dormitorios, 2 baños, 160 m² cubiertos. Zona: Guaymallen.",
+    "coordinates": null,
+    "geo_verification": {
+      "is_valid_zone": true,
+      "real_city": "Sin coordenadas",
+      "real_neighborhood": null,
+      "rejection_reason": null,
+      "geocode_verified": false
+    },
+    "category_b_metrics": {
+      "price_score": 99.4,
+      "price_status": "DENTRO_PRESUPUESTO",
+      "surface_score": 100.0,
+      "surface_notes": "160 m2 (Cumple objetivo de 80 m2)",
+      "price_per_m2": 546.9
+    },
+    "analysis": {
+      "opportunity_score": 52.8,
+      "evaluation_source": "heurística",
+      "category_c": {
+        "has_security": false,
+        "has_gas_network": false,
+        "has_parking": false,
+        "has_elevator": false,
+        "two_bathrooms": true
+      },
+      "negotiation_analysis": {
+        "potential": "Estándar",
+        "signals_detected": false,
+        "summary": "Precio estándar de mercado."
+      },
+      "pros": [
+        "✨ Amplio: cuenta con 3+ dormitorios o 4+ ambientes (+10 pts)",
+        "Dentro del presupuesto (USD 87,500)"
+      ],
+      "cons": [
+        "⚠️ Sin seguridad 24 hs ni barrio privado (penalizado en puntaje)",
+        "Consultar conexión a red de gas natural"
+      ],
+      "ai_summary": "Propiedad en Guaymallen (casa) de 160.0 m2 a USD 87,500. Score: 52.8/100 (Penalizado por falta de seguridad 24hs)."
+    },
+    "is_new": true,
+    "first_seen": "2026-10-28"
+  },
+  {
+    "id": "ml_3510108914",
+    "portal": "Mercado Libre",
+    "title": "Venta Casa En Dorrego, 3 Habitaciones",
+    "property_type": "casa",
+    "price_usd": 98000.0,
+    "surface_m2": 168.0,
+    "bathrooms": 2,
+    "bedrooms": null,
+    "rooms": 6,
+    "has_parking_attribute": false,
+    "location_zone": "Guaymallen",
+    "url": "https://casa.mercadolibre.com.ar/MLA-3510108914-venta-casa-en-dorrego-3-habitaciones-_JM",
+    "image_url": "https://http2.mlstatic.com/D_NQ_NP_2X_994041-MLA113718466825_062026-E.webp",
+    "description": "Venta Casa En Dorrego, 3 Habitaciones. Características: 6 ambs., 2 baños, 168 m² cubiertos. Zona: Guaymallen.",
+    "coordinates": null,
+    "geo_verification": {
+      "is_valid_zone": true,
+      "real_city": "Sin coordenadas",
+      "real_neighborhood": null,
+      "rejection_reason": null,
+      "geocode_verified": false
+    },
+    "category_b_metrics": {
+      "price_score": 97.5,
+      "price_status": "DENTRO_PRESUPUESTO",
+      "surface_score": 100.0,
+      "surface_notes": "168 m2 (Cumple objetivo de 80 m2)",
+      "price_per_m2": 583.3
+    },
+    "analysis": {
+      "opportunity_score": 52.2,
+      "evaluation_source": "heurística",
+      "category_c": {
+        "has_security": false,
+        "has_gas_network": false,
+        "has_parking": false,
+        "has_elevator": false,
+        "two_bathrooms": true
+      },
+      "negotiation_analysis": {
+        "potential": "Estándar",
+        "signals_detected": false,
+        "summary": "Precio estándar de mercado."
+      },
+      "pros": [
+        "✨ Amplio: cuenta con 3+ dormitorios o 4+ ambientes (+10 pts)",
+        "Dentro del presupuesto (USD 98,000)"
+      ],
+      "cons": [
+        "⚠️ Sin seguridad 24 hs ni barrio privado (penalizado en puntaje)",
+        "Consultar conexión a red de gas natural"
+      ],
+      "ai_summary": "Propiedad en Guaymallen (casa) de 168.0 m2 a USD 98,000. Score: 52.2/100 (Penalizado por falta de seguridad 24hs)."
+    },
+    "is_new": true,
+    "first_seen": "2026-10-28"
+  },
+  {
+    "id": "ml_4086921576",
+    "portal": "Mercado Libre",
+    "title": "Century21 López Vende Casa En Dorrego Guaymallén",
+    "property_type": "casa",
+    "price_usd": 100000.0,
+    "surface_m2": 194.0,
+    "bathrooms": 2,
+    "bedrooms": null,
+    "rooms": 6,
+    "has_parking_attribute": false,
+    "location_zone": "Guaymallen",
+    "url": "https://casa.mercadolibre.com.ar/MLA-4086921576-century21-lopez-vende-casa-en-dorrego-guaymallen-_JM",
+    "image_url": "https://http2.mlstatic.com/D_NQ_NP_2X_679947-MLA117953480268_102026-E.webp",
+    "description": "Century21 López Vende Casa En Dorrego Guaymallén. Características: 6 ambs., 2 baños, 194 m² cubiertos. Zona: Guaymallen.",
+    "coordinates": null,
+    "geo_verification": {
+      "is_valid_zone": true,
+      "real_city": "Sin coordenadas",
+      "real_neighborhood": null,
+      "rejection_reason": null,
+      "geocode_verified": false
+    },
+    "category_b_metrics": {
+      "price_score": 97.1,
+      "price_status": "DENTRO_PRESUPUESTO",
+      "surface_score": 100.0,
+      "surface_notes": "194 m2 (Cumple objetivo de 80 m2)",
+      "price_per_m2": 515.5
+    },
+    "analysis": {
+      "opportunity_score": 52.1,
+      "evaluation_source": "heurística",
+      "category_c": {
+        "has_security": false,
+        "has_gas_network": false,
+        "has_parking": false,
+        "has_elevator": false,
+        "two_bathrooms": true
+      },
+      "negotiation_analysis": {
+        "potential": "Estándar",
+        "signals_detected": false,
+        "summary": "Precio estándar de mercado."
+      },
+      "pros": [
+        "✨ Amplio: cuenta con 3+ dormitorios o 4+ ambientes (+10 pts)",
+        "Dentro del presupuesto (USD 100,000)"
+      ],
+      "cons": [
+        "⚠️ Sin seguridad 24 hs ni barrio privado (penalizado en puntaje)",
+        "Consultar conexión a red de gas natural"
+      ],
+      "ai_summary": "Propiedad en Guaymallen (casa) de 194.0 m2 a USD 100,000. Score: 52.1/100 (Penalizado por falta de seguridad 24hs)."
+    },
+    "is_new": true,
+    "first_seen": "2026-10-28"
+  },
+  {
+    "id": "ml_3879359370",
+    "portal": "Mercado Libre",
+    "title": "Casa En Venta En Dorrego Con Gran Potencial",
+    "property_type": "casa",
+    "price_usd": 99000.0,
+    "surface_m2": 244.0,
+    "bathrooms": 2,
+    "bedrooms": null,
+    "rooms": 6,
+    "has_parking_attribute": false,
+    "location_zone": "Guaymallen",
+    "url": "https://casa.mercadolibre.com.ar/MLA-3879359370-casa-en-venta-en-dorrego-con-gran-potencial-_JM",
+    "image_url": "https://http2.mlstatic.com/D_NQ_NP_2X_850681-MLA115436560558_082026-E.webp",
+    "description": "Casa En Venta En Dorrego Con Gran Potencial. Características: 6 ambs., 2 baños, 244 m² cubiertos. Zona: Guaymallen.",
+    "coordinates": null,
+    "geo_verification": {
+      "is_valid_zone": true,
+      "real_city": "Sin coordenadas",
+      "real_neighborhood": null,
+      "rejection_reason": null,
+      "geocode_verified": false
+    },
+    "category_b_metrics": {
+      "price_score": 97.3,
+      "price_status": "DENTRO_PRESUPUESTO",
+      "surface_score": 100.0,
+      "surface_notes": "244 m2 (Cumple objetivo de 80 m2)",
+      "price_per_m2": 405.7
+    },
+    "analysis": {
+      "opportunity_score": 52.1,
+      "evaluation_source": "heurística",
+      "category_c": {
+        "has_security": false,
+        "has_gas_network": false,
+        "has_parking": false,
+        "has_elevator": false,
+        "two_bathrooms": true
+      },
+      "negotiation_analysis": {
+        "potential": "Estándar",
+        "signals_detected": false,
+        "summary": "Precio estándar de mercado."
+      },
+      "pros": [
+        "✨ Amplio: cuenta con 3+ dormitorios o 4+ ambientes (+10 pts)",
+        "Dentro del presupuesto (USD 99,000)"
+      ],
+      "cons": [
+        "⚠️ Sin seguridad 24 hs ni barrio privado (penalizado en puntaje)",
+        "Consultar conexión a red de gas natural"
+      ],
+      "ai_summary": "Propiedad en Guaymallen (casa) de 244.0 m2 a USD 99,000. Score: 52.1/100 (Penalizado por falta de seguridad 24hs)."
+    },
+    "is_new": true,
+    "first_seen": "2026-10-28"
+  },
+  {
+    "id": "ml_2052068639",
+    "portal": "Mercado Libre",
+    "title": "Venta - Casa En Dorrego - 3 Dormitorios   Estudio / 2 Baños",
+    "property_type": "casa",
+    "price_usd": 110000.0,
+    "surface_m2": 185.0,
+    "bathrooms": 2,
+    "bedrooms": null,
+    "rooms": 7,
+    "has_parking_attribute": false,
+    "location_zone": "Guaymallen",
+    "url": "https://casa.mercadolibre.com.ar/MLA-2052068639-venta-casa-en-dorrego-3-dormitorios-estudio-2-banos-_JM",
+    "image_url": "https://http2.mlstatic.com/D_NQ_NP_2X_829540-MLA115551652464_082026-E.webp",
+    "description": "Venta - Casa En Dorrego - 3 Dormitorios   Estudio / 2 Baños. Características: 7 ambs., 2 baños, 185 m² cubiertos. Zona: Guaymallen.",
+    "coordinates": null,
+    "geo_verification": {
+      "is_valid_zone": true,
+      "real_city": "Sin coordenadas",
+      "real_neighborhood": null,
+      "rejection_reason": null,
+      "geocode_verified": false
+    },
+    "category_b_metrics": {
+      "price_score": 95.4,
+      "price_status": "DENTRO_PRESUPUESTO",
+      "surface_score": 100.0,
+      "surface_notes": "185 m2 (Cumple objetivo de 80 m2)",
+      "price_per_m2": 594.6
+    },
+    "analysis": {
+      "opportunity_score": 51.6,
+      "evaluation_source": "heurística",
+      "category_c": {
+        "has_security": false,
+        "has_gas_network": false,
+        "has_parking": false,
+        "has_elevator": false,
+        "two_bathrooms": true
+      },
+      "negotiation_analysis": {
+        "potential": "Estándar",
+        "signals_detected": false,
+        "summary": "Precio estándar de mercado."
+      },
+      "pros": [
+        "✨ Amplio: cuenta con 3+ dormitorios o 4+ ambientes (+10 pts)",
+        "Dentro del presupuesto (USD 110,000)"
+      ],
+      "cons": [
+        "⚠️ Sin seguridad 24 hs ni barrio privado (penalizado en puntaje)",
+        "Consultar conexión a red de gas natural"
+      ],
+      "ai_summary": "Propiedad en Guaymallen (casa) de 185.0 m2 a USD 110,000. Score: 51.6/100 (Penalizado por falta de seguridad 24hs)."
+    },
+    "is_new": true,
+    "first_seen": "2026-10-28"
+  },
+  {
+    "id": "ml_2164633269",
+    "portal": "Mercado Libre",
+    "title": "Casa En Venta, Dorrego, Guaymallén, Apto Crédito",
+    "property_type": "casa",
+    "price_usd": 110000.0,
+    "surface_m2": 178.0,
+    "bathrooms": 2,
+    "bedrooms": null,
+    "rooms": 5,
+    "has_parking_attribute": false,
+    "location_zone": "Guaymallen",
+    "url": "https://casa.mercadolibre.com.ar/MLA-2164633269-casa-en-venta-dorrego-guaymallen-apto-credito-_JM",
+    "image_url": "https://http2.mlstatic.com/D_NQ_NP_2X_893567-MLA118970260601_102026-E.webp",
+    "description": "Casa En Venta, Dorrego, Guaymallén, Apto Crédito. Características: 5 ambs., 2 baños, 178 m² cubiertos. Zona: Guaymallen.",
+    "coordinates": null,
+    "geo_verification": {
+      "is_valid_zone": true,
+      "real_city": "Sin coordenadas",
+      "real_neighborhood": null,
+      "rejection_reason": null,
+      "geocode_verified": false
+    },
+    "category_b_metrics": {
+      "price_score": 95.4,
+      "price_status": "DENTRO_PRESUPUESTO",
+      "surface_score": 100.0,
+      "surface_notes": "178 m2 (Cumple objetivo de 80 m2)",
+      "price_per_m2": 618.0
+    },
+    "analysis": {
+      "opportunity_score": 51.6,
+      "evaluation_source": "heurística",
+      "category_c": {
+        "has_security": false,
+        "has_gas_network": false,
+        "has_parking": false,
+        "has_elevator": false,
+        "two_bathrooms": true
+      },
+      "negotiation_analysis": {
+        "potential": "Estándar",
+        "signals_detected": false,
+        "summary": "Precio estándar de mercado."
+      },
+      "pros": [
+        "✨ Amplio: cuenta con 3+ dormitorios o 4+ ambientes (+10 pts)",
+        "Dentro del presupuesto (USD 110,000)"
+      ],
+      "cons": [
+        "⚠️ Sin seguridad 24 hs ni barrio privado (penalizado en puntaje)",
+        "Consultar conexión a red de gas natural"
+      ],
+      "ai_summary": "Propiedad en Guaymallen (casa) de 178.0 m2 a USD 110,000. Score: 51.6/100 (Penalizado por falta de seguridad 24hs)."
+    },
+    "is_new": true,
+    "first_seen": "2026-10-28"
+  },
+  {
+    "id": "ml_2192308265",
+    "portal": "Mercado Libre",
+    "title": "Venta Casa Alto Dorrego Guaymallen",
+    "property_type": "casa",
+    "price_usd": 115000.0,
+    "surface_m2": 132.0,
+    "bathrooms": 3,
+    "bedrooms": null,
+    "rooms": 7,
+    "has_parking_attribute": false,
+    "location_zone": "Guaymallen",
+    "url": "https://casa.mercadolibre.com.ar/MLA-2192308265-venta-casa-alto-dorrego-guaymallen-_JM",
+    "image_url": "https://http2.mlstatic.com/D_NQ_NP_2X_851312-MLA119390675509_102026-E.webp",
+    "description": "Venta Casa Alto Dorrego Guaymallen. Características: 7 ambs., 3 baños, 132 m² cubiertos. Zona: Guaymallen.",
+    "coordinates": null,
+    "geo_verification": {
+      "is_valid_zone": true,
+      "real_city": "Sin coordenadas",
+      "real_neighborhood": null,
+      "rejection_reason": null,
+      "geocode_verified": false
+    },
+    "category_b_metrics": {
+      "price_score": 94.5,
+      "price_status": "DENTRO_PRESUPUESTO",
+      "surface_score": 100.0,
+      "surface_notes": "132 m2 (Cumple objetivo de 80 m2)",
+      "price_per_m2": 871.2
+    },
+    "analysis": {
+      "opportunity_score": 51.3,
+      "evaluation_source": "heurística",
+      "category_c": {
+        "has_security": false,
+        "has_gas_network": false,
+        "has_parking": false,
+        "has_elevator": false,
+        "two_bathrooms": true
+      },
+      "negotiation_analysis": {
+        "potential": "Estándar",
+        "signals_detected": false,
+        "summary": "Precio estándar de mercado."
+      },
+      "pros": [
+        "✨ Amplio: cuenta con 3+ dormitorios o 4+ ambientes (+10 pts)",
+        "Dentro del presupuesto (USD 115,000)"
+      ],
+      "cons": [
+        "⚠️ Sin seguridad 24 hs ni barrio privado (penalizado en puntaje)",
+        "Consultar conexión a red de gas natural"
+      ],
+      "ai_summary": "Propiedad en Guaymallen (casa) de 132.0 m2 a USD 115,000. Score: 51.3/100 (Penalizado por falta de seguridad 24hs)."
+    },
+    "is_new": true,
+    "first_seen": "2026-10-28"
   },
   {
     "id": "inmoclick_124071_43",
@@ -511,42 +1266,100 @@
     "first_seen": "2026-10-09"
   },
   {
-    "id": "inmoclick_268429_1974",
-    "portal": "Inmoclick",
-    "title": "VENTA DEPARTAMENTO – GODOY CRUZ",
-    "property_type": "departamento",
-    "price_usd": 95000.0,
-    "surface_m2": 109.0,
-    "surface_total_m2": 114.0,
-    "surface_covered_m2": 109.0,
+    "id": "ml_4098159170",
+    "portal": "Mercado Libre",
+    "title": "Venta Duplex Dorrego Guaymallen Mendoza",
+    "property_type": "casa",
+    "price_usd": 130000.0,
+    "surface_m2": 118.0,
     "bathrooms": 2,
-    "bedrooms": 3,
-    "rooms": null,
+    "bedrooms": null,
+    "rooms": 4,
     "has_parking_attribute": false,
+    "location_zone": "Guaymallen",
+    "url": "https://casa.mercadolibre.com.ar/MLA-4098159170-venta-duplex-dorrego-guaymallen-mendoza-_JM",
+    "image_url": "https://http2.mlstatic.com/D_NQ_NP_2X_841274-MLA119774919041_102026-E.webp",
+    "description": "Venta Duplex Dorrego Guaymallen Mendoza. Características: 4 ambs., 2 baños, 118 m² cubiertos. Zona: Guaymallen.",
+    "coordinates": null,
+    "geo_verification": {
+      "is_valid_zone": true,
+      "real_city": "Sin coordenadas",
+      "real_neighborhood": null,
+      "rejection_reason": null,
+      "geocode_verified": false
+    },
+    "category_b_metrics": {
+      "price_score": 91.8,
+      "price_status": "DENTRO_PRESUPUESTO",
+      "surface_score": 100.0,
+      "surface_notes": "118 m2 (Cumple objetivo de 80 m2)",
+      "price_per_m2": 1101.7
+    },
+    "analysis": {
+      "opportunity_score": 50.5,
+      "evaluation_source": "heurística",
+      "category_c": {
+        "has_security": false,
+        "has_gas_network": false,
+        "has_parking": false,
+        "has_elevator": false,
+        "two_bathrooms": true
+      },
+      "negotiation_analysis": {
+        "potential": "Estándar",
+        "signals_detected": false,
+        "summary": "Precio estándar de mercado."
+      },
+      "pros": [
+        "✨ Amplio: cuenta con 3+ dormitorios o 4+ ambientes (+10 pts)",
+        "Dentro del presupuesto (USD 130,000)"
+      ],
+      "cons": [
+        "⚠️ Sin seguridad 24 hs ni barrio privado (penalizado en puntaje)",
+        "Consultar conexión a red de gas natural"
+      ],
+      "ai_summary": "Propiedad en Guaymallen (casa) de 118.0 m2 a USD 130,000. Score: 50.5/100 (Penalizado por falta de seguridad 24hs)."
+    },
+    "is_new": true,
+    "first_seen": "2026-10-28"
+  },
+  {
+    "id": "inmoclick_17515_20466",
+    "portal": "Inmoclick",
+    "title": "DEPARTAMENTO 3 AMBIENTES EN VENTA MENDOZA SEXTA SECCIÓN - APTO CRÉDITO",
+    "property_type": "departamento",
+    "price_usd": 120000.0,
+    "surface_m2": 77.0,
+    "surface_total_m2": 81.0,
+    "surface_covered_m2": 77.0,
+    "bathrooms": 2,
+    "bedrooms": 2,
+    "rooms": null,
+    "has_parking_attribute": true,
     "location_zone": "Mendoza",
-    "url": "https://www.inmoclick.com.ar/268429-re-max-vendimia/inmuebles/1974/ficha/departamento-en-venta-en-avenida-san-martin-100",
+    "url": "https://www.inmoclick.com.ar/17515-remax-solutions/inmuebles/20466/ficha/departamento-en-venta-en-martinez-de-rozas-0",
     "image_url": "https://www.inmoclick.com.ar/bundles/inmoclick/images/v14.6/empty-photo-box.jpg",
-    "description": "VENTA DEPARTAMENTO – GODOY CRUZ\nRE/MAX VENDIMIA\nUbicación: Excelente zona de Godoy Cruz, a solo tres cuadras de la Plaza.\n\n*Vistas: Increíbles vistas a la montaña y a la cordillera.\n*Departamento muy luminoso.\n\nDescripción de la propiedad\nDepartamento de categoría, remodelado y restaurado, con ambientes amplios, cómodos y funcionales. Construcción tradicional, sólida y de excelente calidad. Edificio con más de 50 años de trayectoria y en muy buen estado de conservación.\n\nSuperficie cubierta propia: 109,39 m²\nSuperficie cubierta total: 153,98 m²\nSuperficie no cubierta de uso exclusivo: 10,36 m² (terraza 5,10 m² + balcón 5,26 m²)\n\nDistribución\n-3 dormitorios (uno con vestidor) o privados\n-3 baños\n-Cocina independiente\n-Living–comedor amplio\n-Habitación de depósito\n-2 balcones\n-Baulera en subsuelo\n-Hall de ingreso\n-Ascensor\n\nCaracterísticas destacadas\n-Construcción tradicional\n-Cañerías de agua fría y agua caliente totalmente refaccionadas\n-Calefacción central (caldera nueva)\n-Excelente ventilación natural\n-Muy luminoso\n-Buenas vistas a la montaña\n-Zona con todos los servicios\n-Edificio tradicional y sólido\n\nImportante\nNo dispone de cochera propia, pero se pueden alquilar o comprar cocheras en la zona.\n\nSe puede negociar el valor del departamento.\n\nOportunidad única\nDepartamento amplio, luminoso y con vistas privilegiadas en una de las mejores zonas de Godoy Cruz. Ideal para vivienda permanente o inversión.\n\n¡Consultanos por más información y coordiná tu visita!\n\nRE/MAX VENDIMIA\nTu mejor opción en bienes raíces.",
+    "description": "DEPARTAMENTO 3 AMBIENTES EN VENTA MENDOZA SEXTA SECCIÓN - APTO CRÉDITO\n\nExcelente oportunidad en una de las zonas más buscadas y consolidadas de la Ciudad de Mendoza. Ubicado sobre la calle Martínez de Rozas, entre Joaquín V. González y Roque Sáenz Peña, este departamento destaca por su excelente distribución, luminosidad y la comodidad de todos sus ambientes independientes.\n\nEl inmueble se sitúa en el segundo piso de un edificio de tres plantas, construido en 2015, con un estado general muy bueno que refleja su mantenimiento integral.\n\nSUPERFICIE Y DISTRIBUCIÓN\n\nLa propiedad cuenta con 81 m² de superficie total construida, distribuidos en 76 m² cubiertos y 4 m² semicubiertos. El departamento se organiza en tres ambientes funcionales: dos amplios dormitorios, dos baños completos que brindan mayor comodidad para la familia o visitas, y espacios de uso común bien definidos.\n\nCARACTERÍSTICAS PRINCIPALES\n\nEl living comedor constituye un espacio cómodo y luminoso, ideal para compartir momentos en familia o descansar. La cocina se complementa con un sector de comedor diario independiente, perfecto para el uso cotidiano. El departamento incluye una lavandera independiente, sector separado para lavarropas y tenders que maximiza la practicidad del hogar. Un balcón proporciona espacio al aire libre para disfrutar del clima mendocino y garantiza ventilación natural en toda la unidad.\n\nCOCHERA Y SERVICIOS\n\nIncluye cochera propia, facilitando la comodidad de estacionamiento y baulera.\nTiene ascensor tipo montacargas.\n\nUBICACIÓN PRIVILEGIADA\n\nSituado en pleno corazón de la Sexta Sección, a pasos de principales avenidas y accesos a la ciudad, centros comerciales, supermercados y comercios de cercanía. La zona cuenta con colegios, plazas y espacios verdes, además de variadas líneas de transporte público que conectan con toda la ciudad.",
     "coordinates": {
-      "lat": "-32.922184965481",
-      "lng": "-68.847855090899"
+      "lat": "-32.88248100594",
+      "lng": "-68.854097127914"
     },
     "geo_verification": {
       "is_valid_zone": true,
-      "real_city": "Distrito Ciudad De Godoy Cruz",
-      "real_neighborhood": "Barrio Ypf",
+      "real_city": "Ciudad De Mendoza",
+      "real_neighborhood": null,
       "rejection_reason": null,
       "geocode_verified": true
     },
     "category_b_metrics": {
-      "price_score": 98.0,
+      "price_score": 93.6,
       "price_status": "DENTRO_PRESUPUESTO",
-      "surface_score": 98.7,
-      "surface_notes": "109 m2 (Cumple objetivo de 80 m2)",
-      "price_per_m2": 871.6
+      "surface_score": 83.0,
+      "surface_notes": "77 m2 (En tolerancia, cercano al target de 80 m2)",
+      "price_per_m2": 1558.4
     },
     "analysis": {
-      "opportunity_score": 50.3,
+      "opportunity_score": 50.0,
       "evaluation_source": "heurística",
       "category_c": {
         "has_security": false,
@@ -561,64 +1374,121 @@
         "summary": "Precio estándar de mercado."
       },
       "pros": [
-        "✨ Amplio: cuenta con 3+ dormitorios o 4+ ambientes (+10 pts)",
-        "Dentro del presupuesto (USD 95,000)",
+        "Dentro del presupuesto (USD 120,000)",
         "🚗 Cuenta con cochera",
         "🛗 Edificio con ascensor"
       ],
       "cons": [
-        "⚠️ Ubicado en Godoy Cruz fuera de Barrio Bombal (-15 pts)",
         "⚠️ Sin seguridad 24 hs ni barrio privado (penalizado en puntaje)",
         "Consultar conexión a red de gas natural"
       ],
-      "ai_summary": "Propiedad en Mendoza (departamento) de 109.0 m2 a USD 95,000. Score: 50.3/100 (Penalizado por falta de seguridad 24hs)."
+      "ai_summary": "Propiedad en Mendoza (departamento) de 77.0 m2 a USD 120,000. Score: 50.0/100 (Penalizado por falta de seguridad 24hs)."
     },
     "is_new": false,
-    "first_seen": "2026-09-29"
+    "first_seen": "2026-10-21"
   },
   {
-    "id": "inmoclick_17515_18796",
-    "portal": "Inmoclick",
-    "title": "El equipo de ofrece este amplio y luminoso departamento en venta, ubicado en la intersección de San Juan y Republica de Siria, en una zona estratégica de la ciudad de Mendoza.",
+    "id": "ml_4051224196",
+    "portal": "Mercado Libre",
+    "title": "Venta Casa Y Departamento Cochera Ciudad Mendoza",
     "property_type": "departamento",
-    "price_usd": 45000.0,
-    "surface_m2": 75.0,
-    "surface_total_m2": 101.0,
-    "surface_covered_m2": 75.0,
-    "bathrooms": 2,
-    "bedrooms": 3,
-    "rooms": null,
+    "price_usd": 145000.0,
+    "surface_m2": 327.0,
+    "bathrooms": 3,
+    "bedrooms": null,
+    "rooms": 10,
     "has_parking_attribute": false,
     "location_zone": "Mendoza",
-    "url": "https://www.inmoclick.com.ar/17515-remax-solutions/inmuebles/18796/ficha/departamento-en-venta-en-san-juan-400",
+    "url": "https://casa.mercadolibre.com.ar/MLA-4051224196-venta-casa-y-departamento-cochera-ciudad-mendoza-_JM",
+    "image_url": "https://http2.mlstatic.com/D_NQ_NP_2X_792409-MLA117452736992_102026-E.webp",
+    "description": "Venta Casa Y Departamento Cochera Ciudad Mendoza. Características: 10 ambs., 3 baños, 327 m² cubiertos. Zona: Mendoza.",
+    "coordinates": null,
+    "geo_verification": {
+      "is_valid_zone": true,
+      "real_city": "Sin coordenadas",
+      "real_neighborhood": null,
+      "rejection_reason": null,
+      "geocode_verified": false
+    },
+    "category_b_metrics": {
+      "price_score": 72.5,
+      "price_status": "REQUIERE_CONTRAOFERTA",
+      "surface_score": 100.0,
+      "surface_notes": "327 m2 (Cumple objetivo de 80 m2)",
+      "price_per_m2": 443.4
+    },
+    "analysis": {
+      "opportunity_score": 50.0,
+      "evaluation_source": "heurística",
+      "category_c": {
+        "has_security": false,
+        "has_gas_network": false,
+        "has_parking": true,
+        "has_elevator": false,
+        "two_bathrooms": true
+      },
+      "negotiation_analysis": {
+        "potential": "Moderada",
+        "signals_detected": false,
+        "summary": "Precio estándar de mercado."
+      },
+      "pros": [
+        "✨ Amplio: cuenta con 3+ dormitorios o 4+ ambientes (+10 pts)",
+        "🚗 Cuenta con cochera"
+      ],
+      "cons": [
+        "Publicado en USD 145,000 (Requiere contraoferta del 3.6%)",
+        "⚠️ Sin seguridad 24 hs ni barrio privado (penalizado en puntaje)",
+        "Consultar conexión a red de gas natural"
+      ],
+      "ai_summary": "Propiedad en Mendoza (departamento) de 327.0 m2 a USD 145,000. Score: 50.0/100 (Penalizado por falta de seguridad 24hs)."
+    },
+    "is_new": true,
+    "first_seen": "2026-10-28"
+  },
+  {
+    "id": "inmoclick_3076_3329",
+    "portal": "Inmoclick",
+    "title": "Venta de Departamento – Cuarta Sección Oeste",
+    "property_type": "departamento",
+    "price_usd": 70000.0,
+    "surface_m2": 70.0,
+    "surface_total_m2": 80.0,
+    "surface_covered_m2": 70.0,
+    "bathrooms": 3,
+    "bedrooms": 3,
+    "rooms": null,
+    "has_parking_attribute": true,
+    "location_zone": "Mendoza",
+    "url": "https://www.inmoclick.com.ar/3076-ente-inmobiliaria/inmuebles/3329/ficha/departamento-en-venta-en-fray-inalican-363",
     "image_url": "https://www.inmoclick.com.ar/bundles/inmoclick/images/v14.6/empty-photo-box.jpg",
-    "description": "El equipo de ofrece este amplio y luminoso departamento en venta, ubicado en la intersección de San Juan y Republica de Siria, en una zona estratégica de la ciudad de Mendoza. \nLa propiedad cuenta con una superficie de 100 metros cuadrados, se encuentra en un a torre recientemente remodelada, con ascensor nuevo y espacios comunes en excelente estado.\nCaracterísticas principales: 3 dormitorios con buena ventilación y luz natural, cocina independiente y funcional, comedor cómodo y bien integrado, 2 baños completos.\nAmbientes amplios y muy luminosos gracias a su orientación al oeste. Departamento remodelado, listo para habitar o invertir.\nUbicado a pasos del microcentro, con cercanía a comercios, transporte publico, escuelas y espacios verdes. Ideal para quienes buscan confort, buena ubicación y calidad vida en un entorno urbano consolidado.\n\nContáctanos para coordinar una visita.\n\n- El precio, distancias y medidas indicadas, son de referencia, sujeto a modificaciones sin previo aviso.-\n- Los datos consignados en esta web, pueden contener errores y no son contractuales; verifique los mismos previamente con nuestro asesor.-\n\nVíctor E. Montivero C.C.P.I.M. 783 Todas las propiedades que figuran en mi perfil se encuentran a cargo del profesional matriculado de la oficina, la intermediación y la conclusión de las operaciones serán llevadas exclusivamente por él.",
+    "description": "Venta de Departamento – Cuarta Sección Oeste\r\n\r\nExcelente departamento frontal ubicado en una de las zonas más buscadas de la ciudad.\r\n\r\nCaracterísticas:\r\n\r\n2 dormitorios con placares\r\nLiving-comedor\r\nCocina\r\n1 baño\r\nBalcón\r\nTerraza\r\nCochera\r\n\r\nDetalles adicionales:\r\n\r\nDepartamento frontal, con muy buena iluminación y ventilación\r\nAntigüedad: 30 años\r\n\r\nIdeal para vivienda propia o inversión.\r\n\r\nConsultar precio y coordinar visita.",
     "coordinates": {
-      "lat": "-32.8985064",
-      "lng": "-68.8391963"
+      "lat": "-32.8720782",
+      "lng": "-68.83923709999999"
     },
     "geo_verification": {
       "is_valid_zone": true,
       "real_city": "Ciudad De Mendoza",
-      "real_neighborhood": null,
+      "real_neighborhood": "Área Fundacional",
       "rejection_reason": null,
       "geocode_verified": true
     },
     "category_b_metrics": {
       "price_score": 100.0,
       "price_status": "DENTRO_PRESUPUESTO",
-      "surface_score": 78.3,
-      "surface_notes": "75 m2 (En tolerancia, cercano al target de 80 m2)",
-      "price_per_m2": 600.0
+      "surface_score": 66.7,
+      "surface_notes": "70 m2 (En tolerancia, cercano al target de 80 m2)",
+      "price_per_m2": 1000.0
     },
     "analysis": {
-      "opportunity_score": 50.2,
+      "opportunity_score": 49.9,
       "evaluation_source": "heurística",
       "category_c": {
         "has_security": false,
         "has_gas_network": false,
-        "has_parking": false,
-        "has_elevator": true,
+        "has_parking": true,
+        "has_elevator": false,
         "two_bathrooms": true
       },
       "negotiation_analysis": {
@@ -628,17 +1498,133 @@
       },
       "pros": [
         "✨ Amplio: cuenta con 3+ dormitorios o 4+ ambientes (+10 pts)",
-        "Dentro del presupuesto (USD 45,000)",
-        "🛗 Edificio con ascensor"
+        "Dentro del presupuesto (USD 70,000)",
+        "🚗 Cuenta con cochera"
       ],
       "cons": [
         "⚠️ Sin seguridad 24 hs ni barrio privado (penalizado en puntaje)",
         "Consultar conexión a red de gas natural"
       ],
-      "ai_summary": "Propiedad en Mendoza (departamento) de 75.0 m2 a USD 45,000. Score: 50.2/100 (Penalizado por falta de seguridad 24hs)."
+      "ai_summary": "Propiedad en Mendoza (departamento) de 70.0 m2 a USD 70,000. Score: 49.9/100 (Penalizado por falta de seguridad 24hs)."
     },
     "is_new": false,
-    "first_seen": "2026-10-24"
+    "first_seen": "2026-10-09"
+  },
+  {
+    "id": "ml_3995094286",
+    "portal": "Mercado Libre",
+    "title": "Espectacular Casa En Venta En Dorrego",
+    "property_type": "casa",
+    "price_usd": 140000.0,
+    "surface_m2": 221.0,
+    "bathrooms": 2,
+    "bedrooms": null,
+    "rooms": 7,
+    "has_parking_attribute": false,
+    "location_zone": "Guaymallen",
+    "url": "https://casa.mercadolibre.com.ar/MLA-3995094286-espectacular-casa-en-venta-en-dorrego-_JM",
+    "image_url": "https://http2.mlstatic.com/D_NQ_NP_2X_853859-MLA116705486418_092026-E.webp",
+    "description": "Espectacular Casa En Venta En Dorrego. Características: 7 ambs., 2 baños, 221 m² cubiertos. Zona: Guaymallen.",
+    "coordinates": null,
+    "geo_verification": {
+      "is_valid_zone": true,
+      "real_city": "Sin coordenadas",
+      "real_neighborhood": null,
+      "rejection_reason": null,
+      "geocode_verified": false
+    },
+    "category_b_metrics": {
+      "price_score": 90.0,
+      "price_status": "DENTRO_PRESUPUESTO",
+      "surface_score": 100.0,
+      "surface_notes": "221 m2 (Cumple objetivo de 80 m2)",
+      "price_per_m2": 633.5
+    },
+    "analysis": {
+      "opportunity_score": 49.9,
+      "evaluation_source": "heurística",
+      "category_c": {
+        "has_security": false,
+        "has_gas_network": false,
+        "has_parking": false,
+        "has_elevator": false,
+        "two_bathrooms": true
+      },
+      "negotiation_analysis": {
+        "potential": "Estándar",
+        "signals_detected": false,
+        "summary": "Precio estándar de mercado."
+      },
+      "pros": [
+        "✨ Amplio: cuenta con 3+ dormitorios o 4+ ambientes (+10 pts)",
+        "Dentro del presupuesto (USD 140,000)"
+      ],
+      "cons": [
+        "⚠️ Sin seguridad 24 hs ni barrio privado (penalizado en puntaje)",
+        "Consultar conexión a red de gas natural"
+      ],
+      "ai_summary": "Propiedad en Guaymallen (casa) de 221.0 m2 a USD 140,000. Score: 49.9/100 (Penalizado por falta de seguridad 24hs)."
+    },
+    "is_new": true,
+    "first_seen": "2026-10-28"
+  },
+  {
+    "id": "ml_2232985563",
+    "portal": "Mercado Libre",
+    "title": "Venta De Casa + Departamento A Estrenar",
+    "property_type": "departamento",
+    "price_usd": 85000.0,
+    "surface_m2": 114.0,
+    "bathrooms": 2,
+    "bedrooms": null,
+    "rooms": 5,
+    "has_parking_attribute": false,
+    "location_zone": "Mendoza",
+    "url": "https://casa.mercadolibre.com.ar/MLA-2232985563-venta-de-casa-departamento-a-estrenar-_JM",
+    "image_url": "https://http2.mlstatic.com/D_NQ_NP_2X_772354-MLA120155179849_102026-E.webp",
+    "description": "Venta De Casa + Departamento A Estrenar. Características: 5 ambs., 2 baños, 114 m² cubiertos. Zona: Mendoza.",
+    "coordinates": null,
+    "geo_verification": {
+      "is_valid_zone": true,
+      "real_city": "Sin coordenadas",
+      "real_neighborhood": null,
+      "rejection_reason": null,
+      "geocode_verified": false
+    },
+    "category_b_metrics": {
+      "price_score": 99.8,
+      "price_status": "DENTRO_PRESUPUESTO",
+      "surface_score": 100.0,
+      "surface_notes": "114 m2 (Cumple objetivo de 80 m2)",
+      "price_per_m2": 745.6
+    },
+    "analysis": {
+      "opportunity_score": 47.6,
+      "evaluation_source": "heurística",
+      "category_c": {
+        "has_security": false,
+        "has_gas_network": false,
+        "has_parking": false,
+        "has_elevator": false,
+        "two_bathrooms": true
+      },
+      "negotiation_analysis": {
+        "potential": "Estándar",
+        "signals_detected": false,
+        "summary": "Precio estándar de mercado."
+      },
+      "pros": [
+        "✨ Amplio: cuenta con 3+ dormitorios o 4+ ambientes (+10 pts)",
+        "Dentro del presupuesto (USD 85,000)"
+      ],
+      "cons": [
+        "⚠️ Sin seguridad 24 hs ni barrio privado (penalizado en puntaje)",
+        "Consultar conexión a red de gas natural"
+      ],
+      "ai_summary": "Propiedad en Mendoza (departamento) de 114.0 m2 a USD 85,000. Score: 47.6/100 (Penalizado por falta de seguridad 24hs)."
+    },
+    "is_new": true,
+    "first_seen": "2026-10-28"
   },
   {
     "id": "ml_1808643353",
@@ -699,20 +1685,20 @@
     "first_seen": "2026-09-29"
   },
   {
-    "id": "ml_2130172827",
+    "id": "ml_2125784545",
     "portal": "Mercado Libre",
-    "title": "Venta De Departamento Planta Alta Coronel Dorrego",
+    "title": "Complejo De 4 Unidades. Duplex + 3 Departamentos A Reciclar",
     "property_type": "departamento",
-    "price_usd": 55000.0,
-    "surface_m2": 88.0,
-    "bathrooms": 2,
+    "price_usd": 98000.0,
+    "surface_m2": 395.0,
+    "bathrooms": 5,
     "bedrooms": null,
-    "rooms": 4,
+    "rooms": 10,
     "has_parking_attribute": false,
-    "location_zone": "Guaymallen",
-    "url": "https://departamento.mercadolibre.com.ar/MLA-2130172827-venta-de-departamento-planta-alta-coronel-dorrego-_JM",
-    "image_url": "https://http2.mlstatic.com/D_NQ_NP_2X_703454-MLA118333594685_092026-E.webp",
-    "description": "Venta De Departamento Planta Alta Coronel Dorrego. Características: 4 ambs., 2 baños, 88 m² cubiertos. Zona: Guaymallen.",
+    "location_zone": "Mendoza",
+    "url": "https://casa.mercadolibre.com.ar/MLA-2125784545-complejo-de-4-unidades-duplex-3-departamentos-a-reciclar-_JM",
+    "image_url": "https://http2.mlstatic.com/D_NQ_NP_2X_788853-MLA118738796971_102026-E.webp",
+    "description": "Complejo De 4 Unidades. Duplex + 3 Departamentos A Reciclar. Características: 10 ambs., 5 baños, 395 m² cubiertos. Zona: Mendoza.",
     "coordinates": null,
     "geo_verification": {
       "is_valid_zone": true,
@@ -722,14 +1708,14 @@
       "geocode_verified": false
     },
     "category_b_metrics": {
-      "price_score": 100.0,
+      "price_score": 97.5,
       "price_status": "DENTRO_PRESUPUESTO",
-      "surface_score": 92.4,
-      "surface_notes": "88 m2 (Cumple objetivo de 80 m2)",
-      "price_per_m2": 625.0
+      "surface_score": 100.0,
+      "surface_notes": "395 m2 (Cumple objetivo de 80 m2)",
+      "price_per_m2": 248.1
     },
     "analysis": {
-      "opportunity_score": 45.7,
+      "opportunity_score": 46.9,
       "evaluation_source": "heurística",
       "category_c": {
         "has_security": false,
@@ -745,59 +1731,112 @@
       },
       "pros": [
         "✨ Amplio: cuenta con 3+ dormitorios o 4+ ambientes (+10 pts)",
-        "Dentro del presupuesto (USD 55,000)"
+        "Dentro del presupuesto (USD 98,000)"
       ],
       "cons": [
         "⚠️ Sin seguridad 24 hs ni barrio privado (penalizado en puntaje)",
         "Consultar conexión a red de gas natural"
       ],
-      "ai_summary": "Propiedad en Guaymallen (departamento) de 88.0 m2 a USD 55,000. Score: 45.7/100 (Penalizado por falta de seguridad 24hs)."
+      "ai_summary": "Propiedad en Mendoza (departamento) de 395.0 m2 a USD 98,000. Score: 46.9/100 (Penalizado por falta de seguridad 24hs)."
     },
-    "is_new": false,
-    "first_seen": "2026-09-29"
+    "is_new": true,
+    "first_seen": "2026-10-28"
   },
   {
-    "id": "inmoclick_279041_669",
-    "portal": "Inmoclick",
-    "title": "Dúplex tipo casa en Quinta Sección",
+    "id": "ml_3950647808",
+    "portal": "Mercado Libre",
+    "title": "Venta De Casa + Departamento Dorrego Guaymallen",
     "property_type": "departamento",
-    "price_usd": 150000.0,
-    "surface_m2": 176.0,
-    "surface_total_m2": 181.0,
-    "surface_covered_m2": 176.0,
-    "bathrooms": 4,
-    "bedrooms": 3,
-    "rooms": null,
-    "has_parking_attribute": true,
-    "location_zone": "Godoy Cruz",
-    "url": "https://www.inmoclick.com.ar/279041-kw-mendoza/inmuebles/669/ficha/departamento-en-venta-en-julio-a-roca-y-olascoaga-quinta-seccion-mendoza",
-    "image_url": "https://www.inmoclick.com.ar/bundles/inmoclick/images/v14.6/empty-photo-box.jpg",
-    "description": "Dúplex tipo casa en Quinta Sección\n\nUbicación: Olascoaga y Julio A. Roca,  A una cuadra de Emilio Civit, cercana al parque, transporte público, escuelas, en el corazón de la quinta sección. \n\nLa propiedad es un dúplex que tiene las siguientes características:\n\nPlanta baja\nHall de ingreso\nAmplio living comedor\nBaño\nCocina\nEscritorio\nPatio\nLavandería\nBaño de servicio\nCochera\n\nPlanta alta\nPlayroom\n3 dormitorios\nBaño completto\nDormitorio principal con baño en suite\n\nOtras características: pisos de parquet\nCalefacción por radiadores.\n\nCorredor interviniente:ANA C. PIMENIIDES\nCCPIM 2132\nLa tasación, intermediación y la conclusión de las operaciones sobre esta propiedad son actividades exclusivas de este corredor matriculado, conforme las previsiones de la ley 20.266, la ley provincial 7.372 y sus modif. y las normas reglamentarias dictadas por el Colegio de Corredores Públicos Inmobiliarios de la Provincia de Mendoza. Las oficinas asociadas a la red Keller Williams actúan en forma independiente, brindando servicios a corredores, agentes y al público en general, y su intervención se limita a la prestación de servicios inmobiliarios que no incluyen actos de corretaje ni intermediación inmobiliaria.\n\nA.C.P.",
-    "coordinates": {
-      "lat": "-32.8892463183",
-      "lng": "-68.8543457915"
-    },
+    "price_usd": 100000.0,
+    "surface_m2": 289.0,
+    "bathrooms": 2,
+    "bedrooms": null,
+    "rooms": 4,
+    "has_parking_attribute": false,
+    "location_zone": "Guaymallen",
+    "url": "https://casa.mercadolibre.com.ar/MLA-3950647808-venta-de-casa-departamento-dorrego-guaymallen-_JM",
+    "image_url": "https://http2.mlstatic.com/D_NQ_NP_2X_680396-MLA117660051343_092026-E.webp",
+    "description": "Venta De Casa + Departamento Dorrego Guaymallen. Características: 4 ambs., 2 baños, 289 m² cubiertos. Zona: Guaymallen.",
+    "coordinates": null,
     "geo_verification": {
       "is_valid_zone": true,
-      "real_city": "Ciudad De Mendoza",
+      "real_city": "Sin coordenadas",
       "real_neighborhood": null,
       "rejection_reason": null,
-      "geocode_verified": true
+      "geocode_verified": false
     },
     "category_b_metrics": {
-      "price_score": 60.0,
-      "price_status": "REQUIERE_CONTRAOFERTA",
+      "price_score": 97.1,
+      "price_status": "DENTRO_PRESUPUESTO",
       "surface_score": 100.0,
-      "surface_notes": "176 m2 (Cumple objetivo de 80 m2)",
-      "price_per_m2": 852.3
+      "surface_notes": "289 m2 (Cumple objetivo de 80 m2)",
+      "price_per_m2": 346.0
     },
     "analysis": {
-      "opportunity_score": 44.5,
+      "opportunity_score": 46.8,
       "evaluation_source": "heurística",
       "category_c": {
         "has_security": false,
-        "has_gas_network": true,
-        "has_parking": true,
+        "has_gas_network": false,
+        "has_parking": false,
+        "has_elevator": false,
+        "two_bathrooms": true
+      },
+      "negotiation_analysis": {
+        "potential": "Estándar",
+        "signals_detected": false,
+        "summary": "Precio estándar de mercado."
+      },
+      "pros": [
+        "✨ Amplio: cuenta con 3+ dormitorios o 4+ ambientes (+10 pts)",
+        "Dentro del presupuesto (USD 100,000)"
+      ],
+      "cons": [
+        "⚠️ Sin seguridad 24 hs ni barrio privado (penalizado en puntaje)",
+        "Consultar conexión a red de gas natural"
+      ],
+      "ai_summary": "Propiedad en Guaymallen (departamento) de 289.0 m2 a USD 100,000. Score: 46.8/100 (Penalizado por falta de seguridad 24hs)."
+    },
+    "is_new": true,
+    "first_seen": "2026-10-28"
+  },
+  {
+    "id": "ml_3637330824",
+    "portal": "Mercado Libre",
+    "title": "Casa En Coronel Dorrego",
+    "property_type": "casa",
+    "price_usd": 149000.0,
+    "surface_m2": 141.0,
+    "bathrooms": 2,
+    "bedrooms": null,
+    "rooms": 6,
+    "has_parking_attribute": false,
+    "location_zone": "Guaymallen",
+    "url": "https://casa.mercadolibre.com.ar/MLA-3637330824-casa-en-coronel-dorrego-_JM",
+    "image_url": "https://http2.mlstatic.com/D_NQ_NP_2X_709735-MLA113585884016_072026-E.webp",
+    "description": "Casa En Coronel Dorrego. Características: 6 ambs., 2 baños, 141 m² cubiertos. Zona: Guaymallen.",
+    "coordinates": null,
+    "geo_verification": {
+      "is_valid_zone": true,
+      "real_city": "Sin coordenadas",
+      "real_neighborhood": null,
+      "rejection_reason": null,
+      "geocode_verified": false
+    },
+    "category_b_metrics": {
+      "price_score": 62.5,
+      "price_status": "REQUIERE_CONTRAOFERTA",
+      "surface_score": 100.0,
+      "surface_notes": "141 m2 (Cumple objetivo de 80 m2)",
+      "price_per_m2": 1056.7
+    },
+    "analysis": {
+      "opportunity_score": 41.7,
+      "evaluation_source": "heurística",
+      "category_c": {
+        "has_security": false,
+        "has_gas_network": false,
+        "has_parking": false,
         "has_elevator": false,
         "two_bathrooms": true
       },
@@ -807,84 +1846,17 @@
         "summary": "Precio estándar de mercado."
       },
       "pros": [
-        "✨ Amplio: cuenta con 3+ dormitorios o 4+ ambientes (+10 pts)",
-        "🔥 Red de gas natural confirmada",
-        "🚗 Cuenta con cochera"
+        "✨ Amplio: cuenta con 3+ dormitorios o 4+ ambientes (+10 pts)"
       ],
       "cons": [
-        "⚠️ Ubicado en Godoy Cruz fuera de Barrio Bombal (-15 pts)",
-        "Publicado en USD 150,000 (Requiere contraoferta del 7.1%)",
-        "⚠️ Sin seguridad 24 hs ni barrio privado (penalizado en puntaje)"
-      ],
-      "ai_summary": "Propiedad en Godoy Cruz (departamento) de 176.0 m2 a USD 150,000. Score: 44.5/100 (Penalizado por falta de seguridad 24hs)."
-    },
-    "is_new": false,
-    "first_seen": "2026-10-20"
-  },
-  {
-    "id": "inmoclick_279041_520",
-    "portal": "Inmoclick",
-    "title": "Departamento en VENTA, en el tradicional Edificio La Micela III. Ubicado en calle Colón, entre Mitre y Chile, Ciudad de Mendoza.",
-    "property_type": "departamento",
-    "price_usd": 90000.0,
-    "surface_m2": 113.0,
-    "surface_total_m2": 113.0,
-    "surface_covered_m2": 113.0,
-    "bathrooms": 2,
-    "bedrooms": 4,
-    "rooms": null,
-    "has_parking_attribute": false,
-    "location_zone": "Godoy Cruz",
-    "url": "https://www.inmoclick.com.ar/279041-kw-mendoza/inmuebles/520/ficha/departamento-en-venta-en-colon-al-400",
-    "image_url": "https://www.inmoclick.com.ar/bundles/inmoclick/images/v14.6/empty-photo-box.jpg",
-    "description": "Departamento en VENTA, en el tradicional Edificio La Micela III. Ubicado en calle Colón, entre Mitre y Chile, Ciudad de Mendoza.\nZona rodeada de comercios, bancos, plazas, colegios, casa de gobierno, facultad, y transporte público.\n\nUbicado en 2do piso por ascensor, cuenta con 2 puertas de ingreso.\n3 habitaciones con placares y pisos de parquet\n1 habitación de servicio con placar\n2 baños (uno de servicio)\nLavandería\n2 amplias terrazas propias de 86 m2\n\nCONSULTANOS !\n\nCorredor interviniente:\n\nDAVID DANIEL TARQUINI\n\nCCPIM 1021\nLa tasación, intermediación y la conclusión de las operaciones sobre esta propiedad son actividades exclusivas de este corredor matriculado, conforme las previsiones de la ley 20.266, la ley provincial 7.372 y sus modif. y las normas reglamentarias dictadas por el Colegio de Corredores Públicos Inmobiliarios de la Provincia de Mendoza. Las oficinas asociadas a la red Keller Williams actúan en forma independiente, brindando servicios a corredores, agentes y al público en general, y su intervención se limita a la prestación de servicios inmobiliarios que no incluyen actos de corretaje ni intermediación inmobiliaria.\n\nRB",
-    "coordinates": {
-      "lat": "-32.8938370707",
-      "lng": "-68.8461819228"
-    },
-    "geo_verification": {
-      "is_valid_zone": true,
-      "real_city": "Ciudad De Mendoza",
-      "real_neighborhood": null,
-      "rejection_reason": null,
-      "geocode_verified": true
-    },
-    "category_b_metrics": {
-      "price_score": 98.9,
-      "price_status": "DENTRO_PRESUPUESTO",
-      "surface_score": 99.9,
-      "surface_notes": "113 m2 (Cumple objetivo de 80 m2)",
-      "price_per_m2": 796.5
-    },
-    "analysis": {
-      "opportunity_score": 40.2,
-      "evaluation_source": "heurística",
-      "category_c": {
-        "has_security": false,
-        "has_gas_network": false,
-        "has_parking": false,
-        "has_elevator": true,
-        "two_bathrooms": true
-      },
-      "negotiation_analysis": {
-        "potential": "Estándar",
-        "signals_detected": false,
-        "summary": "Precio estándar de mercado."
-      },
-      "pros": [
-        "✨ Amplio: cuenta con 3+ dormitorios o 4+ ambientes (+10 pts)",
-        "Dentro del presupuesto (USD 90,000)",
-        "🛗 Edificio con ascensor"
-      ],
-      "cons": [
-        "⚠️ Ubicado en Godoy Cruz fuera de Barrio Bombal (-15 pts)",
+        "Publicado en USD 149,000 (Requiere contraoferta del 6.4%)",
         "⚠️ Sin seguridad 24 hs ni barrio privado (penalizado en puntaje)",
         "Consultar conexión a red de gas natural"
       ],
-      "ai_summary": "Propiedad en Godoy Cruz (departamento) de 113.0 m2 a USD 90,000. Score: 40.2/100 (Penalizado por falta de seguridad 24hs)."
+      "ai_summary": "Propiedad en Guaymallen (casa) de 141.0 m2 a USD 149,000. Score: 41.7/100 (Penalizado por falta de seguridad 24hs)."
     },
-    "is_new": false,
-    "first_seen": "2026-10-20"
+    "is_new": true,
+    "first_seen": "2026-10-28"
   },
   {
     "id": "ml_4099145060",
@@ -1005,6 +1977,596 @@
     "first_seen": "2026-10-20"
   },
   {
+    "id": "ml_3974941690",
+    "portal": "Mercado Libre",
+    "title": "Venta Casa+depto  Godoy Cruz",
+    "property_type": "casa",
+    "price_usd": 67000.0,
+    "surface_m2": 228.0,
+    "bathrooms": 2,
+    "bedrooms": null,
+    "rooms": 4,
+    "has_parking_attribute": false,
+    "location_zone": "Godoy Cruz",
+    "url": "https://casa.mercadolibre.com.ar/MLA-3974941690-venta-casadepto-godoy-cruz-_JM",
+    "image_url": "https://http2.mlstatic.com/D_NQ_NP_2X_696713-MLA116472007746_092026-E.webp",
+    "description": "Venta Casa+depto  Godoy Cruz. Características: 4 ambs., 2 baños, 228 m² cubiertos. Zona: Godoy Cruz.",
+    "coordinates": null,
+    "geo_verification": {
+      "is_valid_zone": true,
+      "real_city": "Sin coordenadas",
+      "real_neighborhood": null,
+      "rejection_reason": null,
+      "geocode_verified": false
+    },
+    "category_b_metrics": {
+      "price_score": 100.0,
+      "price_status": "DENTRO_PRESUPUESTO",
+      "surface_score": 100.0,
+      "surface_notes": "228 m2 (Cumple objetivo de 80 m2)",
+      "price_per_m2": 293.9
+    },
+    "analysis": {
+      "opportunity_score": 37.9,
+      "evaluation_source": "heurística",
+      "category_c": {
+        "has_security": false,
+        "has_gas_network": false,
+        "has_parking": false,
+        "has_elevator": false,
+        "two_bathrooms": true
+      },
+      "negotiation_analysis": {
+        "potential": "Estándar",
+        "signals_detected": false,
+        "summary": "Precio estándar de mercado."
+      },
+      "pros": [
+        "✨ Amplio: cuenta con 3+ dormitorios o 4+ ambientes (+10 pts)",
+        "Dentro del presupuesto (USD 67,000)"
+      ],
+      "cons": [
+        "⚠️ Ubicado en Godoy Cruz fuera de Barrio Bombal (-15 pts)",
+        "⚠️ Sin seguridad 24 hs ni barrio privado (penalizado en puntaje)",
+        "Consultar conexión a red de gas natural"
+      ],
+      "ai_summary": "Propiedad en Godoy Cruz (casa) de 228.0 m2 a USD 67,000. Score: 37.9/100 (Penalizado por falta de seguridad 24hs)."
+    },
+    "is_new": true,
+    "first_seen": "2026-10-28"
+  },
+  {
+    "id": "ml_3718800398",
+    "portal": "Mercado Libre",
+    "title": "Casa En Venta Barrio Trapiche 3 Dormitorios- Godoy Cruz- Mendoza",
+    "property_type": "casa",
+    "price_usd": 77900.0,
+    "surface_m2": 190.0,
+    "bathrooms": 2,
+    "bedrooms": null,
+    "rooms": 5,
+    "has_parking_attribute": false,
+    "location_zone": "Godoy Cruz",
+    "url": "https://casa.mercadolibre.com.ar/MLA-3718800398-casa-en-venta-barrio-trapiche-3-dormitorios-godoy-cruz-mendoza-_JM",
+    "image_url": "https://http2.mlstatic.com/D_NQ_NP_2X_782827-MLA115536758965_082026-E.webp",
+    "description": "Casa En Venta Barrio Trapiche 3 Dormitorios- Godoy Cruz- Mendoza. Características: 5 ambs., 2 baños, 190 m² cubiertos. Zona: Godoy Cruz.",
+    "coordinates": null,
+    "geo_verification": {
+      "is_valid_zone": true,
+      "real_city": "Sin coordenadas",
+      "real_neighborhood": null,
+      "rejection_reason": null,
+      "geocode_verified": false
+    },
+    "category_b_metrics": {
+      "price_score": 100.0,
+      "price_status": "DENTRO_PRESUPUESTO",
+      "surface_score": 100.0,
+      "surface_notes": "190 m2 (Cumple objetivo de 80 m2)",
+      "price_per_m2": 410.0
+    },
+    "analysis": {
+      "opportunity_score": 37.9,
+      "evaluation_source": "heurística",
+      "category_c": {
+        "has_security": false,
+        "has_gas_network": false,
+        "has_parking": false,
+        "has_elevator": false,
+        "two_bathrooms": true
+      },
+      "negotiation_analysis": {
+        "potential": "Estándar",
+        "signals_detected": false,
+        "summary": "Precio estándar de mercado."
+      },
+      "pros": [
+        "✨ Amplio: cuenta con 3+ dormitorios o 4+ ambientes (+10 pts)",
+        "Dentro del presupuesto (USD 77,900)"
+      ],
+      "cons": [
+        "⚠️ Ubicado en Godoy Cruz fuera de Barrio Bombal (-15 pts)",
+        "⚠️ Sin seguridad 24 hs ni barrio privado (penalizado en puntaje)",
+        "Consultar conexión a red de gas natural"
+      ],
+      "ai_summary": "Propiedad en Godoy Cruz (casa) de 190.0 m2 a USD 77,900. Score: 37.9/100 (Penalizado por falta de seguridad 24hs)."
+    },
+    "is_new": true,
+    "first_seen": "2026-10-28"
+  },
+  {
+    "id": "ml_1948712741",
+    "portal": "Mercado Libre",
+    "title": "Casa En Venta A Remodelar En Godoy Cruz",
+    "property_type": "casa",
+    "price_usd": 58000.0,
+    "surface_m2": 182.0,
+    "bathrooms": 2,
+    "bedrooms": null,
+    "rooms": 5,
+    "has_parking_attribute": false,
+    "location_zone": "Godoy Cruz",
+    "url": "https://casa.mercadolibre.com.ar/MLA-1948712741-casa-en-venta-a-remodelar-en-godoy-cruz-_JM",
+    "image_url": "https://http2.mlstatic.com/D_NQ_NP_2X_680940-MLA117153180072_102026-E.webp",
+    "description": "Casa En Venta A Remodelar En Godoy Cruz. Características: 5 ambs., 2 baños, 182 m² cubiertos. Zona: Godoy Cruz.",
+    "coordinates": null,
+    "geo_verification": {
+      "is_valid_zone": true,
+      "real_city": "Sin coordenadas",
+      "real_neighborhood": null,
+      "rejection_reason": null,
+      "geocode_verified": false
+    },
+    "category_b_metrics": {
+      "price_score": 100.0,
+      "price_status": "DENTRO_PRESUPUESTO",
+      "surface_score": 100.0,
+      "surface_notes": "182 m2 (Cumple objetivo de 80 m2)",
+      "price_per_m2": 318.7
+    },
+    "analysis": {
+      "opportunity_score": 37.9,
+      "evaluation_source": "heurística",
+      "category_c": {
+        "has_security": false,
+        "has_gas_network": false,
+        "has_parking": false,
+        "has_elevator": false,
+        "two_bathrooms": true
+      },
+      "negotiation_analysis": {
+        "potential": "Estándar",
+        "signals_detected": false,
+        "summary": "Precio estándar de mercado."
+      },
+      "pros": [
+        "✨ Amplio: cuenta con 3+ dormitorios o 4+ ambientes (+10 pts)",
+        "Dentro del presupuesto (USD 58,000)"
+      ],
+      "cons": [
+        "⚠️ Ubicado en Godoy Cruz fuera de Barrio Bombal (-15 pts)",
+        "⚠️ Sin seguridad 24 hs ni barrio privado (penalizado en puntaje)",
+        "Consultar conexión a red de gas natural"
+      ],
+      "ai_summary": "Propiedad en Godoy Cruz (casa) de 182.0 m2 a USD 58,000. Score: 37.9/100 (Penalizado por falta de seguridad 24hs)."
+    },
+    "is_new": true,
+    "first_seen": "2026-10-28"
+  },
+  {
+    "id": "ml_3809096022",
+    "portal": "Mercado Libre",
+    "title": "Venta De Casa",
+    "property_type": "casa",
+    "price_usd": 80000.0,
+    "surface_m2": 136.0,
+    "bathrooms": 3,
+    "bedrooms": null,
+    "rooms": 5,
+    "has_parking_attribute": false,
+    "location_zone": "Godoy Cruz",
+    "url": "https://casa.mercadolibre.com.ar/MLA-3809096022-venta-de-casa-_JM",
+    "image_url": "https://http2.mlstatic.com/D_NQ_NP_2X_756510-MLA116371692595_082026-E.webp",
+    "description": "Venta De Casa. Características: 5 ambs., 3 baños, 136 m² cubiertos. Zona: Godoy Cruz.",
+    "coordinates": null,
+    "geo_verification": {
+      "is_valid_zone": true,
+      "real_city": "Sin coordenadas",
+      "real_neighborhood": null,
+      "rejection_reason": null,
+      "geocode_verified": false
+    },
+    "category_b_metrics": {
+      "price_score": 100.0,
+      "price_status": "DENTRO_PRESUPUESTO",
+      "surface_score": 100.0,
+      "surface_notes": "136 m2 (Cumple objetivo de 80 m2)",
+      "price_per_m2": 588.2
+    },
+    "analysis": {
+      "opportunity_score": 37.9,
+      "evaluation_source": "heurística",
+      "category_c": {
+        "has_security": false,
+        "has_gas_network": false,
+        "has_parking": false,
+        "has_elevator": false,
+        "two_bathrooms": true
+      },
+      "negotiation_analysis": {
+        "potential": "Estándar",
+        "signals_detected": false,
+        "summary": "Precio estándar de mercado."
+      },
+      "pros": [
+        "✨ Amplio: cuenta con 3+ dormitorios o 4+ ambientes (+10 pts)",
+        "Dentro del presupuesto (USD 80,000)"
+      ],
+      "cons": [
+        "⚠️ Ubicado en Godoy Cruz fuera de Barrio Bombal (-15 pts)",
+        "⚠️ Sin seguridad 24 hs ni barrio privado (penalizado en puntaje)",
+        "Consultar conexión a red de gas natural"
+      ],
+      "ai_summary": "Propiedad en Godoy Cruz (casa) de 136.0 m2 a USD 80,000. Score: 37.9/100 (Penalizado por falta de seguridad 24hs)."
+    },
+    "is_new": true,
+    "first_seen": "2026-10-28"
+  },
+  {
+    "id": "ml_1854515963",
+    "portal": "Mercado Libre",
+    "title": "Casa En Godoy Cruz, Barrio Decavial",
+    "property_type": "casa",
+    "price_usd": 88000.0,
+    "surface_m2": 177.0,
+    "bathrooms": 2,
+    "bedrooms": null,
+    "rooms": 5,
+    "has_parking_attribute": false,
+    "location_zone": "Godoy Cruz",
+    "url": "https://casa.mercadolibre.com.ar/MLA-1854515963-casa-en-godoy-cruz-barrio-decavial-_JM",
+    "image_url": "https://http2.mlstatic.com/D_NQ_NP_2X_622928-MLA115052575130_082026-E.webp",
+    "description": "Casa En Godoy Cruz, Barrio Decavial. Características: 5 ambs., 2 baños, 177 m² cubiertos. Zona: Godoy Cruz.",
+    "coordinates": null,
+    "geo_verification": {
+      "is_valid_zone": true,
+      "real_city": "Sin coordenadas",
+      "real_neighborhood": null,
+      "rejection_reason": null,
+      "geocode_verified": false
+    },
+    "category_b_metrics": {
+      "price_score": 99.3,
+      "price_status": "DENTRO_PRESUPUESTO",
+      "surface_score": 100.0,
+      "surface_notes": "177 m2 (Cumple objetivo de 80 m2)",
+      "price_per_m2": 497.2
+    },
+    "analysis": {
+      "opportunity_score": 37.7,
+      "evaluation_source": "heurística",
+      "category_c": {
+        "has_security": false,
+        "has_gas_network": false,
+        "has_parking": false,
+        "has_elevator": false,
+        "two_bathrooms": true
+      },
+      "negotiation_analysis": {
+        "potential": "Estándar",
+        "signals_detected": false,
+        "summary": "Precio estándar de mercado."
+      },
+      "pros": [
+        "✨ Amplio: cuenta con 3+ dormitorios o 4+ ambientes (+10 pts)",
+        "Dentro del presupuesto (USD 88,000)"
+      ],
+      "cons": [
+        "⚠️ Ubicado en Godoy Cruz fuera de Barrio Bombal (-15 pts)",
+        "⚠️ Sin seguridad 24 hs ni barrio privado (penalizado en puntaje)",
+        "Consultar conexión a red de gas natural"
+      ],
+      "ai_summary": "Propiedad en Godoy Cruz (casa) de 177.0 m2 a USD 88,000. Score: 37.7/100 (Penalizado por falta de seguridad 24hs)."
+    },
+    "is_new": true,
+    "first_seen": "2026-10-28"
+  },
+  {
+    "id": "ml_1812749365",
+    "portal": "Mercado Libre",
+    "title": "Casa En Venta Apta Credito Barrio Supe Godoy Cruz Mendoza",
+    "property_type": "casa",
+    "price_usd": 95000.0,
+    "surface_m2": 234.0,
+    "bathrooms": 2,
+    "bedrooms": null,
+    "rooms": 7,
+    "has_parking_attribute": false,
+    "location_zone": "Godoy Cruz",
+    "url": "https://casa.mercadolibre.com.ar/MLA-1812749365-casa-en-venta-apta-credito-barrio-supe-godoy-cruz-mendoza-_JM",
+    "image_url": "https://http2.mlstatic.com/D_NQ_NP_2X_903528-MLA111529847168_062026-E.webp",
+    "description": "Casa En Venta Apta Credito Barrio Supe Godoy Cruz Mendoza. Características: 7 ambs., 2 baños, 234 m² cubiertos. Zona: Godoy Cruz.",
+    "coordinates": null,
+    "geo_verification": {
+      "is_valid_zone": true,
+      "real_city": "Sin coordenadas",
+      "real_neighborhood": null,
+      "rejection_reason": null,
+      "geocode_verified": false
+    },
+    "category_b_metrics": {
+      "price_score": 98.0,
+      "price_status": "DENTRO_PRESUPUESTO",
+      "surface_score": 100.0,
+      "surface_notes": "234 m2 (Cumple objetivo de 80 m2)",
+      "price_per_m2": 406.0
+    },
+    "analysis": {
+      "opportunity_score": 37.3,
+      "evaluation_source": "heurística",
+      "category_c": {
+        "has_security": false,
+        "has_gas_network": false,
+        "has_parking": false,
+        "has_elevator": false,
+        "two_bathrooms": true
+      },
+      "negotiation_analysis": {
+        "potential": "Estándar",
+        "signals_detected": false,
+        "summary": "Precio estándar de mercado."
+      },
+      "pros": [
+        "✨ Amplio: cuenta con 3+ dormitorios o 4+ ambientes (+10 pts)",
+        "Dentro del presupuesto (USD 95,000)"
+      ],
+      "cons": [
+        "⚠️ Ubicado en Godoy Cruz fuera de Barrio Bombal (-15 pts)",
+        "⚠️ Sin seguridad 24 hs ni barrio privado (penalizado en puntaje)",
+        "Consultar conexión a red de gas natural"
+      ],
+      "ai_summary": "Propiedad en Godoy Cruz (casa) de 234.0 m2 a USD 95,000. Score: 37.3/100 (Penalizado por falta de seguridad 24hs)."
+    },
+    "is_new": true,
+    "first_seen": "2026-10-28"
+  },
+  {
+    "id": "ml_4132638026",
+    "portal": "Mercado Libre",
+    "title": "Venta Casa 3 Domit. Godoy Cruz Apta Credito",
+    "property_type": "casa",
+    "price_usd": 100000.0,
+    "surface_m2": 170.0,
+    "bathrooms": 2,
+    "bedrooms": null,
+    "rooms": 5,
+    "has_parking_attribute": false,
+    "location_zone": "Godoy Cruz",
+    "url": "https://casa.mercadolibre.com.ar/MLA-4132638026-venta-casa-3-domit-godoy-cruz-apta-credito-_JM",
+    "image_url": "https://http2.mlstatic.com/D_NQ_NP_2X_986024-MLA118639014696_102026-E.webp",
+    "description": "Venta Casa 3 Domit. Godoy Cruz Apta Credito. Características: 5 ambs., 2 baños, 170 m² cubiertos. Zona: Godoy Cruz.",
+    "coordinates": null,
+    "geo_verification": {
+      "is_valid_zone": true,
+      "real_city": "Sin coordenadas",
+      "real_neighborhood": null,
+      "rejection_reason": null,
+      "geocode_verified": false
+    },
+    "category_b_metrics": {
+      "price_score": 97.1,
+      "price_status": "DENTRO_PRESUPUESTO",
+      "surface_score": 100.0,
+      "surface_notes": "170 m2 (Cumple objetivo de 80 m2)",
+      "price_per_m2": 588.2
+    },
+    "analysis": {
+      "opportunity_score": 37.1,
+      "evaluation_source": "heurística",
+      "category_c": {
+        "has_security": false,
+        "has_gas_network": false,
+        "has_parking": false,
+        "has_elevator": false,
+        "two_bathrooms": true
+      },
+      "negotiation_analysis": {
+        "potential": "Estándar",
+        "signals_detected": false,
+        "summary": "Precio estándar de mercado."
+      },
+      "pros": [
+        "✨ Amplio: cuenta con 3+ dormitorios o 4+ ambientes (+10 pts)",
+        "Dentro del presupuesto (USD 100,000)"
+      ],
+      "cons": [
+        "⚠️ Ubicado en Godoy Cruz fuera de Barrio Bombal (-15 pts)",
+        "⚠️ Sin seguridad 24 hs ni barrio privado (penalizado en puntaje)",
+        "Consultar conexión a red de gas natural"
+      ],
+      "ai_summary": "Propiedad en Godoy Cruz (casa) de 170.0 m2 a USD 100,000. Score: 37.1/100 (Penalizado por falta de seguridad 24hs)."
+    },
+    "is_new": true,
+    "first_seen": "2026-10-28"
+  },
+  {
+    "id": "ml_1779109501",
+    "portal": "Mercado Libre",
+    "title": "Casa En Godoy Cruz",
+    "property_type": "casa",
+    "price_usd": 110000.0,
+    "surface_m2": 175.0,
+    "bathrooms": 2,
+    "bedrooms": null,
+    "rooms": 5,
+    "has_parking_attribute": false,
+    "location_zone": "Godoy Cruz",
+    "url": "https://casa.mercadolibre.com.ar/MLA-1779109501-casa-en-godoy-cruz-_JM",
+    "image_url": "https://http2.mlstatic.com/D_NQ_NP_2X_612713-MLA110414442538_052026-E.webp",
+    "description": "Casa En Godoy Cruz. Características: 5 ambs., 2 baños, 175 m² totales. Zona: Godoy Cruz.",
+    "coordinates": null,
+    "geo_verification": {
+      "is_valid_zone": true,
+      "real_city": "Sin coordenadas",
+      "real_neighborhood": null,
+      "rejection_reason": null,
+      "geocode_verified": false
+    },
+    "category_b_metrics": {
+      "price_score": 95.4,
+      "price_status": "DENTRO_PRESUPUESTO",
+      "surface_score": 100.0,
+      "surface_notes": "175 m2 (Cumple objetivo de 80 m2)",
+      "price_per_m2": 628.6
+    },
+    "analysis": {
+      "opportunity_score": 36.6,
+      "evaluation_source": "heurística",
+      "category_c": {
+        "has_security": false,
+        "has_gas_network": false,
+        "has_parking": false,
+        "has_elevator": false,
+        "two_bathrooms": true
+      },
+      "negotiation_analysis": {
+        "potential": "Estándar",
+        "signals_detected": false,
+        "summary": "Precio estándar de mercado."
+      },
+      "pros": [
+        "✨ Amplio: cuenta con 3+ dormitorios o 4+ ambientes (+10 pts)",
+        "Dentro del presupuesto (USD 110,000)"
+      ],
+      "cons": [
+        "⚠️ Ubicado en Godoy Cruz fuera de Barrio Bombal (-15 pts)",
+        "⚠️ Sin seguridad 24 hs ni barrio privado (penalizado en puntaje)",
+        "Consultar conexión a red de gas natural"
+      ],
+      "ai_summary": "Propiedad en Godoy Cruz (casa) de 175.0 m2 a USD 110,000. Score: 36.6/100 (Penalizado por falta de seguridad 24hs)."
+    },
+    "is_new": true,
+    "first_seen": "2026-10-28"
+  },
+  {
+    "id": "ml_3501150246",
+    "portal": "Mercado Libre",
+    "title": "Casa En Villa Hipodromo",
+    "property_type": "casa",
+    "price_usd": 40000.0,
+    "surface_m2": 90.0,
+    "bathrooms": 2,
+    "bedrooms": null,
+    "rooms": 4,
+    "has_parking_attribute": false,
+    "location_zone": "Godoy Cruz",
+    "url": "https://casa.mercadolibre.com.ar/MLA-3501150246-casa-en-villa-hipodromo-_JM",
+    "image_url": "https://http2.mlstatic.com/D_NQ_NP_2X_652030-MLA113641467713_062026-E.webp",
+    "description": "Casa En Villa Hipodromo. Características: 4 ambs., 2 baños, 90 m² cubiertos. Zona: Godoy Cruz.",
+    "coordinates": null,
+    "geo_verification": {
+      "is_valid_zone": true,
+      "real_city": "Sin coordenadas",
+      "real_neighborhood": null,
+      "rejection_reason": null,
+      "geocode_verified": false
+    },
+    "category_b_metrics": {
+      "price_score": 100.0,
+      "price_status": "DENTRO_PRESUPUESTO",
+      "surface_score": 93.0,
+      "surface_notes": "90 m2 (Cumple objetivo de 80 m2)",
+      "price_per_m2": 444.4
+    },
+    "analysis": {
+      "opportunity_score": 36.2,
+      "evaluation_source": "heurística",
+      "category_c": {
+        "has_security": false,
+        "has_gas_network": false,
+        "has_parking": false,
+        "has_elevator": false,
+        "two_bathrooms": true
+      },
+      "negotiation_analysis": {
+        "potential": "Estándar",
+        "signals_detected": false,
+        "summary": "Precio estándar de mercado."
+      },
+      "pros": [
+        "✨ Amplio: cuenta con 3+ dormitorios o 4+ ambientes (+10 pts)",
+        "Dentro del presupuesto (USD 40,000)"
+      ],
+      "cons": [
+        "⚠️ Ubicado en Godoy Cruz fuera de Barrio Bombal (-15 pts)",
+        "⚠️ Sin seguridad 24 hs ni barrio privado (penalizado en puntaje)",
+        "Consultar conexión a red de gas natural"
+      ],
+      "ai_summary": "Propiedad en Godoy Cruz (casa) de 90.0 m2 a USD 40,000. Score: 36.2/100 (Penalizado por falta de seguridad 24hs)."
+    },
+    "is_new": true,
+    "first_seen": "2026-10-28"
+  },
+  {
+    "id": "ml_4123427708",
+    "portal": "Mercado Libre",
+    "title": "Casa+ Dos Deptos, B° Jardín Serrano, Godoy Cruz",
+    "property_type": "casa",
+    "price_usd": 120000.0,
+    "surface_m2": 200.0,
+    "bathrooms": 4,
+    "bedrooms": null,
+    "rooms": 5,
+    "has_parking_attribute": false,
+    "location_zone": "Godoy Cruz",
+    "url": "https://casa.mercadolibre.com.ar/MLA-4123427708-casa-dos-deptos-b-jardin-serrano-godoy-cruz-_JM",
+    "image_url": "https://http2.mlstatic.com/D_NQ_NP_2X_831465-MLA118495332580_102026-E.webp",
+    "description": "Casa+ Dos Deptos, B° Jardín Serrano, Godoy Cruz. Características: 5 ambs., 4 baños, 200 m² cubiertos. Zona: Godoy Cruz.",
+    "coordinates": null,
+    "geo_verification": {
+      "is_valid_zone": true,
+      "real_city": "Sin coordenadas",
+      "real_neighborhood": null,
+      "rejection_reason": null,
+      "geocode_verified": false
+    },
+    "category_b_metrics": {
+      "price_score": 93.6,
+      "price_status": "DENTRO_PRESUPUESTO",
+      "surface_score": 100.0,
+      "surface_notes": "200 m2 (Cumple objetivo de 80 m2)",
+      "price_per_m2": 600.0
+    },
+    "analysis": {
+      "opportunity_score": 36.0,
+      "evaluation_source": "heurística",
+      "category_c": {
+        "has_security": false,
+        "has_gas_network": false,
+        "has_parking": false,
+        "has_elevator": false,
+        "two_bathrooms": true
+      },
+      "negotiation_analysis": {
+        "potential": "Estándar",
+        "signals_detected": false,
+        "summary": "Precio estándar de mercado."
+      },
+      "pros": [
+        "✨ Amplio: cuenta con 3+ dormitorios o 4+ ambientes (+10 pts)",
+        "Dentro del presupuesto (USD 120,000)"
+      ],
+      "cons": [
+        "⚠️ Ubicado en Godoy Cruz fuera de Barrio Bombal (-15 pts)",
+        "⚠️ Sin seguridad 24 hs ni barrio privado (penalizado en puntaje)",
+        "Consultar conexión a red de gas natural"
+      ],
+      "ai_summary": "Propiedad en Godoy Cruz (casa) de 200.0 m2 a USD 120,000. Score: 36.0/100 (Penalizado por falta de seguridad 24hs)."
+    },
+    "is_new": true,
+    "first_seen": "2026-10-28"
+  },
+  {
     "id": "ml_3024664484",
     "portal": "Mercado Libre",
     "title": "Departamento En Coronel Dorrego",
@@ -1062,48 +2624,43 @@
     "first_seen": "2026-09-29"
   },
   {
-    "id": "inmoclick_280057_1694",
-    "portal": "Inmoclick",
-    "title": "OPENHOUSE INMOBILIARIA VENDE cómodo departamento en calle Catamarca.",
+    "id": "ml_4128507110",
+    "portal": "Mercado Libre",
+    "title": "Venta De Casa Y Departamento Calle Aristobulo Del Valle-godoy Cruz",
     "property_type": "departamento",
-    "price_usd": 65000.0,
-    "surface_m2": 71.0,
-    "surface_total_m2": 71.0,
-    "surface_covered_m2": 71.0,
-    "bathrooms": 3,
-    "bedrooms": 3,
-    "rooms": null,
+    "price_usd": 68000.0,
+    "surface_m2": 216.0,
+    "bathrooms": 2,
+    "bedrooms": null,
+    "rooms": 6,
     "has_parking_attribute": false,
     "location_zone": "Godoy Cruz",
-    "url": "https://www.inmoclick.com.ar/280057-openhouse-inmobiliaria/inmuebles/1694/ficha/departamento-en-venta-en-catamarca",
-    "image_url": "https://www.inmoclick.com.ar/bundles/inmoclick/images/v14.6/empty-photo-box.jpg",
-    "description": "OPENHOUSE INMOBILIARIA VENDE cómodo departamento en calle Catamarca.\n\nSe encuentra ubicado en una zona céntrica de la ciudad de Mendoza. Este departamento se encuentra en un quinto piso por ascensor, está diseñado para ofrecer funcionalidad y confort para sus residentes.\n\nLos dormitorios son luminosos y el espacio cuenta con suficiente capacidad de almacenamiento. La presencia de la habitación adicional brinda flexibilidad para múltiples usos.\n\nLa ubicación es ideal, ya que se encuentra cerca de comercios, restaurantes y accesos rápidos a transporte público. Es una oportunidad perfecta para quienes buscan un lugar bien conectado para desarrollos comerciales como alquiler a turistas, oficina o vivienda, con todas las comodidades que ofrece la vida urbana en Mendoza.\n\nSi estás interesado en adquirir un departamento bien ubicado, esta opción puede ser ideal para ti. No pierdas la oportunidad de convertir este espacio en tu nuevo proyecto.\n\nAPTO ALQUILER TEMPORARIO!!\n\nConsta de:\n- Amplio living comedor con piso de parquet\n- Cocina comedor amoblada\n- Dos dormitorios amplios con piso de parquet y placares\n- Habitación de servicio con placard\n- Dos baños, uno completo y otro de servicio\n- Aire acondicionado\n- Calefactor\n- Lavandería independiente\n- Entrada principal y de servicio\n\nMUY BAJAS EXPENSAS!!\n\nPara mayor información y coordinar una visita, comunicarse al número aquí publicado\n\nOPENHOUSE EL HOGAR DE TUS SUEÑOS\n\nA.R",
-    "coordinates": {
-      "lat": "-32.889789200000000",
-      "lng": "-68.837417800000000"
-    },
+    "url": "https://casa.mercadolibre.com.ar/MLA-4128507110-venta-de-casa-y-departamento-calle-aristobulo-del-valle-godoy-cruz-_JM",
+    "image_url": "https://http2.mlstatic.com/D_NQ_NP_2X_877488-MLA120249628909_102026-E.webp",
+    "description": "Venta De Casa Y Departamento Calle Aristobulo Del Valle-godoy Cruz. Características: 6 ambs., 2 baños, 216 m² cubiertos. Zona: Godoy Cruz.",
+    "coordinates": null,
     "geo_verification": {
       "is_valid_zone": true,
-      "real_city": "Ciudad De Mendoza",
+      "real_city": "Sin coordenadas",
       "real_neighborhood": null,
       "rejection_reason": null,
-      "geocode_verified": true
+      "geocode_verified": false
     },
     "category_b_metrics": {
       "price_score": 100.0,
       "price_status": "DENTRO_PRESUPUESTO",
-      "surface_score": 69.0,
-      "surface_notes": "71 m2 (En tolerancia, cercano al target de 80 m2)",
-      "price_per_m2": 915.5
+      "surface_score": 100.0,
+      "surface_notes": "216 m2 (Cumple objetivo de 80 m2)",
+      "price_per_m2": 314.8
     },
     "analysis": {
-      "opportunity_score": 32.8,
+      "opportunity_score": 32.6,
       "evaluation_source": "heurística",
       "category_c": {
         "has_security": false,
         "has_gas_network": false,
         "has_parking": false,
-        "has_elevator": true,
+        "has_elevator": false,
         "two_bathrooms": true
       },
       "negotiation_analysis": {
@@ -1113,53 +2670,283 @@
       },
       "pros": [
         "✨ Amplio: cuenta con 3+ dormitorios o 4+ ambientes (+10 pts)",
-        "Dentro del presupuesto (USD 65,000)",
-        "🛗 Edificio con ascensor"
+        "Dentro del presupuesto (USD 68,000)"
       ],
       "cons": [
         "⚠️ Ubicado en Godoy Cruz fuera de Barrio Bombal (-15 pts)",
         "⚠️ Sin seguridad 24 hs ni barrio privado (penalizado en puntaje)",
         "Consultar conexión a red de gas natural"
       ],
-      "ai_summary": "Propiedad en Godoy Cruz (departamento) de 71.0 m2 a USD 65,000. Score: 32.8/100 (Penalizado por falta de seguridad 24hs)."
+      "ai_summary": "Propiedad en Godoy Cruz (departamento) de 216.0 m2 a USD 68,000. Score: 32.6/100 (Penalizado por falta de seguridad 24hs)."
     },
-    "is_new": false,
-    "first_seen": "2026-10-21"
+    "is_new": true,
+    "first_seen": "2026-10-28"
   },
   {
-    "id": "inmoclick_3331_547",
-    "portal": "Inmoclick",
-    "title": "Riccardi Propiedades vende departamento con excelente ubicación en micro centro de Mendoza capital ,ubicado en calle Garibali y esquina San Juan , este departamento es ideal para quienes quieren estar conectados con la ciudad , de fácil acceso a Escuelas y todo tipo de servicios que ofrece su ubicación.",
+    "id": "ml_1948712309",
+    "portal": "Mercado Libre",
+    "title": "Venta De Casa Y Departamento O Negocio Comercial",
     "property_type": "departamento",
-    "price_usd": 75000.0,
-    "surface_m2": 111.0,
-    "surface_total_m2": 170.0,
-    "surface_covered_m2": 111.0,
+    "price_usd": 68000.0,
+    "surface_m2": 215.0,
     "bathrooms": 2,
-    "bedrooms": 3,
-    "rooms": null,
+    "bedrooms": null,
+    "rooms": 5,
     "has_parking_attribute": false,
     "location_zone": "Godoy Cruz",
-    "url": "https://www.inmoclick.com.ar/3331-riccardi-propiedades/inmuebles/547/ficha/departamento-en-venta-en-garibaldi-93",
-    "image_url": "https://www.inmoclick.com.ar/bundles/inmoclick/images/v14.6/empty-photo-box.jpg",
-    "description": "Riccardi Propiedades vende departamento con excelente ubicación en micro centro de Mendoza capital ,ubicado en calle Garibali y esquina San Juan , este departamento es ideal para quienes quieren estar conectados con la ciudad , de fácil acceso a Escuelas y todo tipo de servicios que ofrece su ubicación.\r\n\r\nEl departamento cuenta con amplio estar comedor , cocina separada con conexión directa a lavandería completa con baño de servicio. Pasillo de distribución a tres amplios dormitorios con pisos parquet con baño completo con ante baño .\r\n\r\n una excelente oportunidad para estudiantes , familias numerosas o para usar como oficinas en el núcleo de la ciudad.\r\n\r\nSe acepta credito hipotecario",
-    "coordinates": {
-      "lat": "-32.891003373636536",
-      "lng": "-68.83705093658266"
-    },
+    "url": "https://casa.mercadolibre.com.ar/MLA-1948712309-venta-de-casa-y-departamento-o-negocio-comercial-_JM",
+    "image_url": "https://http2.mlstatic.com/D_NQ_NP_2X_665987-MLA117139911010_102026-E.webp",
+    "description": "Venta De Casa Y Departamento O Negocio Comercial. Características: 5 ambs., 2 baños, 215 m² cubiertos. Zona: Godoy Cruz.",
+    "coordinates": null,
     "geo_verification": {
       "is_valid_zone": true,
-      "real_city": "Ciudad De Mendoza",
+      "real_city": "Sin coordenadas",
       "real_neighborhood": null,
       "rejection_reason": null,
-      "geocode_verified": true
+      "geocode_verified": false
     },
     "category_b_metrics": {
       "price_score": 100.0,
       "price_status": "DENTRO_PRESUPUESTO",
-      "surface_score": 99.3,
-      "surface_notes": "111 m2 (Cumple objetivo de 80 m2)",
-      "price_per_m2": 675.7
+      "surface_score": 100.0,
+      "surface_notes": "215 m2 (Cumple objetivo de 80 m2)",
+      "price_per_m2": 316.3
+    },
+    "analysis": {
+      "opportunity_score": 32.6,
+      "evaluation_source": "heurística",
+      "category_c": {
+        "has_security": false,
+        "has_gas_network": false,
+        "has_parking": false,
+        "has_elevator": false,
+        "two_bathrooms": true
+      },
+      "negotiation_analysis": {
+        "potential": "Estándar",
+        "signals_detected": false,
+        "summary": "Precio estándar de mercado."
+      },
+      "pros": [
+        "✨ Amplio: cuenta con 3+ dormitorios o 4+ ambientes (+10 pts)",
+        "Dentro del presupuesto (USD 68,000)"
+      ],
+      "cons": [
+        "⚠️ Ubicado en Godoy Cruz fuera de Barrio Bombal (-15 pts)",
+        "⚠️ Sin seguridad 24 hs ni barrio privado (penalizado en puntaje)",
+        "Consultar conexión a red de gas natural"
+      ],
+      "ai_summary": "Propiedad en Godoy Cruz (departamento) de 215.0 m2 a USD 68,000. Score: 32.6/100 (Penalizado por falta de seguridad 24hs)."
+    },
+    "is_new": true,
+    "first_seen": "2026-10-28"
+  },
+  {
+    "id": "ml_2211338699",
+    "portal": "Mercado Libre",
+    "title": "Venta Oportunidad Casa + Departamento Godoy Cruz",
+    "property_type": "departamento",
+    "price_usd": 55000.0,
+    "surface_m2": 180.0,
+    "bathrooms": 2,
+    "bedrooms": null,
+    "rooms": 6,
+    "has_parking_attribute": false,
+    "location_zone": "Godoy Cruz",
+    "url": "https://casa.mercadolibre.com.ar/MLA-2211338699-venta-oportunidad-casa-departamento-godoy-cruz-_JM",
+    "image_url": "https://http2.mlstatic.com/D_NQ_NP_2X_869786-MLA119771843995_102026-E.webp",
+    "description": "Venta Oportunidad Casa + Departamento Godoy Cruz. Características: 6 ambs., 2 baños, 180 m² cubiertos. Zona: Godoy Cruz.",
+    "coordinates": null,
+    "geo_verification": {
+      "is_valid_zone": true,
+      "real_city": "Sin coordenadas",
+      "real_neighborhood": null,
+      "rejection_reason": null,
+      "geocode_verified": false
+    },
+    "category_b_metrics": {
+      "price_score": 100.0,
+      "price_status": "DENTRO_PRESUPUESTO",
+      "surface_score": 100.0,
+      "surface_notes": "180 m2 (Cumple objetivo de 80 m2)",
+      "price_per_m2": 305.6
+    },
+    "analysis": {
+      "opportunity_score": 32.6,
+      "evaluation_source": "heurística",
+      "category_c": {
+        "has_security": false,
+        "has_gas_network": false,
+        "has_parking": false,
+        "has_elevator": false,
+        "two_bathrooms": true
+      },
+      "negotiation_analysis": {
+        "potential": "Estándar",
+        "signals_detected": false,
+        "summary": "Precio estándar de mercado."
+      },
+      "pros": [
+        "✨ Amplio: cuenta con 3+ dormitorios o 4+ ambientes (+10 pts)",
+        "Dentro del presupuesto (USD 55,000)"
+      ],
+      "cons": [
+        "⚠️ Ubicado en Godoy Cruz fuera de Barrio Bombal (-15 pts)",
+        "⚠️ Sin seguridad 24 hs ni barrio privado (penalizado en puntaje)",
+        "Consultar conexión a red de gas natural"
+      ],
+      "ai_summary": "Propiedad en Godoy Cruz (departamento) de 180.0 m2 a USD 55,000. Score: 32.6/100 (Penalizado por falta de seguridad 24hs)."
+    },
+    "is_new": true,
+    "first_seen": "2026-10-28"
+  },
+  {
+    "id": "ml_4026113040",
+    "portal": "Mercado Libre",
+    "title": "Trapiche Casa Y Departamento",
+    "property_type": "departamento",
+    "price_usd": 53000.0,
+    "surface_m2": 131.0,
+    "bathrooms": 2,
+    "bedrooms": null,
+    "rooms": 4,
+    "has_parking_attribute": false,
+    "location_zone": "Godoy Cruz",
+    "url": "https://casa.mercadolibre.com.ar/MLA-4026113040-trapiche-casa-y-departamento-_JM",
+    "image_url": "https://http2.mlstatic.com/D_NQ_NP_2X_881394-MLA120140932571_102026-E.webp",
+    "description": "Trapiche Casa Y Departamento. Características: 4 ambs., 2 baños, 131 m² cubiertos. Zona: Godoy Cruz.",
+    "coordinates": null,
+    "geo_verification": {
+      "is_valid_zone": true,
+      "real_city": "Sin coordenadas",
+      "real_neighborhood": null,
+      "rejection_reason": null,
+      "geocode_verified": false
+    },
+    "category_b_metrics": {
+      "price_score": 100.0,
+      "price_status": "DENTRO_PRESUPUESTO",
+      "surface_score": 100.0,
+      "surface_notes": "131 m2 (Cumple objetivo de 80 m2)",
+      "price_per_m2": 404.6
+    },
+    "analysis": {
+      "opportunity_score": 32.6,
+      "evaluation_source": "heurística",
+      "category_c": {
+        "has_security": false,
+        "has_gas_network": false,
+        "has_parking": false,
+        "has_elevator": false,
+        "two_bathrooms": true
+      },
+      "negotiation_analysis": {
+        "potential": "Estándar",
+        "signals_detected": false,
+        "summary": "Precio estándar de mercado."
+      },
+      "pros": [
+        "✨ Amplio: cuenta con 3+ dormitorios o 4+ ambientes (+10 pts)",
+        "Dentro del presupuesto (USD 53,000)"
+      ],
+      "cons": [
+        "⚠️ Ubicado en Godoy Cruz fuera de Barrio Bombal (-15 pts)",
+        "⚠️ Sin seguridad 24 hs ni barrio privado (penalizado en puntaje)",
+        "Consultar conexión a red de gas natural"
+      ],
+      "ai_summary": "Propiedad en Godoy Cruz (departamento) de 131.0 m2 a USD 53,000. Score: 32.6/100 (Penalizado por falta de seguridad 24hs)."
+    },
+    "is_new": true,
+    "first_seen": "2026-10-28"
+  },
+  {
+    "id": "ml_3896201338",
+    "portal": "Mercado Libre",
+    "title": "Vendo Casa 3 Habitaciones Mas Departamento",
+    "property_type": "departamento",
+    "price_usd": 69900.0,
+    "surface_m2": 148.0,
+    "bathrooms": 2,
+    "bedrooms": null,
+    "rooms": 4,
+    "has_parking_attribute": false,
+    "location_zone": "Godoy Cruz",
+    "url": "https://casa.mercadolibre.com.ar/MLA-3896201338-vendo-casa-3-habitaciones-mas-departamento-_JM",
+    "image_url": "https://http2.mlstatic.com/D_NQ_NP_2X_880722-MLA116974457635_082026-E.webp",
+    "description": "Vendo Casa 3 Habitaciones Mas Departamento. Características: 4 ambs., 2 baños, 148 m² cubiertos. Zona: Godoy Cruz.",
+    "coordinates": null,
+    "geo_verification": {
+      "is_valid_zone": true,
+      "real_city": "Sin coordenadas",
+      "real_neighborhood": null,
+      "rejection_reason": null,
+      "geocode_verified": false
+    },
+    "category_b_metrics": {
+      "price_score": 100.0,
+      "price_status": "DENTRO_PRESUPUESTO",
+      "surface_score": 100.0,
+      "surface_notes": "148 m2 (Cumple objetivo de 80 m2)",
+      "price_per_m2": 472.3
+    },
+    "analysis": {
+      "opportunity_score": 32.6,
+      "evaluation_source": "heurística",
+      "category_c": {
+        "has_security": false,
+        "has_gas_network": false,
+        "has_parking": false,
+        "has_elevator": false,
+        "two_bathrooms": true
+      },
+      "negotiation_analysis": {
+        "potential": "Estándar",
+        "signals_detected": false,
+        "summary": "Precio estándar de mercado."
+      },
+      "pros": [
+        "✨ Amplio: cuenta con 3+ dormitorios o 4+ ambientes (+10 pts)",
+        "Dentro del presupuesto (USD 69,900)"
+      ],
+      "cons": [
+        "⚠️ Ubicado en Godoy Cruz fuera de Barrio Bombal (-15 pts)",
+        "⚠️ Sin seguridad 24 hs ni barrio privado (penalizado en puntaje)",
+        "Consultar conexión a red de gas natural"
+      ],
+      "ai_summary": "Propiedad en Godoy Cruz (departamento) de 148.0 m2 a USD 69,900. Score: 32.6/100 (Penalizado por falta de seguridad 24hs)."
+    },
+    "is_new": true,
+    "first_seen": "2026-10-28"
+  },
+  {
+    "id": "ml_3949768066",
+    "portal": "Mercado Libre",
+    "title": "Venta De Casa 2 Dorm. + Departamento 3 Dorm.",
+    "property_type": "departamento",
+    "price_usd": 87000.0,
+    "surface_m2": 204.0,
+    "bathrooms": 3,
+    "bedrooms": 5,
+    "rooms": null,
+    "has_parking_attribute": false,
+    "location_zone": "Godoy Cruz",
+    "url": "https://casa.mercadolibre.com.ar/MLA-3949768066-venta-de-casa-2-dorm-departamento-3-dorm-_JM",
+    "image_url": "https://http2.mlstatic.com/D_NQ_NP_2X_859215-MLA117152325110_102026-E.webp",
+    "description": "Venta De Casa 2 Dorm. + Departamento 3 Dorm.. Características: 5 dormitorios, 3 baños, 204 m² cubiertos. Zona: Godoy Cruz.",
+    "coordinates": null,
+    "geo_verification": {
+      "is_valid_zone": true,
+      "real_city": "Sin coordenadas",
+      "real_neighborhood": null,
+      "rejection_reason": null,
+      "geocode_verified": false
+    },
+    "category_b_metrics": {
+      "price_score": 99.5,
+      "price_status": "DENTRO_PRESUPUESTO",
+      "surface_score": 100.0,
+      "surface_notes": "204 m2 (Cumple objetivo de 80 m2)",
+      "price_per_m2": 426.5
     },
     "analysis": {
       "opportunity_score": 32.5,
@@ -1178,60 +2965,55 @@
       },
       "pros": [
         "✨ Amplio: cuenta con 3+ dormitorios o 4+ ambientes (+10 pts)",
-        "Dentro del presupuesto (USD 75,000)"
+        "Dentro del presupuesto (USD 87,000)"
       ],
       "cons": [
         "⚠️ Ubicado en Godoy Cruz fuera de Barrio Bombal (-15 pts)",
         "⚠️ Sin seguridad 24 hs ni barrio privado (penalizado en puntaje)",
         "Consultar conexión a red de gas natural"
       ],
-      "ai_summary": "Propiedad en Godoy Cruz (departamento) de 111.0 m2 a USD 75,000. Score: 32.5/100 (Penalizado por falta de seguridad 24hs)."
+      "ai_summary": "Propiedad en Godoy Cruz (departamento) de 204.0 m2 a USD 87,000. Score: 32.5/100 (Penalizado por falta de seguridad 24hs)."
     },
-    "is_new": false,
-    "first_seen": "2026-10-05"
+    "is_new": true,
+    "first_seen": "2026-10-28"
   },
   {
-    "id": "inmoclick_5587_602",
-    "portal": "Inmoclick",
-    "title": "PANI SAR SAR INMOBILIARIA VENDE EXCLUSIVO DEPARTAMENTO EN EL RECONOCIDO EDIFICIO ELIPSIUM, SOBRE CALLE NECOCHEA 473, UBICADO EN PLENO CORAZÓN DE LA CIUDAD DE MENDOZA.",
+    "id": "ml_2222331929",
+    "portal": "Mercado Libre",
+    "title": "Excelente Casa Y Departamento Interno",
     "property_type": "departamento",
-    "price_usd": 135000.0,
-    "surface_m2": 123.0,
-    "surface_total_m2": 123.0,
-    "surface_covered_m2": 123.0,
+    "price_usd": 90000.0,
+    "surface_m2": 149.0,
     "bathrooms": 2,
-    "bedrooms": 2,
-    "rooms": null,
-    "has_parking_attribute": true,
+    "bedrooms": null,
+    "rooms": 6,
+    "has_parking_attribute": false,
     "location_zone": "Godoy Cruz",
-    "url": "https://www.inmoclick.com.ar/5587-pani-sar-sar-inmobiliaria/inmuebles/602/ficha/departamento-en-venta-en-necochea-473-edificio-elipsium",
-    "image_url": "https://www.inmoclick.com.ar/bundles/inmoclick/images/v14.6/empty-photo-box.jpg",
-    "description": "PANI SAR SAR INMOBILIARIA VENDE EXCLUSIVO DEPARTAMENTO EN EL RECONOCIDO EDIFICIO ELIPSIUM, SOBRE CALLE NECOCHEA 473, UBICADO EN PLENO CORAZÓN DE LA CIUDAD DE MENDOZA.\r\n\r\nEL MISMO CUENTA CON UNA SUPERFICIE CUBIERTA PROPIA DE 104 M2, UN BALCÓN DE 5 M2 Y UNA COCHERA CUBIERTA PROPIA DE 13 M2.\r\n\r\nEL DEPARTAMENTO SE ENCUENTRA EN PRIMER PISO CON VISTA HACIA EL PULMÓN CENTRAL DEL EDIFICIO.\r\n\r\nCUENTA CON UN AMPLIO LIVING COMEDOR, GRAN COCINA, BAÑO PRINCIPAL, 1 DORMITORIO CON PLACAR Y OTRO GRAN DORMITORIO CON VESTIDOR Y BAÑO EN SUITE.\r\n\r\nES IMPORTANTE DESTACAR QUE EN INMUEBLE CUENTA CON FINAS TERMINACIONES, POSEE CALEFACCIÓN CENTRAL Y ESTÁ EQUIPADO CON ARTEFACTOS VARIOS.\r\n\r\nEL EDIFICIO CUENTA CON EXCELENTES AMENITIES COMO PISCINA AL AIRE LIBRE, PISCINA CUBIERTA CLIMATIZADA CON JACUZZIS, GIMNASIO, SUM CON PARRILLAS.\r\n\r\nAPTO CRÉDITO.\r\n\r\nESCRITURA INMEDIATA.",
-    "coordinates": {
-      "lat": "-32.8861857",
-      "lng": "-68.8444755"
-    },
+    "url": "https://casa.mercadolibre.com.ar/MLA-2222331929-excelente-casa-y-departamento-interno-_JM",
+    "image_url": "https://http2.mlstatic.com/D_NQ_NP_2X_770018-MLA118302722698_102026-E.webp",
+    "description": "Excelente Casa Y Departamento Interno. Características: 6 ambs., 2 baños, 149 m² cubiertos. Zona: Godoy Cruz.",
+    "coordinates": null,
     "geo_verification": {
       "is_valid_zone": true,
-      "real_city": "Ciudad De Mendoza",
+      "real_city": "Sin coordenadas",
       "real_neighborhood": null,
       "rejection_reason": null,
-      "geocode_verified": true
+      "geocode_verified": false
     },
     "category_b_metrics": {
-      "price_score": 90.9,
+      "price_score": 98.9,
       "price_status": "DENTRO_PRESUPUESTO",
       "surface_score": 100.0,
-      "surface_notes": "123 m2 (Cumple objetivo de 80 m2)",
-      "price_per_m2": 1097.6
+      "surface_notes": "149 m2 (Cumple objetivo de 80 m2)",
+      "price_per_m2": 604.0
     },
     "analysis": {
-      "opportunity_score": 30.5,
+      "opportunity_score": 32.3,
       "evaluation_source": "heurística",
       "category_c": {
         "has_security": false,
         "has_gas_network": false,
-        "has_parking": true,
+        "has_parking": false,
         "has_elevator": false,
         "two_bathrooms": true
       },
@@ -1241,53 +3023,225 @@
         "summary": "Precio estándar de mercado."
       },
       "pros": [
-        "Dentro del presupuesto (USD 135,000)",
-        "🚗 Cuenta con cochera"
+        "✨ Amplio: cuenta con 3+ dormitorios o 4+ ambientes (+10 pts)",
+        "Dentro del presupuesto (USD 90,000)"
       ],
       "cons": [
         "⚠️ Ubicado en Godoy Cruz fuera de Barrio Bombal (-15 pts)",
         "⚠️ Sin seguridad 24 hs ni barrio privado (penalizado en puntaje)",
         "Consultar conexión a red de gas natural"
       ],
-      "ai_summary": "Propiedad en Godoy Cruz (departamento) de 123.0 m2 a USD 135,000. Score: 30.5/100 (Penalizado por falta de seguridad 24hs)."
+      "ai_summary": "Propiedad en Godoy Cruz (departamento) de 149.0 m2 a USD 90,000. Score: 32.3/100 (Penalizado por falta de seguridad 24hs)."
     },
-    "is_new": false,
-    "first_seen": "2026-10-20"
+    "is_new": true,
+    "first_seen": "2026-10-28"
   },
   {
-    "id": "inmoclick_76974_591",
-    "portal": "Inmoclick",
-    "title": "ACL PROPIEDADES – VENDE DPTO EN CIUDAD - Ubicado en Godoy Cruz esquina 25 de Mayo, en una excelente zona de Ciudad. El departamento cuenta con 83,32 m² de sup. propia, distribuido en una sola planta y con excelentes vistas. Distribución: posee doble ingreso, Cocina con comedor de diario y balcón, Amplio living comedor con balcón, 3 dormitorios con placares, Toilette y Baño completo. Detalles y mejoras:",
+    "id": "ml_2116722067",
+    "portal": "Mercado Libre",
+    "title": "Casa Con Departamento Independiente",
     "property_type": "departamento",
-    "price_usd": 81000.0,
-    "surface_m2": 77.0,
-    "surface_total_m2": 83.0,
-    "surface_covered_m2": 77.0,
+    "price_usd": 65000.0,
+    "surface_m2": 105.0,
     "bathrooms": 2,
-    "bedrooms": 3,
-    "rooms": null,
+    "bedrooms": null,
+    "rooms": 4,
     "has_parking_attribute": false,
     "location_zone": "Godoy Cruz",
-    "url": "https://www.inmoclick.com.ar/76974-acl-propiedades/inmuebles/591/ficha/departamento-en-venta-en-godoy-cruz-580",
-    "image_url": "https://www.inmoclick.com.ar/bundles/inmoclick/images/v14.6/empty-photo-box.jpg",
-    "description": "ACL PROPIEDADES – VENDE DPTO EN CIUDAD - Ubicado en Godoy Cruz esquina 25 de Mayo, en una excelente zona de Ciudad. El departamento cuenta con 83,32 m² de sup. propia, distribuido en una sola planta y con excelentes vistas. Distribución: posee doble ingreso, Cocina con comedor de diario y balcón, Amplio living comedor con balcón, 3 dormitorios con placares, Toilette y Baño completo. Detalles y mejoras:\r\n* Cañerías de baño y cocina nuevas, con llaves de corte individuales.\r\n* Cloacas nuevas.\r\n* Amoblamiento de cocina nuevo.\r\n* 1 aire acondicionado frío/calor.\r\n* 2 calefactores.\r\n* Cocina, extractor y termotanque.\r\n* Cortinas a medida.\r\n* Artefactos eléctricos.\r\n* Ventiladores de techo en cocina y dormitorio principal.\r\n* Persianas metálicas funcionando.\r\n\r\nEdificio: No se restringe la tenencia de mascotas, Se permiten alquileres turísticos, Expensas: $130.000 aprox., Portería de 8:00 a 12:00 hs.\r\n\r\nVALOR: USD 81.000 - Se escuchan ofertas razonables. \r\n\r\nNo dudes en coordinar una visita.",
-    "coordinates": {
-      "lat": "-32.8894587",
-      "lng": "-68.8458386"
-    },
+    "url": "https://casa.mercadolibre.com.ar/MLA-2116722067-casa-con-departamento-independiente-_JM",
+    "image_url": "https://http2.mlstatic.com/D_NQ_NP_2X_768426-MLA118069682429_092026-E.webp",
+    "description": "Casa Con Departamento Independiente. Características: 4 ambs., 2 baños, 105 m² cubiertos. Zona: Godoy Cruz.",
+    "coordinates": null,
     "geo_verification": {
       "is_valid_zone": true,
-      "real_city": "Ciudad De Mendoza",
+      "real_city": "Sin coordenadas",
       "real_neighborhood": null,
       "rejection_reason": null,
-      "geocode_verified": true
+      "geocode_verified": false
     },
     "category_b_metrics": {
       "price_score": 100.0,
       "price_status": "DENTRO_PRESUPUESTO",
-      "surface_score": 83.0,
-      "surface_notes": "77 m2 (En tolerancia, cercano al target de 80 m2)",
-      "price_per_m2": 1051.9
+      "surface_score": 97.5,
+      "surface_notes": "105 m2 (Cumple objetivo de 80 m2)",
+      "price_per_m2": 619.0
+    },
+    "analysis": {
+      "opportunity_score": 32.0,
+      "evaluation_source": "heurística",
+      "category_c": {
+        "has_security": false,
+        "has_gas_network": false,
+        "has_parking": false,
+        "has_elevator": false,
+        "two_bathrooms": true
+      },
+      "negotiation_analysis": {
+        "potential": "Estándar",
+        "signals_detected": false,
+        "summary": "Precio estándar de mercado."
+      },
+      "pros": [
+        "✨ Amplio: cuenta con 3+ dormitorios o 4+ ambientes (+10 pts)",
+        "Dentro del presupuesto (USD 65,000)"
+      ],
+      "cons": [
+        "⚠️ Ubicado en Godoy Cruz fuera de Barrio Bombal (-15 pts)",
+        "⚠️ Sin seguridad 24 hs ni barrio privado (penalizado en puntaje)",
+        "Consultar conexión a red de gas natural"
+      ],
+      "ai_summary": "Propiedad en Godoy Cruz (departamento) de 105.0 m2 a USD 65,000. Score: 32.0/100 (Penalizado por falta de seguridad 24hs)."
+    },
+    "is_new": true,
+    "first_seen": "2026-10-28"
+  },
+  {
+    "id": "ml_2134705917",
+    "portal": "Mercado Libre",
+    "title": "Venta  Casa + Departamento Barrio Fuchs Godoy Cruz",
+    "property_type": "departamento",
+    "price_usd": 95000.0,
+    "surface_m2": 174.0,
+    "bathrooms": 2,
+    "bedrooms": null,
+    "rooms": 10,
+    "has_parking_attribute": false,
+    "location_zone": "Godoy Cruz",
+    "url": "https://casa.mercadolibre.com.ar/MLA-2134705917-venta-casa-departamento-barrio-fuchs-godoy-cruz-_JM",
+    "image_url": "https://http2.mlstatic.com/D_NQ_NP_2X_920048-MLA118408631085_092026-E.webp",
+    "description": "Venta  Casa + Departamento Barrio Fuchs Godoy Cruz. Características: 10 ambs., 2 baños, 174 m² cubiertos. Zona: Godoy Cruz.",
+    "coordinates": null,
+    "geo_verification": {
+      "is_valid_zone": true,
+      "real_city": "Sin coordenadas",
+      "real_neighborhood": null,
+      "rejection_reason": null,
+      "geocode_verified": false
+    },
+    "category_b_metrics": {
+      "price_score": 98.0,
+      "price_status": "DENTRO_PRESUPUESTO",
+      "surface_score": 100.0,
+      "surface_notes": "174 m2 (Cumple objetivo de 80 m2)",
+      "price_per_m2": 546.0
+    },
+    "analysis": {
+      "opportunity_score": 32.0,
+      "evaluation_source": "heurística",
+      "category_c": {
+        "has_security": false,
+        "has_gas_network": false,
+        "has_parking": false,
+        "has_elevator": false,
+        "two_bathrooms": true
+      },
+      "negotiation_analysis": {
+        "potential": "Estándar",
+        "signals_detected": false,
+        "summary": "Precio estándar de mercado."
+      },
+      "pros": [
+        "✨ Amplio: cuenta con 3+ dormitorios o 4+ ambientes (+10 pts)",
+        "Dentro del presupuesto (USD 95,000)"
+      ],
+      "cons": [
+        "⚠️ Ubicado en Godoy Cruz fuera de Barrio Bombal (-15 pts)",
+        "⚠️ Sin seguridad 24 hs ni barrio privado (penalizado en puntaje)",
+        "Consultar conexión a red de gas natural"
+      ],
+      "ai_summary": "Propiedad en Godoy Cruz (departamento) de 174.0 m2 a USD 95,000. Score: 32.0/100 (Penalizado por falta de seguridad 24hs)."
+    },
+    "is_new": true,
+    "first_seen": "2026-10-28"
+  },
+  {
+    "id": "ml_4035968914",
+    "portal": "Mercado Libre",
+    "title": "Venta De Casa Y Departamento En Barrio Trapiche",
+    "property_type": "departamento",
+    "price_usd": 123600.0,
+    "surface_m2": 230.0,
+    "bathrooms": 2,
+    "bedrooms": null,
+    "rooms": 4,
+    "has_parking_attribute": false,
+    "location_zone": "Godoy Cruz",
+    "url": "https://casa.mercadolibre.com.ar/MLA-4035968914-venta-de-casa-y-departamento-en-barrio-trapiche-_JM",
+    "image_url": "https://http2.mlstatic.com/D_NQ_NP_2X_749755-MLA117269848782_102026-E.webp",
+    "description": "Venta De Casa Y Departamento En Barrio Trapiche. Características: 4 ambs., 2 baños, 230 m² cubiertos. Zona: Godoy Cruz.",
+    "coordinates": null,
+    "geo_verification": {
+      "is_valid_zone": true,
+      "real_city": "Sin coordenadas",
+      "real_neighborhood": null,
+      "rejection_reason": null,
+      "geocode_verified": false
+    },
+    "category_b_metrics": {
+      "price_score": 92.9,
+      "price_status": "DENTRO_PRESUPUESTO",
+      "surface_score": 100.0,
+      "surface_notes": "230 m2 (Cumple objetivo de 80 m2)",
+      "price_per_m2": 537.4
+    },
+    "analysis": {
+      "opportunity_score": 30.5,
+      "evaluation_source": "heurística",
+      "category_c": {
+        "has_security": false,
+        "has_gas_network": false,
+        "has_parking": false,
+        "has_elevator": false,
+        "two_bathrooms": true
+      },
+      "negotiation_analysis": {
+        "potential": "Estándar",
+        "signals_detected": false,
+        "summary": "Precio estándar de mercado."
+      },
+      "pros": [
+        "✨ Amplio: cuenta con 3+ dormitorios o 4+ ambientes (+10 pts)",
+        "Dentro del presupuesto (USD 123,600)"
+      ],
+      "cons": [
+        "⚠️ Ubicado en Godoy Cruz fuera de Barrio Bombal (-15 pts)",
+        "⚠️ Sin seguridad 24 hs ni barrio privado (penalizado en puntaje)",
+        "Consultar conexión a red de gas natural"
+      ],
+      "ai_summary": "Propiedad en Godoy Cruz (departamento) de 230.0 m2 a USD 123,600. Score: 30.5/100 (Penalizado por falta de seguridad 24hs)."
+    },
+    "is_new": true,
+    "first_seen": "2026-10-28"
+  },
+  {
+    "id": "ml_1948711555",
+    "portal": "Mercado Libre",
+    "title": "Venta De Casa Esquina Y Departamento A Terminar",
+    "property_type": "departamento",
+    "price_usd": 140000.0,
+    "surface_m2": 137.0,
+    "bathrooms": 2,
+    "bedrooms": null,
+    "rooms": 6,
+    "has_parking_attribute": false,
+    "location_zone": "Godoy Cruz",
+    "url": "https://casa.mercadolibre.com.ar/MLA-1948711555-venta-de-casa-esquina-y-departamento-a-terminar-_JM",
+    "image_url": "https://http2.mlstatic.com/D_NQ_NP_2X_639121-MLA118721411053_102026-E.webp",
+    "description": "Venta De Casa Esquina Y Departamento A Terminar. Características: 6 ambs., 2 baños, 137 m² cubiertos. Zona: Godoy Cruz.",
+    "coordinates": null,
+    "geo_verification": {
+      "is_valid_zone": true,
+      "real_city": "Sin coordenadas",
+      "real_neighborhood": null,
+      "rejection_reason": null,
+      "geocode_verified": false
+    },
+    "category_b_metrics": {
+      "price_score": 90.0,
+      "price_status": "DENTRO_PRESUPUESTO",
+      "surface_score": 100.0,
+      "surface_notes": "137 m2 (Cumple objetivo de 80 m2)",
+      "price_per_m2": 1021.9
     },
     "analysis": {
       "opportunity_score": 30.0,
@@ -1300,40 +3254,39 @@
         "two_bathrooms": true
       },
       "negotiation_analysis": {
-        "potential": "Alta",
-        "signals_detected": true,
-        "summary": "Señales de negociación/permuta detectadas en la publicación."
+        "potential": "Estándar",
+        "signals_detected": false,
+        "summary": "Precio estándar de mercado."
       },
       "pros": [
         "✨ Amplio: cuenta con 3+ dormitorios o 4+ ambientes (+10 pts)",
-        "Dentro del presupuesto (USD 81,000)",
-        "💡 Publicación indica apertura a ofertas o permutas"
+        "Dentro del presupuesto (USD 140,000)"
       ],
       "cons": [
         "⚠️ Ubicado en Godoy Cruz fuera de Barrio Bombal (-15 pts)",
         "⚠️ Sin seguridad 24 hs ni barrio privado (penalizado en puntaje)",
         "Consultar conexión a red de gas natural"
       ],
-      "ai_summary": "Propiedad en Godoy Cruz (departamento) de 77.0 m2 a USD 81,000. Score: 30.0/100 (Penalizado por falta de seguridad 24hs)."
+      "ai_summary": "Propiedad en Godoy Cruz (departamento) de 137.0 m2 a USD 140,000. Score: 30.0/100 (Penalizado por falta de seguridad 24hs)."
     },
-    "is_new": false,
-    "first_seen": "2026-10-06"
+    "is_new": true,
+    "first_seen": "2026-10-28"
   },
   {
-    "id": "ml_3756706742",
+    "id": "ml_1507878043",
     "portal": "Mercado Libre",
-    "title": "Departamento En Venta - Benegas - Godoy Cruz - Mendoza",
+    "title": "Departamento Frente Al Mar (1659)",
     "property_type": "departamento",
-    "price_usd": 80000.0,
-    "surface_m2": 90.0,
+    "price_usd": 133000.0,
+    "surface_m2": 75.0,
     "bathrooms": 2,
     "bedrooms": null,
     "rooms": 3,
     "has_parking_attribute": false,
     "location_zone": "Godoy Cruz",
-    "url": "https://departamento.mercadolibre.com.ar/MLA-3756706742-departamento-en-venta-benegas-godoy-cruz-mendoza-_JM",
-    "image_url": "https://http2.mlstatic.com/D_NQ_NP_2X_845552-MLA114506015822_082026-E.webp",
-    "description": "Departamento En Venta - Benegas - Godoy Cruz - Mendoza. Características: 3 ambs., 2 baños, 90 m² cubiertos. Zona: Godoy Cruz.",
+    "url": "https://departamento.mercadolibre.com.ar/MLA-1507878043-departamento-frente-al-mar-1659-_JM",
+    "image_url": "https://http2.mlstatic.com/D_NQ_NP_2X_846018-MLA116657648849_082026-E.webp",
+    "description": "Departamento Frente Al Mar (1659). Características: 3 ambs., 2 baños, 75 m² cubiertos. Zona: Godoy Cruz.",
     "coordinates": null,
     "geo_verification": {
       "is_valid_zone": true,
@@ -1343,14 +3296,14 @@
       "geocode_verified": false
     },
     "category_b_metrics": {
-      "price_score": 100.0,
+      "price_score": 91.2,
       "price_status": "DENTRO_PRESUPUESTO",
-      "surface_score": 93.0,
-      "surface_notes": "90 m2 (Cumple objetivo de 80 m2)",
-      "price_per_m2": 888.9
+      "surface_score": 78.3,
+      "surface_notes": "75 m2 (En tolerancia, cercano al target de 80 m2)",
+      "price_per_m2": 1773.3
     },
     "analysis": {
-      "opportunity_score": 20.9,
+      "opportunity_score": 20.0,
       "evaluation_source": "heurística",
       "category_c": {
         "has_security": false,
@@ -1365,33 +3318,33 @@
         "summary": "Precio estándar de mercado."
       },
       "pros": [
-        "Dentro del presupuesto (USD 80,000)"
+        "Dentro del presupuesto (USD 133,000)"
       ],
       "cons": [
         "⚠️ Ubicado en Godoy Cruz fuera de Barrio Bombal (-15 pts)",
         "⚠️ Sin seguridad 24 hs ni barrio privado (penalizado en puntaje)",
         "Consultar conexión a red de gas natural"
       ],
-      "ai_summary": "Propiedad en Godoy Cruz (departamento) de 90.0 m2 a USD 80,000. Score: 20.9/100 (Penalizado por falta de seguridad 24hs)."
+      "ai_summary": "Propiedad en Godoy Cruz (departamento) de 75.0 m2 a USD 133,000. Score: 20.0/100 (Penalizado por falta de seguridad 24hs)."
     },
-    "is_new": false,
-    "first_seen": "2026-09-29"
+    "is_new": true,
+    "first_seen": "2026-10-28"
   },
   {
-    "id": "ml_2133562131",
+    "id": "ml_4095525316",
     "portal": "Mercado Libre",
-    "title": "Departamento En Las Tortugas",
+    "title": "Departamento En Venta Godoy Cruz Mendoza",
     "property_type": "departamento",
-    "price_usd": 75000.0,
-    "surface_m2": 67.0,
+    "price_usd": 120000.0,
+    "surface_m2": 65.0,
     "bathrooms": 2,
-    "bedrooms": 2,
-    "rooms": null,
+    "bedrooms": null,
+    "rooms": 3,
     "has_parking_attribute": false,
     "location_zone": "Godoy Cruz",
-    "url": "https://departamento.mercadolibre.com.ar/MLA-2133562131-departamento-en-las-tortugas-_JM",
-    "image_url": "https://http2.mlstatic.com/D_NQ_NP_2X_756184-MLA118385860585_092026-E.webp",
-    "description": "Departamento En Las Tortugas. Características: 2 dormitorios, 2 baños, 67 m² cubiertos. Zona: Godoy Cruz.",
+    "url": "https://departamento.mercadolibre.com.ar/MLA-4095525316-departamento-en-venta-godoy-cruz-mendoza-_JM",
+    "image_url": "https://http2.mlstatic.com/D_NQ_NP_2X_629340-MLA119741694323_102026-E.webp",
+    "description": "Departamento En Venta Godoy Cruz Mendoza. Características: 3 ambs., 2 baños, 65 m² cubiertos. Zona: Godoy Cruz.",
     "coordinates": null,
     "geo_verification": {
       "is_valid_zone": true,
@@ -1401,11 +3354,11 @@
       "geocode_verified": false
     },
     "category_b_metrics": {
-      "price_score": 100.0,
+      "price_score": 93.6,
       "price_status": "DENTRO_PRESUPUESTO",
-      "surface_score": 59.7,
-      "surface_notes": "67 m2 (En tolerancia, cercano al target de 80 m2)",
-      "price_per_m2": 1119.4
+      "surface_score": 55.0,
+      "surface_notes": "65 m2 (En tolerancia, cercano al target de 80 m2)",
+      "price_per_m2": 1846.2
     },
     "analysis": {
       "opportunity_score": 20.0,
@@ -1423,74 +3376,16 @@
         "summary": "Precio estándar de mercado."
       },
       "pros": [
-        "Dentro del presupuesto (USD 75,000)"
+        "Dentro del presupuesto (USD 120,000)"
       ],
       "cons": [
         "⚠️ Ubicado en Godoy Cruz fuera de Barrio Bombal (-15 pts)",
         "⚠️ Sin seguridad 24 hs ni barrio privado (penalizado en puntaje)",
         "Consultar conexión a red de gas natural"
       ],
-      "ai_summary": "Propiedad en Godoy Cruz (departamento) de 67.0 m2 a USD 75,000. Score: 20.0/100 (Penalizado por falta de seguridad 24hs)."
+      "ai_summary": "Propiedad en Godoy Cruz (departamento) de 65.0 m2 a USD 120,000. Score: 20.0/100 (Penalizado por falta de seguridad 24hs)."
     },
-    "is_new": false,
-    "first_seen": "2026-10-05"
-  },
-  {
-    "id": "ml_1713408519",
-    "portal": "Mercado Libre",
-    "title": "Departamento En Gobernador Benegas",
-    "property_type": "departamento",
-    "price_usd": 63300.0,
-    "surface_m2": 73.0,
-    "bathrooms": null,
-    "bedrooms": 2,
-    "rooms": null,
-    "has_parking_attribute": false,
-    "location_zone": "Godoy Cruz",
-    "url": "https://departamento.mercadolibre.com.ar/MLA-1713408519-departamento-en-gobernador-benegas-_JM",
-    "image_url": "https://http2.mlstatic.com/D_NQ_NP_2X_737420-MLA113971210411_062026-E.webp",
-    "description": "Departamento En Gobernador Benegas. Características: 2 dormitorios, 73 m² totales. Zona: Godoy Cruz.",
-    "coordinates": null,
-    "geo_verification": {
-      "is_valid_zone": true,
-      "real_city": "Sin coordenadas",
-      "real_neighborhood": null,
-      "rejection_reason": null,
-      "geocode_verified": false
-    },
-    "category_b_metrics": {
-      "price_score": 100.0,
-      "price_status": "DENTRO_PRESUPUESTO",
-      "surface_score": 73.7,
-      "surface_notes": "73 m2 (En tolerancia, cercano al target de 80 m2)",
-      "price_per_m2": 867.1
-    },
-    "analysis": {
-      "opportunity_score": 20.0,
-      "evaluation_source": "heurística",
-      "category_c": {
-        "has_security": false,
-        "has_gas_network": false,
-        "has_parking": false,
-        "has_elevator": false,
-        "two_bathrooms": true
-      },
-      "negotiation_analysis": {
-        "potential": "Estándar",
-        "signals_detected": false,
-        "summary": "Precio estándar de mercado."
-      },
-      "pros": [
-        "Dentro del presupuesto (USD 63,300)"
-      ],
-      "cons": [
-        "⚠️ Ubicado en Godoy Cruz fuera de Barrio Bombal (-15 pts)",
-        "⚠️ Sin seguridad 24 hs ni barrio privado (penalizado en puntaje)",
-        "Consultar conexión a red de gas natural"
-      ],
-      "ai_summary": "Propiedad en Godoy Cruz (departamento) de 73.0 m2 a USD 63,300. Score: 20.0/100 (Penalizado por falta de seguridad 24hs)."
-    },
-    "is_new": false,
-    "first_seen": "2026-09-29"
+    "is_new": true,
+    "first_seen": "2026-10-28"
   }
 ]
