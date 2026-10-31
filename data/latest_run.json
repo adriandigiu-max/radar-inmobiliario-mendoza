@@ -58,6 +58,64 @@
     "first_seen": "2026-10-28"
   },
   {
+    "id": "ml_4103976960",
+    "portal": "Mercado Libre",
+    "title": "Venta Casa 2 Plantas + 2 Dptos  Ideal P/alquiler",
+    "property_type": "casa",
+    "price_usd": 80000.0,
+    "surface_m2": 125.0,
+    "bathrooms": 5,
+    "bedrooms": null,
+    "rooms": 5,
+    "has_parking_attribute": false,
+    "location_zone": "Mendoza",
+    "url": "https://casa.mercadolibre.com.ar/MLA-4103976960-venta-casa-2-plantas-2-dptos-ideal-palquiler-_JM",
+    "image_url": "https://http2.mlstatic.com/D_NQ_NP_2X_733374-MLA118220850074_102026-E.webp",
+    "description": "Venta Casa 2 Plantas + 2 Dptos  Ideal P/alquiler. Características: 5 ambs., 5 baños, 125 m² cubiertos. Zona: Mendoza.",
+    "coordinates": null,
+    "geo_verification": {
+      "is_valid_zone": true,
+      "real_city": "Sin coordenadas",
+      "real_neighborhood": null,
+      "rejection_reason": null,
+      "geocode_verified": false
+    },
+    "category_b_metrics": {
+      "price_score": 100.0,
+      "price_status": "DENTRO_PRESUPUESTO",
+      "surface_score": 100.0,
+      "surface_notes": "125 m2 (Cumple objetivo de 80 m2)",
+      "price_per_m2": 640.0
+    },
+    "analysis": {
+      "opportunity_score": 52.9,
+      "evaluation_source": "heurística",
+      "category_c": {
+        "has_security": false,
+        "has_gas_network": false,
+        "has_parking": false,
+        "has_elevator": false,
+        "two_bathrooms": true
+      },
+      "negotiation_analysis": {
+        "potential": "Estándar",
+        "signals_detected": false,
+        "summary": "Precio estándar de mercado."
+      },
+      "pros": [
+        "✨ Amplio: cuenta con 3+ dormitorios o 4+ ambientes (+10 pts)",
+        "Dentro del presupuesto (USD 80,000)"
+      ],
+      "cons": [
+        "⚠️ Sin seguridad 24 hs ni barrio privado (penalizado en puntaje)",
+        "Consultar conexión a red de gas natural"
+      ],
+      "ai_summary": "Propiedad en Mendoza (casa) de 125.0 m2 a USD 80,000. Score: 52.9/100 (Penalizado por falta de seguridad 24hs)."
+    },
+    "is_new": false,
+    "first_seen": "2026-10-28"
+  },
+  {
     "id": "ml_4028498792",
     "portal": "Mercado Libre",
     "title": "Venta Casa Con Dpto En Bombal Sur Ideal Inversión",
@@ -465,7 +523,7 @@
     "first_seen": "2026-10-28"
   },
   {
-    "id": "ml_3879359370",
+    "id": "ml_4144071876",
     "portal": "Mercado Libre",
     "title": "Casa En Venta En Dorrego Con Gran Potencial",
     "property_type": "casa",
@@ -476,8 +534,8 @@
     "rooms": 6,
     "has_parking_attribute": false,
     "location_zone": "Guaymallen",
-    "url": "https://casa.mercadolibre.com.ar/MLA-3879359370-casa-en-venta-en-dorrego-con-gran-potencial-_JM",
-    "image_url": "https://http2.mlstatic.com/D_NQ_NP_2X_850681-MLA115436560558_082026-E.webp",
+    "url": "https://casa.mercadolibre.com.ar/MLA-4144071876-casa-en-venta-en-dorrego-con-gran-potencial-_JM",
+    "image_url": "https://http2.mlstatic.com/D_NQ_NP_2X_926043-MLA118818362996_102026-E.webp",
     "description": "Casa En Venta En Dorrego Con Gran Potencial. Características: 6 ambs., 2 baños, 244 m² cubiertos. Zona: Guaymallen.",
     "coordinates": null,
     "geo_verification": {
@@ -519,8 +577,8 @@
       ],
       "ai_summary": "Propiedad en Guaymallen (casa) de 244.0 m2 a USD 99,000. Score: 52.1/100 (Penalizado por falta de seguridad 24hs)."
     },
-    "is_new": false,
-    "first_seen": "2026-10-28"
+    "is_new": true,
+    "first_seen": "2026-10-31"
   },
   {
     "id": "ml_2052068639",
@@ -755,6 +813,65 @@
     "first_seen": "2026-10-28"
   },
   {
+    "id": "ml_4051224196",
+    "portal": "Mercado Libre",
+    "title": "Venta Casa Y Departamento Cochera Ciudad Mendoza",
+    "property_type": "departamento",
+    "price_usd": 145000.0,
+    "surface_m2": 327.0,
+    "bathrooms": 3,
+    "bedrooms": null,
+    "rooms": 10,
+    "has_parking_attribute": false,
+    "location_zone": "Mendoza",
+    "url": "https://casa.mercadolibre.com.ar/MLA-4051224196-venta-casa-y-departamento-cochera-ciudad-mendoza-_JM",
+    "image_url": "https://http2.mlstatic.com/D_NQ_NP_2X_792409-MLA117452736992_102026-E.webp",
+    "description": "Venta Casa Y Departamento Cochera Ciudad Mendoza. Características: 10 ambs., 3 baños, 327 m² cubiertos. Zona: Mendoza.",
+    "coordinates": null,
+    "geo_verification": {
+      "is_valid_zone": true,
+      "real_city": "Sin coordenadas",
+      "real_neighborhood": null,
+      "rejection_reason": null,
+      "geocode_verified": false
+    },
+    "category_b_metrics": {
+      "price_score": 72.5,
+      "price_status": "REQUIERE_CONTRAOFERTA",
+      "surface_score": 100.0,
+      "surface_notes": "327 m2 (Cumple objetivo de 80 m2)",
+      "price_per_m2": 443.4
+    },
+    "analysis": {
+      "opportunity_score": 50.0,
+      "evaluation_source": "heurística",
+      "category_c": {
+        "has_security": false,
+        "has_gas_network": false,
+        "has_parking": true,
+        "has_elevator": false,
+        "two_bathrooms": true
+      },
+      "negotiation_analysis": {
+        "potential": "Moderada",
+        "signals_detected": false,
+        "summary": "Precio estándar de mercado."
+      },
+      "pros": [
+        "✨ Amplio: cuenta con 3+ dormitorios o 4+ ambientes (+10 pts)",
+        "🚗 Cuenta con cochera"
+      ],
+      "cons": [
+        "Publicado en USD 145,000 (Requiere contraoferta del 3.6%)",
+        "⚠️ Sin seguridad 24 hs ni barrio privado (penalizado en puntaje)",
+        "Consultar conexión a red de gas natural"
+      ],
+      "ai_summary": "Propiedad en Mendoza (departamento) de 327.0 m2 a USD 145,000. Score: 50.0/100 (Penalizado por falta de seguridad 24hs)."
+    },
+    "is_new": false,
+    "first_seen": "2026-10-28"
+  },
+  {
     "id": "ml_3995094286",
     "portal": "Mercado Libre",
     "title": "Espectacular Casa En Venta En Dorrego",
@@ -869,8 +986,182 @@
       ],
       "ai_summary": "Propiedad en Godoy Cruz (casa) de 190.0 m2 a USD 79,900. Score: 48.5/100 (Penalizado por falta de seguridad 24hs)."
     },
-    "is_new": true,
+    "is_new": false,
     "first_seen": "2026-10-30"
+  },
+  {
+    "id": "ml_2232985563",
+    "portal": "Mercado Libre",
+    "title": "Venta De Casa + Departamento A Estrenar",
+    "property_type": "departamento",
+    "price_usd": 85000.0,
+    "surface_m2": 114.0,
+    "bathrooms": 2,
+    "bedrooms": null,
+    "rooms": 5,
+    "has_parking_attribute": false,
+    "location_zone": "Mendoza",
+    "url": "https://casa.mercadolibre.com.ar/MLA-2232985563-venta-de-casa-departamento-a-estrenar-_JM",
+    "image_url": "https://http2.mlstatic.com/D_NQ_NP_2X_772354-MLA120155179849_102026-E.webp",
+    "description": "Venta De Casa + Departamento A Estrenar. Características: 5 ambs., 2 baños, 114 m² cubiertos. Zona: Mendoza.",
+    "coordinates": null,
+    "geo_verification": {
+      "is_valid_zone": true,
+      "real_city": "Sin coordenadas",
+      "real_neighborhood": null,
+      "rejection_reason": null,
+      "geocode_verified": false
+    },
+    "category_b_metrics": {
+      "price_score": 99.8,
+      "price_status": "DENTRO_PRESUPUESTO",
+      "surface_score": 100.0,
+      "surface_notes": "114 m2 (Cumple objetivo de 80 m2)",
+      "price_per_m2": 745.6
+    },
+    "analysis": {
+      "opportunity_score": 47.6,
+      "evaluation_source": "heurística",
+      "category_c": {
+        "has_security": false,
+        "has_gas_network": false,
+        "has_parking": false,
+        "has_elevator": false,
+        "two_bathrooms": true
+      },
+      "negotiation_analysis": {
+        "potential": "Estándar",
+        "signals_detected": false,
+        "summary": "Precio estándar de mercado."
+      },
+      "pros": [
+        "✨ Amplio: cuenta con 3+ dormitorios o 4+ ambientes (+10 pts)",
+        "Dentro del presupuesto (USD 85,000)"
+      ],
+      "cons": [
+        "⚠️ Sin seguridad 24 hs ni barrio privado (penalizado en puntaje)",
+        "Consultar conexión a red de gas natural"
+      ],
+      "ai_summary": "Propiedad en Mendoza (departamento) de 114.0 m2 a USD 85,000. Score: 47.6/100 (Penalizado por falta de seguridad 24hs)."
+    },
+    "is_new": false,
+    "first_seen": "2026-10-28"
+  },
+  {
+    "id": "ml_1808643353",
+    "portal": "Mercado Libre",
+    "title": "Venta Excelente Departamento Tipo Casa En Mendoza",
+    "property_type": "departamento",
+    "price_usd": 90000.0,
+    "surface_m2": 137.0,
+    "bathrooms": 2,
+    "bedrooms": 3,
+    "rooms": null,
+    "has_parking_attribute": false,
+    "location_zone": "Mendoza",
+    "url": "https://departamento.mercadolibre.com.ar/MLA-1808643353-venta-excelente-departamento-tipo-casa-en-mendoza-_JM",
+    "image_url": "https://http2.mlstatic.com/D_NQ_NP_2X_936588-MLA112440763645_052026-E.webp",
+    "description": "Venta Excelente Departamento Tipo Casa En Mendoza. Características: 3 dormitorios, 2 baños, 137 m² cubiertos. Zona: Mendoza.",
+    "coordinates": null,
+    "geo_verification": {
+      "is_valid_zone": true,
+      "real_city": "Sin coordenadas",
+      "real_neighborhood": null,
+      "rejection_reason": null,
+      "geocode_verified": false
+    },
+    "category_b_metrics": {
+      "price_score": 98.9,
+      "price_status": "DENTRO_PRESUPUESTO",
+      "surface_score": 100.0,
+      "surface_notes": "137 m2 (Cumple objetivo de 80 m2)",
+      "price_per_m2": 656.9
+    },
+    "analysis": {
+      "opportunity_score": 47.3,
+      "evaluation_source": "heurística",
+      "category_c": {
+        "has_security": false,
+        "has_gas_network": false,
+        "has_parking": false,
+        "has_elevator": false,
+        "two_bathrooms": true
+      },
+      "negotiation_analysis": {
+        "potential": "Estándar",
+        "signals_detected": false,
+        "summary": "Precio estándar de mercado."
+      },
+      "pros": [
+        "✨ Amplio: cuenta con 3+ dormitorios o 4+ ambientes (+10 pts)",
+        "Dentro del presupuesto (USD 90,000)"
+      ],
+      "cons": [
+        "⚠️ Sin seguridad 24 hs ni barrio privado (penalizado en puntaje)",
+        "Consultar conexión a red de gas natural"
+      ],
+      "ai_summary": "Propiedad en Mendoza (departamento) de 137.0 m2 a USD 90,000. Score: 47.3/100 (Penalizado por falta de seguridad 24hs)."
+    },
+    "is_new": false,
+    "first_seen": "2026-09-29"
+  },
+  {
+    "id": "ml_2125784545",
+    "portal": "Mercado Libre",
+    "title": "Complejo De 4 Unidades. Duplex + 3 Departamentos A Reciclar",
+    "property_type": "departamento",
+    "price_usd": 98000.0,
+    "surface_m2": 395.0,
+    "bathrooms": 5,
+    "bedrooms": null,
+    "rooms": 10,
+    "has_parking_attribute": false,
+    "location_zone": "Mendoza",
+    "url": "https://casa.mercadolibre.com.ar/MLA-2125784545-complejo-de-4-unidades-duplex-3-departamentos-a-reciclar-_JM",
+    "image_url": "https://http2.mlstatic.com/D_NQ_NP_2X_788853-MLA118738796971_102026-E.webp",
+    "description": "Complejo De 4 Unidades. Duplex + 3 Departamentos A Reciclar. Características: 10 ambs., 5 baños, 395 m² cubiertos. Zona: Mendoza.",
+    "coordinates": null,
+    "geo_verification": {
+      "is_valid_zone": true,
+      "real_city": "Sin coordenadas",
+      "real_neighborhood": null,
+      "rejection_reason": null,
+      "geocode_verified": false
+    },
+    "category_b_metrics": {
+      "price_score": 97.5,
+      "price_status": "DENTRO_PRESUPUESTO",
+      "surface_score": 100.0,
+      "surface_notes": "395 m2 (Cumple objetivo de 80 m2)",
+      "price_per_m2": 248.1
+    },
+    "analysis": {
+      "opportunity_score": 46.9,
+      "evaluation_source": "heurística",
+      "category_c": {
+        "has_security": false,
+        "has_gas_network": false,
+        "has_parking": false,
+        "has_elevator": false,
+        "two_bathrooms": true
+      },
+      "negotiation_analysis": {
+        "potential": "Estándar",
+        "signals_detected": false,
+        "summary": "Precio estándar de mercado."
+      },
+      "pros": [
+        "✨ Amplio: cuenta con 3+ dormitorios o 4+ ambientes (+10 pts)",
+        "Dentro del presupuesto (USD 98,000)"
+      ],
+      "cons": [
+        "⚠️ Sin seguridad 24 hs ni barrio privado (penalizado en puntaje)",
+        "Consultar conexión a red de gas natural"
+      ],
+      "ai_summary": "Propiedad en Mendoza (departamento) de 395.0 m2 a USD 98,000. Score: 46.9/100 (Penalizado por falta de seguridad 24hs)."
+    },
+    "is_new": false,
+    "first_seen": "2026-10-28"
   },
   {
     "id": "ml_3950647808",
@@ -1220,65 +1511,6 @@
         "Consultar conexión a red de gas natural"
       ],
       "ai_summary": "Propiedad en Godoy Cruz (casa) de 182.0 m2 a USD 58,000. Score: 37.9/100 (Penalizado por falta de seguridad 24hs)."
-    },
-    "is_new": false,
-    "first_seen": "2026-10-28"
-  },
-  {
-    "id": "ml_3809096022",
-    "portal": "Mercado Libre",
-    "title": "Venta De Casa",
-    "property_type": "casa",
-    "price_usd": 80000.0,
-    "surface_m2": 136.0,
-    "bathrooms": 3,
-    "bedrooms": null,
-    "rooms": 5,
-    "has_parking_attribute": false,
-    "location_zone": "Godoy Cruz",
-    "url": "https://casa.mercadolibre.com.ar/MLA-3809096022-venta-de-casa-_JM",
-    "image_url": "https://http2.mlstatic.com/D_NQ_NP_2X_756510-MLA116371692595_082026-E.webp",
-    "description": "Venta De Casa. Características: 5 ambs., 3 baños, 136 m² cubiertos. Zona: Godoy Cruz.",
-    "coordinates": null,
-    "geo_verification": {
-      "is_valid_zone": true,
-      "real_city": "Sin coordenadas",
-      "real_neighborhood": null,
-      "rejection_reason": null,
-      "geocode_verified": false
-    },
-    "category_b_metrics": {
-      "price_score": 100.0,
-      "price_status": "DENTRO_PRESUPUESTO",
-      "surface_score": 100.0,
-      "surface_notes": "136 m2 (Cumple objetivo de 80 m2)",
-      "price_per_m2": 588.2
-    },
-    "analysis": {
-      "opportunity_score": 37.9,
-      "evaluation_source": "heurística",
-      "category_c": {
-        "has_security": false,
-        "has_gas_network": false,
-        "has_parking": false,
-        "has_elevator": false,
-        "two_bathrooms": true
-      },
-      "negotiation_analysis": {
-        "potential": "Estándar",
-        "signals_detected": false,
-        "summary": "Precio estándar de mercado."
-      },
-      "pros": [
-        "✨ Amplio: cuenta con 3+ dormitorios o 4+ ambientes (+10 pts)",
-        "Dentro del presupuesto (USD 80,000)"
-      ],
-      "cons": [
-        "⚠️ Ubicado en Godoy Cruz fuera de Barrio Bombal (-15 pts)",
-        "⚠️ Sin seguridad 24 hs ni barrio privado (penalizado en puntaje)",
-        "Consultar conexión a red de gas natural"
-      ],
-      "ai_summary": "Propiedad en Godoy Cruz (casa) de 136.0 m2 a USD 80,000. Score: 37.9/100 (Penalizado por falta de seguridad 24hs)."
     },
     "is_new": false,
     "first_seen": "2026-10-28"
