@@ -98,6 +98,5 @@ notifications:
     phone_number_id: "1348232058375156"
     api_version: "v20.0"
     recipients:
-      - "+5492613836576"
       - "+5492615710925"
 
