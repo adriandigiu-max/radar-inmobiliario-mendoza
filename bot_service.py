@@ -123,6 +123,11 @@ def mark_properties_sent_to_user(from_phone: str, props: List[Dict[str, Any]]):
 def handle_incoming_text(from_phone: str, text: str):
     """Procesa el mensaje recibido según las reglas solicitadas."""
     logger.info(f"Mensaje entrante de {from_phone}: '{text}'")
+    cleaned_phone = "".join(c for c in from_phone if c.isdigit())
+    if cleaned_phone.endswith("2613836576"):
+        logger.warning(f"Ignorando mensaje para Radar Inmobiliario de {from_phone} (número exclusivo de Secretar-ia).")
+        return
+
     token = os.getenv("WHATSAPP_TOKEN")
     phone_id = os.getenv("WHATSAPP_PHONE_NUMBER_ID")
     if not token or not phone_id:

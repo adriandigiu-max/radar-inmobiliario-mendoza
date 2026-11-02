@@ -33,10 +33,14 @@ def send_whatsapp_message(
     to: str,
     message: str,
     token: str,
-    phone_number_id: str,
     api_version: str = DEFAULT_API_VERSION
 ) -> Dict[str, Any]:
     """Envía un mensaje de texto vía WhatsApp Cloud API."""
+    cleaned_to = "".join(c for c in to if c.isdigit())
+    if cleaned_to.endswith("2613836576"):
+        logger.warning(f"ENVÍO BLOQUEADO: Se intentó enviar mensaje de Radar Inmobiliario al número excluido de Adrián ({to}). Abortado.")
+        return {"success": False, "error": "blocked_adrian_number_radar"}
+
     if not token or not phone_number_id:
         logger.error("Credenciales de WhatsApp incompletas (falta token o phone_number_id).")
         return {"success": False, "error": "missing_credentials"}
@@ -248,6 +252,7 @@ def process_whatsapp_notifications(
     phone_number_id = os.getenv("WHATSAPP_PHONE_NUMBER_ID") or whatsapp_cfg.get("phone_number_id")
     api_version = whatsapp_cfg.get("api_version", DEFAULT_API_VERSION)
     recipients = whatsapp_cfg.get("recipients", [])
+    recipients = [r for r in recipients if not "".join(c for c in str(r) if c.isdigit()).endswith("2613836576")]
     min_score = whatsapp_cfg.get("min_score", 60)
 
     if not token or not phone_number_id:
