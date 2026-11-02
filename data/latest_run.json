@@ -175,78 +175,20 @@
     "first_seen": "2026-10-28"
   },
   {
-    "id": "ml_4072927150",
+    "id": "ml_4137092792",
     "portal": "Mercado Libre",
-    "title": "C21 Inmoandes Vende Casa En B° Viajantes - Dorrego",
+    "title": "Casa Dorrego",
     "property_type": "casa",
-    "price_usd": 75000.0,
-    "surface_m2": 170.0,
-    "bathrooms": 2,
-    "bedrooms": 3,
-    "rooms": null,
-    "has_parking_attribute": false,
-    "location_zone": "Guaymallen",
-    "url": "https://casa.mercadolibre.com.ar/MLA-4072927150-c21-inmoandes-vende-casa-en-b-viajantes-dorrego-_JM",
-    "image_url": "https://http2.mlstatic.com/D_NQ_NP_2X_633567-MLA117716962420_102026-E.webp",
-    "description": "C21 Inmoandes Vende Casa En B° Viajantes - Dorrego. Características: 3 dormitorios, 2 baños, 170 m² cubiertos. Zona: Guaymallen.",
-    "coordinates": null,
-    "geo_verification": {
-      "is_valid_zone": true,
-      "real_city": "Sin coordenadas",
-      "real_neighborhood": null,
-      "rejection_reason": null,
-      "geocode_verified": false
-    },
-    "category_b_metrics": {
-      "price_score": 100.0,
-      "price_status": "DENTRO_PRESUPUESTO",
-      "surface_score": 100.0,
-      "surface_notes": "170 m2 (Cumple objetivo de 80 m2)",
-      "price_per_m2": 441.2
-    },
-    "analysis": {
-      "opportunity_score": 52.9,
-      "evaluation_source": "heurística",
-      "category_c": {
-        "has_security": false,
-        "has_gas_network": false,
-        "has_parking": false,
-        "has_elevator": false,
-        "two_bathrooms": true
-      },
-      "negotiation_analysis": {
-        "potential": "Estándar",
-        "signals_detected": false,
-        "summary": "Precio estándar de mercado."
-      },
-      "pros": [
-        "✨ Amplio: cuenta con 3+ dormitorios o 4+ ambientes (+10 pts)",
-        "Dentro del presupuesto (USD 75,000)"
-      ],
-      "cons": [
-        "⚠️ Sin seguridad 24 hs ni barrio privado (penalizado en puntaje)",
-        "Consultar conexión a red de gas natural"
-      ],
-      "ai_summary": "Propiedad en Guaymallen (casa) de 170.0 m2 a USD 75,000. Score: 52.9/100 (Penalizado por falta de seguridad 24hs)."
-    },
-    "is_new": false,
-    "first_seen": "2026-10-28"
-  },
-  {
-    "id": "ml_4100116772",
-    "portal": "Mercado Libre",
-    "title": "Casa En Venta En Dorrego",
-    "property_type": "casa",
-    "price_usd": 75000.0,
-    "surface_m2": 139.0,
+    "price_usd": 80000.0,
+    "surface_m2": 188.0,
     "bathrooms": 2,
     "bedrooms": null,
     "rooms": 5,
     "has_parking_attribute": false,
     "location_zone": "Guaymallen",
-    "url": "https://casa.mercadolibre.com.ar/MLA-4100116772-casa-en-venta-en-dorrego-_JM",
-    "image_url": "https://http2.mlstatic.com/D_NQ_NP_2X_681144-MLA118169559910_102026-E.webp",
-    "description": "Casa En Venta En Dorrego. Características: 5 ambs., 2 baños, 139 m² cubiertos. Zona: Guaymallen.",
+    "url": "https://casa.mercadolibre.com.ar/MLA-4137092792-casa-dorrego-_JM",
+    "image_url": "https://http2.mlstatic.com/D_NQ_NP_2X_621076-MLA120386756715_102026-E.webp",
+    "description": "Casa Dorrego. Características: 5 ambs., 2 baños, 188 m² cubiertos. Zona: Guaymallen.",
     "coordinates": null,
     "geo_verification": {
       "is_valid_zone": true,
@@ -259,8 +201,8 @@
       "price_score": 100.0,
       "price_status": "DENTRO_PRESUPUESTO",
       "surface_score": 100.0,
-      "surface_notes": "139 m2 (Cumple objetivo de 80 m2)",
-      "price_per_m2": 539.6
+      "surface_notes": "188 m2 (Cumple objetivo de 80 m2)",
+      "price_per_m2": 425.5
     },
     "analysis": {
       "opportunity_score": 52.9,
@@ -279,16 +221,16 @@
       },
       "pros": [
         "✨ Amplio: cuenta con 3+ dormitorios o 4+ ambientes (+10 pts)",
-        "Dentro del presupuesto (USD 75,000)"
+        "Dentro del presupuesto (USD 80,000)"
       ],
       "cons": [
         "⚠️ Sin seguridad 24 hs ni barrio privado (penalizado en puntaje)",
         "Consultar conexión a red de gas natural"
       ],
-      "ai_summary": "Propiedad en Guaymallen (casa) de 139.0 m2 a USD 75,000. Score: 52.9/100 (Penalizado por falta de seguridad 24hs)."
+      "ai_summary": "Propiedad en Guaymallen (casa) de 188.0 m2 a USD 80,000. Score: 52.9/100 (Penalizado por falta de seguridad 24hs)."
     },
-    "is_new": false,
-    "first_seen": "2026-10-28"
+    "is_new": true,
+    "first_seen": "2026-11-02"
   },
   {
     "id": "ml_3341239884",
@@ -755,20 +697,20 @@
     "first_seen": "2026-10-28"
   },
   {
-    "id": "ml_4098159170",
+    "id": "ml_2240951133",
     "portal": "Mercado Libre",
-    "title": "Venta Duplex Dorrego Guaymallen Mendoza",
+    "title": "Venta Propiedad Unica Con 2 Casas En Dorrego",
     "property_type": "casa",
-    "price_usd": 130000.0,
-    "surface_m2": 118.0,
-    "bathrooms": 2,
+    "price_usd": 119000.0,
+    "surface_m2": 698.0,
+    "bathrooms": 3,
     "bedrooms": null,
-    "rooms": 4,
+    "rooms": 12,
     "has_parking_attribute": false,
     "location_zone": "Guaymallen",
-    "url": "https://casa.mercadolibre.com.ar/MLA-4098159170-venta-duplex-dorrego-guaymallen-mendoza-_JM",
-    "image_url": "https://http2.mlstatic.com/D_NQ_NP_2X_841274-MLA119774919041_102026-E.webp",
-    "description": "Venta Duplex Dorrego Guaymallen Mendoza. Características: 4 ambs., 2 baños, 118 m² cubiertos. Zona: Guaymallen.",
+    "url": "https://casa.mercadolibre.com.ar/MLA-2240951133-venta-propiedad-unica-con-2-casas-en-dorrego-_JM",
+    "image_url": "https://http2.mlstatic.com/D_NQ_NP_2X_807004-MLA118654111014_102026-E.webp",
+    "description": "Venta Propiedad Unica Con 2 Casas En Dorrego. Características: 12 ambs., 3 baños, 698 m² cubiertos. Zona: Guaymallen.",
     "coordinates": null,
     "geo_verification": {
       "is_valid_zone": true,
@@ -778,14 +720,14 @@
       "geocode_verified": false
     },
     "category_b_metrics": {
-      "price_score": 91.8,
+      "price_score": 93.8,
       "price_status": "DENTRO_PRESUPUESTO",
       "surface_score": 100.0,
-      "surface_notes": "118 m2 (Cumple objetivo de 80 m2)",
-      "price_per_m2": 1101.7
+      "surface_notes": "698 m2 (Cumple objetivo de 80 m2)",
+      "price_per_m2": 170.5
     },
     "analysis": {
-      "opportunity_score": 50.5,
+      "opportunity_score": 51.1,
       "evaluation_source": "heurística",
       "category_c": {
         "has_security": false,
@@ -801,16 +743,16 @@
       },
       "pros": [
         "✨ Amplio: cuenta con 3+ dormitorios o 4+ ambientes (+10 pts)",
-        "Dentro del presupuesto (USD 130,000)"
+        "Dentro del presupuesto (USD 119,000)"
       ],
       "cons": [
         "⚠️ Sin seguridad 24 hs ni barrio privado (penalizado en puntaje)",
         "Consultar conexión a red de gas natural"
       ],
-      "ai_summary": "Propiedad en Guaymallen (casa) de 118.0 m2 a USD 130,000. Score: 50.5/100 (Penalizado por falta de seguridad 24hs)."
+      "ai_summary": "Propiedad en Guaymallen (casa) de 698.0 m2 a USD 119,000. Score: 51.1/100 (Penalizado por falta de seguridad 24hs)."
     },
     "is_new": false,
-    "first_seen": "2026-10-28"
+    "first_seen": "2026-10-29"
   },
   {
     "id": "ml_4051224196",
@@ -1516,6 +1458,65 @@
     "first_seen": "2026-10-28"
   },
   {
+    "id": "ml_3809096022",
+    "portal": "Mercado Libre",
+    "title": "Venta De Casa",
+    "property_type": "casa",
+    "price_usd": 80000.0,
+    "surface_m2": 136.0,
+    "bathrooms": 3,
+    "bedrooms": null,
+    "rooms": 5,
+    "has_parking_attribute": false,
+    "location_zone": "Godoy Cruz",
+    "url": "https://casa.mercadolibre.com.ar/MLA-3809096022-venta-de-casa-_JM",
+    "image_url": "https://http2.mlstatic.com/D_NQ_NP_2X_756510-MLA116371692595_082026-E.webp",
+    "description": "Venta De Casa. Características: 5 ambs., 3 baños, 136 m² cubiertos. Zona: Godoy Cruz.",
+    "coordinates": null,
+    "geo_verification": {
+      "is_valid_zone": true,
+      "real_city": "Sin coordenadas",
+      "real_neighborhood": null,
+      "rejection_reason": null,
+      "geocode_verified": false
+    },
+    "category_b_metrics": {
+      "price_score": 100.0,
+      "price_status": "DENTRO_PRESUPUESTO",
+      "surface_score": 100.0,
+      "surface_notes": "136 m2 (Cumple objetivo de 80 m2)",
+      "price_per_m2": 588.2
+    },
+    "analysis": {
+      "opportunity_score": 37.9,
+      "evaluation_source": "heurística",
+      "category_c": {
+        "has_security": false,
+        "has_gas_network": false,
+        "has_parking": false,
+        "has_elevator": false,
+        "two_bathrooms": true
+      },
+      "negotiation_analysis": {
+        "potential": "Estándar",
+        "signals_detected": false,
+        "summary": "Precio estándar de mercado."
+      },
+      "pros": [
+        "✨ Amplio: cuenta con 3+ dormitorios o 4+ ambientes (+10 pts)",
+        "Dentro del presupuesto (USD 80,000)"
+      ],
+      "cons": [
+        "⚠️ Ubicado en Godoy Cruz fuera de Barrio Bombal (-15 pts)",
+        "⚠️ Sin seguridad 24 hs ni barrio privado (penalizado en puntaje)",
+        "Consultar conexión a red de gas natural"
+      ],
+      "ai_summary": "Propiedad en Godoy Cruz (casa) de 136.0 m2 a USD 80,000. Score: 37.9/100 (Penalizado por falta de seguridad 24hs)."
+    },
+    "is_new": false,
+    "first_seen": "2026-10-28"
+  },
+  {
     "id": "ml_1854515963",
     "portal": "Mercado Libre",
     "title": "Casa En Godoy Cruz, Barrio Decavial",
@@ -1815,7 +1816,7 @@
     "portal": "Mercado Libre",
     "title": "Departamento En Coronel Dorrego",
     "property_type": "departamento",
-    "price_usd": 110000.0,
+    "price_usd": 105000.0,
     "surface_m2": 100.0,
     "bathrooms": 2,
     "bedrooms": 2,
@@ -1834,14 +1835,14 @@
       "geocode_verified": false
     },
     "category_b_metrics": {
-      "price_score": 95.4,
+      "price_score": 96.2,
       "price_status": "DENTRO_PRESUPUESTO",
       "surface_score": 96.0,
       "surface_notes": "100 m2 (Cumple objetivo de 80 m2)",
-      "price_per_m2": 1100.0
+      "price_per_m2": 1050.0
     },
     "analysis": {
-      "opportunity_score": 35.3,
+      "opportunity_score": 35.5,
       "evaluation_source": "heurística",
       "category_c": {
         "has_security": false,
@@ -1856,13 +1857,13 @@
         "summary": "Precio estándar de mercado."
       },
       "pros": [
-        "Dentro del presupuesto (USD 110,000)"
+        "Dentro del presupuesto (USD 105,000)"
       ],
       "cons": [
         "⚠️ Sin seguridad 24 hs ni barrio privado (penalizado en puntaje)",
         "Consultar conexión a red de gas natural"
       ],
-      "ai_summary": "Propiedad en Guaymallen (departamento) de 100.0 m2 a USD 110,000. Score: 35.3/100 (Penalizado por falta de seguridad 24hs)."
+      "ai_summary": "Propiedad en Guaymallen (departamento) de 100.0 m2 a USD 105,000. Score: 35.5/100 (Penalizado por falta de seguridad 24hs)."
     },
     "is_new": false,
     "first_seen": "2026-09-29"
@@ -1922,6 +1923,65 @@
         "Consultar conexión a red de gas natural"
       ],
       "ai_summary": "Propiedad en Godoy Cruz (departamento) de 216.0 m2 a USD 68,000. Score: 32.6/100 (Penalizado por falta de seguridad 24hs)."
+    },
+    "is_new": false,
+    "first_seen": "2026-10-28"
+  },
+  {
+    "id": "ml_4026113040",
+    "portal": "Mercado Libre",
+    "title": "Trapiche Casa Y Departamento",
+    "property_type": "departamento",
+    "price_usd": 53000.0,
+    "surface_m2": 131.0,
+    "bathrooms": 2,
+    "bedrooms": null,
+    "rooms": 4,
+    "has_parking_attribute": false,
+    "location_zone": "Godoy Cruz",
+    "url": "https://casa.mercadolibre.com.ar/MLA-4026113040-trapiche-casa-y-departamento-_JM",
+    "image_url": "https://http2.mlstatic.com/D_NQ_NP_2X_881394-MLA120140932571_102026-E.webp",
+    "description": "Trapiche Casa Y Departamento. Características: 4 ambs., 2 baños, 131 m² cubiertos. Zona: Godoy Cruz.",
+    "coordinates": null,
+    "geo_verification": {
+      "is_valid_zone": true,
+      "real_city": "Sin coordenadas",
+      "real_neighborhood": null,
+      "rejection_reason": null,
+      "geocode_verified": false
+    },
+    "category_b_metrics": {
+      "price_score": 100.0,
+      "price_status": "DENTRO_PRESUPUESTO",
+      "surface_score": 100.0,
+      "surface_notes": "131 m2 (Cumple objetivo de 80 m2)",
+      "price_per_m2": 404.6
+    },
+    "analysis": {
+      "opportunity_score": 32.6,
+      "evaluation_source": "heurística",
+      "category_c": {
+        "has_security": false,
+        "has_gas_network": false,
+        "has_parking": false,
+        "has_elevator": false,
+        "two_bathrooms": true
+      },
+      "negotiation_analysis": {
+        "potential": "Estándar",
+        "signals_detected": false,
+        "summary": "Precio estándar de mercado."
+      },
+      "pros": [
+        "✨ Amplio: cuenta con 3+ dormitorios o 4+ ambientes (+10 pts)",
+        "Dentro del presupuesto (USD 53,000)"
+      ],
+      "cons": [
+        "⚠️ Ubicado en Godoy Cruz fuera de Barrio Bombal (-15 pts)",
+        "⚠️ Sin seguridad 24 hs ni barrio privado (penalizado en puntaje)",
+        "Consultar conexión a red de gas natural"
+      ],
+      "ai_summary": "Propiedad en Godoy Cruz (departamento) de 131.0 m2 a USD 53,000. Score: 32.6/100 (Penalizado por falta de seguridad 24hs)."
     },
     "is_new": false,
     "first_seen": "2026-10-28"
@@ -2040,65 +2100,6 @@
         "Consultar conexión a red de gas natural"
       ],
       "ai_summary": "Propiedad en Godoy Cruz (departamento) de 180.0 m2 a USD 55,000. Score: 32.6/100 (Penalizado por falta de seguridad 24hs)."
-    },
-    "is_new": false,
-    "first_seen": "2026-10-28"
-  },
-  {
-    "id": "ml_4026113040",
-    "portal": "Mercado Libre",
-    "title": "Trapiche Casa Y Departamento",
-    "property_type": "departamento",
-    "price_usd": 53000.0,
-    "surface_m2": 131.0,
-    "bathrooms": 2,
-    "bedrooms": null,
-    "rooms": 4,
-    "has_parking_attribute": false,
-    "location_zone": "Godoy Cruz",
-    "url": "https://casa.mercadolibre.com.ar/MLA-4026113040-trapiche-casa-y-departamento-_JM",
-    "image_url": "https://http2.mlstatic.com/D_NQ_NP_2X_881394-MLA120140932571_102026-E.webp",
-    "description": "Trapiche Casa Y Departamento. Características: 4 ambs., 2 baños, 131 m² cubiertos. Zona: Godoy Cruz.",
-    "coordinates": null,
-    "geo_verification": {
-      "is_valid_zone": true,
-      "real_city": "Sin coordenadas",
-      "real_neighborhood": null,
-      "rejection_reason": null,
-      "geocode_verified": false
-    },
-    "category_b_metrics": {
-      "price_score": 100.0,
-      "price_status": "DENTRO_PRESUPUESTO",
-      "surface_score": 100.0,
-      "surface_notes": "131 m2 (Cumple objetivo de 80 m2)",
-      "price_per_m2": 404.6
-    },
-    "analysis": {
-      "opportunity_score": 32.6,
-      "evaluation_source": "heurística",
-      "category_c": {
-        "has_security": false,
-        "has_gas_network": false,
-        "has_parking": false,
-        "has_elevator": false,
-        "two_bathrooms": true
-      },
-      "negotiation_analysis": {
-        "potential": "Estándar",
-        "signals_detected": false,
-        "summary": "Precio estándar de mercado."
-      },
-      "pros": [
-        "✨ Amplio: cuenta con 3+ dormitorios o 4+ ambientes (+10 pts)",
-        "Dentro del presupuesto (USD 53,000)"
-      ],
-      "cons": [
-        "⚠️ Ubicado en Godoy Cruz fuera de Barrio Bombal (-15 pts)",
-        "⚠️ Sin seguridad 24 hs ni barrio privado (penalizado en puntaje)",
-        "Consultar conexión a red de gas natural"
-      ],
-      "ai_summary": "Propiedad en Godoy Cruz (departamento) de 131.0 m2 a USD 53,000. Score: 32.6/100 (Penalizado por falta de seguridad 24hs)."
     },
     "is_new": false,
     "first_seen": "2026-10-28"
@@ -2512,6 +2513,64 @@
         "Consultar conexión a red de gas natural"
       ],
       "ai_summary": "Propiedad en Godoy Cruz (departamento) de 137.0 m2 a USD 140,000. Score: 30.0/100 (Penalizado por falta de seguridad 24hs)."
+    },
+    "is_new": false,
+    "first_seen": "2026-10-28"
+  },
+  {
+    "id": "ml_1507878043",
+    "portal": "Mercado Libre",
+    "title": "Departamento Frente Al Mar (1659)",
+    "property_type": "departamento",
+    "price_usd": 133000.0,
+    "surface_m2": 75.0,
+    "bathrooms": 2,
+    "bedrooms": null,
+    "rooms": 3,
+    "has_parking_attribute": false,
+    "location_zone": "Godoy Cruz",
+    "url": "https://departamento.mercadolibre.com.ar/MLA-1507878043-departamento-frente-al-mar-1659-_JM",
+    "image_url": "https://http2.mlstatic.com/D_NQ_NP_2X_846018-MLA116657648849_082026-E.webp",
+    "description": "Departamento Frente Al Mar (1659). Características: 3 ambs., 2 baños, 75 m² cubiertos. Zona: Godoy Cruz.",
+    "coordinates": null,
+    "geo_verification": {
+      "is_valid_zone": true,
+      "real_city": "Sin coordenadas",
+      "real_neighborhood": null,
+      "rejection_reason": null,
+      "geocode_verified": false
+    },
+    "category_b_metrics": {
+      "price_score": 91.2,
+      "price_status": "DENTRO_PRESUPUESTO",
+      "surface_score": 78.3,
+      "surface_notes": "75 m2 (En tolerancia, cercano al target de 80 m2)",
+      "price_per_m2": 1773.3
+    },
+    "analysis": {
+      "opportunity_score": 20.0,
+      "evaluation_source": "heurística",
+      "category_c": {
+        "has_security": false,
+        "has_gas_network": false,
+        "has_parking": false,
+        "has_elevator": false,
+        "two_bathrooms": true
+      },
+      "negotiation_analysis": {
+        "potential": "Estándar",
+        "signals_detected": false,
+        "summary": "Precio estándar de mercado."
+      },
+      "pros": [
+        "Dentro del presupuesto (USD 133,000)"
+      ],
+      "cons": [
+        "⚠️ Ubicado en Godoy Cruz fuera de Barrio Bombal (-15 pts)",
+        "⚠️ Sin seguridad 24 hs ni barrio privado (penalizado en puntaje)",
+        "Consultar conexión a red de gas natural"
+      ],
+      "ai_summary": "Propiedad en Godoy Cruz (departamento) de 75.0 m2 a USD 133,000. Score: 20.0/100 (Penalizado por falta de seguridad 24hs)."
     },
     "is_new": false,
     "first_seen": "2026-10-28"
