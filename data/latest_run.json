@@ -407,64 +407,6 @@
     "first_seen": "2026-10-28"
   },
   {
-    "id": "ml_4144071876",
-    "portal": "Mercado Libre",
-    "title": "Casa En Venta En Dorrego Con Gran Potencial",
-    "property_type": "casa",
-    "price_usd": 99000.0,
-    "surface_m2": 244.0,
-    "bathrooms": 2,
-    "bedrooms": null,
-    "rooms": 6,
-    "has_parking_attribute": false,
-    "location_zone": "Guaymallen",
-    "url": "https://casa.mercadolibre.com.ar/MLA-4144071876-casa-en-venta-en-dorrego-con-gran-potencial-_JM",
-    "image_url": "https://http2.mlstatic.com/D_NQ_NP_2X_926043-MLA118818362996_102026-E.webp",
-    "description": "Casa En Venta En Dorrego Con Gran Potencial. Características: 6 ambs., 2 baños, 244 m² cubiertos. Zona: Guaymallen.",
-    "coordinates": null,
-    "geo_verification": {
-      "is_valid_zone": true,
-      "real_city": "Sin coordenadas",
-      "real_neighborhood": null,
-      "rejection_reason": null,
-      "geocode_verified": false
-    },
-    "category_b_metrics": {
-      "price_score": 97.3,
-      "price_status": "DENTRO_PRESUPUESTO",
-      "surface_score": 100.0,
-      "surface_notes": "244 m2 (Cumple objetivo de 80 m2)",
-      "price_per_m2": 405.7
-    },
-    "analysis": {
-      "opportunity_score": 52.1,
-      "evaluation_source": "heurística",
-      "category_c": {
-        "has_security": false,
-        "has_gas_network": false,
-        "has_parking": false,
-        "has_elevator": false,
-        "two_bathrooms": true
-      },
-      "negotiation_analysis": {
-        "potential": "Estándar",
-        "signals_detected": false,
-        "summary": "Precio estándar de mercado."
-      },
-      "pros": [
-        "✨ Amplio: cuenta con 3+ dormitorios o 4+ ambientes (+10 pts)",
-        "Dentro del presupuesto (USD 99,000)"
-      ],
-      "cons": [
-        "⚠️ Sin seguridad 24 hs ni barrio privado (penalizado en puntaje)",
-        "Consultar conexión a red de gas natural"
-      ],
-      "ai_summary": "Propiedad en Guaymallen (casa) de 244.0 m2 a USD 99,000. Score: 52.1/100 (Penalizado por falta de seguridad 24hs)."
-    },
-    "is_new": false,
-    "first_seen": "2026-10-31"
-  },
-  {
     "id": "ml_4070007912",
     "portal": "Mercado Libre",
     "title": "Venta De Casa En Dorrego Excelente Ubicación!",
@@ -1636,6 +1578,65 @@
     "first_seen": "2026-10-28"
   },
   {
+    "id": "ml_3726683972",
+    "portal": "Mercado Libre",
+    "title": "Casa En Venta En Godoy Cruz",
+    "property_type": "casa",
+    "price_usd": 95000.0,
+    "surface_m2": 105.0,
+    "bathrooms": 2,
+    "bedrooms": null,
+    "rooms": 5,
+    "has_parking_attribute": false,
+    "location_zone": "Godoy Cruz",
+    "url": "https://casa.mercadolibre.com.ar/MLA-3726683972-casa-en-venta-en-godoy-cruz-_JM",
+    "image_url": "https://http2.mlstatic.com/D_NQ_NP_2X_990413-MLA117137736850_102026-E.webp",
+    "description": "Casa En Venta En Godoy Cruz. Características: 5 ambs., 2 baños, 105 m² cubiertos. Zona: Godoy Cruz.",
+    "coordinates": null,
+    "geo_verification": {
+      "is_valid_zone": true,
+      "real_city": "Sin coordenadas",
+      "real_neighborhood": null,
+      "rejection_reason": null,
+      "geocode_verified": false
+    },
+    "category_b_metrics": {
+      "price_score": 98.0,
+      "price_status": "DENTRO_PRESUPUESTO",
+      "surface_score": 97.5,
+      "surface_notes": "105 m2 (Cumple objetivo de 80 m2)",
+      "price_per_m2": 904.8
+    },
+    "analysis": {
+      "opportunity_score": 36.7,
+      "evaluation_source": "heurística",
+      "category_c": {
+        "has_security": false,
+        "has_gas_network": false,
+        "has_parking": false,
+        "has_elevator": false,
+        "two_bathrooms": true
+      },
+      "negotiation_analysis": {
+        "potential": "Estándar",
+        "signals_detected": false,
+        "summary": "Precio estándar de mercado."
+      },
+      "pros": [
+        "✨ Amplio: cuenta con 3+ dormitorios o 4+ ambientes (+10 pts)",
+        "Dentro del presupuesto (USD 95,000)"
+      ],
+      "cons": [
+        "⚠️ Ubicado en Godoy Cruz fuera de Barrio Bombal (-15 pts)",
+        "⚠️ Sin seguridad 24 hs ni barrio privado (penalizado en puntaje)",
+        "Consultar conexión a red de gas natural"
+      ],
+      "ai_summary": "Propiedad en Godoy Cruz (casa) de 105.0 m2 a USD 95,000. Score: 36.7/100 (Penalizado por falta de seguridad 24hs)."
+    },
+    "is_new": false,
+    "first_seen": "2026-11-04"
+  },
+  {
     "id": "ml_1779109501",
     "portal": "Mercado Libre",
     "title": "Casa En Godoy Cruz",
@@ -1690,65 +1691,6 @@
         "Consultar conexión a red de gas natural"
       ],
       "ai_summary": "Propiedad en Godoy Cruz (casa) de 175.0 m2 a USD 110,000. Score: 36.6/100 (Penalizado por falta de seguridad 24hs)."
-    },
-    "is_new": false,
-    "first_seen": "2026-10-28"
-  },
-  {
-    "id": "ml_3501150246",
-    "portal": "Mercado Libre",
-    "title": "Casa En Villa Hipodromo",
-    "property_type": "casa",
-    "price_usd": 40000.0,
-    "surface_m2": 90.0,
-    "bathrooms": 2,
-    "bedrooms": null,
-    "rooms": 4,
-    "has_parking_attribute": false,
-    "location_zone": "Godoy Cruz",
-    "url": "https://casa.mercadolibre.com.ar/MLA-3501150246-casa-en-villa-hipodromo-_JM",
-    "image_url": "https://http2.mlstatic.com/D_NQ_NP_2X_652030-MLA113641467713_062026-E.webp",
-    "description": "Casa En Villa Hipodromo. Características: 4 ambs., 2 baños, 90 m² cubiertos. Zona: Godoy Cruz.",
-    "coordinates": null,
-    "geo_verification": {
-      "is_valid_zone": true,
-      "real_city": "Sin coordenadas",
-      "real_neighborhood": null,
-      "rejection_reason": null,
-      "geocode_verified": false
-    },
-    "category_b_metrics": {
-      "price_score": 100.0,
-      "price_status": "DENTRO_PRESUPUESTO",
-      "surface_score": 93.0,
-      "surface_notes": "90 m2 (Cumple objetivo de 80 m2)",
-      "price_per_m2": 444.4
-    },
-    "analysis": {
-      "opportunity_score": 36.2,
-      "evaluation_source": "heurística",
-      "category_c": {
-        "has_security": false,
-        "has_gas_network": false,
-        "has_parking": false,
-        "has_elevator": false,
-        "two_bathrooms": true
-      },
-      "negotiation_analysis": {
-        "potential": "Estándar",
-        "signals_detected": false,
-        "summary": "Precio estándar de mercado."
-      },
-      "pros": [
-        "✨ Amplio: cuenta con 3+ dormitorios o 4+ ambientes (+10 pts)",
-        "Dentro del presupuesto (USD 40,000)"
-      ],
-      "cons": [
-        "⚠️ Ubicado en Godoy Cruz fuera de Barrio Bombal (-15 pts)",
-        "⚠️ Sin seguridad 24 hs ni barrio privado (penalizado en puntaje)",
-        "Consultar conexión a red de gas natural"
-      ],
-      "ai_summary": "Propiedad en Godoy Cruz (casa) de 90.0 m2 a USD 40,000. Score: 36.2/100 (Penalizado por falta de seguridad 24hs)."
     },
     "is_new": false,
     "first_seen": "2026-10-28"
@@ -2106,7 +2048,7 @@
     "first_seen": "2026-10-28"
   },
   {
-    "id": "ml_3896201338",
+    "id": "ml_2268866589",
     "portal": "Mercado Libre",
     "title": "Vendo Casa 3 Habitaciones Mas Departamento",
     "property_type": "departamento",
@@ -2117,8 +2059,8 @@
     "rooms": 4,
     "has_parking_attribute": false,
     "location_zone": "Godoy Cruz",
-    "url": "https://casa.mercadolibre.com.ar/MLA-3896201338-vendo-casa-3-habitaciones-mas-departamento-_JM",
-    "image_url": "https://http2.mlstatic.com/D_NQ_NP_2X_880722-MLA116974457635_082026-E.webp",
+    "url": "https://casa.mercadolibre.com.ar/MLA-2268866589-vendo-casa-3-habitaciones-mas-departamento-_JM",
+    "image_url": "https://http2.mlstatic.com/D_NQ_NP_2X_632331-MLA119271679690_112026-E.webp",
     "description": "Vendo Casa 3 Habitaciones Mas Departamento. Características: 4 ambs., 2 baños, 148 m² cubiertos. Zona: Godoy Cruz.",
     "coordinates": null,
     "geo_verification": {
@@ -2161,8 +2103,8 @@
       ],
       "ai_summary": "Propiedad en Godoy Cruz (departamento) de 148.0 m2 a USD 69,900. Score: 32.6/100 (Penalizado por falta de seguridad 24hs)."
     },
-    "is_new": false,
-    "first_seen": "2026-10-28"
+    "is_new": true,
+    "first_seen": "2026-11-07"
   },
   {
     "id": "ml_3949768066",
